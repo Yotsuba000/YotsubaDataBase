@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[186]D05_S01_F06.rmd</FileName>
+<FileType>Red Stone Scenario File 6.6 beta</FileType>
+<MapName>名も無い崩れた塔　６Ｆ</MapName>
+<SysWidth>70</SysWidth>
+<SysHeight>70</SysHeight>
+<TgaWidth>140</TgaWidth>
+<TgaHeight>70</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>1</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>5</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>5</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>28.97</PopPoint_X>
+<PopPoint_Y>20.88</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>33.78</PopPoint_X>
+<PopPoint_Y>19.34</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>40.03</PopPoint_X>
+<PopPoint_Y>31.72</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.59</PopPoint_X>
+<PopPoint_Y>56.81</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>63.63</PopPoint_X>
+<PopPoint_Y>54.41</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>24.41</PopPoint_X>
+<PopPoint_Y>52.38</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>77.00</PopPoint_X>
+<PopPoint_Y>11.25</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>62.84</PopPoint_X>
+<PopPoint_Y>14.34</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.50</PopPoint_X>
+<PopPoint_Y>10.06</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>112.75</PopPoint_X>
+<PopPoint_Y>30.50</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>70.06</PopPoint_X>
+<PopPoint_Y>55.78</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>97.13</PopPoint_X>
+<PopPoint_Y>55.41</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.13</PopPoint_X>
+<PopPoint_Y>36.72</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>20.88</PopPoint_X>
+<PopPoint_Y>57.56</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>エボニーガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>57.03</PopPoint_X>
+<PopPoint_Y>26.72</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>101.66</PopPoint_X>
+<PopPoint_Y>17.41</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>108.63</PopPoint_X>
+<PopPoint_Y>50.09</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>65.28</PopPoint_X>
+<PopPoint_Y>49.59</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.50</PopPoint_X>
+<PopPoint_Y>54.91</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>74.50</PopPoint_X>
+<PopPoint_Y>49.63</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>エボニーガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>55.75</PopPoint_X>
+<PopPoint_Y>41.22</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>エボニーガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.25</PopPoint_X>
+<PopPoint_Y>26.94</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.66</PopPoint_X>
+<PopPoint_Y>17.16</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>68.19</PopPoint_X>
+<PopPoint_Y>19.06</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>115.91</PopPoint_X>
+<PopPoint_Y>19.03</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.88</PopPoint_X>
+<PopPoint_Y>28.88</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>47.06</PopPoint_X>
+<PopPoint_Y>49.00</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>22.53</PopPoint_X>
+<PopPoint_Y>31.38</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>26.81</PopPoint_X>
+<PopPoint_Y>36.50</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.66</PopPoint_X>
+<PopPoint_Y>14.63</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>99.22</PopPoint_X>
+<PopPoint_Y>33.50</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.47</PopPoint_X>
+<PopPoint_Y>50.97</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.09</PopPoint_X>
+<PopPoint_Y>29.84</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.38</PopPoint_X>
+<PopPoint_Y>10.69</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>36.53</PopPoint_X>
+<PopPoint_Y>46.66</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>20.06</PopPoint_X>
+<PopPoint_Y>47.78</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.94</PopPoint_X>
+<PopPoint_Y>54.03</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>113.25</PopPoint_X>
+<PopPoint_Y>35.59</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>103.56</PopPoint_X>
+<PopPoint_Y>36.63</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>95.22</PopPoint_X>
+<PopPoint_Y>9.06</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>29.66</PopPoint_X>
+<PopPoint_Y>49.19</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>114.59</PopPoint_X>
+<PopPoint_Y>11.13</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>118.66</PopPoint_X>
+<PopPoint_Y>9.34</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>93.81</PopPoint_X>
+<PopPoint_Y>13.44</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>92.75</PopPoint_X>
+<PopPoint_Y>51.59</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.50</PopPoint_X>
+<PopPoint_Y>18.63</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>エボニーガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>84.53</PopPoint_X>
+<PopPoint_Y>41.84</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>114.00</PopPoint_X>
+<PopPoint_Y>49.59</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>104.25</PopPoint_X>
+<PopPoint_Y>46.28</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.44</PopPoint_X>
+<PopPoint_Y>13.69</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>ブラックメイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.03</PopPoint_X>
+<PopPoint_Y>12.81</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>骸骨剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.75</PopPoint_X>
+<PopPoint_Y>17.22</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>지상 7층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[187]D05_S01_F07.rmd</AccessMap>
+<AccessMapName>名も無い崩れた塔　７Ｆ</AccessMapName>
+<AreaPos_X>118.53</AreaPos_X>
+<AreaPos_X2>122.19</AreaPos_X2>
+<AreaPos_Y>57.38</AreaPos_Y>
+<AreaPos_Y2>59.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>지상 5층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[185]D05_S01_F05.rmd</AccessMap>
+<AccessMapName>名も無い崩れた塔　５Ｆ</AccessMapName>
+<AreaPos_X>17.19</AreaPos_X>
+<AreaPos_X2>20.84</AreaPos_X2>
+<AreaPos_Y>8.28</AreaPos_Y>
+<AreaPos_Y2>10.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>107.25</AreaPos_X>
+<AreaPos_X2>125.50</AreaPos_X2>
+<AreaPos_Y>4.72</AreaPos_Y>
+<AreaPos_Y2>20.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>90.13</AreaPos_X>
+<AreaPos_X2>104.91</AreaPos_X2>
+<AreaPos_Y>46.19</AreaPos_Y>
+<AreaPos_Y2>59.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>13.06</AreaPos_X>
+<AreaPos_X2>31.53</AreaPos_X2>
+<AreaPos_Y>43.09</AreaPos_Y>
+<AreaPos_Y2>59.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.81</AreaPos_X>
+<AreaPos_X2>43.94</AreaPos_X2>
+<AreaPos_Y>25.13</AreaPos_Y>
+<AreaPos_Y2>40.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>25.75</AreaPos_X>
+<AreaPos_X2>44.22</AreaPos_X2>
+<AreaPos_Y>14.78</AreaPos_Y>
+<AreaPos_Y2>24.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>58.59</AreaPos_X>
+<AreaPos_X2>79.97</AreaPos_X2>
+<AreaPos_Y>6.91</AreaPos_Y>
+<AreaPos_Y2>20.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>58.91</AreaPos_X>
+<AreaPos_X2>80.94</AreaPos_X2>
+<AreaPos_Y>44.09</AreaPos_Y>
+<AreaPos_Y2>58.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>95.16</AreaPos_X>
+<AreaPos_X2>119.47</AreaPos_X2>
+<AreaPos_Y>25.69</AreaPos_Y>
+<AreaPos_Y2>38.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>33.25</AreaPos_X>
+<AreaPos_X2>51.25</AreaPos_X2>
+<AreaPos_Y>42.94</AreaPos_Y>
+<AreaPos_Y2>59.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>88.47</AreaPos_X>
+<AreaPos_X2>106.13</AreaPos_X2>
+<AreaPos_Y>4.50</AreaPos_Y>
+<AreaPos_Y2>20.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>80.25</AreaPos_X>
+<AreaPos_X2>90.81</AreaPos_X2>
+<AreaPos_Y>37.66</AreaPos_Y>
+<AreaPos_Y2>46.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>51.66</AreaPos_X>
+<AreaPos_X2>61.97</AreaPos_X2>
+<AreaPos_Y>22.00</AreaPos_Y>
+<AreaPos_Y2>31.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>51.25</AreaPos_X>
+<AreaPos_X2>60.00</AreaPos_X2>
+<AreaPos_Y>36.78</AreaPos_Y>
+<AreaPos_Y2>44.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>78.00</AreaPos_X>
+<AreaPos_X2>87.84</AreaPos_X2>
+<AreaPos_Y>22.31</AreaPos_Y>
+<AreaPos_Y2>30.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>100.72</AreaPos_X>
+<AreaPos_X2>117.91</AreaPos_X2>
+<AreaPos_Y>44.06</AreaPos_Y>
+<AreaPos_Y2>52.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>36.13</AreaPos_X>
+<AreaPos_X2>50.00</AreaPos_X2>
+<AreaPos_Y>7.22</AreaPos_Y>
+<AreaPos_Y2>19.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

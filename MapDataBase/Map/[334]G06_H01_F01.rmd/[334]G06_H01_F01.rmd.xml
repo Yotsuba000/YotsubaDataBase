@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[334]G06_H01_F01.rmd</FileName>
+<FileType>Red Stone Scenario File 6.4 beta</FileType>
+<MapName>猟師の休憩室</MapName>
+<SysWidth>35</SysWidth>
+<SysHeight>35</SysHeight>
+<TgaWidth>70</TgaWidth>
+<TgaHeight>35</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>狩人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>23.22</PopPoint_X>
+<PopPoint_Y>13.31</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>狩人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.13</PopPoint_X>
+<PopPoint_Y>11.31</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>狩人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>34.06</PopPoint_X>
+<PopPoint_Y>25.66</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>狩人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.19</PopPoint_X>
+<PopPoint_Y>24.47</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>狩人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>41.63</PopPoint_X>
+<PopPoint_Y>12.69</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>狩人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>19.47</PopPoint_X>
+<PopPoint_Y>14.03</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ブラックエルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>32.13</PopPoint_X>
+<PopPoint_Y>16.16</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>입구</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[324]G06.rmd</AccessMap>
+<AccessMapName>グレートフォレスト/ 妖精達の蜘蛛の糸</AccessMapName>
+<AreaPos_X>54.69</AreaPos_X>
+<AreaPos_X2>57.72</AreaPos_X2>
+<AreaPos_Y>25.03</AreaPos_Y>
+<AreaPos_Y2>26.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>36.81</AreaPos_X>
+<AreaPos_X2>48.34</AreaPos_X2>
+<AreaPos_Y>7.50</AreaPos_Y>
+<AreaPos_Y2>16.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>13.34</AreaPos_X>
+<AreaPos_X2>27.94</AreaPos_X2>
+<AreaPos_Y>10.22</AreaPos_Y>
+<AreaPos_Y2>17.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>25.47</AreaPos_X>
+<AreaPos_X2>37.91</AreaPos_X2>
+<AreaPos_Y>19.69</AreaPos_Y>
+<AreaPos_Y2>28.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>30.44</AreaPos_X>
+<AreaPos_X2>33.97</AreaPos_X2>
+<AreaPos_Y>14.56</AreaPos_Y>
+<AreaPos_Y2>17.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>지하 창고</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[335]G06_H01_B01.rmd</AccessMap>
+<AccessMapName>地下倉庫</AccessMapName>
+<AreaPos_X>12.19</AreaPos_X>
+<AreaPos_X2>14.72</AreaPos_X2>
+<AreaPos_Y>21.13</AreaPos_Y>
+<AreaPos_Y2>22.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>9.97</AreaPos_X>
+<AreaPos_X2>11.94</AreaPos_X2>
+<AreaPos_Y>12.03</AreaPos_Y>
+<AreaPos_Y2>12.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

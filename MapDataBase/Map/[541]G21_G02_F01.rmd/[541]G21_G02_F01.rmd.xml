@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[541]G21_G02_F01.rmd</FileName>
+<FileType>Red Stone Scenario File 7.0 beta</FileType>
+<MapName>ミラーダンジョン時の森 1層 1-2</MapName>
+<SysWidth>200</SysWidth>
+<SysHeight>200</SysHeight>
+<TgaWidth>400</TgaWidth>
+<TgaHeight>200</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>9</MapView_Lv>
+<isLocationStrage>0</isLocationStrage>
+<P_SubElement1>20</P_SubElement1>
+<P_SubElement2>10</P_SubElement2>
+<P_SubElement3>15</P_SubElement3>
+<P_SubElement4>10</P_SubElement4>
+<P_SubElement5>15</P_SubElement5>
+<P_SubElement6>5</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>エルフ魔法戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>261.97</PopPoint_X>
+<PopPoint_Y>130.97</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>34.75</PopPoint_X>
+<PopPoint_Y>20.00</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>155.63</PopPoint_X>
+<PopPoint_Y>99.94</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>60.22</PopPoint_X>
+<PopPoint_Y>19.28</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.38</PopPoint_X>
+<PopPoint_Y>55.84</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.44</PopPoint_X>
+<PopPoint_Y>62.34</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.56</PopPoint_X>
+<PopPoint_Y>52.13</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>50.00</PopPoint_X>
+<PopPoint_Y>109.19</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>44.63</PopPoint_X>
+<PopPoint_Y>105.78</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.03</PopPoint_X>
+<PopPoint_Y>115.16</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.31</PopPoint_X>
+<PopPoint_Y>165.50</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>99.84</PopPoint_X>
+<PopPoint_Y>165.38</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>103.41</PopPoint_X>
+<PopPoint_Y>177.13</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>時の猛獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>30.88</PopPoint_X>
+<PopPoint_Y>163.47</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>30.28</PopPoint_X>
+<PopPoint_Y>174.75</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>44.53</PopPoint_X>
+<PopPoint_Y>174.50</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>クロックリーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>259.75</PopPoint_X>
+<PopPoint_Y>122.31</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>0</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>342.47</PopPoint_X>
+<PopPoint_Y>25.91</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>154.63</PopPoint_X>
+<PopPoint_Y>20.56</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>クロックリーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>146.09</PopPoint_X>
+<PopPoint_Y>25.41</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>クロックマゴット</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.81</PopPoint_X>
+<PopPoint_Y>27.06</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>エルフ魔法戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>377.22</PopPoint_X>
+<PopPoint_Y>165.59</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>エルフ魔法戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>371.56</PopPoint_X>
+<PopPoint_Y>161.75</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>369.50</PopPoint_X>
+<PopPoint_Y>166.69</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>381.19</PopPoint_X>
+<PopPoint_Y>160.66</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>166.91</PopPoint_X>
+<PopPoint_Y>99.56</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>243.59</PopPoint_X>
+<PopPoint_Y>63.47</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>159.41</PopPoint_X>
+<PopPoint_Y>110.84</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>197.84</PopPoint_X>
+<PopPoint_Y>130.75</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>209.38</PopPoint_X>
+<PopPoint_Y>124.41</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>259.53</PopPoint_X>
+<PopPoint_Y>63.16</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>258.75</PopPoint_X>
+<PopPoint_Y>97.81</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>242.63</PopPoint_X>
+<PopPoint_Y>98.53</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>247.38</PopPoint_X>
+<PopPoint_Y>105.78</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>260.78</PopPoint_X>
+<PopPoint_Y>104.22</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>204.53</PopPoint_X>
+<PopPoint_Y>139.06</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>時の猛獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>271.50</PopPoint_X>
+<PopPoint_Y>22.75</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>272.66</PopPoint_X>
+<PopPoint_Y>29.88</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>282.31</PopPoint_X>
+<PopPoint_Y>33.75</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>289.00</PopPoint_X>
+<PopPoint_Y>22.03</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>280.75</PopPoint_X>
+<PopPoint_Y>23.66</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>0</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>45.75</PopPoint_X>
+<PopPoint_Y>21.91</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.25</PopPoint_X>
+<PopPoint_Y>61.66</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>334.06</PopPoint_X>
+<PopPoint_Y>28.47</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>342.50</PopPoint_X>
+<PopPoint_Y>19.44</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>エルフ守護騎士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>26.75</PopPoint_X>
+<PopPoint_Y>55.72</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>エルフ守護騎士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>370.13</PopPoint_X>
+<PopPoint_Y>80.66</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>350.81</PopPoint_X>
+<PopPoint_Y>28.34</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>時の猛獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>66.41</PopPoint_X>
+<PopPoint_Y>142.78</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>52.22</PopPoint_X>
+<PopPoint_Y>145.59</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>クロックリーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>93.81</PopPoint_X>
+<PopPoint_Y>68.25</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>時の魔獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.53</PopPoint_X>
+<PopPoint_Y>170.16</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>クロックリーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.97</PopPoint_X>
+<PopPoint_Y>63.41</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>クロックマゴット</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>86.63</PopPoint_X>
+<PopPoint_Y>65.50</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>クロックマゴット</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>366.97</PopPoint_X>
+<PopPoint_Y>107.19</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>時の猛獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>381.47</PopPoint_X>
+<PopPoint_Y>111.34</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>クロックマゴット</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>112.75</PopPoint_X>
+<PopPoint_Y>38.16</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>95.56</PopPoint_X>
+<PopPoint_Y>110.16</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>96.34</PopPoint_X>
+<PopPoint_Y>119.69</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>161.13</PopPoint_X>
+<PopPoint_Y>104.31</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>クロックリーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>275.38</PopPoint_X>
+<PopPoint_Y>122.59</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>エルフ守護騎士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>371.03</PopPoint_X>
+<PopPoint_Y>88.16</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>0</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>87.56</PopPoint_X>
+<PopPoint_Y>175.50</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>時の旅人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>3600</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>94.28</PopPoint_X>
+<PopPoint_Y>15.63</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>エルフ守護騎士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>282.28</PopPoint_X>
+<PopPoint_Y>28.41</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>エルフ魔法戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.78</PopPoint_X>
+<PopPoint_Y>160.22</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>164.94</PopPoint_X>
+<PopPoint_Y>158.88</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>時の魔獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>246.63</PopPoint_X>
+<PopPoint_Y>169.91</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>235.53</PopPoint_X>
+<PopPoint_Y>165.47</PopPoint_Y>
+</Character>
+<Character id="cUid69">
+<CharacterUID>69</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>178.63</PopPoint_X>
+<PopPoint_Y>159.97</PopPoint_Y>
+</Character>
+<Character id="cUid70">
+<CharacterUID>70</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>246.50</PopPoint_X>
+<PopPoint_Y>165.47</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>時の猛獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>235.75</PopPoint_X>
+<PopPoint_Y>176.06</PopPoint_Y>
+</Character>
+<Character id="cUid72">
+<CharacterUID>72</CharacterUID>
+<CharacterName>時の猛獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>253.75</PopPoint_X>
+<PopPoint_Y>177.50</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>164.31</PopPoint_X>
+<PopPoint_Y>172.22</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>179.75</PopPoint_X>
+<PopPoint_Y>174.56</PopPoint_Y>
+</Character>
+<Character id="cUid75">
+<CharacterUID>75</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>190.19</PopPoint_X>
+<PopPoint_Y>166.19</PopPoint_Y>
+</Character>
+<Character id="cUid76">
+<CharacterUID>76</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>243.34</PopPoint_X>
+<PopPoint_Y>54.97</PopPoint_Y>
+</Character>
+<Character id="cUid77">
+<CharacterUID>77</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>257.25</PopPoint_X>
+<PopPoint_Y>54.41</PopPoint_Y>
+</Character>
+<Character id="cUid78">
+<CharacterUID>78</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>209.38</PopPoint_X>
+<PopPoint_Y>134.22</PopPoint_Y>
+</Character>
+<Character id="cUid79">
+<CharacterUID>79</CharacterUID>
+<CharacterName>ミラーテレポータ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>210.00</PopPoint_X>
+<PopPoint_Y>11.97</PopPoint_Y>
+</Character>
+<Character id="cUid80">
+<CharacterUID>80</CharacterUID>
+<CharacterName>Dテレポーター</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>213.47</PopPoint_X>
+<PopPoint_Y>104.25</PopPoint_Y>
+</Character>
+<Character id="cUid81">
+<CharacterUID>81</CharacterUID>
+<CharacterName>ミラーテレポータ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>222.31</PopPoint_X>
+<PopPoint_Y>92.28</PopPoint_Y>
+</Character>
+<Character id="cUid83">
+<CharacterUID>83</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>150.16</PopPoint_X>
+<PopPoint_Y>53.28</PopPoint_Y>
+</Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>159.50</PopPoint_X>
+<PopPoint_Y>53.72</PopPoint_Y>
+</Character>
+<Character id="cUid85">
+<CharacterUID>85</CharacterUID>
+<CharacterName>エルフ守護騎士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>251.91</PopPoint_X>
+<PopPoint_Y>59.56</PopPoint_Y>
+</Character>
+<Character id="cUid86">
+<CharacterUID>86</CharacterUID>
+<CharacterName>クロックリーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>372.38</PopPoint_X>
+<PopPoint_Y>116.94</PopPoint_Y>
+</Character>
+<Character id="cUid88">
+<CharacterUID>88</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>361.22</PopPoint_X>
+<PopPoint_Y>84.16</PopPoint_Y>
+</Character>
+<Character id="cUid90">
+<CharacterUID>90</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>377.53</PopPoint_X>
+<PopPoint_Y>170.97</PopPoint_Y>
+</Character>
+<Character id="cUid91">
+<CharacterUID>91</CharacterUID>
+<CharacterName>エルフ魔法戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>342.53</PopPoint_X>
+<PopPoint_Y>176.13</PopPoint_Y>
+</Character>
+<Character id="cUid92">
+<CharacterUID>92</CharacterUID>
+<CharacterName>エルフ魔法戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>358.34</PopPoint_X>
+<PopPoint_Y>180.91</PopPoint_Y>
+</Character>
+<Character id="cUid93">
+<CharacterUID>93</CharacterUID>
+<CharacterName>時の魔獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>348.00</PopPoint_X>
+<PopPoint_Y>182.78</PopPoint_Y>
+</Character>
+<Character id="cUid94">
+<CharacterUID>94</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>356.09</PopPoint_X>
+<PopPoint_Y>175.72</PopPoint_Y>
+</Character>
+<Character id="cUid95">
+<CharacterUID>95</CharacterUID>
+<CharacterName>時の猛獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>335.63</PopPoint_X>
+<PopPoint_Y>100.38</PopPoint_Y>
+</Character>
+<Character id="cUid96">
+<CharacterUID>96</CharacterUID>
+<CharacterName>時の猛獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>350.09</PopPoint_X>
+<PopPoint_Y>104.53</PopPoint_Y>
+</Character>
+<Character id="cUid97">
+<CharacterUID>97</CharacterUID>
+<CharacterName>時の猛獣</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>334.81</PopPoint_X>
+<PopPoint_Y>109.31</PopPoint_Y>
+</Character>
+<Character id="cUid98">
+<CharacterUID>98</CharacterUID>
+<CharacterName>クロックリーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>318.69</PopPoint_X>
+<PopPoint_Y>153.75</PopPoint_Y>
+</Character>
+<Character id="cUid99">
+<CharacterUID>99</CharacterUID>
+<CharacterName>クロックリーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>330.47</PopPoint_X>
+<PopPoint_Y>153.84</PopPoint_Y>
+</Character>
+<Character id="cUid100">
+<CharacterUID>100</CharacterUID>
+<CharacterName>クロックマゴット</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>324.03</PopPoint_X>
+<PopPoint_Y>157.63</PopPoint_Y>
+</Character>
+<Character id="cUid101">
+<CharacterUID>101</CharacterUID>
+<CharacterName>クロックマゴット</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>330.56</PopPoint_X>
+<PopPoint_Y>132.28</PopPoint_Y>
+</Character>
+<Character id="cUid103">
+<CharacterUID>103</CharacterUID>
+<CharacterName>クロックリーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>342.94</PopPoint_X>
+<PopPoint_Y>132.09</PopPoint_Y>
+</Character>
+<Character id="cUid104">
+<CharacterUID>104</CharacterUID>
+<CharacterName>エルフ魔法戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>274.59</PopPoint_X>
+<PopPoint_Y>131.31</PopPoint_Y>
+</Character>
+<Character id="cUid105">
+<CharacterUID>105</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>318.72</PopPoint_X>
+<PopPoint_Y>70.84</PopPoint_Y>
+</Character>
+<Character id="cUid106">
+<CharacterUID>106</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>311.63</PopPoint_X>
+<PopPoint_Y>68.34</PopPoint_Y>
+</Character>
+<Character id="cUid107">
+<CharacterUID>107</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>319.75</PopPoint_X>
+<PopPoint_Y>76.16</PopPoint_Y>
+</Character>
+<Character id="cUid108">
+<CharacterUID>108</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.44</PopPoint_X>
+<PopPoint_Y>165.41</PopPoint_Y>
+</Character>
+<Character id="cUid110">
+<CharacterUID>110</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>373.56</PopPoint_X>
+<PopPoint_Y>111.09</PopPoint_Y>
+</Character>
+<Character id="cUid111">
+<CharacterUID>111</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>117.28</PopPoint_X>
+<PopPoint_Y>33.34</PopPoint_Y>
+</Character>
+<Character id="cUid113">
+<CharacterUID>113</CharacterUID>
+<CharacterName>エルフ魔法戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>325.50</PopPoint_X>
+<PopPoint_Y>68.69</PopPoint_Y>
+</Character>
+<Character id="cUid114">
+<CharacterUID>114</CharacterUID>
+<CharacterName>エルフ守護者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.84</PopPoint_X>
+<PopPoint_Y>27.81</PopPoint_Y>
+</Character>
+<Character id="cUid115">
+<CharacterUID>115</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>149.72</PopPoint_X>
+<PopPoint_Y>57.09</PopPoint_Y>
+</Character>
+<Character id="cUid118">
+<CharacterUID>118</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>384.66</PopPoint_X>
+<PopPoint_Y>166.84</PopPoint_Y>
+</Character>
+<Character id="cUid119">
+<CharacterUID>119</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>349.19</PopPoint_X>
+<PopPoint_Y>150.28</PopPoint_Y>
+</Character>
+<Character id="cUid120">
+<CharacterUID>120</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>93.06</PopPoint_X>
+<PopPoint_Y>89.41</PopPoint_Y>
+</Character>
+<Character id="cUid121">
+<CharacterUID>121</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>35.50</PopPoint_X>
+<PopPoint_Y>107.19</PopPoint_Y>
+</Character>
+<Character id="cUid122">
+<CharacterUID>122</CharacterUID>
+<CharacterName>クロックリーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>161.22</PopPoint_X>
+<PopPoint_Y>25.59</PopPoint_Y>
+</Character>
+<Character id="cUid123">
+<CharacterUID>123</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>289.75</PopPoint_X>
+<PopPoint_Y>32.25</PopPoint_Y>
+</Character>
+<Character id="cUid124">
+<CharacterUID>124</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>255.81</PopPoint_X>
+<PopPoint_Y>167.97</PopPoint_Y>
+</Character>
+<Character id="cUid126">
+<CharacterUID>126</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>168.84</PopPoint_X>
+<PopPoint_Y>106.88</PopPoint_Y>
+</Character>
+<Character id="cUid127">
+<CharacterUID>127</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>203.78</PopPoint_X>
+<PopPoint_Y>129.25</PopPoint_Y>
+</Character>
+<Character id="cUid128">
+<CharacterUID>128</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>250.97</PopPoint_X>
+<PopPoint_Y>99.94</PopPoint_Y>
+</Character>
+<Character id="cUid129">
+<CharacterUID>129</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>58.00</PopPoint_X>
+<PopPoint_Y>141.31</PopPoint_Y>
+</Character>
+<Character id="cUid130">
+<CharacterUID>130</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>98.31</PopPoint_X>
+<PopPoint_Y>68.75</PopPoint_Y>
+</Character>
+<Character id="cUid131">
+<CharacterUID>131</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.63</PopPoint_X>
+<PopPoint_Y>32.47</PopPoint_Y>
+</Character>
+<Character id="cUid132">
+<CharacterUID>132</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>89.91</PopPoint_X>
+<PopPoint_Y>113.94</PopPoint_Y>
+</Character>
+<Character id="cUid133">
+<CharacterUID>133</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>175.81</PopPoint_X>
+<PopPoint_Y>166.44</PopPoint_Y>
+</Character>
+<Character id="cUid135">
+<CharacterUID>135</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>368.47</PopPoint_X>
+<PopPoint_Y>73.34</PopPoint_Y>
+</Character>
+<Character id="cUid136">
+<CharacterUID>136</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>340.78</PopPoint_X>
+<PopPoint_Y>182.28</PopPoint_Y>
+</Character>
+<Character id="cUid137">
+<CharacterUID>137</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>349.06</PopPoint_X>
+<PopPoint_Y>176.19</PopPoint_Y>
+</Character>
+<Character id="cUid138">
+<CharacterUID>138</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>341.53</PopPoint_X>
+<PopPoint_Y>105.09</PopPoint_Y>
+</Character>
+<Character id="cUid139">
+<CharacterUID>139</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>323.88</PopPoint_X>
+<PopPoint_Y>151.97</PopPoint_Y>
+</Character>
+<Character id="cUid140">
+<CharacterUID>140</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>336.97</PopPoint_X>
+<PopPoint_Y>134.63</PopPoint_Y>
+</Character>
+<Character id="cUid141">
+<CharacterUID>141</CharacterUID>
+<CharacterName>エルフの猟犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.69</PopPoint_X>
+<PopPoint_Y>77.41</PopPoint_Y>
+</Character>
+<Character id="cUid142">
+<CharacterUID>142</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>268.47</PopPoint_X>
+<PopPoint_Y>126.50</PopPoint_Y>
+</Character>
+<Character id="cUid143">
+<CharacterUID>143</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>155.03</PopPoint_X>
+<PopPoint_Y>51.94</PopPoint_Y>
+</Character>
+<Character id="cUid144">
+<CharacterUID>144</CharacterUID>
+<CharacterName>エルフ守護騎士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.78</PopPoint_X>
+<PopPoint_Y>119.78</PopPoint_Y>
+</Character>
+<Character id="cUid145">
+<CharacterUID>145</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>358.34</PopPoint_X>
+<PopPoint_Y>77.38</PopPoint_Y>
+</Character>
+<Character id="cUid146">
+<CharacterUID>146</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>378.44</PopPoint_X>
+<PopPoint_Y>75.94</PopPoint_Y>
+</Character>
+<Character id="cUid147">
+<CharacterUID>147</CharacterUID>
+<CharacterName>エルフ守護騎士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>49.97</PopPoint_X>
+<PopPoint_Y>116.22</PopPoint_Y>
+</Character>
+<Character id="cUid148">
+<CharacterUID>148</CharacterUID>
+<CharacterName>エルフ魔法戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.16</PopPoint_X>
+<PopPoint_Y>142.13</PopPoint_Y>
+</Character>
+<Character id="cUid149">
+<CharacterUID>149</CharacterUID>
+<CharacterName>エルフ魔法戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>65.41</PopPoint_X>
+<PopPoint_Y>134.75</PopPoint_Y>
+</Character>
+<Character id="cUid150">
+<CharacterUID>150</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>49.75</PopPoint_X>
+<PopPoint_Y>83.91</PopPoint_Y>
+</Character>
+<Character id="cUid153">
+<CharacterUID>153</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.88</PopPoint_X>
+<PopPoint_Y>73.69</PopPoint_Y>
+</Character>
+<Character id="cUid156">
+<CharacterUID>156</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>159.44</PopPoint_X>
+<PopPoint_Y>57.34</PopPoint_Y>
+</Character>
+<Character id="cUid157">
+<CharacterUID>157</CharacterUID>
+<CharacterName>エルフ守護騎士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.75</PopPoint_X>
+<PopPoint_Y>109.78</PopPoint_Y>
+</Character>
+<Character id="cUid158">
+<CharacterUID>158</CharacterUID>
+<CharacterName>エルフ守護騎士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>84.13</PopPoint_X>
+<PopPoint_Y>120.50</PopPoint_Y>
+</Character>
+<Character id="cUid159">
+<CharacterUID>159</CharacterUID>
+<CharacterName>古代エルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>108.50</PopPoint_X>
+<PopPoint_Y>27.38</PopPoint_Y>
+</Character>
+<Character id="cUid160">
+<CharacterUID>160</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.56</PopPoint_X>
+<PopPoint_Y>83.22</PopPoint_Y>
+</Character>
+<Character id="cUid161">
+<CharacterUID>161</CharacterUID>
+<CharacterName>エルフ守護騎士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>33.06</PopPoint_X>
+<PopPoint_Y>77.28</PopPoint_Y>
+</Character>
+<Character id="cUid162">
+<CharacterUID>162</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>101.78</PopPoint_X>
+<PopPoint_Y>84.88</PopPoint_Y>
+</Character>
+<Character id="cUid163">
+<CharacterUID>163</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>108.16</PopPoint_X>
+<PopPoint_Y>95.63</PopPoint_Y>
+</Character>
+<Character id="cUid165">
+<CharacterUID>165</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>356.91</PopPoint_X>
+<PopPoint_Y>126.56</PopPoint_Y>
+</Character>
+<Character id="cUid166">
+<CharacterUID>166</CharacterUID>
+<CharacterName>森の守り人</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>319.25</PopPoint_X>
+<PopPoint_Y>139.84</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>시간 속의 숲 2-1로..</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[473]G21_G03_F01.rmd</AccessMap>
+<AccessMapName>時の森</AccessMapName>
+<AreaPos_X>198.91</AreaPos_X>
+<AreaPos_X2>203.19</AreaPos_X2>
+<AreaPos_Y>3.03</AreaPos_Y>
+<AreaPos_Y2>5.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>일반지역13 - Copy</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>362.28</AreaPos_X>
+<AreaPos_X2>385.75</AreaPos_X2>
+<AreaPos_Y>103.25</AreaPos_Y>
+<AreaPos_Y2>118.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>엘프 수호자 활동지역1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>26.03</AreaPos_X>
+<AreaPos_X2>66.94</AreaPos_X2>
+<AreaPos_Y>13.75</AreaPos_Y>
+<AreaPos_Y2>35.66</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>일반지역1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>23.63</AreaPos_X>
+<AreaPos_X2>52.16</AreaPos_X2>
+<AreaPos_Y>46.16</AreaPos_Y>
+<AreaPos_Y2>64.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>엘프 수호자 활동지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>29.94</AreaPos_X>
+<AreaPos_X2>54.78</AreaPos_X2>
+<AreaPos_Y>101.91</AreaPos_Y>
+<AreaPos_Y2>122.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>일반지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>75.47</AreaPos_X>
+<AreaPos_X2>110.56</AreaPos_X2>
+<AreaPos_Y>161.38</AreaPos_Y>
+<AreaPos_Y2>184.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>시간의 마수 활동지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>22.91</AreaPos_X>
+<AreaPos_X2>53.75</AreaPos_X2>
+<AreaPos_Y>156.28</AreaPos_Y>
+<AreaPos_Y2>184.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>일반지역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>141.00</AreaPos_X>
+<AreaPos_X2>167.06</AreaPos_X2>
+<AreaPos_Y>14.00</AreaPos_Y>
+<AreaPos_Y2>34.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>엘프 수호자 활동지역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>261.50</AreaPos_X>
+<AreaPos_X2>301.66</AreaPos_X2>
+<AreaPos_Y>14.41</AreaPos_Y>
+<AreaPos_Y2>38.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>뽀스지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>324.81</AreaPos_X>
+<AreaPos_X2>363.16</AreaPos_X2>
+<AreaPos_Y>13.50</AreaPos_Y>
+<AreaPos_Y2>47.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>엘프 수호자 활동지역4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>363.97</AreaPos_X>
+<AreaPos_X2>391.00</AreaPos_X2>
+<AreaPos_Y>152.22</AreaPos_Y>
+<AreaPos_Y2>180.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>일반지역4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>230.38</AreaPos_X>
+<AreaPos_X2>263.94</AreaPos_X2>
+<AreaPos_Y>158.41</AreaPos_Y>
+<AreaPos_Y2>179.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>보스 리젠지역1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>43.13</AreaPos_X>
+<AreaPos_X2>48.34</AreaPos_X2>
+<AreaPos_Y>18.44</AreaPos_Y>
+<AreaPos_Y2>22.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>일반지역5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>151.44</AreaPos_X>
+<AreaPos_X2>176.06</AreaPos_X2>
+<AreaPos_Y>94.66</AreaPos_Y>
+<AreaPos_Y2>113.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>일반지역6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>195.38</AreaPos_X>
+<AreaPos_X2>212.19</AreaPos_X2>
+<AreaPos_Y>120.66</AreaPos_Y>
+<AreaPos_Y2>143.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>일반지역7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>239.69</AreaPos_X>
+<AreaPos_X2>263.63</AreaPos_X2>
+<AreaPos_Y>94.28</AreaPos_Y>
+<AreaPos_Y2>108.66</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>엘프 수호자 활동지역5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>38.22</AreaPos_X>
+<AreaPos_X2>77.47</AreaPos_X2>
+<AreaPos_Y>128.56</AreaPos_Y>
+<AreaPos_Y2>150.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>일반지역8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>74.22</AreaPos_X>
+<AreaPos_X2>99.88</AreaPos_X2>
+<AreaPos_Y>57.78</AreaPos_Y>
+<AreaPos_Y2>71.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>일반지역9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>106.72</AreaPos_X>
+<AreaPos_X2>120.81</AreaPos_X2>
+<AreaPos_Y>22.66</AreaPos_Y>
+<AreaPos_Y2>41.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>일반지역10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>78.88</AreaPos_X>
+<AreaPos_X2>99.69</AreaPos_X2>
+<AreaPos_Y>106.00</AreaPos_Y>
+<AreaPos_Y2>125.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>일반지역11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>158.56</AreaPos_X>
+<AreaPos_X2>192.22</AreaPos_X2>
+<AreaPos_Y>153.47</AreaPos_Y>
+<AreaPos_Y2>178.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>일반지역12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>238.66</AreaPos_X>
+<AreaPos_X2>265.34</AreaPos_X2>
+<AreaPos_Y>51.66</AreaPos_Y>
+<AreaPos_Y2>64.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>엘프 수호자 활동지역6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>354.22</AreaPos_X>
+<AreaPos_X2>385.84</AreaPos_X2>
+<AreaPos_Y>69.03</AreaPos_Y>
+<AreaPos_Y2>91.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>시간의 마수 활동지역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>336.75</AreaPos_X>
+<AreaPos_X2>363.94</AreaPos_X2>
+<AreaPos_Y>159.41</AreaPos_Y>
+<AreaPos_Y2>189.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>일반지역13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>329.53</AreaPos_X>
+<AreaPos_X2>353.00</AreaPos_X2>
+<AreaPos_Y>97.16</AreaPos_Y>
+<AreaPos_Y2>112.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>일반지역14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>312.25</AreaPos_X>
+<AreaPos_X2>334.69</AreaPos_X2>
+<AreaPos_Y>148.94</AreaPos_Y>
+<AreaPos_Y2>161.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>일반지역15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>324.00</AreaPos_X>
+<AreaPos_X2>347.97</AreaPos_X2>
+<AreaPos_Y>128.09</AreaPos_Y>
+<AreaPos_Y2>137.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>일반지역16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>307.06</AreaPos_X>
+<AreaPos_X2>329.78</AreaPos_X2>
+<AreaPos_Y>62.34</AreaPos_Y>
+<AreaPos_Y2>78.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>일반지역17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>256.09</AreaPos_X>
+<AreaPos_X2>280.06</AreaPos_X2>
+<AreaPos_Y>118.25</AreaPos_Y>
+<AreaPos_Y2>135.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>일반지역18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>141.53</AreaPos_X>
+<AreaPos_X2>165.59</AreaPos_X2>
+<AreaPos_Y>48.09</AreaPos_Y>
+<AreaPos_Y2>61.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>숲의 주시자1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>260.47</AreaPos_X>
+<AreaPos_X2>383.41</AreaPos_X2>
+<AreaPos_Y>32.66</AreaPos_Y>
+<AreaPos_Y2>179.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>숲의 주시자2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>17.97</AreaPos_X>
+<AreaPos_X2>145.88</AreaPos_X2>
+<AreaPos_Y>9.91</AreaPos_Y>
+<AreaPos_Y2>178.66</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>トラン森中部</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>193.25</AreaPos_X>
+<AreaPos_X2>210.00</AreaPos_X2>
+<AreaPos_Y>103.03</AreaPos_Y>
+<AreaPos_Y2>111.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>일반지역1 - Copy</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>27.53</AreaPos_X>
+<AreaPos_X2>56.06</AreaPos_X2>
+<AreaPos_Y>69.31</AreaPos_Y>
+<AreaPos_Y2>87.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>보스 리젠지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>85.06</AreaPos_X>
+<AreaPos_X2>90.28</AreaPos_X2>
+<AreaPos_Y>173.03</AreaPos_Y>
+<AreaPos_Y2>177.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>보스 리젠지역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>339.84</AreaPos_X>
+<AreaPos_X2>345.06</AreaPos_X2>
+<AreaPos_Y>23.09</AreaPos_Y>
+<AreaPos_Y2>27.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid38">
+<AreaUID>38</AreaUID>
+<AreaName>시간의 방랑자 구역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>90.63</AreaPos_X>
+<AreaPos_X2>96.94</AreaPos_X2>
+<AreaPos_Y>13.13</AreaPos_Y>
+<AreaPos_Y2>17.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

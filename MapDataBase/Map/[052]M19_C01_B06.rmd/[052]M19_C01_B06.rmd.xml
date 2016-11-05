@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[052]M19_C01_B06.rmd</FileName>
+<FileType>Red Stone Scenario File 7.0 beta</FileType>
+<MapName>キャンサー気孔　Ｂ６</MapName>
+<SysWidth>120</SysWidth>
+<SysHeight>200</SysHeight>
+<TgaWidth>350</TgaWidth>
+<TgaHeight>292</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>318.05</PopPoint_X>
+<PopPoint_Y>25.41</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>330.68</PopPoint_X>
+<PopPoint_Y>40.56</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>320.79</PopPoint_X>
+<PopPoint_Y>56.07</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>280.87</PopPoint_X>
+<PopPoint_Y>174.84</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>272.48</PopPoint_X>
+<PopPoint_Y>200.38</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>299.60</PopPoint_X>
+<PopPoint_Y>210.24</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>292.99</PopPoint_X>
+<PopPoint_Y>192.04</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>316.09</PopPoint_X>
+<PopPoint_Y>194.36</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>キングクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>260.77</PopPoint_X>
+<PopPoint_Y>52.01</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>251.02</PopPoint_X>
+<PopPoint_Y>38.64</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>237.57</PopPoint_X>
+<PopPoint_Y>59.40</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ビックハンマー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>137.22</PopPoint_X>
+<PopPoint_Y>40.29</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>119.49</PopPoint_X>
+<PopPoint_Y>33.58</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>151.71</PopPoint_X>
+<PopPoint_Y>24.41</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>164.47</PopPoint_X>
+<PopPoint_Y>45.40</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.47</PopPoint_X>
+<PopPoint_Y>51.69</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>キングクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>64.49</PopPoint_X>
+<PopPoint_Y>17.34</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>81.71</PopPoint_X>
+<PopPoint_Y>23.04</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>キングクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>33.27</PopPoint_X>
+<PopPoint_Y>11.77</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.71</PopPoint_X>
+<PopPoint_Y>20.30</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>キングクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>56.05</PopPoint_X>
+<PopPoint_Y>48.96</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.63</PopPoint_X>
+<PopPoint_Y>54.57</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>40.88</PopPoint_X>
+<PopPoint_Y>54.70</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>47.49</PopPoint_X>
+<PopPoint_Y>108.50</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>72.78</PopPoint_X>
+<PopPoint_Y>142.30</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>65.31</PopPoint_X>
+<PopPoint_Y>126.56</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.63</PopPoint_X>
+<PopPoint_Y>165.71</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>120.68</PopPoint_X>
+<PopPoint_Y>169.36</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>キングクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>85.54</PopPoint_X>
+<PopPoint_Y>198.29</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.47</PopPoint_X>
+<PopPoint_Y>208.78</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>56.74</PopPoint_X>
+<PopPoint_Y>253.67</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.71</PopPoint_X>
+<PopPoint_Y>233.92</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>キングクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>80.25</PopPoint_X>
+<PopPoint_Y>246.42</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>111.88</PopPoint_X>
+<PopPoint_Y>256.87</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>121.09</PopPoint_X>
+<PopPoint_Y>231.00</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.91</PopPoint_X>
+<PopPoint_Y>217.04</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>129.15</PopPoint_X>
+<PopPoint_Y>204.49</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>キングクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>186.76</PopPoint_X>
+<PopPoint_Y>221.42</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>195.74</PopPoint_X>
+<PopPoint_Y>235.20</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>238.98</PopPoint_X>
+<PopPoint_Y>247.79</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>273.21</PopPoint_X>
+<PopPoint_Y>262.07</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>174.18</PopPoint_X>
+<PopPoint_Y>188.20</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>195.69</PopPoint_X>
+<PopPoint_Y>192.67</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>94.15</PopPoint_X>
+<PopPoint_Y>89.84</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>146.06</PopPoint_X>
+<PopPoint_Y>89.79</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>154.86</PopPoint_X>
+<PopPoint_Y>135.28</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>101.26</PopPoint_X>
+<PopPoint_Y>134.32</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>キングクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>100.21</PopPoint_X>
+<PopPoint_Y>112.24</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>キングクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.26</PopPoint_X>
+<PopPoint_Y>115.57</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>239.90</PopPoint_X>
+<PopPoint_Y>112.79</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>238.48</PopPoint_X>
+<PopPoint_Y>79.62</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>222.81</PopPoint_X>
+<PopPoint_Y>82.95</PopPoint_Y>
+</Character>
+<Character id="cUid76">
+<CharacterUID>76</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>219.89</PopPoint_X>
+<PopPoint_Y>150.61</PopPoint_Y>
+</Character>
+<Character id="cUid78">
+<CharacterUID>78</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>261.22</PopPoint_X>
+<PopPoint_Y>148.51</PopPoint_Y>
+</Character>
+<Character id="cUid82">
+<CharacterUID>82</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>81.17</PopPoint_X>
+<PopPoint_Y>240.67</PopPoint_Y>
+</Character>
+<Character id="cUid83">
+<CharacterUID>83</CharacterUID>
+<CharacterName>メロウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>185.48</PopPoint_X>
+<PopPoint_Y>191.12</PopPoint_Y>
+</Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>232.15</PopPoint_X>
+<PopPoint_Y>146.32</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>7층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[053]M19_C01_B07.rmd</AccessMap>
+<AccessMapName>キャンサー気孔　Ｂ７</AccessMapName>
+<AreaPos_X>19.55</AreaPos_X>
+<AreaPos_X2>25.20</AreaPos_X2>
+<AreaPos_Y>284.11</AreaPos_Y>
+<AreaPos_Y2>287.26</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>5층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[051]M19_C01_B05.rmd</AccessMap>
+<AccessMapName>キャンサー気孔　Ｂ５</AccessMapName>
+<AreaPos_X>341.57</AreaPos_X>
+<AreaPos_X2>346.26</AreaPos_X2>
+<AreaPos_Y>84.09</AreaPos_Y>
+<AreaPos_Y2>89.01</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>5층으로2</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[051]M19_C01_B05.rmd</AccessMap>
+<AccessMapName>キャンサー気孔　Ｂ５</AccessMapName>
+<AreaPos_X>248.65</AreaPos_X>
+<AreaPos_X2>255.57</AreaPos_X2>
+<AreaPos_Y>2.19</AreaPos_Y>
+<AreaPos_Y2>6.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>102.77</AreaPos_X>
+<AreaPos_X2>170.44</AreaPos_X2>
+<AreaPos_Y>3.88</AreaPos_Y>
+<AreaPos_Y2>60.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>50.36</AreaPos_X>
+<AreaPos_X2>94.34</AreaPos_X2>
+<AreaPos_Y>222.47</AreaPos_Y>
+<AreaPos_Y2>262.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>266.33</AreaPos_X>
+<AreaPos_X2>333.09</AreaPos_X2>
+<AreaPos_Y>166.58</AreaPos_Y>
+<AreaPos_Y2>214.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>60.93</AreaPos_X>
+<AreaPos_X2>85.27</AreaPos_X2>
+<AreaPos_Y>12.05</AreaPos_Y>
+<AreaPos_Y2>30.98</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.41</AreaPos_X>
+<AreaPos_X2>48.26</AreaPos_X2>
+<AreaPos_Y>6.75</AreaPos_Y>
+<AreaPos_Y2>27.65</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>37.46</AreaPos_X>
+<AreaPos_X2>86.59</AreaPos_X2>
+<AreaPos_Y>42.02</AreaPos_Y>
+<AreaPos_Y2>76.33</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>39.19</AreaPos_X>
+<AreaPos_X2>78.93</AreaPos_X2>
+<AreaPos_Y>99.28</AreaPos_Y>
+<AreaPos_Y2>149.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>62.71</AreaPos_X>
+<AreaPos_X2>102.81</AreaPos_X2>
+<AreaPos_Y>183.41</AreaPos_Y>
+<AreaPos_Y2>213.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>105.55</AreaPos_X>
+<AreaPos_X2>165.16</AreaPos_X2>
+<AreaPos_Y>201.12</AreaPos_Y>
+<AreaPos_Y2>283.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>98.98</AreaPos_X>
+<AreaPos_X2>142.37</AreaPos_X2>
+<AreaPos_Y>154.58</AreaPos_Y>
+<AreaPos_Y2>190.71</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>182.11</AreaPos_X>
+<AreaPos_X2>287.66</AreaPos_X2>
+<AreaPos_Y>214.26</AreaPos_Y>
+<AreaPos_Y2>272.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>85.49</AreaPos_X>
+<AreaPos_X2>170.08</AreaPos_X2>
+<AreaPos_Y>83.58</AreaPos_Y>
+<AreaPos_Y2>145.45</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>161.33</AreaPos_X>
+<AreaPos_X2>201.80</AreaPos_X2>
+<AreaPos_Y>177.21</AreaPos_Y>
+<AreaPos_Y2>198.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>227.86</AreaPos_X>
+<AreaPos_X2>286.02</AreaPos_X2>
+<AreaPos_Y>30.84</AreaPos_Y>
+<AreaPos_Y2>69.35</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>212.19</AreaPos_X>
+<AreaPos_X2>255.57</AreaPos_X2>
+<AreaPos_Y>73.18</AreaPos_Y>
+<AreaPos_Y2>118.99</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>Area 19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>203.07</AreaPos_X>
+<AreaPos_X2>263.41</AreaPos_X2>
+<AreaPos_Y>132.31</AreaPos_Y>
+<AreaPos_Y2>166.99</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>Area 20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>301.33</AreaPos_X>
+<AreaPos_X2>342.71</AreaPos_X2>
+<AreaPos_Y>10.58</AreaPos_Y>
+<AreaPos_Y2>67.89</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>55.78</AreaPos_X>
+<AreaPos_X2>58.33</AreaPos_X2>
+<AreaPos_Y>240.95</AreaPos_Y>
+<AreaPos_Y2>242.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>140.00</AreaPos_X>
+<AreaPos_X2>142.73</AreaPos_X2>
+<AreaPos_Y>34.81</AreaPos_Y>
+<AreaPos_Y2>36.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>324.02</AreaPos_X>
+<AreaPos_X2>326.62</AreaPos_X2>
+<AreaPos_Y>191.17</AreaPos_Y>
+<AreaPos_Y2>192.67</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>332.59</AreaPos_X>
+<AreaPos_X2>335.10</AreaPos_X2>
+<AreaPos_Y>13.50</AreaPos_Y>
+<AreaPos_Y2>14.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>35.27</AreaPos_X>
+<AreaPos_X2>37.92</AreaPos_X2>
+<AreaPos_Y>8.90</AreaPos_Y>
+<AreaPos_Y2>10.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

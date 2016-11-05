@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>GH3_00.rmd</FileName>
+<FileType>Red Stone Scenario File 7.2 beta</FileType>
+<MapName>[ランク3]ギルドホール</MapName>
+<SysWidth>45</SysWidth>
+<SysHeight>50</SysHeight>
+<TgaWidth>200</TgaWidth>
+<TgaHeight>111</TgaHeight>
+<MapType>3</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ギルド飼育師</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.13</PopPoint_X>
+<PopPoint_Y>42.74</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>ギルド事務官</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.35</PopPoint_X>
+<PopPoint_Y>74.86</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ギルド倉庫管理人</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>61.53</PopPoint_X>
+<PopPoint_Y>63.62</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>雑貨商人</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>96.25</PopPoint_X>
+<PopPoint_Y>75.97</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>エンチャント商人</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>73.47</PopPoint_X>
+<PopPoint_Y>55.92</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>移動管理人</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.78</PopPoint_X>
+<PopPoint_Y>82.21</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ハローナイト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>84.31</PopPoint_X>
+<PopPoint_Y>29.48</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>エーテルシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.00</PopPoint_X>
+<PopPoint_Y>31.01</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>エレメントポスト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.64</PopPoint_X>
+<PopPoint_Y>33.65</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>シールドクラフト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>60.42</PopPoint_X>
+<PopPoint_Y>40.93</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>火炎の錬金術師</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>126.94</PopPoint_X>
+<PopPoint_Y>37.46</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>石像パーツ管理人</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>137.92</PopPoint_X>
+<PopPoint_Y>44.12</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>治療師</CharacterName>
+<CharacterType>16</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>72.22</PopPoint_X>
+<PopPoint_Y>80.54</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>考古学者グラン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>98.47</PopPoint_X>
+<PopPoint_Y>41.14</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>古美術商ネネ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>107.92</PopPoint_X>
+<PopPoint_Y>40.45</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>派遣官ベルント</CharacterName>
+<CharacterType>12</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>85.49</PopPoint_X>
+<PopPoint_Y>53.56</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>시작 영역</AreaName>
+<AreaType>5</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>52.50</AreaPos_X>
+<AreaPos_X2>58.54</AreaPos_X2>
+<AreaPos_Y>77.49</AreaPos_Y>
+<AreaPos_Y2>82.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>길드홀에서 마을</AreaName>
+<AreaType>3</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>32.29</AreaPos_X>
+<AreaPos_X2>41.74</AreaPos_X2>
+<AreaPos_Y>86.93</AreaPos_Y>
+<AreaPos_Y2>92.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>テレポーター</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>37.43</AreaPos_X>
+<AreaPos_X2>39.17</AreaPos_X2>
+<AreaPos_Y>87.69</AreaPos_Y>
+<AreaPos_Y2>89.22</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>ギルド倉庫</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>46.67</AreaPos_X>
+<AreaPos_X2>48.75</AreaPos_X2>
+<AreaPos_Y>53.63</AreaPos_Y>
+<AreaPos_Y2>55.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>石像展示場</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>149.17</AreaPos_X>
+<AreaPos_X2>151.18</AreaPos_X2>
+<AreaPos_Y>27.06</AreaPos_Y>
+<AreaPos_Y2>28.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>ペット・ガーディアン飼育場</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>69.03</AreaPos_X>
+<AreaPos_X2>70.97</AreaPos_X2>
+<AreaPos_Y>31.50</AreaPos_Y>
+<AreaPos_Y2>32.95</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>リビングルーム</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>152.43</AreaPos_X>
+<AreaPos_X2>154.44</AreaPos_X2>
+<AreaPos_Y>71.87</AreaPos_Y>
+<AreaPos_Y2>73.40</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>ギルドホールロビー</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>108.47</AreaPos_X>
+<AreaPos_X2>110.14</AreaPos_X2>
+<AreaPos_Y>50.78</AreaPos_Y>
+<AreaPos_Y2>52.10</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>사육사</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>77.57</AreaPos_X>
+<AreaPos_X2>90.42</AreaPos_X2>
+<AreaPos_Y>38.64</AreaPos_Y>
+<AreaPos_Y2>47.18</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

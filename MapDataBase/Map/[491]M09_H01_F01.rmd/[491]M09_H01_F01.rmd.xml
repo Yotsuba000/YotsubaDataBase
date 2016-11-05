@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[491]M09_H01_F01.rmd</FileName>
+<FileType>Red Stone Scenario File 6.9 beta</FileType>
+<MapName>秘密の山荘</MapName>
+<SysWidth>30</SysWidth>
+<SysHeight>50</SysHeight>
+<TgaWidth>60</TgaWidth>
+<TgaHeight>50</TgaHeight>
+<MapType>3</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>0</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>アイノ・ガスピル</CharacterName>
+<CharacterType>13</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>23.13</PopPoint_X>
+<PopPoint_Y>13.78</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>出入口</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>49.28</AreaPos_X>
+<AreaPos_X2>56.75</AreaPos_X2>
+<AreaPos_Y>23.88</AreaPos_Y>
+<AreaPos_Y2>30.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>시작 영역</AreaName>
+<AreaType>5</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>42.69</AreaPos_X>
+<AreaPos_X2>46.91</AreaPos_X2>
+<AreaPos_Y>23.28</AreaPos_Y>
+<AreaPos_Y2>26.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

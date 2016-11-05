@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[248]M10_S01_F17.rmd</FileName>
+<FileType>Red Stone Scenario File 6.0 beta</FileType>
+<MapName>スウェブタワー　１７Ｆ</MapName>
+<SysWidth>150</SysWidth>
+<SysHeight>150</SysHeight>
+<TgaWidth>300</TgaWidth>
+<TgaHeight>150</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>4</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>20</P_SubElement1>
+<P_SubElement2>19</P_SubElement2>
+<P_SubElement3>18</P_SubElement3>
+<P_SubElement4>18</P_SubElement4>
+<P_SubElement5>17</P_SubElement5>
+<P_SubElement6>23</P_SubElement6>
+<M_AddElement1>19</M_AddElement1>
+<M_AddElement2>19</M_AddElement2>
+<M_AddElement3>17</M_AddElement3>
+<M_AddElement4>17</M_AddElement4>
+<M_AddElement5>17</M_AddElement5>
+<M_AddElement6>23</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>33.06</PopPoint_X>
+<PopPoint_Y>72.59</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>37.78</PopPoint_X>
+<PopPoint_Y>77.69</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>39.91</PopPoint_X>
+<PopPoint_Y>70.09</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>48.63</PopPoint_X>
+<PopPoint_Y>84.69</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>55.03</PopPoint_X>
+<PopPoint_Y>77.66</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>53.28</PopPoint_X>
+<PopPoint_Y>81.47</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>31.50</PopPoint_X>
+<PopPoint_Y>76.75</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>82.41</PopPoint_X>
+<PopPoint_Y>66.44</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>84.91</PopPoint_X>
+<PopPoint_Y>71.97</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>86.81</PopPoint_X>
+<PopPoint_Y>68.69</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>105.28</PopPoint_X>
+<PopPoint_Y>67.88</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>98.16</PopPoint_X>
+<PopPoint_Y>65.75</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>101.06</PopPoint_X>
+<PopPoint_Y>70.16</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>102.31</PopPoint_X>
+<PopPoint_Y>66.19</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>レッドアイ幹部</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>113.00</PopPoint_X>
+<PopPoint_Y>33.75</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>98.63</PopPoint_X>
+<PopPoint_Y>40.34</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>アレックス</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>123.06</PopPoint_X>
+<PopPoint_Y>80.31</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>95.91</PopPoint_X>
+<PopPoint_Y>44.81</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>101.44</PopPoint_X>
+<PopPoint_Y>47.75</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>107.59</PopPoint_X>
+<PopPoint_Y>37.03</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>108.31</PopPoint_X>
+<PopPoint_Y>43.03</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>117.16</PopPoint_X>
+<PopPoint_Y>41.44</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>140.56</PopPoint_X>
+<PopPoint_Y>22.00</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>151.72</PopPoint_X>
+<PopPoint_Y>14.34</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>162.81</PopPoint_X>
+<PopPoint_Y>22.31</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>レッドアイ幹部</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>152.06</PopPoint_X>
+<PopPoint_Y>19.03</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>レッドアイ幹部</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>194.41</PopPoint_X>
+<PopPoint_Y>32.63</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>146.00</PopPoint_X>
+<PopPoint_Y>26.19</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>176.56</PopPoint_X>
+<PopPoint_Y>36.50</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>158.47</PopPoint_X>
+<PopPoint_Y>26.53</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>187.44</PopPoint_X>
+<PopPoint_Y>31.03</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>176.91</PopPoint_X>
+<PopPoint_Y>39.72</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>199.13</PopPoint_X>
+<PopPoint_Y>35.28</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>200.72</PopPoint_X>
+<PopPoint_Y>38.22</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>102.78</PopPoint_X>
+<PopPoint_Y>113.84</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>111.94</PopPoint_X>
+<PopPoint_Y>114.03</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>119.63</PopPoint_X>
+<PopPoint_Y>113.84</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>131.03</PopPoint_X>
+<PopPoint_Y>114.13</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>124.41</PopPoint_X>
+<PopPoint_Y>107.91</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>107.06</PopPoint_X>
+<PopPoint_Y>107.22</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>200.66</PopPoint_X>
+<PopPoint_Y>54.16</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>201.16</PopPoint_X>
+<PopPoint_Y>60.25</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>208.38</PopPoint_X>
+<PopPoint_Y>56.56</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>216.25</PopPoint_X>
+<PopPoint_Y>51.28</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>188.63</PopPoint_X>
+<PopPoint_Y>109.94</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>224.59</PopPoint_X>
+<PopPoint_Y>52.84</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>208.34</PopPoint_X>
+<PopPoint_Y>51.38</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>224.34</PopPoint_X>
+<PopPoint_Y>48.13</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>186.41</PopPoint_X>
+<PopPoint_Y>114.69</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>194.56</PopPoint_X>
+<PopPoint_Y>116.44</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>215.44</PopPoint_X>
+<PopPoint_Y>101.84</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>215.69</PopPoint_X>
+<PopPoint_Y>94.59</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>221.97</PopPoint_X>
+<PopPoint_Y>100.59</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>240.22</PopPoint_X>
+<PopPoint_Y>92.88</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>244.25</PopPoint_X>
+<PopPoint_Y>91.53</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>249.16</PopPoint_X>
+<PopPoint_Y>89.00</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>252.88</PopPoint_X>
+<PopPoint_Y>86.72</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>269.66</PopPoint_X>
+<PopPoint_Y>78.66</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>269.72</PopPoint_X>
+<PopPoint_Y>73.06</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>266.59</PopPoint_X>
+<PopPoint_Y>69.34</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>250.41</PopPoint_X>
+<PopPoint_Y>61.91</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>254.09</PopPoint_X>
+<PopPoint_Y>64.00</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>241.41</PopPoint_X>
+<PopPoint_Y>57.72</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>レッドアイ護衛兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>113.03</PopPoint_X>
+<PopPoint_Y>108.13</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>ホルダーリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>180.75</PopPoint_X>
+<PopPoint_Y>39.66</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>さすらう傭兵</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>3600</PopSpeed>
+<PopPoint_X>164.28</PopPoint_X>
+<PopPoint_Y>87.56</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>몹1-C</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>87.22</AreaPos_X>
+<AreaPos_X2>103.81</AreaPos_X2>
+<AreaPos_Y>30.88</AreaPos_Y>
+<AreaPos_Y2>52.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>몹1-D</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>136.84</AreaPos_X>
+<AreaPos_X2>152.47</AreaPos_X2>
+<AreaPos_Y>12.91</AreaPos_Y>
+<AreaPos_Y2>28.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>몹2-D</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>152.78</AreaPos_X>
+<AreaPos_X2>168.41</AreaPos_X2>
+<AreaPos_Y>12.88</AreaPos_Y>
+<AreaPos_Y2>28.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>몹2-A</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>42.97</AreaPos_X>
+<AreaPos_X2>64.03</AreaPos_X2>
+<AreaPos_Y>73.94</AreaPos_Y>
+<AreaPos_Y2>94.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>몹1-A</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>24.06</AreaPos_X>
+<AreaPos_X2>50.31</AreaPos_X2>
+<AreaPos_Y>57.03</AreaPos_Y>
+<AreaPos_Y2>79.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>16층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[247]M10_S01_F16.rmd</AccessMap>
+<AccessMapName>スウェブタワー　１６Ｆ</AccessMapName>
+<AreaPos_X>156.03</AreaPos_X>
+<AreaPos_X2>160.06</AreaPos_X2>
+<AreaPos_Y>87.06</AreaPos_Y>
+<AreaPos_Y2>89.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>18층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[249]M10_S01_F18.rmd</AccessMap>
+<AccessMapName>スウェブタワー　１８Ｆ</AccessMapName>
+<AreaPos_X>145.34</AreaPos_X>
+<AreaPos_X2>149.88</AreaPos_X2>
+<AreaPos_Y>67.06</AreaPos_Y>
+<AreaPos_Y2>69.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>몹2-E</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>188.28</AreaPos_X>
+<AreaPos_X2>203.91</AreaPos_X2>
+<AreaPos_Y>28.03</AreaPos_Y>
+<AreaPos_Y2>43.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>몹1-G</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>90.13</AreaPos_X>
+<AreaPos_X2>115.81</AreaPos_X2>
+<AreaPos_Y>100.88</AreaPos_Y>
+<AreaPos_Y2>121.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>235.47</AreaPos_X>
+<AreaPos_X2>246.41</AreaPos_X2>
+<AreaPos_Y>53.81</AreaPos_Y>
+<AreaPos_Y2>61.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>261.19</AreaPos_X>
+<AreaPos_X2>277.16</AreaPos_X2>
+<AreaPos_Y>66.91</AreaPos_Y>
+<AreaPos_Y2>83.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>몬스터2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>246.88</AreaPos_X>
+<AreaPos_X2>257.81</AreaPos_X2>
+<AreaPos_Y>83.28</AreaPos_Y>
+<AreaPos_Y2>91.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>몹2-F</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>213.16</AreaPos_X>
+<AreaPos_X2>230.09</AreaPos_X2>
+<AreaPos_Y>42.97</AreaPos_Y>
+<AreaPos_Y2>65.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>몹2-G</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>117.00</AreaPos_X>
+<AreaPos_X2>138.13</AreaPos_X2>
+<AreaPos_Y>102.91</AreaPos_Y>
+<AreaPos_Y2>124.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>몬스터3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>183.00</AreaPos_X>
+<AreaPos_X2>198.63</AreaPos_X2>
+<AreaPos_Y>105.41</AreaPos_Y>
+<AreaPos_Y2>121.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>몹2-C</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>104.16</AreaPos_X>
+<AreaPos_X2>121.69</AreaPos_X2>
+<AreaPos_Y>31.25</AreaPos_Y>
+<AreaPos_Y2>51.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>몹1-E</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>168.72</AreaPos_X>
+<AreaPos_X2>183.44</AreaPos_X2>
+<AreaPos_Y>32.72</AreaPos_Y>
+<AreaPos_Y2>47.66</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>몹1-F</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>191.91</AreaPos_X>
+<AreaPos_X2>213.09</AreaPos_X2>
+<AreaPos_Y>49.00</AreaPos_Y>
+<AreaPos_Y2>68.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>Area 20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>210.56</AreaPos_X>
+<AreaPos_X2>227.97</AreaPos_X2>
+<AreaPos_Y>90.13</AreaPos_Y>
+<AreaPos_Y2>106.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>몹1-B</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>77.19</AreaPos_X>
+<AreaPos_X2>92.81</AreaPos_X2>
+<AreaPos_Y>60.91</AreaPos_Y>
+<AreaPos_Y2>76.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>몬스터5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>246.44</AreaPos_X>
+<AreaPos_X2>257.38</AreaPos_X2>
+<AreaPos_Y>58.81</AreaPos_Y>
+<AreaPos_Y2>66.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>몬스터1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>235.91</AreaPos_X>
+<AreaPos_X2>246.84</AreaPos_X2>
+<AreaPos_Y>87.66</AreaPos_Y>
+<AreaPos_Y2>95.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>몹2-B</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>95.75</AreaPos_X>
+<AreaPos_X2>111.38</AreaPos_X2>
+<AreaPos_Y>61.03</AreaPos_Y>
+<AreaPos_Y2>76.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

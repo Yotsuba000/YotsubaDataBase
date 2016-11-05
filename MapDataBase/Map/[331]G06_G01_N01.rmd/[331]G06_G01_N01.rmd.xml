@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[331]G06_G01_N01.rmd</FileName>
+<FileType>Red Stone Scenario File 5.3 beta</FileType>
+<MapName>ダークエルフの王宮寺院</MapName>
+<SysWidth>35</SysWidth>
+<SysHeight>45</SysHeight>
+<TgaWidth>70</TgaWidth>
+<TgaHeight>45</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ハイダークエルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>50</PopSpeed>
+<PopPoint_X>15.31</PopPoint_X>
+<PopPoint_Y>6.50</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>ハイダークエルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>50</PopSpeed>
+<PopPoint_X>33.72</PopPoint_X>
+<PopPoint_Y>29.00</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ハイダークエルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>50</PopSpeed>
+<PopPoint_X>43.75</PopPoint_X>
+<PopPoint_Y>14.34</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>ダークエルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>36.72</PopPoint_X>
+<PopPoint_Y>5.38</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>ダークエルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>35.59</PopPoint_X>
+<PopPoint_Y>19.69</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ダークエルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>18.75</PopPoint_X>
+<PopPoint_Y>27.59</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ダークエルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>26.22</PopPoint_X>
+<PopPoint_Y>34.44</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>ダークエルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>25.50</PopPoint_X>
+<PopPoint_Y>10.81</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>후문</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[324]G06.rmd</AccessMap>
+<AccessMapName>グレートフォレスト/ 妖精達の蜘蛛の糸</AccessMapName>
+<AreaPos_X>61.47</AreaPos_X>
+<AreaPos_X2>66.03</AreaPos_X2>
+<AreaPos_Y>39.91</AreaPos_Y>
+<AreaPos_Y2>42.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>다크엘프 왕궁으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[332]G06_G01_N02.rmd</AccessMap>
+<AccessMapName>ダークエルフの王宮</AccessMapName>
+<AreaPos_X>61.59</AreaPos_X>
+<AreaPos_X2>65.97</AreaPos_X2>
+<AreaPos_Y>1.78</AreaPos_Y>
+<AreaPos_Y2>4.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>사원</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[324]G06.rmd</AccessMap>
+<AccessMapName>グレートフォレスト/ 妖精達の蜘蛛の糸</AccessMapName>
+<AreaPos_X>2.69</AreaPos_X>
+<AreaPos_X2>6.66</AreaPos_X2>
+<AreaPos_Y>24.25</AreaPos_Y>
+<AreaPos_Y2>26.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.63</AreaPos_X>
+<AreaPos_X2>40.09</AreaPos_X2>
+<AreaPos_Y>23.97</AreaPos_Y>
+<AreaPos_Y2>35.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>30.09</AreaPos_X>
+<AreaPos_X2>45.75</AreaPos_X2>
+<AreaPos_Y>2.03</AreaPos_Y>
+<AreaPos_Y2>27.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>4.03</AreaPos_X>
+<AreaPos_X2>29.97</AreaPos_X2>
+<AreaPos_Y>2.03</AreaPos_Y>
+<AreaPos_Y2>15.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>28.28</AreaPos_X>
+<AreaPos_X2>29.91</AreaPos_X2>
+<AreaPos_Y>5.06</AreaPos_Y>
+<AreaPos_Y2>6.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[wast_swamp]001.rmd</FileName>
+<FileType>Red Stone Scenario File 5.3 beta</FileType>
+<MapName>地下界戦略家セイジの部屋</MapName>
+<SysWidth>100</SysWidth>
+<SysHeight>100</SysHeight>
+<TgaWidth>300</TgaWidth>
+<TgaHeight>150</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>セイジ軍団長</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>14.86</PopPoint_X>
+<PopPoint_Y>132.33</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>セイジ軍団長</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>18.66</PopPoint_X>
+<PopPoint_Y>132.28</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>セイジ軍団長</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>14.77</PopPoint_X>
+<PopPoint_Y>136.31</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>セイジ軍団長</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>18.52</PopPoint_X>
+<PopPoint_Y>136.27</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>セイジ軍団長</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>18.52</PopPoint_X>
+<PopPoint_Y>140.11</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>セイジ軍団長</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>14.58</PopPoint_X>
+<PopPoint_Y>139.92</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>セイジ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>144.94</PopPoint_X>
+<PopPoint_Y>56.86</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>セイジ軍団員</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>0</PopSpeed>
+<PopPoint_X>152.77</PopPoint_X>
+<PopPoint_Y>109.13</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>セイジ軍団長</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>145.08</PopPoint_X>
+<PopPoint_Y>59.81</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>1층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wast_swamp]000.rmd</AccessMap>
+<AccessMapName>地下界戦略家セイジの部屋入口</AccessMapName>
+<AreaPos_X>144.05</AreaPos_X>
+<AreaPos_X2>150.47</AreaPos_X2>
+<AreaPos_Y>135.61</AreaPos_Y>
+<AreaPos_Y2>139.92</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>시작 영역</AreaName>
+<AreaType>5</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>142.64</AreaPos_X>
+<AreaPos_X2>151.97</AreaPos_X2>
+<AreaPos_Y>116.91</AreaPos_Y>
+<AreaPos_Y2>124.83</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>세이지 리젠 지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>140.86</AreaPos_X>
+<AreaPos_X2>149.25</AreaPos_X2>
+<AreaPos_Y>53.81</AreaPos_Y>
+<AreaPos_Y2>58.36</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>2-[_[J</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>138.56</AreaPos_X>
+<AreaPos_X2>155.25</AreaPos_X2>
+<AreaPos_Y>92.95</AreaPos_Y>
+<AreaPos_Y2>109.17</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>0</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>0</DisarmTrap_Lv>
+<DetectTrap_Lv>0</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>세이지 마스터 영역</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>8.39</AreaPos_X>
+<AreaPos_X2>24.75</AreaPos_X2>
+<AreaPos_Y>128.81</AreaPos_Y>
+<AreaPos_Y2>142.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>세이지마스터 리젠지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>142.45</AreaPos_X>
+<AreaPos_X2>147.66</AreaPos_X2>
+<AreaPos_Y>57.19</AreaPos_Y>
+<AreaPos_Y2>60.80</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>세이지 리젠 조건</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>112.64</AreaPos_X>
+<AreaPos_X2>180.42</AreaPos_X2>
+<AreaPos_Y>59.72</AreaPos_Y>
+<AreaPos_Y2>100.36</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>세이지 하수인</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>149.16</AreaPos_X>
+<AreaPos_X2>157.22</AreaPos_X2>
+<AreaPos_Y>107.34</AreaPos_Y>
+<AreaPos_Y2>112.17</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

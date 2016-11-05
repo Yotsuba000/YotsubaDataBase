@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[082]G26_G08.rmd</FileName>
+<FileType>Red Stone Scenario File 5.9 beta</FileType>
+<MapName>やぶ森の中</MapName>
+<SysWidth>55</SysWidth>
+<SysHeight>40</SysHeight>
+<TgaWidth>110</TgaWidth>
+<TgaHeight>40</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>エルフ暗殺者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>48.38</PopPoint_X>
+<PopPoint_Y>17.94</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>エルフ暗殺者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>35.09</PopPoint_X>
+<PopPoint_Y>7.84</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>エルフ暗殺者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>58.88</PopPoint_X>
+<PopPoint_Y>26.19</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>バーバリアン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>35.13</PopPoint_X>
+<PopPoint_Y>14.50</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>バーバリアン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>59.16</PopPoint_X>
+<PopPoint_Y>16.81</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>バーバリアン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>53.28</PopPoint_X>
+<PopPoint_Y>26.34</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>バーバリアン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>87.72</PopPoint_X>
+<PopPoint_Y>16.31</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>バーバリアン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>83.72</PopPoint_X>
+<PopPoint_Y>27.28</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>エルフ暗殺者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>90.34</PopPoint_X>
+<PopPoint_Y>20.56</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>7으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[081]G26_G07.rmd</AccessMap>
+<AccessMapName>やぶ森の中</AccessMapName>
+<AreaPos_X>3.13</AreaPos_X>
+<AreaPos_X2>6.66</AreaPos_X2>
+<AreaPos_Y>27.19</AreaPos_Y>
+<AreaPos_Y2>31.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>11으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[085]G26_G11.rmd</AccessMap>
+<AccessMapName>やぶ森の中</AccessMapName>
+<AreaPos_X>58.66</AreaPos_X>
+<AreaPos_X2>63.13</AreaPos_X2>
+<AreaPos_Y>35.53</AreaPos_Y>
+<AreaPos_Y2>38.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>9로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[083]G26_G09.rmd</AccessMap>
+<AccessMapName>やぶ森の中</AccessMapName>
+<AreaPos_X>104.09</AreaPos_X>
+<AreaPos_X2>106.88</AreaPos_X2>
+<AreaPos_Y>19.25</AreaPos_Y>
+<AreaPos_Y2>23.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>77.31</AreaPos_X>
+<AreaPos_X2>91.84</AreaPos_X2>
+<AreaPos_Y>12.97</AreaPos_Y>
+<AreaPos_Y2>29.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>32.03</AreaPos_X>
+<AreaPos_X2>60.56</AreaPos_X2>
+<AreaPos_Y>4.34</AreaPos_Y>
+<AreaPos_Y2>27.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

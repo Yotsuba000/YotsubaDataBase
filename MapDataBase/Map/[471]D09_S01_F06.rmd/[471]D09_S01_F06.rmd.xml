@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[471]D09_S01_F06.rmd</FileName>
+<FileType>Red Stone Scenario File 7.0 beta</FileType>
+<MapName>モリネルタワー　地上６階</MapName>
+<SysWidth>150</SysWidth>
+<SysHeight>150</SysHeight>
+<TgaWidth>300</TgaWidth>
+<TgaHeight>150</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>9</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>17</P_SubElement1>
+<P_SubElement2>7</P_SubElement2>
+<P_SubElement3>12</P_SubElement3>
+<P_SubElement4>7</P_SubElement4>
+<P_SubElement5>12</P_SubElement5>
+<P_SubElement6>2</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>152.50</PopPoint_X>
+<PopPoint_Y>134.91</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>146.75</PopPoint_X>
+<PopPoint_Y>134.75</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>塔のゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>151.09</PopPoint_X>
+<PopPoint_Y>130.97</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>塔の霊媒師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>157.88</PopPoint_X>
+<PopPoint_Y>134.31</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>184.00</PopPoint_X>
+<PopPoint_Y>79.88</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>144.97</PopPoint_X>
+<PopPoint_Y>126.22</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>塔のゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>36.00</PopPoint_X>
+<PopPoint_Y>73.94</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>46.06</PopPoint_X>
+<PopPoint_Y>79.91</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>44.22</PopPoint_X>
+<PopPoint_Y>74.84</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>33.44</PopPoint_X>
+<PopPoint_Y>77.81</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>90.72</PopPoint_X>
+<PopPoint_Y>62.53</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.63</PopPoint_X>
+<PopPoint_Y>78.03</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>117.53</PopPoint_X>
+<PopPoint_Y>33.53</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>167.78</PopPoint_X>
+<PopPoint_Y>34.59</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>149.34</PopPoint_X>
+<PopPoint_Y>17.31</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>72.00</PopPoint_X>
+<PopPoint_Y>63.66</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>154.31</PopPoint_X>
+<PopPoint_Y>55.00</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>170.00</PopPoint_X>
+<PopPoint_Y>18.72</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>259.56</PopPoint_X>
+<PopPoint_Y>70.16</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>225.28</PopPoint_X>
+<PopPoint_Y>46.81</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>186.53</PopPoint_X>
+<PopPoint_Y>75.22</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>263.25</PopPoint_X>
+<PopPoint_Y>76.66</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>187.25</PopPoint_X>
+<PopPoint_Y>45.94</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>186.88</PopPoint_X>
+<PopPoint_Y>71.41</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>114.59</PopPoint_X>
+<PopPoint_Y>105.34</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>塔の霊媒師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>176.09</PopPoint_X>
+<PopPoint_Y>107.69</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>169.25</PopPoint_X>
+<PopPoint_Y>102.66</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>268.53</PopPoint_X>
+<PopPoint_Y>68.47</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>塔のゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>164.88</PopPoint_X>
+<PopPoint_Y>74.78</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>塔の霊媒師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>131.03</PopPoint_X>
+<PopPoint_Y>120.06</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>138.25</PopPoint_X>
+<PopPoint_Y>118.19</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.31</PopPoint_X>
+<PopPoint_Y>129.53</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>塔のゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>162.09</PopPoint_X>
+<PopPoint_Y>18.22</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>塔の霊媒師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>65.53</PopPoint_X>
+<PopPoint_Y>85.94</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>塔のゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>211.81</PopPoint_X>
+<PopPoint_Y>40.31</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>125.50</PopPoint_X>
+<PopPoint_Y>78.47</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>123.53</PopPoint_X>
+<PopPoint_Y>70.19</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>95.31</PopPoint_X>
+<PopPoint_Y>69.22</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>135.97</PopPoint_X>
+<PopPoint_Y>38.44</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>124.88</PopPoint_X>
+<PopPoint_Y>45.38</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>212.81</PopPoint_X>
+<PopPoint_Y>84.38</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>151.69</PopPoint_X>
+<PopPoint_Y>93.81</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>222.44</PopPoint_X>
+<PopPoint_Y>87.75</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.28</PopPoint_X>
+<PopPoint_Y>21.25</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>177.72</PopPoint_X>
+<PopPoint_Y>30.44</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>267.31</PopPoint_X>
+<PopPoint_Y>76.13</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>235.03</PopPoint_X>
+<PopPoint_Y>81.47</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>152.03</PopPoint_X>
+<PopPoint_Y>90.00</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>レオンの分身</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>273.50</PopPoint_X>
+<PopPoint_Y>69.88</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>216.97</PopPoint_X>
+<PopPoint_Y>77.94</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>245.50</PopPoint_X>
+<PopPoint_Y>63.91</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>237.09</PopPoint_X>
+<PopPoint_Y>67.06</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>189.41</PopPoint_X>
+<PopPoint_Y>38.69</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>159.41</PopPoint_X>
+<PopPoint_Y>15.00</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>221.31</PopPoint_X>
+<PopPoint_Y>82.38</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>199.69</PopPoint_X>
+<PopPoint_Y>49.59</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>271.94</PopPoint_X>
+<PopPoint_Y>72.94</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>192.75</PopPoint_X>
+<PopPoint_Y>43.19</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>220.50</PopPoint_X>
+<PopPoint_Y>61.22</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>223.91</PopPoint_X>
+<PopPoint_Y>53.94</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>197.03</PopPoint_X>
+<PopPoint_Y>37.69</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>89.84</PopPoint_X>
+<PopPoint_Y>94.16</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>塔のゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.31</PopPoint_X>
+<PopPoint_Y>102.47</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>79.03</PopPoint_X>
+<PopPoint_Y>99.34</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.69</PopPoint_X>
+<PopPoint_Y>92.78</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>122.94</PopPoint_X>
+<PopPoint_Y>101.13</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>塔の霊媒師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>122.75</PopPoint_X>
+<PopPoint_Y>110.09</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.94</PopPoint_X>
+<PopPoint_Y>110.88</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>塔の霊媒師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>112.66</PopPoint_X>
+<PopPoint_Y>99.75</PopPoint_Y>
+</Character>
+<Character id="cUid69">
+<CharacterUID>69</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>114.22</PopPoint_X>
+<PopPoint_Y>109.47</PopPoint_Y>
+</Character>
+<Character id="cUid70">
+<CharacterUID>70</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.16</PopPoint_X>
+<PopPoint_Y>91.66</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>214.66</PopPoint_X>
+<PopPoint_Y>49.53</PopPoint_Y>
+</Character>
+<Character id="cUid72">
+<CharacterUID>72</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.78</PopPoint_X>
+<PopPoint_Y>69.28</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>モリネル守護神</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>46200</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>154.81</PopPoint_X>
+<PopPoint_Y>74.47</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>196.94</PopPoint_X>
+<PopPoint_Y>44.97</PopPoint_Y>
+</Character>
+<Character id="cUid75">
+<CharacterUID>75</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>219.34</PopPoint_X>
+<PopPoint_Y>49.09</PopPoint_Y>
+</Character>
+<Character id="cUid76">
+<CharacterUID>76</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>219.25</PopPoint_X>
+<PopPoint_Y>56.38</PopPoint_Y>
+</Character>
+<Character id="cUid77">
+<CharacterUID>77</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>131.56</PopPoint_X>
+<PopPoint_Y>80.59</PopPoint_Y>
+</Character>
+<Character id="cUid78">
+<CharacterUID>78</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>140.94</PopPoint_X>
+<PopPoint_Y>32.88</PopPoint_Y>
+</Character>
+<Character id="cUid79">
+<CharacterUID>79</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>162.56</PopPoint_X>
+<PopPoint_Y>60.91</PopPoint_Y>
+</Character>
+<Character id="cUid80">
+<CharacterUID>80</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>158.06</PopPoint_X>
+<PopPoint_Y>57.44</PopPoint_Y>
+</Character>
+<Character id="cUid81">
+<CharacterUID>81</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>152.16</PopPoint_X>
+<PopPoint_Y>58.69</PopPoint_Y>
+</Character>
+<Character id="cUid82">
+<CharacterUID>82</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.66</PopPoint_X>
+<PopPoint_Y>88.22</PopPoint_Y>
+</Character>
+<Character id="cUid83">
+<CharacterUID>83</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>145.75</PopPoint_X>
+<PopPoint_Y>61.59</PopPoint_Y>
+</Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>塔のゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>145.31</PopPoint_X>
+<PopPoint_Y>74.09</PopPoint_Y>
+</Character>
+<Character id="cUid85">
+<CharacterUID>85</CharacterUID>
+<CharacterName>塔のゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.16</PopPoint_X>
+<PopPoint_Y>91.56</PopPoint_Y>
+</Character>
+<Character id="cUid86">
+<CharacterUID>86</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>121.22</PopPoint_X>
+<PopPoint_Y>74.91</PopPoint_Y>
+</Character>
+<Character id="cUid87">
+<CharacterUID>87</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>131.53</PopPoint_X>
+<PopPoint_Y>70.03</PopPoint_Y>
+</Character>
+<Character id="cUid88">
+<CharacterUID>88</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>73.97</PopPoint_X>
+<PopPoint_Y>55.53</PopPoint_Y>
+</Character>
+<Character id="cUid89">
+<CharacterUID>89</CharacterUID>
+<CharacterName>塔の霊媒師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>128.03</PopPoint_X>
+<PopPoint_Y>74.66</PopPoint_Y>
+</Character>
+<Character id="cUid90">
+<CharacterUID>90</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>94.84</PopPoint_X>
+<PopPoint_Y>57.69</PopPoint_Y>
+</Character>
+<Character id="cUid91">
+<CharacterUID>91</CharacterUID>
+<CharacterName>塔のぜんまい</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>147.97</PopPoint_X>
+<PopPoint_Y>86.81</PopPoint_Y>
+</Character>
+<Character id="cUid92">
+<CharacterUID>92</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>162.56</PopPoint_X>
+<PopPoint_Y>89.72</PopPoint_Y>
+</Character>
+<Character id="cUid93">
+<CharacterUID>93</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>172.25</PopPoint_X>
+<PopPoint_Y>112.00</PopPoint_Y>
+</Character>
+<Character id="cUid94">
+<CharacterUID>94</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>180.97</PopPoint_X>
+<PopPoint_Y>103.00</PopPoint_Y>
+</Character>
+<Character id="cUid95">
+<CharacterUID>95</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>181.66</PopPoint_X>
+<PopPoint_Y>70.47</PopPoint_Y>
+</Character>
+<Character id="cUid96">
+<CharacterUID>96</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>180.25</PopPoint_X>
+<PopPoint_Y>75.78</PopPoint_Y>
+</Character>
+<Character id="cUid97">
+<CharacterUID>97</CharacterUID>
+<CharacterName>魔法の包帯</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>179.72</PopPoint_X>
+<PopPoint_Y>119.41</PopPoint_Y>
+</Character>
+<Character id="cUid98">
+<CharacterUID>98</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>113.75</PopPoint_X>
+<PopPoint_Y>40.53</PopPoint_Y>
+</Character>
+<Character id="cUid99">
+<CharacterUID>99</CharacterUID>
+<CharacterName>塔の霊媒師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>192.19</PopPoint_X>
+<PopPoint_Y>76.09</PopPoint_Y>
+</Character>
+<Character id="cUid100">
+<CharacterUID>100</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>131.34</PopPoint_X>
+<PopPoint_Y>35.53</PopPoint_Y>
+</Character>
+<Character id="cUid101">
+<CharacterUID>101</CharacterUID>
+<CharacterName>塔のゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>149.66</PopPoint_X>
+<PopPoint_Y>56.88</PopPoint_Y>
+</Character>
+<Character id="cUid102">
+<CharacterUID>102</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>139.00</PopPoint_X>
+<PopPoint_Y>45.06</PopPoint_Y>
+</Character>
+<Character id="cUid103">
+<CharacterUID>103</CharacterUID>
+<CharacterName>塔の鬼</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>159.31</PopPoint_X>
+<PopPoint_Y>22.28</PopPoint_Y>
+</Character>
+<Character id="cUid104">
+<CharacterUID>104</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>85.16</PopPoint_X>
+<PopPoint_Y>67.97</PopPoint_Y>
+</Character>
+<Character id="cUid105">
+<CharacterUID>105</CharacterUID>
+<CharacterName>塔の動力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>162.75</PopPoint_X>
+<PopPoint_Y>107.78</PopPoint_Y>
+</Character>
+<Character id="cUid106">
+<CharacterUID>106</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.22</PopPoint_X>
+<PopPoint_Y>62.31</PopPoint_Y>
+</Character>
+<Character id="cUid107">
+<CharacterUID>107</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>151.75</PopPoint_X>
+<PopPoint_Y>37.34</PopPoint_Y>
+</Character>
+<Character id="cUid108">
+<CharacterUID>108</CharacterUID>
+<CharacterName>塔の魔力装置</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>65</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>227.31</PopPoint_X>
+<PopPoint_Y>80.94</PopPoint_Y>
+</Character>
+<Character id="cUid109">
+<CharacterUID>109</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>71.81</PopPoint_X>
+<PopPoint_Y>83.38</PopPoint_Y>
+</Character>
+<Character id="cUid110">
+<CharacterUID>110</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>88.81</PopPoint_X>
+<PopPoint_Y>100.69</PopPoint_Y>
+</Character>
+<Character id="cUid111">
+<CharacterUID>111</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>111.44</PopPoint_X>
+<PopPoint_Y>113.47</PopPoint_Y>
+</Character>
+<Character id="cUid112">
+<CharacterUID>112</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>163.53</PopPoint_X>
+<PopPoint_Y>115.34</PopPoint_Y>
+</Character>
+<Character id="cUid113">
+<CharacterUID>113</CharacterUID>
+<CharacterName>ボーンキメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>155.06</PopPoint_X>
+<PopPoint_Y>16.38</PopPoint_Y>
+</Character>
+<Character id="cUid114">
+<CharacterUID>114</CharacterUID>
+<CharacterName>魔法師レオン</CharacterName>
+<CharacterType>10</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>215.34</PopPoint_X>
+<PopPoint_Y>98.28</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>지상 5층</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[384]D09_S01_F05.rmd</AccessMap>
+<AccessMapName>モリネルタワー　地上５階</AccessMapName>
+<AreaPos_X>215.31</AreaPos_X>
+<AreaPos_X2>219.38</AreaPos_X2>
+<AreaPos_Y>103.66</AreaPos_Y>
+<AreaPos_Y2>106.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>137.06</AreaPos_X>
+<AreaPos_X2>164.81</AreaPos_X2>
+<AreaPos_Y>123.75</AreaPos_Y>
+<AreaPos_Y2>139.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>27.19</AreaPos_X>
+<AreaPos_X2>59.75</AreaPos_X2>
+<AreaPos_Y>71.06</AreaPos_Y>
+<AreaPos_Y2>84.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>144.13</AreaPos_X>
+<AreaPos_X2>173.94</AreaPos_X2>
+<AreaPos_Y>11.44</AreaPos_Y>
+<AreaPos_Y2>26.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>252.13</AreaPos_X>
+<AreaPos_X2>283.31</AreaPos_X2>
+<AreaPos_Y>65.06</AreaPos_Y>
+<AreaPos_Y2>80.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>72.09</AreaPos_X>
+<AreaPos_X2>107.06</AreaPos_X2>
+<AreaPos_Y>88.13</AreaPos_Y>
+<AreaPos_Y2>106.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>97.34</AreaPos_X>
+<AreaPos_X2>129.75</AreaPos_X2>
+<AreaPos_Y>97.13</AreaPos_Y>
+<AreaPos_Y2>116.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>158.19</AreaPos_X>
+<AreaPos_X2>191.94</AreaPos_X2>
+<AreaPos_Y>99.28</AreaPos_Y>
+<AreaPos_Y2>124.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>126.81</AreaPos_X>
+<AreaPos_X2>145.69</AreaPos_X2>
+<AreaPos_Y>114.97</AreaPos_Y>
+<AreaPos_Y2>122.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>206.97</AreaPos_X>
+<AreaPos_X2>246.09</AreaPos_X2>
+<AreaPos_Y>74.66</AreaPos_Y>
+<AreaPos_Y2>92.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>234.22</AreaPos_X>
+<AreaPos_X2>251.63</AreaPos_X2>
+<AreaPos_Y>61.16</AreaPos_Y>
+<AreaPos_Y2>70.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>178.09</AreaPos_X>
+<AreaPos_X2>215.34</AreaPos_X2>
+<AreaPos_Y>33.06</AreaPos_Y>
+<AreaPos_Y2>52.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>201.19</AreaPos_X>
+<AreaPos_X2>237.78</AreaPos_X2>
+<AreaPos_Y>42.06</AreaPos_Y>
+<AreaPos_Y2>63.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>63.50</AreaPos_X>
+<AreaPos_X2>101.56</AreaPos_X2>
+<AreaPos_Y>50.41</AreaPos_Y>
+<AreaPos_Y2>73.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>56.19</AreaPos_X>
+<AreaPos_X2>79.84</AreaPos_X2>
+<AreaPos_Y>82.06</AreaPos_Y>
+<AreaPos_Y2>89.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>108.97</AreaPos_X>
+<AreaPos_X2>155.91</AreaPos_X2>
+<AreaPos_Y>29.03</AreaPos_Y>
+<AreaPos_Y2>48.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>164.34</AreaPos_X>
+<AreaPos_X2>183.28</AreaPos_X2>
+<AreaPos_Y>28.09</AreaPos_Y>
+<AreaPos_Y2>35.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>몰리너 수호자</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>144.19</AreaPos_X>
+<AreaPos_X2>166.16</AreaPos_X2>
+<AreaPos_Y>67.13</AreaPos_Y>
+<AreaPos_Y2>81.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>Area 19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>117.94</AreaPos_X>
+<AreaPos_X2>135.97</AreaPos_X2>
+<AreaPos_Y>65.03</AreaPos_Y>
+<AreaPos_Y2>85.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>Area 20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>142.09</AreaPos_X>
+<AreaPos_X2>167.75</AreaPos_X2>
+<AreaPos_Y>85.06</AreaPos_Y>
+<AreaPos_Y2>97.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>Area 21</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>174.13</AreaPos_X>
+<AreaPos_X2>195.91</AreaPos_X2>
+<AreaPos_Y>66.06</AreaPos_Y>
+<AreaPos_Y2>83.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>Area 22</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>142.53</AreaPos_X>
+<AreaPos_X2>166.34</AreaPos_X2>
+<AreaPos_Y>52.03</AreaPos_Y>
+<AreaPos_Y2>66.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>함정문00</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>201.56</AreaPos_X>
+<AreaPos_X2>207.22</AreaPos_X2>
+<AreaPos_Y>106.28</AreaPos_Y>
+<AreaPos_Y2>112.34</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>80</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>1</isMortalObject>
+<DisarmTrap_Lv>80</DisarmTrap_Lv>
+<DetectTrap_Lv>0</DetectTrap_Lv>
+<TrapID1>32</TrapID1>
+<TrapID2>31</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>함정문01</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>165.47</AreaPos_X>
+<AreaPos_X2>171.00</AreaPos_X2>
+<AreaPos_Y>124.28</AreaPos_Y>
+<AreaPos_Y2>130.53</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>60</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>78</DisarmTrap_Lv>
+<DetectTrap_Lv>80</DetectTrap_Lv>
+<TrapID1>0</TrapID1>
+<TrapID2>26</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>비던 폐쇄된 시공간 연구소 입구</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>252.56</AreaPos_X>
+<AreaPos_X2>258.34</AreaPos_X2>
+<AreaPos_Y>49.91</AreaPos_Y>
+<AreaPos_Y2>58.22</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>0</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>1</isMortalObject>
+<DisarmTrap_Lv>0</DisarmTrap_Lv>
+<DetectTrap_Lv>0</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>1</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>함정문02</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>123.72</AreaPos_X>
+<AreaPos_X2>129.75</AreaPos_X2>
+<AreaPos_Y>112.25</AreaPos_Y>
+<AreaPos_Y2>118.06</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>78</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>90</DisarmTrap_Lv>
+<DetectTrap_Lv>92</DetectTrap_Lv>
+<TrapID1>12</TrapID1>
+<TrapID2>32</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>함정문03</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>45.25</AreaPos_X>
+<AreaPos_X2>51.88</AreaPos_X2>
+<AreaPos_Y>64.50</AreaPos_Y>
+<AreaPos_Y2>70.41</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>64</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>80</DisarmTrap_Lv>
+<DetectTrap_Lv>82</DetectTrap_Lv>
+<TrapID1>3</TrapID1>
+<TrapID2>27</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>함정문04</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>93.06</AreaPos_X>
+<AreaPos_X2>99.53</AreaPos_X2>
+<AreaPos_Y>42.59</AreaPos_Y>
+<AreaPos_Y2>48.69</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>66</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>80</DisarmTrap_Lv>
+<DetectTrap_Lv>60</DetectTrap_Lv>
+<TrapID1>28</TrapID1>
+<TrapID2>32</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>함정문05</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>137.56</AreaPos_X>
+<AreaPos_X2>143.19</AreaPos_X2>
+<AreaPos_Y>19.16</AreaPos_Y>
+<AreaPos_Y2>25.13</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>68</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>84</DisarmTrap_Lv>
+<DetectTrap_Lv>86</DetectTrap_Lv>
+<TrapID1>9</TrapID1>
+<TrapID2>25</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>함정문06</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>182.06</AreaPos_X>
+<AreaPos_X2>187.81</AreaPos_X2>
+<AreaPos_Y>29.25</AreaPos_Y>
+<AreaPos_Y2>34.56</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>80</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>92</DisarmTrap_Lv>
+<DetectTrap_Lv>94</DetectTrap_Lv>
+<TrapID1>15</TrapID1>
+<TrapID2>24</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>함정문07</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>188.50</AreaPos_X>
+<AreaPos_X2>194.97</AreaPos_X2>
+<AreaPos_Y>54.72</AreaPos_Y>
+<AreaPos_Y2>60.44</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>86</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>0</DisarmTrap_Lv>
+<DetectTrap_Lv>0</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>함정문08</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>179.16</AreaPos_X>
+<AreaPos_X2>185.50</AreaPos_X2>
+<AreaPos_Y>59.22</AreaPos_Y>
+<AreaPos_Y2>65.03</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>90</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>96</DisarmTrap_Lv>
+<DetectTrap_Lv>98</DetectTrap_Lv>
+<TrapID1>19</TrapID1>
+<TrapID2>27</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>함정문09</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>256.63</AreaPos_X>
+<AreaPos_X2>262.38</AreaPos_X2>
+<AreaPos_Y>78.78</AreaPos_Y>
+<AreaPos_Y2>84.78</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>72</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>86</DisarmTrap_Lv>
+<DetectTrap_Lv>88</DetectTrap_Lv>
+<TrapID1>6</TrapID1>
+<TrapID2>31</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

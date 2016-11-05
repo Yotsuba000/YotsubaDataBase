@@ -1,0 +1,2300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[367]G23.rmd</FileName>
+<FileType>Red Stone Scenario File 6.9 beta</FileType>
+<MapName>南フォーリンロード / シュトラセラト西部地域</MapName>
+<SysWidth>340</SysWidth>
+<SysHeight>375</SysHeight>
+<TgaWidth>500</TgaWidth>
+<TgaHeight>276</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>122.29</PopPoint_X>
+<PopPoint_Y>40.96</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>107.28</PopPoint_X>
+<PopPoint_Y>49.40</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>109.72</PopPoint_X>
+<PopPoint_Y>60.28</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>マーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>120.29</PopPoint_X>
+<PopPoint_Y>51.08</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>122.91</PopPoint_X>
+<PopPoint_Y>59.52</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>マーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.04</PopPoint_X>
+<PopPoint_Y>55.38</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>133.82</PopPoint_X>
+<PopPoint_Y>87.84</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>141.80</PopPoint_X>
+<PopPoint_Y>93.36</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>マーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>142.56</PopPoint_X>
+<PopPoint_Y>88.16</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>128.31</PopPoint_X>
+<PopPoint_Y>83.70</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>128.98</PopPoint_X>
+<PopPoint_Y>131.24</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>124.98</PopPoint_X>
+<PopPoint_Y>137.38</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>132.65</PopPoint_X>
+<PopPoint_Y>145.80</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>マーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>137.84</PopPoint_X>
+<PopPoint_Y>151.64</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>64.34</PopPoint_X>
+<PopPoint_Y>4.42</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.36</PopPoint_X>
+<PopPoint_Y>5.89</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.28</PopPoint_X>
+<PopPoint_Y>11.96</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>81.89</PopPoint_X>
+<PopPoint_Y>39.74</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>95.50</PopPoint_X>
+<PopPoint_Y>40.66</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>440.30</PopPoint_X>
+<PopPoint_Y>231.68</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>453.63</PopPoint_X>
+<PopPoint_Y>230.14</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>467.42</PopPoint_X>
+<PopPoint_Y>235.66</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>マーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>473.55</PopPoint_X>
+<PopPoint_Y>232.44</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>347.01</PopPoint_X>
+<PopPoint_Y>212.98</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>349.47</PopPoint_X>
+<PopPoint_Y>217.72</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>368.15</PopPoint_X>
+<PopPoint_Y>213.58</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>374.45</PopPoint_X>
+<PopPoint_Y>219.26</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>マーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>359.58</PopPoint_X>
+<PopPoint_Y>217.72</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>195.61</PopPoint_X>
+<PopPoint_Y>15.57</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>186.42</PopPoint_X>
+<PopPoint_Y>21.09</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>195.15</PopPoint_X>
+<PopPoint_Y>24.01</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>207.56</PopPoint_X>
+<PopPoint_Y>31.67</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>218.45</PopPoint_X>
+<PopPoint_Y>36.43</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>199.61</PopPoint_X>
+<PopPoint_Y>44.55</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>ウルフリーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>201.59</PopPoint_X>
+<PopPoint_Y>35.67</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>268.86</PopPoint_X>
+<PopPoint_Y>61.87</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>283.41</PopPoint_X>
+<PopPoint_Y>71.69</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>263.81</PopPoint_X>
+<PopPoint_Y>72.15</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>88.60</PopPoint_X>
+<PopPoint_Y>46.46</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>131.16</PopPoint_X>
+<PopPoint_Y>100.65</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>140.44</PopPoint_X>
+<PopPoint_Y>106.54</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>128.31</PopPoint_X>
+<PopPoint_Y>109.85</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>138.24</PopPoint_X>
+<PopPoint_Y>120.52</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.99</PopPoint_X>
+<PopPoint_Y>153.73</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>113.51</PopPoint_X>
+<PopPoint_Y>161.46</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>290.56</PopPoint_X>
+<PopPoint_Y>103.50</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>301.61</PopPoint_X>
+<PopPoint_Y>106.49</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>ウルフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>302.37</PopPoint_X>
+<PopPoint_Y>116.31</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>ウルフリーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>288.12</PopPoint_X>
+<PopPoint_Y>113.55</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>108.82</PopPoint_X>
+<PopPoint_Y>170.29</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>ブラックベアー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>352.69</PopPoint_X>
+<PopPoint_Y>33.72</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>ブラックベアー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>373.67</PopPoint_X>
+<PopPoint_Y>36.34</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>ブラウンベアー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>341.82</PopPoint_X>
+<PopPoint_Y>30.36</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>ブラックベアー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>431.20</PopPoint_X>
+<PopPoint_Y>32.96</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>384.56</PopPoint_X>
+<PopPoint_Y>196.51</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>ブラックベアー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>423.85</PopPoint_X>
+<PopPoint_Y>46.00</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>ブラウンベアー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>432.74</PopPoint_X>
+<PopPoint_Y>41.70</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>383.36</PopPoint_X>
+<PopPoint_Y>205.25</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>390.81</PopPoint_X>
+<PopPoint_Y>207.92</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>400.18</PopPoint_X>
+<PopPoint_Y>197.43</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>401.47</PopPoint_X>
+<PopPoint_Y>213.07</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>404.32</PopPoint_X>
+<PopPoint_Y>221.54</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>414.71</PopPoint_X>
+<PopPoint_Y>215.00</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>434.93</PopPoint_X>
+<PopPoint_Y>212.06</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>鷲剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>362.48</PopPoint_X>
+<PopPoint_Y>77.76</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>鷲剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>359.72</PopPoint_X>
+<PopPoint_Y>83.88</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>鷲剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>373.67</PopPoint_X>
+<PopPoint_Y>83.12</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>鷲剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>384.38</PopPoint_X>
+<PopPoint_Y>69.32</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>鷲剣士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>348.53</PopPoint_X>
+<PopPoint_Y>92.32</PopPoint_Y>
+</Character>
+<Character id="cUid69">
+<CharacterUID>69</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>353.13</PopPoint_X>
+<PopPoint_Y>66.56</PopPoint_Y>
+</Character>
+<Character id="cUid70">
+<CharacterUID>70</CharacterUID>
+<CharacterName>エンリカ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>171.74</PopPoint_X>
+<PopPoint_Y>187.86</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>345.77</PopPoint_X>
+<PopPoint_Y>86.18</PopPoint_Y>
+</Character>
+<Character id="cUid72">
+<CharacterUID>72</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>365.40</PopPoint_X>
+<PopPoint_Y>94.92</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>382.86</PopPoint_X>
+<PopPoint_Y>93.08</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>警備隊長タラン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>169.62</PopPoint_X>
+<PopPoint_Y>186.65</PopPoint_Y>
+</Character>
+<Character id="cUid75">
+<CharacterUID>75</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>388.67</PopPoint_X>
+<PopPoint_Y>75.92</PopPoint_Y>
+</Character>
+<Character id="cUid76">
+<CharacterUID>76</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>376.42</PopPoint_X>
+<PopPoint_Y>65.80</PopPoint_Y>
+</Character>
+<Character id="cUid77">
+<CharacterUID>77</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>373.51</PopPoint_X>
+<PopPoint_Y>79.60</PopPoint_Y>
+</Character>
+<Character id="cUid78">
+<CharacterUID>78</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>360.64</PopPoint_X>
+<PopPoint_Y>81.28</PopPoint_Y>
+</Character>
+<Character id="cUid79">
+<CharacterUID>79</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>375.51</PopPoint_X>
+<PopPoint_Y>89.40</PopPoint_Y>
+</Character>
+<Character id="cUid80">
+<CharacterUID>80</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>349.63</PopPoint_X>
+<PopPoint_Y>95.24</PopPoint_Y>
+</Character>
+<Character id="cUid81">
+<CharacterUID>81</CharacterUID>
+<CharacterName>鷲闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>344.85</PopPoint_X>
+<PopPoint_Y>76.84</PopPoint_Y>
+</Character>
+<Character id="cUid82">
+<CharacterUID>82</CharacterUID>
+<CharacterName>オーガソルジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>438.79</PopPoint_X>
+<PopPoint_Y>82.39</PopPoint_Y>
+</Character>
+<Character id="cUid83">
+<CharacterUID>83</CharacterUID>
+<CharacterName>オーガソルジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>437.36</PopPoint_X>
+<PopPoint_Y>87.77</PopPoint_Y>
+</Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>オーガソルジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>443.38</PopPoint_X>
+<PopPoint_Y>98.12</PopPoint_Y>
+</Character>
+<Character id="cUid85">
+<CharacterUID>85</CharacterUID>
+<CharacterName>オーガソルジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>453.79</PopPoint_X>
+<PopPoint_Y>100.53</PopPoint_Y>
+</Character>
+<Character id="cUid86">
+<CharacterUID>86</CharacterUID>
+<CharacterName>オーガソルジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>472.20</PopPoint_X>
+<PopPoint_Y>98.33</PopPoint_Y>
+</Character>
+<Character id="cUid87">
+<CharacterUID>87</CharacterUID>
+<CharacterName>オーガソルジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>476.19</PopPoint_X>
+<PopPoint_Y>88.99</PopPoint_Y>
+</Character>
+<Character id="cUid88">
+<CharacterUID>88</CharacterUID>
+<CharacterName>オーガソルジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>469.53</PopPoint_X>
+<PopPoint_Y>81.33</PopPoint_Y>
+</Character>
+<Character id="cUid89">
+<CharacterUID>89</CharacterUID>
+<CharacterName>オーガソルジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>454.02</PopPoint_X>
+<PopPoint_Y>88.20</PopPoint_Y>
+</Character>
+<Character id="cUid90">
+<CharacterUID>90</CharacterUID>
+<CharacterName>オーガソルジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>451.86</PopPoint_X>
+<PopPoint_Y>93.89</PopPoint_Y>
+</Character>
+<Character id="cUid91">
+<CharacterUID>91</CharacterUID>
+<CharacterName>オーガソルジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>463.19</PopPoint_X>
+<PopPoint_Y>92.80</PopPoint_Y>
+</Character>
+<Character id="cUid92">
+<CharacterUID>92</CharacterUID>
+<CharacterName>ブラックベアー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>419.14</PopPoint_X>
+<PopPoint_Y>38.32</PopPoint_Y>
+</Character>
+<Character id="cUid93">
+<CharacterUID>93</CharacterUID>
+<CharacterName>ブラックベアー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>374.38</PopPoint_X>
+<PopPoint_Y>32.04</PopPoint_Y>
+</Character>
+<Character id="cUid94">
+<CharacterUID>94</CharacterUID>
+<CharacterName>ブラックベアー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>324.75</PopPoint_X>
+<PopPoint_Y>32.80</PopPoint_Y>
+</Character>
+<Character id="cUid95">
+<CharacterUID>95</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>441.64</PopPoint_X>
+<PopPoint_Y>223.74</PopPoint_Y>
+</Character>
+<Character id="cUid96">
+<CharacterUID>96</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>457.81</PopPoint_X>
+<PopPoint_Y>215.56</PopPoint_Y>
+</Character>
+<Character id="cUid97">
+<CharacterUID>97</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>173.62</PopPoint_X>
+<PopPoint_Y>178.18</PopPoint_Y>
+</Character>
+<Character id="cUid98">
+<CharacterUID>98</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>182.97</PopPoint_X>
+<PopPoint_Y>193.48</PopPoint_Y>
+</Character>
+<Character id="cUid99">
+<CharacterUID>99</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>161.86</PopPoint_X>
+<PopPoint_Y>187.89</PopPoint_Y>
+</Character>
+<Character id="cUid100">
+<CharacterUID>100</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>193.01</PopPoint_X>
+<PopPoint_Y>175.49</PopPoint_Y>
+</Character>
+<Character id="cUid101">
+<CharacterUID>101</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>193.82</PopPoint_X>
+<PopPoint_Y>181.93</PopPoint_Y>
+</Character>
+<Character id="cUid102">
+<CharacterUID>102</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>159.67</PopPoint_X>
+<PopPoint_Y>177.86</PopPoint_Y>
+</Character>
+<Character id="cUid103">
+<CharacterUID>103</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>195.43</PopPoint_X>
+<PopPoint_Y>190.35</PopPoint_Y>
+</Character>
+<Character id="cUid104">
+<CharacterUID>104</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>179.34</PopPoint_X>
+<PopPoint_Y>186.14</PopPoint_Y>
+</Character>
+<Character id="cUid105">
+<CharacterUID>105</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>152.37</PopPoint_X>
+<PopPoint_Y>192.28</PopPoint_Y>
+</Character>
+<Character id="cUid106">
+<CharacterUID>106</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>157.93</PopPoint_X>
+<PopPoint_Y>183.93</PopPoint_Y>
+</Character>
+<Character id="cUid107">
+<CharacterUID>107</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>275.87</PopPoint_X>
+<PopPoint_Y>169.60</PopPoint_Y>
+</Character>
+<Character id="cUid108">
+<CharacterUID>108</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>277.18</PopPoint_X>
+<PopPoint_Y>166.20</PopPoint_Y>
+</Character>
+<Character id="cUid109">
+<CharacterUID>109</CharacterUID>
+<CharacterName>木こり</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>279.57</PopPoint_X>
+<PopPoint_Y>167.65</PopPoint_Y>
+</Character>
+<Character id="cUid110">
+<CharacterUID>110</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>331.00</PopPoint_X>
+<PopPoint_Y>200.72</PopPoint_Y>
+</Character>
+<Character id="cUid111">
+<CharacterUID>111</CharacterUID>
+<CharacterName>おばあさん</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>185.71</PopPoint_X>
+<PopPoint_Y>215.23</PopPoint_Y>
+</Character>
+<Character id="cUid112">
+<CharacterUID>112</CharacterUID>
+<CharacterName>傭兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>323.25</PopPoint_X>
+<PopPoint_Y>204.49</PopPoint_Y>
+</Character>
+<Character id="cUid113">
+<CharacterUID>113</CharacterUID>
+<CharacterName>おじさん</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.58</PopPoint_X>
+<PopPoint_Y>205.48</PopPoint_Y>
+</Character>
+<Character id="cUid114">
+<CharacterUID>114</CharacterUID>
+<CharacterName>お嬢さん</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>238.37</PopPoint_X>
+<PopPoint_Y>183.17</PopPoint_Y>
+</Character>
+<Character id="cUid115">
+<CharacterUID>115</CharacterUID>
+<CharacterName>青年</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>239.91</PopPoint_X>
+<PopPoint_Y>182.28</PopPoint_Y>
+</Character>
+<Character id="cUid116">
+<CharacterUID>116</CharacterUID>
+<CharacterName>おばさん</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.44</PopPoint_X>
+<PopPoint_Y>212.43</PopPoint_Y>
+</Character>
+<Character id="cUid117">
+<CharacterUID>117</CharacterUID>
+<CharacterName>おじさん</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>104.30</PopPoint_X>
+<PopPoint_Y>211.30</PopPoint_Y>
+</Character>
+<Character id="cUid118">
+<CharacterUID>118</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>460.66</PopPoint_X>
+<PopPoint_Y>221.72</PopPoint_Y>
+</Character>
+<Character id="cUid119">
+<CharacterUID>119</CharacterUID>
+<CharacterName>おじさん</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>213.17</PopPoint_X>
+<PopPoint_Y>212.45</PopPoint_Y>
+</Character>
+<Character id="cUid120">
+<CharacterUID>120</CharacterUID>
+<CharacterName>パサト</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>280.72</PopPoint_X>
+<PopPoint_Y>201.00</PopPoint_Y>
+</Character>
+<Character id="cUid121">
+<CharacterUID>121</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>154.53</PopPoint_X>
+<PopPoint_Y>45.98</PopPoint_Y>
+</Character>
+<Character id="cUid122">
+<CharacterUID>122</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>168.54</PopPoint_X>
+<PopPoint_Y>36.66</PopPoint_Y>
+</Character>
+<Character id="cUid123">
+<CharacterUID>123</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>169.00</PopPoint_X>
+<PopPoint_Y>52.42</PopPoint_Y>
+</Character>
+<Character id="cUid124">
+<CharacterUID>124</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.49</PopPoint_X>
+<PopPoint_Y>55.06</PopPoint_Y>
+</Character>
+<Character id="cUid125">
+<CharacterUID>125</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>30.77</PopPoint_X>
+<PopPoint_Y>17.53</PopPoint_Y>
+</Character>
+<Character id="cUid126">
+<CharacterUID>126</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>40.30</PopPoint_X>
+<PopPoint_Y>13.27</PopPoint_Y>
+</Character>
+<Character id="cUid127">
+<CharacterUID>127</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>41.57</PopPoint_X>
+<PopPoint_Y>19.94</PopPoint_Y>
+</Character>
+<Character id="cUid128">
+<CharacterUID>128</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>44.67</PopPoint_X>
+<PopPoint_Y>8.67</PopPoint_Y>
+</Character>
+<Character id="cUid129">
+<CharacterUID>129</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.36</PopPoint_X>
+<PopPoint_Y>44.05</PopPoint_Y>
+</Character>
+<Character id="cUid130">
+<CharacterUID>130</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>148.71</PopPoint_X>
+<PopPoint_Y>111.21</PopPoint_Y>
+</Character>
+<Character id="cUid131">
+<CharacterUID>131</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>161.93</PopPoint_X>
+<PopPoint_Y>115.58</PopPoint_Y>
+</Character>
+<Character id="cUid132">
+<CharacterUID>132</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>158.71</PopPoint_X>
+<PopPoint_Y>103.27</PopPoint_Y>
+</Character>
+<Character id="cUid133">
+<CharacterUID>133</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>162.96</PopPoint_X>
+<PopPoint_Y>109.71</PopPoint_Y>
+</Character>
+<Character id="cUid134">
+<CharacterUID>134</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>166.08</PopPoint_X>
+<PopPoint_Y>44.64</PopPoint_Y>
+</Character>
+<Character id="cUid135">
+<CharacterUID>135</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>113.19</PopPoint_X>
+<PopPoint_Y>182.18</PopPoint_Y>
+</Character>
+<Character id="cUid136">
+<CharacterUID>136</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>121.69</PopPoint_X>
+<PopPoint_Y>189.77</PopPoint_Y>
+</Character>
+<Character id="cUid137">
+<CharacterUID>137</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>123.90</PopPoint_X>
+<PopPoint_Y>178.13</PopPoint_Y>
+</Character>
+<Character id="cUid138">
+<CharacterUID>138</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>137.98</PopPoint_X>
+<PopPoint_Y>40.57</PopPoint_Y>
+</Character>
+<Character id="cUid139">
+<CharacterUID>139</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>140.74</PopPoint_X>
+<PopPoint_Y>50.78</PopPoint_Y>
+</Character>
+<Character id="cUid140">
+<CharacterUID>140</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>136.51</PopPoint_X>
+<PopPoint_Y>59.62</PopPoint_Y>
+</Character>
+<Character id="cUid141">
+<CharacterUID>141</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>140.65</PopPoint_X>
+<PopPoint_Y>36.43</PopPoint_Y>
+</Character>
+<Character id="cUid142">
+<CharacterUID>142</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>65.46</PopPoint_X>
+<PopPoint_Y>25.14</PopPoint_Y>
+</Character>
+<Character id="cUid143">
+<CharacterUID>143</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.99</PopPoint_X>
+<PopPoint_Y>31.69</PopPoint_Y>
+</Character>
+<Character id="cUid144">
+<CharacterUID>144</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>81.55</PopPoint_X>
+<PopPoint_Y>29.28</PopPoint_Y>
+</Character>
+<Character id="cUid145">
+<CharacterUID>145</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>79.60</PopPoint_X>
+<PopPoint_Y>23.99</PopPoint_Y>
+</Character>
+<Character id="cUid146">
+<CharacterUID>146</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>144.51</PopPoint_X>
+<PopPoint_Y>66.15</PopPoint_Y>
+</Character>
+<Character id="cUid147">
+<CharacterUID>147</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>130.26</PopPoint_X>
+<PopPoint_Y>71.99</PopPoint_Y>
+</Character>
+<Character id="cUid148">
+<CharacterUID>148</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>109.19</PopPoint_X>
+<PopPoint_Y>72.77</PopPoint_Y>
+</Character>
+<Character id="cUid149">
+<CharacterUID>149</CharacterUID>
+<CharacterName>ビッグクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>112.73</PopPoint_X>
+<PopPoint_Y>81.26</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>98689432.35</AreaPos_X>
+<AreaPos_X2>98689432.35</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>Area 1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>101.10</AreaPos_X>
+<AreaPos_X2>133.50</AreaPos_X2>
+<AreaPos_Y>34.84</AreaPos_Y>
+<AreaPos_Y2>69.71</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>120.77</AreaPos_X>
+<AreaPos_X2>156.94</AreaPos_X2>
+<AreaPos_Y>75.81</AreaPos_Y>
+<AreaPos_Y2>96.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>117.00</AreaPos_X>
+<AreaPos_X2>145.50</AreaPos_X2>
+<AreaPos_Y>127.14</AreaPos_Y>
+<AreaPos_Y2>162.43</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>[限界突破] 三角の貝01</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>50.14</AreaPos_X>
+<AreaPos_X2>55.19</AreaPos_X2>
+<AreaPos_Y>31.12</AreaPos_Y>
+<AreaPos_Y2>35.49</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>436.79</AreaPos_X>
+<AreaPos_X2>487.04</AreaPos_X2>
+<AreaPos_Y>227.84</AreaPos_Y>
+<AreaPos_Y2>242.42</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>333.23</AreaPos_X>
+<AreaPos_X2>379.94</AreaPos_X2>
+<AreaPos_Y>210.08</AreaPos_Y>
+<AreaPos_Y2>225.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>177.71</AreaPos_X>
+<AreaPos_X2>200.23</AreaPos_X2>
+<AreaPos_Y>10.72</AreaPos_Y>
+<AreaPos_Y2>27.14</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>193.34</AreaPos_X>
+<AreaPos_X2>219.99</AreaPos_X2>
+<AreaPos_Y>27.60</AreaPos_Y>
+<AreaPos_Y2>47.98</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>250.41</AreaPos_X>
+<AreaPos_X2>289.80</AreaPos_X2>
+<AreaPos_Y>53.41</AreaPos_Y>
+<AreaPos_Y2>77.49</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>[限界突破] 三角の貝02</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>63.24</AreaPos_X>
+<AreaPos_X2>69.07</AreaPos_X2>
+<AreaPos_Y>8.90</AreaPos_Y>
+<AreaPos_Y2>13.29</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>[限界突破] 三角の貝03</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>99.47</AreaPos_X>
+<AreaPos_X2>105.35</AreaPos_X2>
+<AreaPos_Y>44.62</AreaPos_Y>
+<AreaPos_Y2>49.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>281.02</AreaPos_X>
+<AreaPos_X2>312.43</AreaPos_X2>
+<AreaPos_Y>93.38</AreaPos_Y>
+<AreaPos_Y2>122.20</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>314.71</AreaPos_X>
+<AreaPos_X2>381.94</AreaPos_X2>
+<AreaPos_Y>27.88</AreaPos_Y>
+<AreaPos_Y2>40.62</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>397.89</AreaPos_X>
+<AreaPos_X2>437.11</AreaPos_X2>
+<AreaPos_Y>30.59</AreaPos_Y>
+<AreaPos_Y2>49.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>[限界突破] 三角の貝04</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>116.96</AreaPos_X>
+<AreaPos_X2>121.12</AreaPos_X2>
+<AreaPos_Y>43.08</AreaPos_Y>
+<AreaPos_Y2>47.24</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>[限界突破] 三角の貝05</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>113.83</AreaPos_X>
+<AreaPos_X2>118.84</AreaPos_X2>
+<AreaPos_Y>103.29</AreaPos_Y>
+<AreaPos_Y2>108.12</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>341.36</AreaPos_X>
+<AreaPos_X2>393.29</AreaPos_X2>
+<AreaPos_Y>63.69</AreaPos_Y>
+<AreaPos_Y2>99.27</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>430.93</AreaPos_X>
+<AreaPos_X2>482.17</AreaPos_X2>
+<AreaPos_Y>75.30</AreaPos_Y>
+<AreaPos_Y2>104.05</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>Area 19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>148.99</AreaPos_X>
+<AreaPos_X2>197.17</AreaPos_X2>
+<AreaPos_Y>174.80</AreaPos_Y>
+<AreaPos_Y2>193.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>S09</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[372]S09.rmd</AccessMap>
+<AccessMapName>南フォーリンロード / エルン山南部地域</AccessMapName>
+<AreaPos_X>252.92</AreaPos_X>
+<AreaPos_X2>256.50</AreaPos_X2>
+<AreaPos_Y>2.46</AreaPos_Y>
+<AreaPos_Y2>4.32</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>T05</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[375]T05.rmd</AccessMap>
+<AccessMapName>港街シュトラセラト</AccessMapName>
+<AreaPos_X>489.66</AreaPos_X>
+<AreaPos_X2>492.58</AreaPos_X2>
+<AreaPos_Y>175.08</AreaPos_Y>
+<AreaPos_Y2>177.77</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>Area 22</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>267.14</AreaPos_X>
+<AreaPos_X2>289.32</AreaPos_X2>
+<AreaPos_Y>158.33</AreaPos_Y>
+<AreaPos_Y2>174.36</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>Area 23</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>321.97</AreaPos_X>
+<AreaPos_X2>342.39</AreaPos_X2>
+<AreaPos_Y>193.89</AreaPos_Y>
+<AreaPos_Y2>205.04</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>シュトラセラト地方警備隊詰め所</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>146.16</AreaPos_X>
+<AreaPos_X2>147.68</AreaPos_X2>
+<AreaPos_Y>182.97</AreaPos_Y>
+<AreaPos_Y2>184.35</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>Area 25</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>232.70</AreaPos_X>
+<AreaPos_X2>242.85</AreaPos_X2>
+<AreaPos_Y>178.82</AreaPos_Y>
+<AreaPos_Y2>187.15</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>[限界突破] 丸い貝01</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>94.09</AreaPos_X>
+<AreaPos_X2>99.86</AreaPos_X2>
+<AreaPos_Y>218.22</AreaPos_Y>
+<AreaPos_Y2>222.82</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>트럼 숲</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[388]G23_G01_F01.rmd</AccessMap>
+<AccessMapName>トラン森南部</AccessMapName>
+<AreaPos_X>438.56</AreaPos_X>
+<AreaPos_X2>441.80</AreaPos_X2>
+<AreaPos_Y>5.80</AreaPos_Y>
+<AreaPos_Y2>7.52</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>비벼먹을 곰탱이들</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>281.41</AreaPos_X>
+<AreaPos_X2>282.24</AreaPos_X2>
+<AreaPos_Y>196.83</AreaPos_Y>
+<AreaPos_Y2>197.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>물에 떠내려간 반지를 찾아줘</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>104.27</AreaPos_X>
+<AreaPos_X2>104.87</AreaPos_X2>
+<AreaPos_Y>211.85</AreaPos_Y>
+<AreaPos_Y2>212.20</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>ログハウス</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>395.01</AreaPos_X>
+<AreaPos_X2>409.01</AreaPos_X2>
+<AreaPos_Y>102.56</AreaPos_Y>
+<AreaPos_Y2>110.49</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>ログハウス</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>404.09</AreaPos_X>
+<AreaPos_X2>406.14</AreaPos_X2>
+<AreaPos_Y>105.87</AreaPos_Y>
+<AreaPos_Y2>106.95</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>白浜</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>155.35</AreaPos_X>
+<AreaPos_X2>169.14</AreaPos_X2>
+<AreaPos_Y>65.46</AreaPos_Y>
+<AreaPos_Y2>70.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>Area 33</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>145.01</AreaPos_X>
+<AreaPos_X2>176.38</AreaPos_X2>
+<AreaPos_Y>34.82</AreaPos_Y>
+<AreaPos_Y2>60.58</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>Area 34</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>28.58</AreaPos_X>
+<AreaPos_X2>56.62</AreaPos_X2>
+<AreaPos_Y>6.85</AreaPos_Y>
+<AreaPos_Y2>25.37</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>Area 35</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>144.88</AreaPos_X>
+<AreaPos_X2>172.56</AreaPos_X2>
+<AreaPos_Y>96.60</AreaPos_Y>
+<AreaPos_Y2>121.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>Area 36</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>107.81</AreaPos_X>
+<AreaPos_X2>134.01</AreaPos_X2>
+<AreaPos_Y>172.89</AreaPos_Y>
+<AreaPos_Y2>195.43</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid38">
+<AreaUID>38</AreaUID>
+<AreaName>Area 37</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>134.21</AreaPos_X>
+<AreaPos_X2>143.96</AreaPos_X2>
+<AreaPos_Y>34.71</AreaPos_Y>
+<AreaPos_Y2>61.57</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid39">
+<AreaUID>39</AreaUID>
+<AreaName>Area 38</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>61.58</AreaPos_X>
+<AreaPos_X2>86.86</AreaPos_X2>
+<AreaPos_Y>18.54</AreaPos_Y>
+<AreaPos_Y2>35.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid40">
+<AreaUID>40</AreaUID>
+<AreaName>[限界突破] 星型の貝01</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>105.06</AreaPos_X>
+<AreaPos_X2>110.11</AreaPos_X2>
+<AreaPos_Y>197.94</AreaPos_Y>
+<AreaPos_Y2>202.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid41">
+<AreaUID>41</AreaUID>
+<AreaName>[限界突破] 丸い貝03</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>112.22</AreaPos_X>
+<AreaPos_X2>117.28</AreaPos_X2>
+<AreaPos_Y>220.22</AreaPos_Y>
+<AreaPos_Y2>224.60</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid42">
+<AreaUID>42</AreaUID>
+<AreaName>[限界突破] 丸い貝02</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>146.53</AreaPos_X>
+<AreaPos_X2>152.64</AreaPos_X2>
+<AreaPos_Y>216.94</AreaPos_Y>
+<AreaPos_Y2>221.90</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid43">
+<AreaUID>43</AreaUID>
+<AreaName>[限界突破] 丸い貝04</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>85.50</AreaPos_X>
+<AreaPos_X2>91.06</AreaPos_X2>
+<AreaPos_Y>21.00</AreaPos_Y>
+<AreaPos_Y2>25.37</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid44">
+<AreaUID>44</AreaUID>
+<AreaName>[限界突破] 丸い貝05</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>127.69</AreaPos_X>
+<AreaPos_X2>132.74</AreaPos_X2>
+<AreaPos_Y>137.95</AreaPos_Y>
+<AreaPos_Y2>141.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid45">
+<AreaUID>45</AreaUID>
+<AreaName>[限界突破] 星型の貝02</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>134.70</AreaPos_X>
+<AreaPos_X2>138.65</AreaPos_X2>
+<AreaPos_Y>135.86</AreaPos_Y>
+<AreaPos_Y2>139.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid46">
+<AreaUID>46</AreaUID>
+<AreaName>[限界突破] 星型の貝03</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>67.72</AreaPos_X>
+<AreaPos_X2>72.15</AreaPos_X2>
+<AreaPos_Y>20.59</AreaPos_Y>
+<AreaPos_Y2>24.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid47">
+<AreaUID>47</AreaUID>
+<AreaName>[限界突破] 三角の貝06</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>137.32</AreaPos_X>
+<AreaPos_X2>142.69</AreaPos_X2>
+<AreaPos_Y>158.70</AreaPos_Y>
+<AreaPos_Y2>163.71</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid48">
+<AreaUID>48</AreaUID>
+<AreaName>[限界突破] 丸い貝06</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>121.67</AreaPos_X>
+<AreaPos_X2>125.39</AreaPos_X2>
+<AreaPos_Y>179.47</AreaPos_Y>
+<AreaPos_Y2>182.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid49">
+<AreaUID>49</AreaUID>
+<AreaName>[限界突破] 星型の貝04</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>114.80</AreaPos_X>
+<AreaPos_X2>119.07</AreaPos_X2>
+<AreaPos_Y>88.87</AreaPos_Y>
+<AreaPos_Y2>92.55</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid50">
+<AreaUID>50</AreaUID>
+<AreaName>Area 49</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>59.74</AreaPos_X>
+<AreaPos_X2>88.05</AreaPos_X2>
+<AreaPos_Y>1.84</AreaPos_Y>
+<AreaPos_Y2>17.48</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid51">
+<AreaUID>51</AreaUID>
+<AreaName>Area 50</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>74.54</AreaPos_X>
+<AreaPos_X2>98.53</AreaPos_X2>
+<AreaPos_Y>36.52</AreaPos_Y>
+<AreaPos_Y2>56.76</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid52">
+<AreaUID>52</AreaUID>
+<AreaName>Area 51</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>124.91</AreaPos_X>
+<AreaPos_X2>142.65</AreaPos_X2>
+<AreaPos_Y>98.53</AreaPos_Y>
+<AreaPos_Y2>125.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid53">
+<AreaUID>53</AreaUID>
+<AreaName>Area 52</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>95.86</AreaPos_X>
+<AreaPos_X2>116.73</AreaPos_X2>
+<AreaPos_Y>148.67</AreaPos_Y>
+<AreaPos_Y2>175.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid54">
+<AreaUID>54</AreaUID>
+<AreaName>Area 53</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>376.10</AreaPos_X>
+<AreaPos_X2>407.35</AreaPos_X2>
+<AreaPos_Y>193.66</AreaPos_Y>
+<AreaPos_Y2>211.14</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid55">
+<AreaUID>55</AreaUID>
+<AreaName>Area 54</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>396.78</AreaPos_X>
+<AreaPos_X2>418.75</AreaPos_X2>
+<AreaPos_Y>207.83</AreaPos_Y>
+<AreaPos_Y2>225.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid56">
+<AreaUID>56</AreaUID>
+<AreaName>Area 55</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>430.42</AreaPos_X>
+<AreaPos_X2>465.35</AreaPos_X2>
+<AreaPos_Y>208.75</AreaPos_Y>
+<AreaPos_Y2>227.61</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid57">
+<AreaUID>57</AreaUID>
+<AreaName>Area 56</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>124.15</AreaPos_X>
+<AreaPos_X2>150.48</AreaPos_X2>
+<AreaPos_Y>63.57</AreaPos_Y>
+<AreaPos_Y2>77.58</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid58">
+<AreaUID>58</AreaUID>
+<AreaName>Area 57</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>100.92</AreaPos_X>
+<AreaPos_X2>115.17</AreaPos_X2>
+<AreaPos_Y>71.14</AreaPos_Y>
+<AreaPos_Y2>87.10</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

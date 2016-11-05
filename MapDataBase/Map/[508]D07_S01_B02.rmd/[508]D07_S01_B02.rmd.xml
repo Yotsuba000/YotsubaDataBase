@@ -1,0 +1,5904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[508]D07_S01_B02.rmd</FileName>
+<FileType>Red Stone Scenario File 7.0 beta</FileType>
+<MapName>デフヒルズ古代遺跡 B2</MapName>
+<SysWidth>220</SysWidth>
+<SysHeight>220</SysHeight>
+<TgaWidth>400</TgaWidth>
+<TgaHeight>200</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>1</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>7</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>25</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>25</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>125.85</PopPoint_X>
+<PopPoint_Y>73.75</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>131.85</PopPoint_X>
+<PopPoint_Y>83.84</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>121.56</PopPoint_X>
+<PopPoint_Y>86.11</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>109.66</PopPoint_X>
+<PopPoint_Y>93.78</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.24</PopPoint_X>
+<PopPoint_Y>82.78</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>80.77</PopPoint_X>
+<PopPoint_Y>76.62</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>158.21</PopPoint_X>
+<PopPoint_Y>57.84</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>165.51</PopPoint_X>
+<PopPoint_Y>65.74</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>169.55</PopPoint_X>
+<PopPoint_Y>59.86</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>187.39</PopPoint_X>
+<PopPoint_Y>55.74</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>182.53</PopPoint_X>
+<PopPoint_Y>47.44</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>166.65</PopPoint_X>
+<PopPoint_Y>43.81</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>132.10</PopPoint_X>
+<PopPoint_Y>31.31</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>117.05</PopPoint_X>
+<PopPoint_Y>31.90</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>108.95</PopPoint_X>
+<PopPoint_Y>41.36</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>62.16</PopPoint_X>
+<PopPoint_Y>61.82</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>72.59</PopPoint_X>
+<PopPoint_Y>56.59</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>87.13</PopPoint_X>
+<PopPoint_Y>53.04</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>46.68</PopPoint_X>
+<PopPoint_Y>35.63</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>59.46</PopPoint_X>
+<PopPoint_Y>37.90</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>74.77</PopPoint_X>
+<PopPoint_Y>23.75</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>ボーンファイター</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>88.27</PopPoint_X>
+<PopPoint_Y>25.99</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>ゴーストアーマー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>105.40</PopPoint_X>
+<PopPoint_Y>89.69</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>ゴーストアーマー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>81.31</PopPoint_X>
+<PopPoint_Y>83.07</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>ゴーストアーマー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>190.54</PopPoint_X>
+<PopPoint_Y>53.01</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>ゴーストアーマー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>164.18</PopPoint_X>
+<PopPoint_Y>38.69</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>ゴーストアーマー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>112.05</PopPoint_X>
+<PopPoint_Y>35.99</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>ゴーストアーマー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.24</PopPoint_X>
+<PopPoint_Y>57.02</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>ゴーストアーマー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.87</PopPoint_X>
+<PopPoint_Y>23.47</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>ゴーストアーマー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>51.93</PopPoint_X>
+<PopPoint_Y>34.15</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>47.24</PopPoint_X>
+<PopPoint_Y>40.82</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>85.03</PopPoint_X>
+<PopPoint_Y>24.35</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>60.03</PopPoint_X>
+<PopPoint_Y>54.69</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>89.29</PopPoint_X>
+<PopPoint_Y>80.54</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>123.18</PopPoint_X>
+<PopPoint_Y>80.71</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.57</PopPoint_X>
+<PopPoint_Y>85.48</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>162.33</PopPoint_X>
+<PopPoint_Y>59.29</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>184.20</PopPoint_X>
+<PopPoint_Y>53.41</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>170.31</PopPoint_X>
+<PopPoint_Y>41.14</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>120.20</PopPoint_X>
+<PopPoint_Y>36.53</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>74.20</PopPoint_X>
+<PopPoint_Y>27.76</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>58.10</PopPoint_X>
+<PopPoint_Y>34.09</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>128.75</PopPoint_X>
+<PopPoint_Y>34.72</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.47</PopPoint_X>
+<PopPoint_Y>51.05</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>88.92</PopPoint_X>
+<PopPoint_Y>86.48</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.78</PopPoint_X>
+<PopPoint_Y>94.03</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>129.49</PopPoint_X>
+<PopPoint_Y>80.40</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>169.66</PopPoint_X>
+<PopPoint_Y>56.45</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>190.06</PopPoint_X>
+<PopPoint_Y>48.10</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>158.44</PopPoint_X>
+<PopPoint_Y>41.93</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>71.11</PopPoint_X>
+<PopPoint_Y>61.19</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>ブレイジャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>116.76</PopPoint_X>
+<PopPoint_Y>39.80</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>97.13</PopPoint_X>
+<PopPoint_Y>62.53</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>96.14</PopPoint_X>
+<PopPoint_Y>69.89</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>105.88</PopPoint_X>
+<PopPoint_Y>71.70</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>104.35</PopPoint_X>
+<PopPoint_Y>63.86</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>113.10</PopPoint_X>
+<PopPoint_Y>68.07</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>116.08</PopPoint_X>
+<PopPoint_Y>61.62</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>127.05</PopPoint_X>
+<PopPoint_Y>48.72</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>125.97</PopPoint_X>
+<PopPoint_Y>55.80</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>133.13</PopPoint_X>
+<PopPoint_Y>52.50</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>140.14</PopPoint_X>
+<PopPoint_Y>57.59</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>142.73</PopPoint_X>
+<PopPoint_Y>50.51</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>135.80</PopPoint_X>
+<PopPoint_Y>47.87</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>119.80</PopPoint_X>
+<PopPoint_Y>128.86</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>103.78</PopPoint_X>
+<PopPoint_Y>113.58</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>95.54</PopPoint_X>
+<PopPoint_Y>122.78</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>72.39</PopPoint_X>
+<PopPoint_Y>129.43</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>50.11</PopPoint_X>
+<PopPoint_Y>148.49</PopPoint_Y>
+</Character>
+<Character id="cUid69">
+<CharacterUID>69</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>77.07</PopPoint_X>
+<PopPoint_Y>155.71</PopPoint_Y>
+</Character>
+<Character id="cUid70">
+<CharacterUID>70</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.15</PopPoint_X>
+<PopPoint_Y>167.98</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>60.68</PopPoint_X>
+<PopPoint_Y>175.54</PopPoint_Y>
+</Character>
+<Character id="cUid72">
+<CharacterUID>72</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>80.65</PopPoint_X>
+<PopPoint_Y>185.99</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>101.45</PopPoint_X>
+<PopPoint_Y>166.85</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>125.37</PopPoint_X>
+<PopPoint_Y>174.57</PopPoint_Y>
+</Character>
+<Character id="cUid75">
+<CharacterUID>75</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>164.83</PopPoint_X>
+<PopPoint_Y>159.94</PopPoint_Y>
+</Character>
+<Character id="cUid76">
+<CharacterUID>76</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>182.30</PopPoint_X>
+<PopPoint_Y>156.96</PopPoint_Y>
+</Character>
+<Character id="cUid77">
+<CharacterUID>77</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>155.57</PopPoint_X>
+<PopPoint_Y>145.68</PopPoint_Y>
+</Character>
+<Character id="cUid78">
+<CharacterUID>78</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>173.07</PopPoint_X>
+<PopPoint_Y>152.10</PopPoint_Y>
+</Character>
+<Character id="cUid79">
+<CharacterUID>79</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>104.55</PopPoint_X>
+<PopPoint_Y>123.24</PopPoint_Y>
+</Character>
+<Character id="cUid80">
+<CharacterUID>80</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>118.30</PopPoint_X>
+<PopPoint_Y>122.27</PopPoint_Y>
+</Character>
+<Character id="cUid81">
+<CharacterUID>81</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>78.38</PopPoint_X>
+<PopPoint_Y>123.64</PopPoint_Y>
+</Character>
+<Character id="cUid82">
+<CharacterUID>82</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>73.61</PopPoint_X>
+<PopPoint_Y>132.24</PopPoint_Y>
+</Character>
+<Character id="cUid83">
+<CharacterUID>83</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>155.82</PopPoint_X>
+<PopPoint_Y>159.74</PopPoint_Y>
+</Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>163.30</PopPoint_X>
+<PopPoint_Y>168.47</PopPoint_Y>
+</Character>
+<Character id="cUid85">
+<CharacterUID>85</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>178.49</PopPoint_X>
+<PopPoint_Y>148.81</PopPoint_Y>
+</Character>
+<Character id="cUid86">
+<CharacterUID>86</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>161.45</PopPoint_X>
+<PopPoint_Y>152.19</PopPoint_Y>
+</Character>
+<Character id="cUid87">
+<CharacterUID>87</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>104.91</PopPoint_X>
+<PopPoint_Y>174.18</PopPoint_Y>
+</Character>
+<Character id="cUid88">
+<CharacterUID>88</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>119.38</PopPoint_X>
+<PopPoint_Y>172.87</PopPoint_Y>
+</Character>
+<Character id="cUid89">
+<CharacterUID>89</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>51.59</PopPoint_X>
+<PopPoint_Y>153.47</PopPoint_Y>
+</Character>
+<Character id="cUid90">
+<CharacterUID>90</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.53</PopPoint_X>
+<PopPoint_Y>152.44</PopPoint_Y>
+</Character>
+<Character id="cUid91">
+<CharacterUID>91</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.95</PopPoint_X>
+<PopPoint_Y>172.07</PopPoint_Y>
+</Character>
+<Character id="cUid92">
+<CharacterUID>92</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>63.04</PopPoint_X>
+<PopPoint_Y>182.33</PopPoint_Y>
+</Character>
+<Character id="cUid93">
+<CharacterUID>93</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>76.08</PopPoint_X>
+<PopPoint_Y>180.57</PopPoint_Y>
+</Character>
+<Character id="cUid94">
+<CharacterUID>94</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>48.35</PopPoint_X>
+<PopPoint_Y>166.28</PopPoint_Y>
+</Character>
+<Character id="cUid95">
+<CharacterUID>95</CharacterUID>
+<CharacterName>マミー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>42.53</PopPoint_X>
+<PopPoint_Y>170.99</PopPoint_Y>
+</Character>
+<Character id="cUid96">
+<CharacterUID>96</CharacterUID>
+<CharacterName>マミー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>58.13</PopPoint_X>
+<PopPoint_Y>181.62</PopPoint_Y>
+</Character>
+<Character id="cUid97">
+<CharacterUID>97</CharacterUID>
+<CharacterName>マミー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>73.38</PopPoint_X>
+<PopPoint_Y>152.30</PopPoint_Y>
+</Character>
+<Character id="cUid98">
+<CharacterUID>98</CharacterUID>
+<CharacterName>マミー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>99.20</PopPoint_X>
+<PopPoint_Y>170.97</PopPoint_Y>
+</Character>
+<Character id="cUid99">
+<CharacterUID>99</CharacterUID>
+<CharacterName>マミー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>176.51</PopPoint_X>
+<PopPoint_Y>160.06</PopPoint_Y>
+</Character>
+<Character id="cUid100">
+<CharacterUID>100</CharacterUID>
+<CharacterName>マミー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>94.63</PopPoint_X>
+<PopPoint_Y>111.56</PopPoint_Y>
+</Character>
+<Character id="cUid101">
+<CharacterUID>101</CharacterUID>
+<CharacterName>マミー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>71.08</PopPoint_X>
+<PopPoint_Y>123.15</PopPoint_Y>
+</Character>
+<Character id="cUid102">
+<CharacterUID>102</CharacterUID>
+<CharacterName>マミー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.64</PopPoint_X>
+<PopPoint_Y>167.47</PopPoint_Y>
+</Character>
+<Character id="cUid103">
+<CharacterUID>103</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>159.89</PopPoint_X>
+<PopPoint_Y>140.88</PopPoint_Y>
+</Character>
+<Character id="cUid104">
+<CharacterUID>104</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>152.10</PopPoint_X>
+<PopPoint_Y>151.45</PopPoint_Y>
+</Character>
+<Character id="cUid105">
+<CharacterUID>105</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>105.40</PopPoint_X>
+<PopPoint_Y>118.66</PopPoint_Y>
+</Character>
+<Character id="cUid106">
+<CharacterUID>106</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>92.13</PopPoint_X>
+<PopPoint_Y>117.53</PopPoint_Y>
+</Character>
+<Character id="cUid107">
+<CharacterUID>107</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>123.13</PopPoint_X>
+<PopPoint_Y>124.63</PopPoint_Y>
+</Character>
+<Character id="cUid108">
+<CharacterUID>108</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>180.20</PopPoint_X>
+<PopPoint_Y>154.26</PopPoint_Y>
+</Character>
+<Character id="cUid109">
+<CharacterUID>109</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>79.77</PopPoint_X>
+<PopPoint_Y>180.57</PopPoint_Y>
+</Character>
+<Character id="cUid110">
+<CharacterUID>110</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.99</PopPoint_X>
+<PopPoint_Y>169.49</PopPoint_Y>
+</Character>
+<Character id="cUid111">
+<CharacterUID>111</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>69.66</PopPoint_X>
+<PopPoint_Y>155.63</PopPoint_Y>
+</Character>
+<Character id="cUid112">
+<CharacterUID>112</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>54.72</PopPoint_X>
+<PopPoint_Y>149.03</PopPoint_Y>
+</Character>
+<Character id="cUid113">
+<CharacterUID>113</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>109.97</PopPoint_X>
+<PopPoint_Y>170.57</PopPoint_Y>
+</Character>
+<Character id="cUid114">
+<CharacterUID>114</CharacterUID>
+<CharacterName>ファナティック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>121.82</PopPoint_X>
+<PopPoint_Y>177.39</PopPoint_Y>
+</Character>
+<Character id="cUid115">
+<CharacterUID>115</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>60.40</PopPoint_X>
+<PopPoint_Y>157.19</PopPoint_Y>
+</Character>
+<Character id="cUid116">
+<CharacterUID>116</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.59</PopPoint_X>
+<PopPoint_Y>166.53</PopPoint_Y>
+</Character>
+<Character id="cUid117">
+<CharacterUID>117</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>57.47</PopPoint_X>
+<PopPoint_Y>170.51</PopPoint_Y>
+</Character>
+<Character id="cUid118">
+<CharacterUID>118</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>99.43</PopPoint_X>
+<PopPoint_Y>118.01</PopPoint_Y>
+</Character>
+<Character id="cUid119">
+<CharacterUID>119</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>117.93</PopPoint_X>
+<PopPoint_Y>132.84</PopPoint_Y>
+</Character>
+<Character id="cUid120">
+<CharacterUID>120</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>150.88</PopPoint_X>
+<PopPoint_Y>139.35</PopPoint_Y>
+</Character>
+<Character id="cUid121">
+<CharacterUID>121</CharacterUID>
+<CharacterName>デッドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>172.27</PopPoint_X>
+<PopPoint_Y>158.47</PopPoint_Y>
+</Character>
+<Character id="cUid122">
+<CharacterUID>122</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>88.07</PopPoint_X>
+<PopPoint_Y>138.78</PopPoint_Y>
+</Character>
+<Character id="cUid123">
+<CharacterUID>123</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>84.20</PopPoint_X>
+<PopPoint_Y>145.14</PopPoint_Y>
+</Character>
+<Character id="cUid124">
+<CharacterUID>124</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>101.05</PopPoint_X>
+<PopPoint_Y>139.15</PopPoint_Y>
+</Character>
+<Character id="cUid125">
+<CharacterUID>125</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>94.91</PopPoint_X>
+<PopPoint_Y>143.47</PopPoint_Y>
+</Character>
+<Character id="cUid126">
+<CharacterUID>126</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.25</PopPoint_X>
+<PopPoint_Y>146.22</PopPoint_Y>
+</Character>
+<Character id="cUid127">
+<CharacterUID>127</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>116.73</PopPoint_X>
+<PopPoint_Y>151.59</PopPoint_Y>
+</Character>
+<Character id="cUid128">
+<CharacterUID>128</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>113.78</PopPoint_X>
+<PopPoint_Y>157.98</PopPoint_Y>
+</Character>
+<Character id="cUid129">
+<CharacterUID>129</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>123.78</PopPoint_X>
+<PopPoint_Y>162.24</PopPoint_Y>
+</Character>
+<Character id="cUid130">
+<CharacterUID>130</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>125.20</PopPoint_X>
+<PopPoint_Y>153.44</PopPoint_Y>
+</Character>
+<Character id="cUid131">
+<CharacterUID>131</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>132.19</PopPoint_X>
+<PopPoint_Y>158.44</PopPoint_Y>
+</Character>
+<Character id="cUid132">
+<CharacterUID>132</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>90.03</PopPoint_X>
+<PopPoint_Y>142.90</PopPoint_Y>
+</Character>
+<Character id="cUid133">
+<CharacterUID>133</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>126.45</PopPoint_X>
+<PopPoint_Y>158.89</PopPoint_Y>
+</Character>
+<Character id="cUid134">
+<CharacterUID>134</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>280.51</PopPoint_X>
+<PopPoint_Y>120.17</PopPoint_Y>
+</Character>
+<Character id="cUid135">
+<CharacterUID>135</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>297.13</PopPoint_X>
+<PopPoint_Y>101.79</PopPoint_Y>
+</Character>
+<Character id="cUid136">
+<CharacterUID>136</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>322.19</PopPoint_X>
+<PopPoint_Y>121.96</PopPoint_Y>
+</Character>
+<Character id="cUid137">
+<CharacterUID>137</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>250.63</PopPoint_X>
+<PopPoint_Y>129.60</PopPoint_Y>
+</Character>
+<Character id="cUid138">
+<CharacterUID>138</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>218.72</PopPoint_X>
+<PopPoint_Y>146.62</PopPoint_Y>
+</Character>
+<Character id="cUid139">
+<CharacterUID>139</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>246.36</PopPoint_X>
+<PopPoint_Y>160.17</PopPoint_Y>
+</Character>
+<Character id="cUid140">
+<CharacterUID>140</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>271.14</PopPoint_X>
+<PopPoint_Y>164.60</PopPoint_Y>
+</Character>
+<Character id="cUid141">
+<CharacterUID>141</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>300.06</PopPoint_X>
+<PopPoint_Y>158.38</PopPoint_Y>
+</Character>
+<Character id="cUid142">
+<CharacterUID>142</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.31</PopPoint_X>
+<PopPoint_Y>176.05</PopPoint_Y>
+</Character>
+<Character id="cUid143">
+<CharacterUID>143</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>343.89</PopPoint_X>
+<PopPoint_Y>160.71</PopPoint_Y>
+</Character>
+<Character id="cUid144">
+<CharacterUID>144</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>362.70</PopPoint_X>
+<PopPoint_Y>164.23</PopPoint_Y>
+</Character>
+<Character id="cUid145">
+<CharacterUID>145</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>320.54</PopPoint_X>
+<PopPoint_Y>142.78</PopPoint_Y>
+</Character>
+<Character id="cUid146">
+<CharacterUID>146</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>343.38</PopPoint_X>
+<PopPoint_Y>132.98</PopPoint_Y>
+</Character>
+<Character id="cUid147">
+<CharacterUID>147</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>281.05</PopPoint_X>
+<PopPoint_Y>111.25</PopPoint_Y>
+</Character>
+<Character id="cUid148">
+<CharacterUID>148</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>303.58</PopPoint_X>
+<PopPoint_Y>105.45</PopPoint_Y>
+</Character>
+<Character id="cUid149">
+<CharacterUID>149</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>296.88</PopPoint_X>
+<PopPoint_Y>114.91</PopPoint_Y>
+</Character>
+<Character id="cUid150">
+<CharacterUID>150</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>318.95</PopPoint_X>
+<PopPoint_Y>114.15</PopPoint_Y>
+</Character>
+<Character id="cUid151">
+<CharacterUID>151</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>221.56</PopPoint_X>
+<PopPoint_Y>138.64</PopPoint_Y>
+</Character>
+<Character id="cUid152">
+<CharacterUID>152</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>230.71</PopPoint_X>
+<PopPoint_Y>151.65</PopPoint_Y>
+</Character>
+<Character id="cUid153">
+<CharacterUID>153</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>243.35</PopPoint_X>
+<PopPoint_Y>130.51</PopPoint_Y>
+</Character>
+<Character id="cUid154">
+<CharacterUID>154</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>242.59</PopPoint_X>
+<PopPoint_Y>151.34</PopPoint_Y>
+</Character>
+<Character id="cUid155">
+<CharacterUID>155</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>283.27</PopPoint_X>
+<PopPoint_Y>164.57</PopPoint_Y>
+</Character>
+<Character id="cUid156">
+<CharacterUID>156</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>296.65</PopPoint_X>
+<PopPoint_Y>164.52</PopPoint_Y>
+</Character>
+<Character id="cUid157">
+<CharacterUID>157</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>345.71</PopPoint_X>
+<PopPoint_Y>139.43</PopPoint_Y>
+</Character>
+<Character id="cUid158">
+<CharacterUID>158</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>291.73</PopPoint_X>
+<PopPoint_Y>156.76</PopPoint_Y>
+</Character>
+<Character id="cUid159">
+<CharacterUID>159</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>326.45</PopPoint_X>
+<PopPoint_Y>143.95</PopPoint_Y>
+</Character>
+<Character id="cUid160">
+<CharacterUID>160</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>330.00</PopPoint_X>
+<PopPoint_Y>139.91</PopPoint_Y>
+</Character>
+<Character id="cUid161">
+<CharacterUID>161</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>329.09</PopPoint_X>
+<PopPoint_Y>171.65</PopPoint_Y>
+</Character>
+<Character id="cUid162">
+<CharacterUID>162</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>355.57</PopPoint_X>
+<PopPoint_Y>157.64</PopPoint_Y>
+</Character>
+<Character id="cUid163">
+<CharacterUID>163</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>342.81</PopPoint_X>
+<PopPoint_Y>167.07</PopPoint_Y>
+</Character>
+<Character id="cUid164">
+<CharacterUID>164</CharacterUID>
+<CharacterName>古代オーガ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>325.43</PopPoint_X>
+<PopPoint_Y>170.97</PopPoint_Y>
+</Character>
+<Character id="cUid165">
+<CharacterUID>165</CharacterUID>
+<CharacterName>古代オーガ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>356.05</PopPoint_X>
+<PopPoint_Y>162.50</PopPoint_Y>
+</Character>
+<Character id="cUid166">
+<CharacterUID>166</CharacterUID>
+<CharacterName>古代オーガ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>342.02</PopPoint_X>
+<PopPoint_Y>138.64</PopPoint_Y>
+</Character>
+<Character id="cUid167">
+<CharacterUID>167</CharacterUID>
+<CharacterName>古代オーガ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>278.84</PopPoint_X>
+<PopPoint_Y>165.43</PopPoint_Y>
+</Character>
+<Character id="cUid168">
+<CharacterUID>168</CharacterUID>
+<CharacterName>古代オーガ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>225.54</PopPoint_X>
+<PopPoint_Y>145.97</PopPoint_Y>
+</Character>
+<Character id="cUid169">
+<CharacterUID>169</CharacterUID>
+<CharacterName>古代オーガ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>298.10</PopPoint_X>
+<PopPoint_Y>110.34</PopPoint_Y>
+</Character>
+<Character id="cUid170">
+<CharacterUID>170</CharacterUID>
+<CharacterName>古代オーガ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>313.95</PopPoint_X>
+<PopPoint_Y>113.78</PopPoint_Y>
+</Character>
+<Character id="cUid171">
+<CharacterUID>171</CharacterUID>
+<CharacterName>古代オーガ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>240.99</PopPoint_X>
+<PopPoint_Y>153.95</PopPoint_Y>
+</Character>
+<Character id="cUid172">
+<CharacterUID>172</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>279.97</PopPoint_X>
+<PopPoint_Y>116.65</PopPoint_Y>
+</Character>
+<Character id="cUid173">
+<CharacterUID>173</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>289.20</PopPoint_X>
+<PopPoint_Y>120.23</PopPoint_Y>
+</Character>
+<Character id="cUid174">
+<CharacterUID>174</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>318.86</PopPoint_X>
+<PopPoint_Y>119.20</PopPoint_Y>
+</Character>
+<Character id="cUid175">
+<CharacterUID>175</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>254.57</PopPoint_X>
+<PopPoint_Y>134.83</PopPoint_Y>
+</Character>
+<Character id="cUid176">
+<CharacterUID>176</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>241.73</PopPoint_X>
+<PopPoint_Y>138.32</PopPoint_Y>
+</Character>
+<Character id="cUid177">
+<CharacterUID>177</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>237.95</PopPoint_X>
+<PopPoint_Y>147.16</PopPoint_Y>
+</Character>
+<Character id="cUid178">
+<CharacterUID>178</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>304.29</PopPoint_X>
+<PopPoint_Y>162.64</PopPoint_Y>
+</Character>
+<Character id="cUid179">
+<CharacterUID>179</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>322.61</PopPoint_X>
+<PopPoint_Y>139.29</PopPoint_Y>
+</Character>
+<Character id="cUid180">
+<CharacterUID>180</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>337.93</PopPoint_X>
+<PopPoint_Y>161.42</PopPoint_Y>
+</Character>
+<Character id="cUid181">
+<CharacterUID>181</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>362.64</PopPoint_X>
+<PopPoint_Y>160.14</PopPoint_Y>
+</Character>
+<Character id="cUid182">
+<CharacterUID>182</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>326.05</PopPoint_X>
+<PopPoint_Y>176.73</PopPoint_Y>
+</Character>
+<Character id="cUid183">
+<CharacterUID>183</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>338.15</PopPoint_X>
+<PopPoint_Y>169.18</PopPoint_Y>
+</Character>
+<Character id="cUid184">
+<CharacterUID>184</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>229.43</PopPoint_X>
+<PopPoint_Y>143.15</PopPoint_Y>
+</Character>
+<Character id="cUid185">
+<CharacterUID>185</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>303.58</PopPoint_X>
+<PopPoint_Y>114.94</PopPoint_Y>
+</Character>
+<Character id="cUid186">
+<CharacterUID>186</CharacterUID>
+<CharacterName>古代神官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>344.18</PopPoint_X>
+<PopPoint_Y>157.24</PopPoint_Y>
+</Character>
+<Character id="cUid187">
+<CharacterUID>187</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>263.47</PopPoint_X>
+<PopPoint_Y>142.76</PopPoint_Y>
+</Character>
+<Character id="cUid188">
+<CharacterUID>188</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>263.47</PopPoint_X>
+<PopPoint_Y>149.18</PopPoint_Y>
+</Character>
+<Character id="cUid189">
+<CharacterUID>189</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>271.34</PopPoint_X>
+<PopPoint_Y>145.06</PopPoint_Y>
+</Character>
+<Character id="cUid190">
+<CharacterUID>190</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>273.07</PopPoint_X>
+<PopPoint_Y>150.91</PopPoint_Y>
+</Character>
+<Character id="cUid191">
+<CharacterUID>191</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>278.58</PopPoint_X>
+<PopPoint_Y>141.68</PopPoint_Y>
+</Character>
+<Character id="cUid192">
+<CharacterUID>192</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>278.64</PopPoint_X>
+<PopPoint_Y>149.55</PopPoint_Y>
+</Character>
+<Character id="cUid193">
+<CharacterUID>193</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>295.09</PopPoint_X>
+<PopPoint_Y>127.70</PopPoint_Y>
+</Character>
+<Character id="cUid194">
+<CharacterUID>194</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>295.80</PopPoint_X>
+<PopPoint_Y>136.28</PopPoint_Y>
+</Character>
+<Character id="cUid195">
+<CharacterUID>195</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>300.99</PopPoint_X>
+<PopPoint_Y>128.69</PopPoint_Y>
+</Character>
+<Character id="cUid196">
+<CharacterUID>196</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>305.91</PopPoint_X>
+<PopPoint_Y>137.07</PopPoint_Y>
+</Character>
+<Character id="cUid197">
+<CharacterUID>197</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>312.07</PopPoint_X>
+<PopPoint_Y>129.35</PopPoint_Y>
+</Character>
+<Character id="cUid198">
+<CharacterUID>198</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>302.87</PopPoint_X>
+<PopPoint_Y>133.18</PopPoint_Y>
+</Character>
+<Character id="cUid199">
+<CharacterUID>199</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>276.39</PopPoint_X>
+<PopPoint_Y>164.09</PopPoint_Y>
+</Character>
+<Character id="cUid200">
+<CharacterUID>200</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>341.51</PopPoint_X>
+<PopPoint_Y>137.27</PopPoint_Y>
+</Character>
+<Character id="cUid201">
+<CharacterUID>201</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>319.20</PopPoint_X>
+<PopPoint_Y>111.34</PopPoint_Y>
+</Character>
+<Character id="cUid202">
+<CharacterUID>202</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>245.17</PopPoint_X>
+<PopPoint_Y>147.53</PopPoint_Y>
+</Character>
+<Character id="cUid203">
+<CharacterUID>203</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>318.75</PopPoint_X>
+<PopPoint_Y>170.74</PopPoint_Y>
+</Character>
+<Character id="cUid204">
+<CharacterUID>204</CharacterUID>
+<CharacterName>キクロップス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>358.10</PopPoint_X>
+<PopPoint_Y>156.14</PopPoint_Y>
+</Character>
+<Character id="cUid205">
+<CharacterUID>205</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.99</PopPoint_X>
+<PopPoint_Y>33.95</PopPoint_Y>
+</Character>
+<Character id="cUid206">
+<CharacterUID>206</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>68.58</PopPoint_X>
+<PopPoint_Y>54.77</PopPoint_Y>
+</Character>
+<Character id="cUid207">
+<CharacterUID>207</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>59.55</PopPoint_X>
+<PopPoint_Y>43.27</PopPoint_Y>
+</Character>
+<Character id="cUid208">
+<CharacterUID>208</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.15</PopPoint_X>
+<PopPoint_Y>29.52</PopPoint_Y>
+</Character>
+<Character id="cUid209">
+<CharacterUID>209</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>68.07</PopPoint_X>
+<PopPoint_Y>27.24</PopPoint_Y>
+</Character>
+<Character id="cUid210">
+<CharacterUID>210</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>89.06</PopPoint_X>
+<PopPoint_Y>75.60</PopPoint_Y>
+</Character>
+<Character id="cUid211">
+<CharacterUID>211</CharacterUID>
+<CharacterName>スカル狂戦士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>180.60</PopPoint_X>
+<PopPoint_Y>50.60</PopPoint_Y>
+</Character>
+<Character id="cUid212">
+<CharacterUID>212</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>269.86</PopPoint_X>
+<PopPoint_Y>56.85</PopPoint_Y>
+</Character>
+<Character id="cUid213">
+<CharacterUID>213</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>237.70</PopPoint_X>
+<PopPoint_Y>41.56</PopPoint_Y>
+</Character>
+<Character id="cUid214">
+<CharacterUID>214</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>255.85</PopPoint_X>
+<PopPoint_Y>49.38</PopPoint_Y>
+</Character>
+<Character id="cUid215">
+<CharacterUID>215</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>273.27</PopPoint_X>
+<PopPoint_Y>28.61</PopPoint_Y>
+</Character>
+<Character id="cUid216">
+<CharacterUID>216</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>292.93</PopPoint_X>
+<PopPoint_Y>73.27</PopPoint_Y>
+</Character>
+<Character id="cUid217">
+<CharacterUID>217</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>313.69</PopPoint_X>
+<PopPoint_Y>84.97</PopPoint_Y>
+</Character>
+<Character id="cUid218">
+<CharacterUID>218</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>322.24</PopPoint_X>
+<PopPoint_Y>74.49</PopPoint_Y>
+</Character>
+<Character id="cUid219">
+<CharacterUID>219</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>349.15</PopPoint_X>
+<PopPoint_Y>71.42</PopPoint_Y>
+</Character>
+<Character id="cUid220">
+<CharacterUID>220</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>361.90</PopPoint_X>
+<PopPoint_Y>53.01</PopPoint_Y>
+</Character>
+<Character id="cUid221">
+<CharacterUID>221</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>289.01</PopPoint_X>
+<PopPoint_Y>22.87</PopPoint_Y>
+</Character>
+<Character id="cUid222">
+<CharacterUID>222</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>342.07</PopPoint_X>
+<PopPoint_Y>46.73</PopPoint_Y>
+</Character>
+<Character id="cUid223">
+<CharacterUID>223</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>314.06</PopPoint_X>
+<PopPoint_Y>30.68</PopPoint_Y>
+</Character>
+<Character id="cUid224">
+<CharacterUID>224</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>344.97</PopPoint_X>
+<PopPoint_Y>13.89</PopPoint_Y>
+</Character>
+<Character id="cUid225">
+<CharacterUID>225</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>376.85</PopPoint_X>
+<PopPoint_Y>29.74</PopPoint_Y>
+</Character>
+<Character id="cUid226">
+<CharacterUID>226</CharacterUID>
+<CharacterName>ドゥームスフィア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>352.70</PopPoint_X>
+<PopPoint_Y>28.35</PopPoint_Y>
+</Character>
+<Character id="cUid227">
+<CharacterUID>227</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>366.73</PopPoint_X>
+<PopPoint_Y>26.45</PopPoint_Y>
+</Character>
+<Character id="cUid228">
+<CharacterUID>228</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>376.08</PopPoint_X>
+<PopPoint_Y>34.12</PopPoint_Y>
+</Character>
+<Character id="cUid229">
+<CharacterUID>229</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>353.41</PopPoint_X>
+<PopPoint_Y>17.73</PopPoint_Y>
+</Character>
+<Character id="cUid230">
+<CharacterUID>230</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>337.44</PopPoint_X>
+<PopPoint_Y>18.24</PopPoint_Y>
+</Character>
+<Character id="cUid231">
+<CharacterUID>231</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>364.01</PopPoint_X>
+<PopPoint_Y>47.78</PopPoint_Y>
+</Character>
+<Character id="cUid232">
+<CharacterUID>232</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>341.34</PopPoint_X>
+<PopPoint_Y>43.44</PopPoint_Y>
+</Character>
+<Character id="cUid233">
+<CharacterUID>233</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>353.84</PopPoint_X>
+<PopPoint_Y>53.58</PopPoint_Y>
+</Character>
+<Character id="cUid234">
+<CharacterUID>234</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>320.17</PopPoint_X>
+<PopPoint_Y>26.70</PopPoint_Y>
+</Character>
+<Character id="cUid235">
+<CharacterUID>235</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>307.90</PopPoint_X>
+<PopPoint_Y>33.04</PopPoint_Y>
+</Character>
+<Character id="cUid236">
+<CharacterUID>236</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>296.05</PopPoint_X>
+<PopPoint_Y>22.47</PopPoint_Y>
+</Character>
+<Character id="cUid237">
+<CharacterUID>237</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>250.09</PopPoint_X>
+<PopPoint_Y>41.59</PopPoint_Y>
+</Character>
+<Character id="cUid238">
+<CharacterUID>238</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>258.27</PopPoint_X>
+<PopPoint_Y>29.77</PopPoint_Y>
+</Character>
+<Character id="cUid239">
+<CharacterUID>239</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>273.38</PopPoint_X>
+<PopPoint_Y>33.01</PopPoint_Y>
+</Character>
+<Character id="cUid240">
+<CharacterUID>240</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>241.31</PopPoint_X>
+<PopPoint_Y>47.95</PopPoint_Y>
+</Character>
+<Character id="cUid241">
+<CharacterUID>241</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>274.74</PopPoint_X>
+<PopPoint_Y>55.37</PopPoint_Y>
+</Character>
+<Character id="cUid242">
+<CharacterUID>242</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>299.80</PopPoint_X>
+<PopPoint_Y>68.84</PopPoint_Y>
+</Character>
+<Character id="cUid243">
+<CharacterUID>243</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>314.49</PopPoint_X>
+<PopPoint_Y>75.97</PopPoint_Y>
+</Character>
+<Character id="cUid244">
+<CharacterUID>244</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>323.44</PopPoint_X>
+<PopPoint_Y>85.54</PopPoint_Y>
+</Character>
+<Character id="cUid245">
+<CharacterUID>245</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>336.39</PopPoint_X>
+<PopPoint_Y>72.07</PopPoint_Y>
+</Character>
+<Character id="cUid246">
+<CharacterUID>246</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>344.57</PopPoint_X>
+<PopPoint_Y>67.90</PopPoint_Y>
+</Character>
+<Character id="cUid247">
+<CharacterUID>247</CharacterUID>
+<CharacterName>ワイト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>317.39</PopPoint_X>
+<PopPoint_Y>82.36</PopPoint_Y>
+</Character>
+<Character id="cUid248">
+<CharacterUID>248</CharacterUID>
+<CharacterName>ワイト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>336.68</PopPoint_X>
+<PopPoint_Y>67.73</PopPoint_Y>
+</Character>
+<Character id="cUid249">
+<CharacterUID>249</CharacterUID>
+<CharacterName>ワイト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>236.28</PopPoint_X>
+<PopPoint_Y>46.53</PopPoint_Y>
+</Character>
+<Character id="cUid250">
+<CharacterUID>250</CharacterUID>
+<CharacterName>ワイト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>266.79</PopPoint_X>
+<PopPoint_Y>31.11</PopPoint_Y>
+</Character>
+<Character id="cUid251">
+<CharacterUID>251</CharacterUID>
+<CharacterName>ワイト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>307.61</PopPoint_X>
+<PopPoint_Y>26.39</PopPoint_Y>
+</Character>
+<Character id="cUid252">
+<CharacterUID>252</CharacterUID>
+<CharacterName>ワイト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>337.39</PopPoint_X>
+<PopPoint_Y>47.22</PopPoint_Y>
+</Character>
+<Character id="cUid253">
+<CharacterUID>253</CharacterUID>
+<CharacterName>ワイト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>357.67</PopPoint_X>
+<PopPoint_Y>27.53</PopPoint_Y>
+</Character>
+<Character id="cUid254">
+<CharacterUID>254</CharacterUID>
+<CharacterName>ワイト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>338.64</PopPoint_X>
+<PopPoint_Y>14.06</PopPoint_Y>
+</Character>
+<Character id="cUid255">
+<CharacterUID>255</CharacterUID>
+<CharacterName>ワイト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>375.57</PopPoint_X>
+<PopPoint_Y>26.90</PopPoint_Y>
+</Character>
+<Character id="cUid256">
+<CharacterUID>256</CharacterUID>
+<CharacterName>デーモン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>367.95</PopPoint_X>
+<PopPoint_Y>33.66</PopPoint_Y>
+</Character>
+<Character id="cUid257">
+<CharacterUID>257</CharacterUID>
+<CharacterName>デーモン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>335.91</PopPoint_X>
+<PopPoint_Y>20.85</PopPoint_Y>
+</Character>
+<Character id="cUid258">
+<CharacterUID>258</CharacterUID>
+<CharacterName>デーモン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>292.70</PopPoint_X>
+<PopPoint_Y>27.02</PopPoint_Y>
+</Character>
+<Character id="cUid259">
+<CharacterUID>259</CharacterUID>
+<CharacterName>デーモン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>355.06</PopPoint_X>
+<PopPoint_Y>49.26</PopPoint_Y>
+</Character>
+<Character id="cUid260">
+<CharacterUID>260</CharacterUID>
+<CharacterName>デーモン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>300.26</PopPoint_X>
+<PopPoint_Y>77.73</PopPoint_Y>
+</Character>
+<Character id="cUid261">
+<CharacterUID>261</CharacterUID>
+<CharacterName>デーモン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>337.02</PopPoint_X>
+<PopPoint_Y>75.80</PopPoint_Y>
+</Character>
+<Character id="cUid262">
+<CharacterUID>262</CharacterUID>
+<CharacterName>デーモン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>255.48</PopPoint_X>
+<PopPoint_Y>57.61</PopPoint_Y>
+</Character>
+<Character id="cUid263">
+<CharacterUID>263</CharacterUID>
+<CharacterName>デーモン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>259.03</PopPoint_X>
+<PopPoint_Y>32.59</PopPoint_Y>
+</Character>
+<Character id="cUid264">
+<CharacterUID>264</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>260.28</PopPoint_X>
+<PopPoint_Y>57.02</PopPoint_Y>
+</Character>
+<Character id="cUid265">
+<CharacterUID>265</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>305.40</PopPoint_X>
+<PopPoint_Y>77.39</PopPoint_Y>
+</Character>
+<Character id="cUid266">
+<CharacterUID>266</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>247.22</PopPoint_X>
+<PopPoint_Y>45.43</PopPoint_Y>
+</Character>
+<Character id="cUid267">
+<CharacterUID>267</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>311.51</PopPoint_X>
+<PopPoint_Y>81.25</PopPoint_Y>
+</Character>
+<Character id="cUid268">
+<CharacterUID>268</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>346.08</PopPoint_X>
+<PopPoint_Y>17.64</PopPoint_Y>
+</Character>
+<Character id="cUid269">
+<CharacterUID>269</CharacterUID>
+<CharacterName>リメインズガーダ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>371.02</PopPoint_X>
+<PopPoint_Y>30.31</PopPoint_Y>
+</Character>
+<Character id="cUid270">
+<CharacterUID>270</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>309.38</PopPoint_X>
+<PopPoint_Y>53.58</PopPoint_Y>
+</Character>
+<Character id="cUid271">
+<CharacterUID>271</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>309.29</PopPoint_X>
+<PopPoint_Y>59.94</PopPoint_Y>
+</Character>
+<Character id="cUid272">
+<CharacterUID>272</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>315.65</PopPoint_X>
+<PopPoint_Y>62.93</PopPoint_Y>
+</Character>
+<Character id="cUid273">
+<CharacterUID>273</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>316.70</PopPoint_X>
+<PopPoint_Y>55.43</PopPoint_Y>
+</Character>
+<Character id="cUid274">
+<CharacterUID>274</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.16</PopPoint_X>
+<PopPoint_Y>62.50</PopPoint_Y>
+</Character>
+<Character id="cUid275">
+<CharacterUID>275</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>325.80</PopPoint_X>
+<PopPoint_Y>57.56</PopPoint_Y>
+</Character>
+<Character id="cUid276">
+<CharacterUID>276</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>298.01</PopPoint_X>
+<PopPoint_Y>47.30</PopPoint_Y>
+</Character>
+<Character id="cUid277">
+<CharacterUID>277</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>295.45</PopPoint_X>
+<PopPoint_Y>40.45</PopPoint_Y>
+</Character>
+<Character id="cUid278">
+<CharacterUID>278</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>290.63</PopPoint_X>
+<PopPoint_Y>43.86</PopPoint_Y>
+</Character>
+<Character id="cUid279">
+<CharacterUID>279</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>282.84</PopPoint_X>
+<PopPoint_Y>47.67</PopPoint_Y>
+</Character>
+<Character id="cUid280">
+<CharacterUID>280</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>279.57</PopPoint_X>
+<PopPoint_Y>41.70</PopPoint_Y>
+</Character>
+<Character id="cUid281">
+<CharacterUID>281</CharacterUID>
+<CharacterName>血の音楽家</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>287.02</PopPoint_X>
+<PopPoint_Y>40.09</PopPoint_Y>
+</Character>
+<Character id="cUid282">
+<CharacterUID>282</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>271.48</PopPoint_X>
+<PopPoint_Y>7.36</PopPoint_Y>
+</Character>
+<Character id="cUid283">
+<CharacterUID>283</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>241.70</PopPoint_X>
+<PopPoint_Y>21.42</PopPoint_Y>
+</Character>
+<Character id="cUid284">
+<CharacterUID>284</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>238.72</PopPoint_X>
+<PopPoint_Y>16.76</PopPoint_Y>
+</Character>
+<Character id="cUid285">
+<CharacterUID>285</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>223.75</PopPoint_X>
+<PopPoint_Y>12.10</PopPoint_Y>
+</Character>
+<Character id="cUid286">
+<CharacterUID>286</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>213.24</PopPoint_X>
+<PopPoint_Y>15.11</PopPoint_Y>
+</Character>
+<Character id="cUid287">
+<CharacterUID>287</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>225.71</PopPoint_X>
+<PopPoint_Y>28.21</PopPoint_Y>
+</Character>
+<Character id="cUid288">
+<CharacterUID>288</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>192.67</PopPoint_X>
+<PopPoint_Y>25.40</PopPoint_Y>
+</Character>
+<Character id="cUid289">
+<CharacterUID>289</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>181.93</PopPoint_X>
+<PopPoint_Y>25.43</PopPoint_Y>
+</Character>
+<Character id="cUid290">
+<CharacterUID>290</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>193.89</PopPoint_X>
+<PopPoint_Y>34.06</PopPoint_Y>
+</Character>
+<Character id="cUid291">
+<CharacterUID>291</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>226.22</PopPoint_X>
+<PopPoint_Y>21.62</PopPoint_Y>
+</Character>
+<Character id="cUid292">
+<CharacterUID>292</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>216.96</PopPoint_X>
+<PopPoint_Y>24.77</PopPoint_Y>
+</Character>
+<Character id="cUid293">
+<CharacterUID>293</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>187.24</PopPoint_X>
+<PopPoint_Y>30.91</PopPoint_Y>
+</Character>
+<Character id="cUid294">
+<CharacterUID>294</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>198.58</PopPoint_X>
+<PopPoint_Y>28.04</PopPoint_Y>
+</Character>
+<Character id="cUid295">
+<CharacterUID>295</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>262.27</PopPoint_X>
+<PopPoint_Y>4.40</PopPoint_Y>
+</Character>
+<Character id="cUid296">
+<CharacterUID>296</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>245.97</PopPoint_X>
+<PopPoint_Y>16.85</PopPoint_Y>
+</Character>
+<Character id="cUid297">
+<CharacterUID>297</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>210.31</PopPoint_X>
+<PopPoint_Y>25.17</PopPoint_Y>
+</Character>
+<Character id="cUid298">
+<CharacterUID>298</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>172.13</PopPoint_X>
+<PopPoint_Y>4.91</PopPoint_Y>
+</Character>
+<Character id="cUid299">
+<CharacterUID>299</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>176.34</PopPoint_X>
+<PopPoint_Y>9.06</PopPoint_Y>
+</Character>
+<Character id="cUid300">
+<CharacterUID>300</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>160.26</PopPoint_X>
+<PopPoint_Y>11.05</PopPoint_Y>
+</Character>
+<Character id="cUid301">
+<CharacterUID>301</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>159.15</PopPoint_X>
+<PopPoint_Y>15.51</PopPoint_Y>
+</Character>
+<Character id="cUid302">
+<CharacterUID>302</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>145.34</PopPoint_X>
+<PopPoint_Y>11.88</PopPoint_Y>
+</Character>
+<Character id="cUid303">
+<CharacterUID>303</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>149.23</PopPoint_X>
+<PopPoint_Y>5.17</PopPoint_Y>
+</Character>
+<Character id="cUid304">
+<CharacterUID>304</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.13</PopPoint_X>
+<PopPoint_Y>10.00</PopPoint_Y>
+</Character>
+<Character id="cUid305">
+<CharacterUID>305</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>141.82</PopPoint_X>
+<PopPoint_Y>7.67</PopPoint_Y>
+</Character>
+<Character id="cUid306">
+<CharacterUID>306</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>97.61</PopPoint_X>
+<PopPoint_Y>6.22</PopPoint_Y>
+</Character>
+<Character id="cUid307">
+<CharacterUID>307</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>97.05</PopPoint_X>
+<PopPoint_Y>12.90</PopPoint_Y>
+</Character>
+<Character id="cUid308">
+<CharacterUID>308</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>116.28</PopPoint_X>
+<PopPoint_Y>13.98</PopPoint_Y>
+</Character>
+<Character id="cUid309">
+<CharacterUID>309</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>109.80</PopPoint_X>
+<PopPoint_Y>7.02</PopPoint_Y>
+</Character>
+<Character id="cUid310">
+<CharacterUID>310</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>120.23</PopPoint_X>
+<PopPoint_Y>10.43</PopPoint_Y>
+</Character>
+<Character id="cUid311">
+<CharacterUID>311</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>66.93</PopPoint_X>
+<PopPoint_Y>4.49</PopPoint_Y>
+</Character>
+<Character id="cUid312">
+<CharacterUID>312</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.63</PopPoint_X>
+<PopPoint_Y>12.07</PopPoint_Y>
+</Character>
+<Character id="cUid313">
+<CharacterUID>313</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>70.34</PopPoint_X>
+<PopPoint_Y>8.78</PopPoint_Y>
+</Character>
+<Character id="cUid314">
+<CharacterUID>314</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>11.82</PopPoint_X>
+<PopPoint_Y>6.31</PopPoint_Y>
+</Character>
+<Character id="cUid315">
+<CharacterUID>315</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>32.93</PopPoint_X>
+<PopPoint_Y>16.76</PopPoint_Y>
+</Character>
+<Character id="cUid316">
+<CharacterUID>316</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>24.57</PopPoint_X>
+<PopPoint_Y>7.70</PopPoint_Y>
+</Character>
+<Character id="cUid317">
+<CharacterUID>317</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>7.84</PopPoint_X>
+<PopPoint_Y>15.28</PopPoint_Y>
+</Character>
+<Character id="cUid318">
+<CharacterUID>318</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>40.91</PopPoint_X>
+<PopPoint_Y>9.20</PopPoint_Y>
+</Character>
+<Character id="cUid319">
+<CharacterUID>319</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>22.44</PopPoint_X>
+<PopPoint_Y>18.01</PopPoint_Y>
+</Character>
+<Character id="cUid320">
+<CharacterUID>320</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>17.02</PopPoint_X>
+<PopPoint_Y>4.12</PopPoint_Y>
+</Character>
+<Character id="cUid321">
+<CharacterUID>321</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>23.47</PopPoint_X>
+<PopPoint_Y>29.32</PopPoint_Y>
+</Character>
+<Character id="cUid322">
+<CharacterUID>322</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>6.56</PopPoint_X>
+<PopPoint_Y>28.10</PopPoint_Y>
+</Character>
+<Character id="cUid323">
+<CharacterUID>323</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>24.49</PopPoint_X>
+<PopPoint_Y>39.49</PopPoint_Y>
+</Character>
+<Character id="cUid324">
+<CharacterUID>324</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>9.26</PopPoint_X>
+<PopPoint_Y>38.61</PopPoint_Y>
+</Character>
+<Character id="cUid325">
+<CharacterUID>325</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>13.32</PopPoint_X>
+<PopPoint_Y>33.55</PopPoint_Y>
+</Character>
+<Character id="cUid326">
+<CharacterUID>326</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>8.49</PopPoint_X>
+<PopPoint_Y>47.13</PopPoint_Y>
+</Character>
+<Character id="cUid327">
+<CharacterUID>327</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>32.78</PopPoint_X>
+<PopPoint_Y>48.01</PopPoint_Y>
+</Character>
+<Character id="cUid328">
+<CharacterUID>328</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>29.20</PopPoint_X>
+<PopPoint_Y>56.62</PopPoint_Y>
+</Character>
+<Character id="cUid329">
+<CharacterUID>329</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>19.91</PopPoint_X>
+<PopPoint_Y>51.16</PopPoint_Y>
+</Character>
+<Character id="cUid330">
+<CharacterUID>330</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>11.08</PopPoint_X>
+<PopPoint_Y>57.50</PopPoint_Y>
+</Character>
+<Character id="cUid331">
+<CharacterUID>331</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>9.49</PopPoint_X>
+<PopPoint_Y>68.66</PopPoint_Y>
+</Character>
+<Character id="cUid332">
+<CharacterUID>332</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>26.48</PopPoint_X>
+<PopPoint_Y>74.80</PopPoint_Y>
+</Character>
+<Character id="cUid333">
+<CharacterUID>333</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>11.70</PopPoint_X>
+<PopPoint_Y>75.37</PopPoint_Y>
+</Character>
+<Character id="cUid334">
+<CharacterUID>334</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>23.86</PopPoint_X>
+<PopPoint_Y>67.44</PopPoint_Y>
+</Character>
+<Character id="cUid335">
+<CharacterUID>335</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>23.18</PopPoint_X>
+<PopPoint_Y>78.01</PopPoint_Y>
+</Character>
+<Character id="cUid336">
+<CharacterUID>336</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>16.14</PopPoint_X>
+<PopPoint_Y>67.50</PopPoint_Y>
+</Character>
+<Character id="cUid337">
+<CharacterUID>337</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>14.01</PopPoint_X>
+<PopPoint_Y>89.66</PopPoint_Y>
+</Character>
+<Character id="cUid338">
+<CharacterUID>338</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>6.39</PopPoint_X>
+<PopPoint_Y>90.48</PopPoint_Y>
+</Character>
+<Character id="cUid339">
+<CharacterUID>339</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>9.72</PopPoint_X>
+<PopPoint_Y>83.69</PopPoint_Y>
+</Character>
+<Character id="cUid340">
+<CharacterUID>340</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>25.68</PopPoint_X>
+<PopPoint_Y>101.11</PopPoint_Y>
+</Character>
+<Character id="cUid341">
+<CharacterUID>341</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>26.11</PopPoint_X>
+<PopPoint_Y>110.11</PopPoint_Y>
+</Character>
+<Character id="cUid343">
+<CharacterUID>343</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.98</PopPoint_X>
+<PopPoint_Y>105.99</PopPoint_Y>
+</Character>
+<Character id="cUid344">
+<CharacterUID>344</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>34.03</PopPoint_X>
+<PopPoint_Y>111.93</PopPoint_Y>
+</Character>
+<Character id="cUid345">
+<CharacterUID>345</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.67</PopPoint_X>
+<PopPoint_Y>100.80</PopPoint_Y>
+</Character>
+<Character id="cUid346">
+<CharacterUID>346</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>62.93</PopPoint_X>
+<PopPoint_Y>90.63</PopPoint_Y>
+</Character>
+<Character id="cUid347">
+<CharacterUID>347</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>54.57</PopPoint_X>
+<PopPoint_Y>117.10</PopPoint_Y>
+</Character>
+<Character id="cUid348">
+<CharacterUID>348</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>54.66</PopPoint_X>
+<PopPoint_Y>101.48</PopPoint_Y>
+</Character>
+<Character id="cUid349">
+<CharacterUID>349</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>51.25</PopPoint_X>
+<PopPoint_Y>90.80</PopPoint_Y>
+</Character>
+<Character id="cUid350">
+<CharacterUID>350</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>59.18</PopPoint_X>
+<PopPoint_Y>96.36</PopPoint_Y>
+</Character>
+<Character id="cUid351">
+<CharacterUID>351</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>70.68</PopPoint_X>
+<PopPoint_Y>93.01</PopPoint_Y>
+</Character>
+<Character id="cUid352">
+<CharacterUID>352</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.07</PopPoint_X>
+<PopPoint_Y>101.22</PopPoint_Y>
+</Character>
+<Character id="cUid353">
+<CharacterUID>353</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>78.95</PopPoint_X>
+<PopPoint_Y>96.65</PopPoint_Y>
+</Character>
+<Character id="cUid354">
+<CharacterUID>354</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>50.31</PopPoint_X>
+<PopPoint_Y>110.20</PopPoint_Y>
+</Character>
+<Character id="cUid355">
+<CharacterUID>355</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>60.97</PopPoint_X>
+<PopPoint_Y>115.80</PopPoint_Y>
+</Character>
+<Character id="cUid356">
+<CharacterUID>356</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>22.16</PopPoint_X>
+<PopPoint_Y>128.95</PopPoint_Y>
+</Character>
+<Character id="cUid357">
+<CharacterUID>357</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.98</PopPoint_X>
+<PopPoint_Y>131.22</PopPoint_Y>
+</Character>
+<Character id="cUid358">
+<CharacterUID>358</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>23.52</PopPoint_X>
+<PopPoint_Y>135.74</PopPoint_Y>
+</Character>
+<Character id="cUid359">
+<CharacterUID>359</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>12.19</PopPoint_X>
+<PopPoint_Y>121.88</PopPoint_Y>
+</Character>
+<Character id="cUid360">
+<CharacterUID>360</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>16.11</PopPoint_X>
+<PopPoint_Y>131.22</PopPoint_Y>
+</Character>
+<Character id="cUid361">
+<CharacterUID>361</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>8.32</PopPoint_X>
+<PopPoint_Y>128.41</PopPoint_Y>
+</Character>
+<Character id="cUid362">
+<CharacterUID>362</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.27</PopPoint_X>
+<PopPoint_Y>154.23</PopPoint_Y>
+</Character>
+<Character id="cUid363">
+<CharacterUID>363</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>8.47</PopPoint_X>
+<PopPoint_Y>147.93</PopPoint_Y>
+</Character>
+<Character id="cUid364">
+<CharacterUID>364</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>24.77</PopPoint_X>
+<PopPoint_Y>152.30</PopPoint_Y>
+</Character>
+<Character id="cUid365">
+<CharacterUID>365</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>20.28</PopPoint_X>
+<PopPoint_Y>156.85</PopPoint_Y>
+</Character>
+<Character id="cUid366">
+<CharacterUID>366</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>6.85</PopPoint_X>
+<PopPoint_Y>157.24</PopPoint_Y>
+</Character>
+<Character id="cUid367">
+<CharacterUID>367</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>15.40</PopPoint_X>
+<PopPoint_Y>148.98</PopPoint_Y>
+</Character>
+<Character id="cUid368">
+<CharacterUID>368</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>6.31</PopPoint_X>
+<PopPoint_Y>141.65</PopPoint_Y>
+</Character>
+<Character id="cUid369">
+<CharacterUID>369</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>6.16</PopPoint_X>
+<PopPoint_Y>167.73</PopPoint_Y>
+</Character>
+<Character id="cUid370">
+<CharacterUID>370</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>15.31</PopPoint_X>
+<PopPoint_Y>173.64</PopPoint_Y>
+</Character>
+<Character id="cUid371">
+<CharacterUID>371</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>6.68</PopPoint_X>
+<PopPoint_Y>192.22</PopPoint_Y>
+</Character>
+<Character id="cUid372">
+<CharacterUID>372</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>9.89</PopPoint_X>
+<PopPoint_Y>183.38</PopPoint_Y>
+</Character>
+<Character id="cUid373">
+<CharacterUID>373</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>23.01</PopPoint_X>
+<PopPoint_Y>188.18</PopPoint_Y>
+</Character>
+<Character id="cUid374">
+<CharacterUID>374</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>22.56</PopPoint_X>
+<PopPoint_Y>194.43</PopPoint_Y>
+</Character>
+<Character id="cUid375">
+<CharacterUID>375</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.96</PopPoint_X>
+<PopPoint_Y>194.63</PopPoint_Y>
+</Character>
+<Character id="cUid376">
+<CharacterUID>376</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>101.05</PopPoint_X>
+<PopPoint_Y>189.38</PopPoint_Y>
+</Character>
+<Character id="cUid377">
+<CharacterUID>377</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>93.61</PopPoint_X>
+<PopPoint_Y>191.45</PopPoint_Y>
+</Character>
+<Character id="cUid378">
+<CharacterUID>378</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>100.74</PopPoint_X>
+<PopPoint_Y>196.99</PopPoint_Y>
+</Character>
+<Character id="cUid379">
+<CharacterUID>379</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>107.05</PopPoint_X>
+<PopPoint_Y>192.81</PopPoint_Y>
+</Character>
+<Character id="cUid380">
+<CharacterUID>380</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>140.88</PopPoint_X>
+<PopPoint_Y>191.51</PopPoint_Y>
+</Character>
+<Character id="cUid381">
+<CharacterUID>381</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>140.57</PopPoint_X>
+<PopPoint_Y>196.73</PopPoint_Y>
+</Character>
+<Character id="cUid382">
+<CharacterUID>382</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>154.86</PopPoint_X>
+<PopPoint_Y>192.61</PopPoint_Y>
+</Character>
+<Character id="cUid383">
+<CharacterUID>383</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>148.95</PopPoint_X>
+<PopPoint_Y>194.66</PopPoint_Y>
+</Character>
+<Character id="cUid384">
+<CharacterUID>384</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>174.86</PopPoint_X>
+<PopPoint_Y>173.92</PopPoint_Y>
+</Character>
+<Character id="cUid385">
+<CharacterUID>385</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>171.31</PopPoint_X>
+<PopPoint_Y>180.23</PopPoint_Y>
+</Character>
+<Character id="cUid386">
+<CharacterUID>386</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>178.38</PopPoint_X>
+<PopPoint_Y>179.12</PopPoint_Y>
+</Character>
+<Character id="cUid387">
+<CharacterUID>387</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>211.99</PopPoint_X>
+<PopPoint_Y>160.65</PopPoint_Y>
+</Character>
+<Character id="cUid388">
+<CharacterUID>388</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>191.11</PopPoint_X>
+<PopPoint_Y>188.27</PopPoint_Y>
+</Character>
+<Character id="cUid389">
+<CharacterUID>389</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>226.93</PopPoint_X>
+<PopPoint_Y>167.50</PopPoint_Y>
+</Character>
+<Character id="cUid390">
+<CharacterUID>390</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>250.48</PopPoint_X>
+<PopPoint_Y>195.20</PopPoint_Y>
+</Character>
+<Character id="cUid391">
+<CharacterUID>391</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>270.91</PopPoint_X>
+<PopPoint_Y>193.52</PopPoint_Y>
+</Character>
+<Character id="cUid392">
+<CharacterUID>392</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>190.26</PopPoint_X>
+<PopPoint_Y>169.20</PopPoint_Y>
+</Character>
+<Character id="cUid393">
+<CharacterUID>393</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>193.78</PopPoint_X>
+<PopPoint_Y>178.32</PopPoint_Y>
+</Character>
+<Character id="cUid394">
+<CharacterUID>394</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>214.12</PopPoint_X>
+<PopPoint_Y>180.80</PopPoint_Y>
+</Character>
+<Character id="cUid395">
+<CharacterUID>395</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>206.36</PopPoint_X>
+<PopPoint_Y>174.01</PopPoint_Y>
+</Character>
+<Character id="cUid396">
+<CharacterUID>396</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>205.68</PopPoint_X>
+<PopPoint_Y>163.38</PopPoint_Y>
+</Character>
+<Character id="cUid397">
+<CharacterUID>397</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>224.29</PopPoint_X>
+<PopPoint_Y>172.56</PopPoint_Y>
+</Character>
+<Character id="cUid398">
+<CharacterUID>398</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>255.34</PopPoint_X>
+<PopPoint_Y>179.89</PopPoint_Y>
+</Character>
+<Character id="cUid399">
+<CharacterUID>399</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>240.17</PopPoint_X>
+<PopPoint_Y>186.62</PopPoint_Y>
+</Character>
+<Character id="cUid400">
+<CharacterUID>400</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>249.15</PopPoint_X>
+<PopPoint_Y>185.82</PopPoint_Y>
+</Character>
+<Character id="cUid401">
+<CharacterUID>401</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>221.62</PopPoint_X>
+<PopPoint_Y>196.90</PopPoint_Y>
+</Character>
+<Character id="cUid402">
+<CharacterUID>402</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>229.91</PopPoint_X>
+<PopPoint_Y>192.95</PopPoint_Y>
+</Character>
+<Character id="cUid403">
+<CharacterUID>403</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>261.08</PopPoint_X>
+<PopPoint_Y>194.69</PopPoint_Y>
+</Character>
+<Character id="cUid404">
+<CharacterUID>404</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>262.39</PopPoint_X>
+<PopPoint_Y>188.64</PopPoint_Y>
+</Character>
+<Character id="cUid405">
+<CharacterUID>405</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>270.80</PopPoint_X>
+<PopPoint_Y>187.67</PopPoint_Y>
+</Character>
+<Character id="cUid406">
+<CharacterUID>406</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>296.62</PopPoint_X>
+<PopPoint_Y>182.90</PopPoint_Y>
+</Character>
+<Character id="cUid407">
+<CharacterUID>407</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>289.35</PopPoint_X>
+<PopPoint_Y>189.77</PopPoint_Y>
+</Character>
+<Character id="cUid408">
+<CharacterUID>408</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>314.66</PopPoint_X>
+<PopPoint_Y>186.51</PopPoint_Y>
+</Character>
+<Character id="cUid409">
+<CharacterUID>409</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>299.86</PopPoint_X>
+<PopPoint_Y>197.36</PopPoint_Y>
+</Character>
+<Character id="cUid410">
+<CharacterUID>410</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>293.35</PopPoint_X>
+<PopPoint_Y>192.90</PopPoint_Y>
+</Character>
+<Character id="cUid411">
+<CharacterUID>411</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>306.65</PopPoint_X>
+<PopPoint_Y>184.46</PopPoint_Y>
+</Character>
+<Character id="cUid412">
+<CharacterUID>412</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>336.39</PopPoint_X>
+<PopPoint_Y>189.86</PopPoint_Y>
+</Character>
+<Character id="cUid413">
+<CharacterUID>413</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>328.01</PopPoint_X>
+<PopPoint_Y>187.44</PopPoint_Y>
+</Character>
+<Character id="cUid414">
+<CharacterUID>414</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>322.95</PopPoint_X>
+<PopPoint_Y>196.16</PopPoint_Y>
+</Character>
+<Character id="cUid415">
+<CharacterUID>415</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>344.43</PopPoint_X>
+<PopPoint_Y>187.84</PopPoint_Y>
+</Character>
+<Character id="cUid416">
+<CharacterUID>416</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>362.50</PopPoint_X>
+<PopPoint_Y>184.83</PopPoint_Y>
+</Character>
+<Character id="cUid417">
+<CharacterUID>417</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>358.35</PopPoint_X>
+<PopPoint_Y>195.17</PopPoint_Y>
+</Character>
+<Character id="cUid418">
+<CharacterUID>418</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>381.76</PopPoint_X>
+<PopPoint_Y>186.85</PopPoint_Y>
+</Character>
+<Character id="cUid419">
+<CharacterUID>419</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>371.85</PopPoint_X>
+<PopPoint_Y>190.20</PopPoint_Y>
+</Character>
+<Character id="cUid420">
+<CharacterUID>420</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>390.54</PopPoint_X>
+<PopPoint_Y>194.89</PopPoint_Y>
+</Character>
+<Character id="cUid421">
+<CharacterUID>421</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>389.94</PopPoint_X>
+<PopPoint_Y>166.53</PopPoint_Y>
+</Character>
+<Character id="cUid422">
+<CharacterUID>422</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>383.30</PopPoint_X>
+<PopPoint_Y>160.88</PopPoint_Y>
+</Character>
+<Character id="cUid423">
+<CharacterUID>423</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>380.06</PopPoint_X>
+<PopPoint_Y>175.60</PopPoint_Y>
+</Character>
+<Character id="cUid424">
+<CharacterUID>424</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>393.35</PopPoint_X>
+<PopPoint_Y>176.79</PopPoint_Y>
+</Character>
+<Character id="cUid425">
+<CharacterUID>425</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>393.32</PopPoint_X>
+<PopPoint_Y>161.85</PopPoint_Y>
+</Character>
+<Character id="cUid426">
+<CharacterUID>426</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>387.84</PopPoint_X>
+<PopPoint_Y>140.68</PopPoint_Y>
+</Character>
+<Character id="cUid427">
+<CharacterUID>427</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>374.49</PopPoint_X>
+<PopPoint_Y>143.15</PopPoint_Y>
+</Character>
+<Character id="cUid428">
+<CharacterUID>428</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>385.97</PopPoint_X>
+<PopPoint_Y>149.86</PopPoint_Y>
+</Character>
+<Character id="cUid429">
+<CharacterUID>429</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>392.90</PopPoint_X>
+<PopPoint_Y>146.16</PopPoint_Y>
+</Character>
+<Character id="cUid430">
+<CharacterUID>430</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>377.05</PopPoint_X>
+<PopPoint_Y>148.30</PopPoint_Y>
+</Character>
+<Character id="cUid431">
+<CharacterUID>431</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>375.63</PopPoint_X>
+<PopPoint_Y>117.90</PopPoint_Y>
+</Character>
+<Character id="cUid432">
+<CharacterUID>432</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>391.99</PopPoint_X>
+<PopPoint_Y>117.67</PopPoint_Y>
+</Character>
+<Character id="cUid433">
+<CharacterUID>433</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>395.34</PopPoint_X>
+<PopPoint_Y>127.02</PopPoint_Y>
+</Character>
+<Character id="cUid434">
+<CharacterUID>434</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>384.57</PopPoint_X>
+<PopPoint_Y>88.32</PopPoint_Y>
+</Character>
+<Character id="cUid435">
+<CharacterUID>435</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>382.16</PopPoint_X>
+<PopPoint_Y>93.21</PopPoint_Y>
+</Character>
+<Character id="cUid436">
+<CharacterUID>436</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>333.69</PopPoint_X>
+<PopPoint_Y>91.19</PopPoint_Y>
+</Character>
+<Character id="cUid437">
+<CharacterUID>437</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>332.67</PopPoint_X>
+<PopPoint_Y>99.52</PopPoint_Y>
+</Character>
+<Character id="cUid438">
+<CharacterUID>438</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>345.88</PopPoint_X>
+<PopPoint_Y>92.95</PopPoint_Y>
+</Character>
+<Character id="cUid439">
+<CharacterUID>439</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>343.61</PopPoint_X>
+<PopPoint_Y>103.66</PopPoint_Y>
+</Character>
+<Character id="cUid440">
+<CharacterUID>440</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>372.50</PopPoint_X>
+<PopPoint_Y>79.91</PopPoint_Y>
+</Character>
+<Character id="cUid441">
+<CharacterUID>441</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>358.07</PopPoint_X>
+<PopPoint_Y>100.00</PopPoint_Y>
+</Character>
+<Character id="cUid442">
+<CharacterUID>442</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>371.14</PopPoint_X>
+<PopPoint_Y>98.69</PopPoint_Y>
+</Character>
+<Character id="cUid443">
+<CharacterUID>443</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>340.40</PopPoint_X>
+<PopPoint_Y>97.44</PopPoint_Y>
+</Character>
+<Character id="cUid444">
+<CharacterUID>444</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>359.26</PopPoint_X>
+<PopPoint_Y>81.51</PopPoint_Y>
+</Character>
+<Character id="cUid445">
+<CharacterUID>445</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>384.77</PopPoint_X>
+<PopPoint_Y>121.42</PopPoint_Y>
+</Character>
+<Character id="cUid446">
+<CharacterUID>446</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>362.41</PopPoint_X>
+<PopPoint_Y>91.11</PopPoint_Y>
+</Character>
+<Character id="cUid447">
+<CharacterUID>447</CharacterUID>
+<CharacterName>ソードスパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>385.00</PopPoint_X>
+<PopPoint_Y>69.55</PopPoint_Y>
+</Character>
+<Character id="cUid448">
+<CharacterUID>448</CharacterUID>
+<CharacterName>ハントスコーピオ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>393.35</PopPoint_X>
+<PopPoint_Y>66.85</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.18</AreaPos_X>
+<AreaPos_X2>18.18</AreaPos_X2>
+<AreaPos_Y>9.09</AreaPos_Y>
+<AreaPos_Y2>9.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.18</AreaPos_X>
+<AreaPos_X2>18.18</AreaPos_X2>
+<AreaPos_Y>9.09</AreaPos_Y>
+<AreaPos_Y2>9.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>Area 1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>116.48</AreaPos_X>
+<AreaPos_X2>134.35</AreaPos_X2>
+<AreaPos_Y>70.06</AreaPos_Y>
+<AreaPos_Y2>88.92</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>95.77</AreaPos_X>
+<AreaPos_X2>116.28</AreaPos_X2>
+<AreaPos_Y>75.57</AreaPos_Y>
+<AreaPos_Y2>98.95</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>73.24</AreaPos_X>
+<AreaPos_X2>94.52</AreaPos_X2>
+<AreaPos_Y>70.06</AreaPos_Y>
+<AreaPos_Y2>88.15</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>56.42</AreaPos_X>
+<AreaPos_X2>80.17</AreaPos_X2>
+<AreaPos_Y>50.26</AreaPos_Y>
+<AreaPos_Y2>64.43</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>80.74</AreaPos_X>
+<AreaPos_X2>94.49</AreaPos_X2>
+<AreaPos_Y>47.39</AreaPos_Y>
+<AreaPos_Y2>57.02</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>38.41</AreaPos_X>
+<AreaPos_X2>64.55</AreaPos_X2>
+<AreaPos_Y>29.20</AreaPos_Y>
+<AreaPos_Y2>47.02</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>80.06</AreaPos_X>
+<AreaPos_X2>96.11</AreaPos_X2>
+<AreaPos_Y>17.47</AreaPos_Y>
+<AreaPos_Y2>30.26</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>63.66</AreaPos_X>
+<AreaPos_X2>79.89</AreaPos_X2>
+<AreaPos_Y>18.69</AreaPos_Y>
+<AreaPos_Y2>29.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>101.02</AreaPos_X>
+<AreaPos_X2>124.18</AreaPos_X2>
+<AreaPos_Y>26.56</AreaPos_Y>
+<AreaPos_Y2>45.37</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>124.46</AreaPos_X>
+<AreaPos_X2>137.98</AreaPos_X2>
+<AreaPos_Y>26.45</AreaPos_Y>
+<AreaPos_Y2>39.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>155.34</AreaPos_X>
+<AreaPos_X2>176.14</AreaPos_X2>
+<AreaPos_Y>33.64</AreaPos_Y>
+<AreaPos_Y2>49.77</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>176.59</AreaPos_X>
+<AreaPos_X2>194.40</AreaPos_X2>
+<AreaPos_Y>42.81</AreaPos_Y>
+<AreaPos_Y2>60.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>152.78</AreaPos_X>
+<AreaPos_X2>176.45</AreaPos_X2>
+<AreaPos_Y>51.90</AreaPos_Y>
+<AreaPos_Y2>67.95</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>122.19</AreaPos_X>
+<AreaPos_X2>145.11</AreaPos_X2>
+<AreaPos_Y>42.93</AreaPos_Y>
+<AreaPos_Y2>59.77</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>91.08</AreaPos_X>
+<AreaPos_X2>119.91</AreaPos_X2>
+<AreaPos_Y>58.18</AreaPos_Y>
+<AreaPos_Y2>72.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>87.61</AreaPos_X>
+<AreaPos_X2>112.24</AreaPos_X2>
+<AreaPos_Y>107.47</AreaPos_Y>
+<AreaPos_Y2>130.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>65.68</AreaPos_X>
+<AreaPos_X2>87.19</AreaPos_X2>
+<AreaPos_Y>118.24</AreaPos_Y>
+<AreaPos_Y2>136.11</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>112.47</AreaPos_X>
+<AreaPos_X2>127.36</AreaPos_X2>
+<AreaPos_Y>116.48</AreaPos_Y>
+<AreaPos_Y2>135.85</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>Area 19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>80.31</AreaPos_X>
+<AreaPos_X2>111.14</AreaPos_X2>
+<AreaPos_Y>135.57</AreaPos_Y>
+<AreaPos_Y2>148.07</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>Area 20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>111.14</AreaPos_X>
+<AreaPos_X2>138.01</AreaPos_X2>
+<AreaPos_Y>148.38</AreaPos_Y>
+<AreaPos_Y2>163.55</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>Area 21</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>145.80</AreaPos_X>
+<AreaPos_X2>168.95</AreaPos_X2>
+<AreaPos_Y>135.68</AreaPos_Y>
+<AreaPos_Y2>156.02</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>Area 22</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>169.52</AreaPos_X>
+<AreaPos_X2>187.13</AreaPos_X2>
+<AreaPos_Y>144.63</AreaPos_Y>
+<AreaPos_Y2>162.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>Area 23</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>149.49</AreaPos_X>
+<AreaPos_X2>168.95</AreaPos_X2>
+<AreaPos_Y>156.59</AreaPos_Y>
+<AreaPos_Y2>172.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>Area 24</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>58.69</AreaPos_X>
+<AreaPos_X2>85.17</AreaPos_X2>
+<AreaPos_Y>146.51</AreaPos_Y>
+<AreaPos_Y2>159.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>Area 25</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>46.11</AreaPos_X>
+<AreaPos_X2>58.47</AreaPos_X2>
+<AreaPos_Y>141.53</AreaPos_Y>
+<AreaPos_Y2>157.98</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>Area 26</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>29.35</AreaPos_X>
+<AreaPos_X2>52.87</AreaPos_X2>
+<AreaPos_Y>160.14</AreaPos_Y>
+<AreaPos_Y2>177.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>Area 27</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>53.24</AreaPos_X>
+<AreaPos_X2>69.32</AreaPos_X2>
+<AreaPos_Y>165.80</AreaPos_Y>
+<AreaPos_Y2>186.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>Area 28</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>69.57</AreaPos_X>
+<AreaPos_X2>87.16</AreaPos_X2>
+<AreaPos_Y>173.58</AreaPos_Y>
+<AreaPos_Y2>189.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>Area 29</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>91.05</AreaPos_X>
+<AreaPos_X2>114.38</AreaPos_X2>
+<AreaPos_Y>160.99</AreaPos_Y>
+<AreaPos_Y2>177.33</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>Area 30</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>114.60</AreaPos_X>
+<AreaPos_X2>128.92</AreaPos_X2>
+<AreaPos_Y>167.41</AreaPos_Y>
+<AreaPos_Y2>179.77</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>Area 31</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>234.72</AreaPos_X>
+<AreaPos_X2>258.78</AreaPos_X2>
+<AreaPos_Y>124.97</AreaPos_Y>
+<AreaPos_Y2>140.82</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>Area 32</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>214.60</AreaPos_X>
+<AreaPos_X2>234.43</AreaPos_X2>
+<AreaPos_Y>134.55</AreaPos_Y>
+<AreaPos_Y2>155.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>Area 33</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>234.57</AreaPos_X>
+<AreaPos_X2>252.47</AreaPos_X2>
+<AreaPos_Y>141.22</AreaPos_Y>
+<AreaPos_Y2>163.01</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>Area 34</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>267.36</AreaPos_X>
+<AreaPos_X2>287.50</AreaPos_X2>
+<AreaPos_Y>159.18</AreaPos_Y>
+<AreaPos_Y2>170.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>Area 35</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>287.56</AreaPos_X>
+<AreaPos_X2>309.49</AreaPos_X2>
+<AreaPos_Y>151.88</AreaPos_Y>
+<AreaPos_Y2>170.68</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>Area 36</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>272.90</AreaPos_X>
+<AreaPos_X2>292.56</AreaPos_X2>
+<AreaPos_Y>105.51</AreaPos_Y>
+<AreaPos_Y2>126.08</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid38">
+<AreaUID>38</AreaUID>
+<AreaName>Area 37</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>292.84</AreaPos_X>
+<AreaPos_X2>307.10</AreaPos_X2>
+<AreaPos_Y>95.60</AreaPos_Y>
+<AreaPos_Y2>120.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid39">
+<AreaUID>39</AreaUID>
+<AreaName>Area 38</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>307.33</AreaPos_X>
+<AreaPos_X2>328.64</AreaPos_X2>
+<AreaPos_Y>106.36</AreaPos_Y>
+<AreaPos_Y2>125.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid40">
+<AreaUID>40</AreaUID>
+<AreaName>Area 39</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>314.66</AreaPos_X>
+<AreaPos_X2>335.43</AreaPos_X2>
+<AreaPos_Y>135.51</AreaPos_Y>
+<AreaPos_Y2>149.89</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid41">
+<AreaUID>41</AreaUID>
+<AreaName>Area 40</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>335.54</AreaPos_X>
+<AreaPos_X2>352.50</AreaPos_X2>
+<AreaPos_Y>126.90</AreaPos_Y>
+<AreaPos_Y2>144.40</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid42">
+<AreaUID>42</AreaUID>
+<AreaName>Area 41</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>314.80</AreaPos_X>
+<AreaPos_X2>333.07</AreaPos_X2>
+<AreaPos_Y>165.97</AreaPos_Y>
+<AreaPos_Y2>181.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid43">
+<AreaUID>43</AreaUID>
+<AreaName>Area 42</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>348.78</AreaPos_X>
+<AreaPos_X2>368.95</AreaPos_X2>
+<AreaPos_Y>151.31</AreaPos_Y>
+<AreaPos_Y2>166.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid44">
+<AreaUID>44</AreaUID>
+<AreaName>Area 43</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>333.35</AreaPos_X>
+<AreaPos_X2>348.72</AreaPos_X2>
+<AreaPos_Y>153.98</AreaPos_Y>
+<AreaPos_Y2>172.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid45">
+<AreaUID>45</AreaUID>
+<AreaName>Area 44</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>260.09</AreaPos_X>
+<AreaPos_X2>283.61</AreaPos_X2>
+<AreaPos_Y>138.32</AreaPos_Y>
+<AreaPos_Y2>153.64</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid46">
+<AreaUID>46</AreaUID>
+<AreaName>Area 45</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>289.23</AreaPos_X>
+<AreaPos_X2>314.49</AreaPos_X2>
+<AreaPos_Y>123.72</AreaPos_Y>
+<AreaPos_Y2>139.89</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid47">
+<AreaUID>47</AreaUID>
+<AreaName>Area 46</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>227.39</AreaPos_X>
+<AreaPos_X2>263.66</AreaPos_X2>
+<AreaPos_Y>35.54</AreaPos_Y>
+<AreaPos_Y2>52.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid48">
+<AreaUID>48</AreaUID>
+<AreaName>Area 47</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>252.95</AreaPos_X>
+<AreaPos_X2>279.91</AreaPos_X2>
+<AreaPos_Y>25.14</AreaPos_Y>
+<AreaPos_Y2>35.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid49">
+<AreaUID>49</AreaUID>
+<AreaName>Area 48</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>245.88</AreaPos_X>
+<AreaPos_X2>279.89</AreaPos_X2>
+<AreaPos_Y>52.73</AreaPos_Y>
+<AreaPos_Y2>59.83</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid50">
+<AreaUID>50</AreaUID>
+<AreaName>Area 49</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>289.26</AreaPos_X>
+<AreaPos_X2>308.84</AreaPos_X2>
+<AreaPos_Y>62.95</AreaPos_Y>
+<AreaPos_Y2>83.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid51">
+<AreaUID>51</AreaUID>
+<AreaName>Area 50</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>309.01</AreaPos_X>
+<AreaPos_X2>327.13</AreaPos_X2>
+<AreaPos_Y>67.59</AreaPos_Y>
+<AreaPos_Y2>91.65</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid52">
+<AreaUID>52</AreaUID>
+<AreaName>Area 51</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>327.27</AreaPos_X>
+<AreaPos_X2>354.38</AreaPos_X2>
+<AreaPos_Y>62.76</AreaPos_Y>
+<AreaPos_Y2>78.04</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid53">
+<AreaUID>53</AreaUID>
+<AreaName>Area 52</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>329.15</AreaPos_X>
+<AreaPos_X2>348.47</AreaPos_X2>
+<AreaPos_Y>39.35</AreaPos_Y>
+<AreaPos_Y2>52.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid54">
+<AreaUID>54</AreaUID>
+<AreaName>Area 53</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>348.55</AreaPos_X>
+<AreaPos_X2>369.12</AreaPos_X2>
+<AreaPos_Y>42.30</AreaPos_Y>
+<AreaPos_Y2>58.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid55">
+<AreaUID>55</AreaUID>
+<AreaName>Area 54</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>300.48</AreaPos_X>
+<AreaPos_X2>325.34</AreaPos_X2>
+<AreaPos_Y>19.32</AreaPos_Y>
+<AreaPos_Y2>37.70</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid56">
+<AreaUID>56</AreaUID>
+<AreaName>Area 55</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>284.15</AreaPos_X>
+<AreaPos_X2>300.34</AreaPos_X2>
+<AreaPos_Y>17.73</AreaPos_Y>
+<AreaPos_Y2>29.20</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid57">
+<AreaUID>57</AreaUID>
+<AreaName>Area 56</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>330.45</AreaPos_X>
+<AreaPos_X2>361.73</AreaPos_X2>
+<AreaPos_Y>9.20</AreaPos_Y>
+<AreaPos_Y2>22.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid58">
+<AreaUID>58</AreaUID>
+<AreaName>Area 57</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>361.85</AreaPos_X>
+<AreaPos_X2>385.11</AreaPos_X2>
+<AreaPos_Y>21.42</AreaPos_Y>
+<AreaPos_Y2>38.89</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid59">
+<AreaUID>59</AreaUID>
+<AreaName>Area 58</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>346.11</AreaPos_X>
+<AreaPos_X2>361.76</AreaPos_X2>
+<AreaPos_Y>22.59</AreaPos_Y>
+<AreaPos_Y2>31.93</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid60">
+<AreaUID>60</AreaUID>
+<AreaName>Area 59</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>276.48</AreaPos_X>
+<AreaPos_X2>303.32</AreaPos_X2>
+<AreaPos_Y>35.63</AreaPos_Y>
+<AreaPos_Y2>50.68</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid61">
+<AreaUID>61</AreaUID>
+<AreaName>Area 60</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>305.68</AreaPos_X>
+<AreaPos_X2>330.77</AreaPos_X2>
+<AreaPos_Y>50.63</AreaPos_Y>
+<AreaPos_Y2>65.23</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid62">
+<AreaUID>62</AreaUID>
+<AreaName>Area 61</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>138.64</AreaPos_X>
+<AreaPos_X2>166.05</AreaPos_X2>
+<AreaPos_Y>2.22</AreaPos_Y>
+<AreaPos_Y2>18.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid63">
+<AreaUID>63</AreaUID>
+<AreaName>Area 62</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>177.33</AreaPos_X>
+<AreaPos_X2>204.55</AreaPos_X2>
+<AreaPos_Y>19.40</AreaPos_Y>
+<AreaPos_Y2>37.07</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid64">
+<AreaUID>64</AreaUID>
+<AreaName>Area 63</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>206.08</AreaPos_X>
+<AreaPos_X2>233.18</AreaPos_X2>
+<AreaPos_Y>7.53</AreaPos_Y>
+<AreaPos_Y2>32.02</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid65">
+<AreaUID>65</AreaUID>
+<AreaName>Area 64</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>168.58</AreaPos_X>
+<AreaPos_X2>180.20</AreaPos_X2>
+<AreaPos_Y>2.05</AreaPos_Y>
+<AreaPos_Y2>11.93</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid66">
+<AreaUID>66</AreaUID>
+<AreaName>Area 65</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>255.80</AreaPos_X>
+<AreaPos_X2>277.53</AreaPos_X2>
+<AreaPos_Y>1.70</AreaPos_Y>
+<AreaPos_Y2>10.11</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid67">
+<AreaUID>67</AreaUID>
+<AreaName>Area 66</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>235.99</AreaPos_X>
+<AreaPos_X2>248.35</AreaPos_X2>
+<AreaPos_Y>12.36</AreaPos_Y>
+<AreaPos_Y2>26.51</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid68">
+<AreaUID>68</AreaUID>
+<AreaName>Area 67</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>92.24</AreaPos_X>
+<AreaPos_X2>124.89</AreaPos_X2>
+<AreaPos_Y>2.78</AreaPos_Y>
+<AreaPos_Y2>16.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid69">
+<AreaUID>69</AreaUID>
+<AreaName>Area 68</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>61.76</AreaPos_X>
+<AreaPos_X2>79.49</AreaPos_X2>
+<AreaPos_Y>1.76</AreaPos_Y>
+<AreaPos_Y2>14.86</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid70">
+<AreaUID>70</AreaUID>
+<AreaName>Area 69</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>3.10</AreaPos_X>
+<AreaPos_X2>45.00</AreaPos_X2>
+<AreaPos_Y>1.48</AreaPos_Y>
+<AreaPos_Y2>21.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid71">
+<AreaUID>71</AreaUID>
+<AreaName>Area 70</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>2.50</AreaPos_X>
+<AreaPos_X2>28.07</AreaPos_X2>
+<AreaPos_Y>23.13</AreaPos_Y>
+<AreaPos_Y2>41.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid72">
+<AreaUID>72</AreaUID>
+<AreaName>Area 71</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>2.41</AreaPos_X>
+<AreaPos_X2>37.84</AreaPos_X2>
+<AreaPos_Y>43.01</AreaPos_Y>
+<AreaPos_Y2>61.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid73">
+<AreaUID>73</AreaUID>
+<AreaName>Area 72</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>2.19</AreaPos_X>
+<AreaPos_X2>32.67</AreaPos_X2>
+<AreaPos_Y>62.50</AreaPos_Y>
+<AreaPos_Y2>80.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid74">
+<AreaUID>74</AreaUID>
+<AreaName>Area 73</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>2.50</AreaPos_X>
+<AreaPos_X2>17.87</AreaPos_X2>
+<AreaPos_Y>81.59</AreaPos_Y>
+<AreaPos_Y2>93.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid75">
+<AreaUID>75</AreaUID>
+<AreaName>Area 74</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>20.40</AreaPos_X>
+<AreaPos_X2>45.14</AreaPos_X2>
+<AreaPos_Y>97.78</AreaPos_Y>
+<AreaPos_Y2>114.23</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid76">
+<AreaUID>76</AreaUID>
+<AreaName>Area 75</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>46.08</AreaPos_X>
+<AreaPos_X2>74.23</AreaPos_X2>
+<AreaPos_Y>85.17</AreaPos_Y>
+<AreaPos_Y2>105.85</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid77">
+<AreaUID>77</AreaUID>
+<AreaName>Area 76</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>75.14</AreaPos_X>
+<AreaPos_X2>88.13</AreaPos_X2>
+<AreaPos_Y>92.53</AreaPos_Y>
+<AreaPos_Y2>107.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid78">
+<AreaUID>78</AreaUID>
+<AreaName>Area 77</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>45.43</AreaPos_X>
+<AreaPos_X2>64.77</AreaPos_X2>
+<AreaPos_Y>107.10</AreaPos_Y>
+<AreaPos_Y2>122.30</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid79">
+<AreaUID>79</AreaUID>
+<AreaName>Area 78</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>2.22</AreaPos_X>
+<AreaPos_X2>18.27</AreaPos_X2>
+<AreaPos_Y>118.24</AreaPos_Y>
+<AreaPos_Y2>135.74</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid80">
+<AreaUID>80</AreaUID>
+<AreaName>Area 79</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.61</AreaPos_X>
+<AreaPos_X2>30.65</AreaPos_X2>
+<AreaPos_Y>124.69</AreaPos_Y>
+<AreaPos_Y2>139.49</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid81">
+<AreaUID>81</AreaUID>
+<AreaName>Area 80</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>2.19</AreaPos_X>
+<AreaPos_X2>18.27</AreaPos_X2>
+<AreaPos_Y>137.41</AreaPos_Y>
+<AreaPos_Y2>160.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid82">
+<AreaUID>82</AreaUID>
+<AreaName>Area 81</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.72</AreaPos_X>
+<AreaPos_X2>33.10</AreaPos_X2>
+<AreaPos_Y>148.55</AreaPos_Y>
+<AreaPos_Y2>159.43</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid83">
+<AreaUID>83</AreaUID>
+<AreaName>Area 82</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>2.44</AreaPos_X>
+<AreaPos_X2>17.78</AreaPos_X2>
+<AreaPos_Y>161.34</AreaPos_Y>
+<AreaPos_Y2>197.27</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid84">
+<AreaUID>84</AreaUID>
+<AreaName>Area 83</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.75</AreaPos_X>
+<AreaPos_X2>36.16</AreaPos_X2>
+<AreaPos_Y>185.82</AreaPos_Y>
+<AreaPos_Y2>198.32</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid85">
+<AreaUID>85</AreaUID>
+<AreaName>Area 84</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>87.56</AreaPos_X>
+<AreaPos_X2>112.13</AreaPos_X2>
+<AreaPos_Y>185.71</AreaPos_Y>
+<AreaPos_Y2>198.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid86">
+<AreaUID>86</AreaUID>
+<AreaName>Area 85</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>132.87</AreaPos_X>
+<AreaPos_X2>157.81</AreaPos_X2>
+<AreaPos_Y>186.42</AreaPos_Y>
+<AreaPos_Y2>199.01</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid87">
+<AreaUID>87</AreaUID>
+<AreaName>Area 86</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>165.97</AreaPos_X>
+<AreaPos_X2>184.46</AreaPos_X2>
+<AreaPos_Y>170.20</AreaPos_Y>
+<AreaPos_Y2>185.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid88">
+<AreaUID>88</AreaUID>
+<AreaName>Area 87</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>185.88</AreaPos_X>
+<AreaPos_X2>199.60</AreaPos_X2>
+<AreaPos_Y>163.72</AreaPos_Y>
+<AreaPos_Y2>193.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid89">
+<AreaUID>89</AreaUID>
+<AreaName>Area 88</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>199.83</AreaPos_X>
+<AreaPos_X2>219.29</AreaPos_X2>
+<AreaPos_Y>155.60</AreaPos_Y>
+<AreaPos_Y2>183.52</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid90">
+<AreaUID>90</AreaUID>
+<AreaName>Area 89</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>219.40</AreaPos_X>
+<AreaPos_X2>234.40</AreaPos_X2>
+<AreaPos_Y>161.05</AreaPos_Y>
+<AreaPos_Y2>175.26</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid91">
+<AreaUID>91</AreaUID>
+<AreaName>Area 90</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>216.93</AreaPos_X>
+<AreaPos_X2>239.35</AreaPos_X2>
+<AreaPos_Y>190.03</AreaPos_Y>
+<AreaPos_Y2>198.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid92">
+<AreaUID>92</AreaUID>
+<AreaName>Area 91</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>230.80</AreaPos_X>
+<AreaPos_X2>255.74</AreaPos_X2>
+<AreaPos_Y>183.04</AreaPos_Y>
+<AreaPos_Y2>189.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid93">
+<AreaUID>93</AreaUID>
+<AreaName>Area 92</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>246.39</AreaPos_X>
+<AreaPos_X2>260.00</AreaPos_X2>
+<AreaPos_Y>176.05</AreaPos_Y>
+<AreaPos_Y2>182.90</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid94">
+<AreaUID>94</AreaUID>
+<AreaName>Area 93</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>241.11</AreaPos_X>
+<AreaPos_X2>255.68</AreaPos_X2>
+<AreaPos_Y>190.26</AreaPos_Y>
+<AreaPos_Y2>198.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid95">
+<AreaUID>95</AreaUID>
+<AreaName>Area 94</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>256.36</AreaPos_X>
+<AreaPos_X2>278.18</AreaPos_X2>
+<AreaPos_Y>183.47</AreaPos_Y>
+<AreaPos_Y2>198.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid96">
+<AreaUID>96</AreaUID>
+<AreaName>Area 95</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>282.02</AreaPos_X>
+<AreaPos_X2>317.84</AreaPos_X2>
+<AreaPos_Y>179.32</AreaPos_Y>
+<AreaPos_Y2>198.92</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid97">
+<AreaUID>97</AreaUID>
+<AreaName>Area 96</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>318.81</AreaPos_X>
+<AreaPos_X2>348.64</AreaPos_X2>
+<AreaPos_Y>181.82</AreaPos_Y>
+<AreaPos_Y2>198.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid98">
+<AreaUID>98</AreaUID>
+<AreaName>Area 97</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>351.05</AreaPos_X>
+<AreaPos_X2>397.73</AreaPos_X2>
+<AreaPos_Y>181.19</AreaPos_Y>
+<AreaPos_Y2>198.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid99">
+<AreaUID>99</AreaUID>
+<AreaName>Area 98</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>375.31</AreaPos_X>
+<AreaPos_X2>397.70</AreaPos_X2>
+<AreaPos_Y>157.13</AreaPos_Y>
+<AreaPos_Y2>180.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid100">
+<AreaUID>100</AreaUID>
+<AreaName>Area 99</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>369.57</AreaPos_X>
+<AreaPos_X2>397.53</AreaPos_X2>
+<AreaPos_Y>135.85</AreaPos_Y>
+<AreaPos_Y2>154.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid101">
+<AreaUID>101</AreaUID>
+<AreaName>Area 100</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>369.18</AreaPos_X>
+<AreaPos_X2>397.41</AreaPos_X2>
+<AreaPos_Y>113.84</AreaPos_Y>
+<AreaPos_Y2>130.57</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid102">
+<AreaUID>102</AreaUID>
+<AreaName>Area 101</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>327.61</AreaPos_X>
+<AreaPos_X2>353.81</AreaPos_X2>
+<AreaPos_Y>87.78</AreaPos_Y>
+<AreaPos_Y2>109.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid103">
+<AreaUID>103</AreaUID>
+<AreaName>Area 102</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>354.20</AreaPos_X>
+<AreaPos_X2>376.22</AreaPos_X2>
+<AreaPos_Y>75.68</AreaPos_Y>
+<AreaPos_Y2>104.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid104">
+<AreaUID>104</AreaUID>
+<AreaName>Area 103</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>376.93</AreaPos_X>
+<AreaPos_X2>388.78</AreaPos_X2>
+<AreaPos_Y>82.24</AreaPos_Y>
+<AreaPos_Y2>98.10</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid105">
+<AreaUID>105</AreaUID>
+<AreaName>Area 104</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>380.82</AreaPos_X>
+<AreaPos_X2>397.53</AreaPos_X2>
+<AreaPos_Y>62.22</AreaPos_Y>
+<AreaPos_Y2>72.30</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid106">
+<AreaUID>106</AreaUID>
+<AreaName>유적 1층</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[405]D07_S01_B01.rmd</AccessMap>
+<AccessMapName>デフヒルズ古代遺跡 B1</AccessMapName>
+<AreaPos_X>197.70</AreaPos_X>
+<AreaPos_X2>201.68</AreaPos_X2>
+<AreaPos_Y>100.99</AreaPos_Y>
+<AreaPos_Y2>104.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

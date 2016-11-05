@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[117]T03_Bank01.rmd</FileName>
+<FileType>Red Stone Scenario File 6.9 beta</FileType>
+<MapName>アウグスタ銀行</MapName>
+<SysWidth>35</SysWidth>
+<SysHeight>35</SysHeight>
+<TgaWidth>150</TgaWidth>
+<TgaHeight>75</TgaHeight>
+<MapType>3</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>メルチェント</CharacterName>
+<CharacterType>8</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>46.07</PopPoint_X>
+<PopPoint_Y>27.32</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>住民</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>100.04</PopPoint_X>
+<PopPoint_Y>30.13</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>お嬢さん</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.63</PopPoint_X>
+<PopPoint_Y>31.61</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>お嬢さん</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>96.23</PopPoint_X>
+<PopPoint_Y>39.11</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>ちびっこ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>66.56</PopPoint_X>
+<PopPoint_Y>46.81</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ちびっこ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>52.50</PopPoint_X>
+<PopPoint_Y>49.35</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>金取引人</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>54.78</PopPoint_X>
+<PopPoint_Y>20.96</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>Area 1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>76.54</AreaPos_X>
+<AreaPos_X2>105.74</AreaPos_X2>
+<AreaPos_Y>23.71</AreaPos_Y>
+<AreaPos_Y2>42.86</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>60.47</AreaPos_X>
+<AreaPos_X2>70.65</AreaPos_X2>
+<AreaPos_Y>43.06</AreaPos_Y>
+<AreaPos_Y2>49.08</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>46.54</AreaPos_X>
+<AreaPos_X2>58.46</AreaPos_X2>
+<AreaPos_Y>45.80</AreaPos_Y>
+<AreaPos_Y2>52.30</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>은행 출입구</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[071]T03.rmd</AccessMap>
+<AccessMapName>神聖都市アウグスタ</AccessMapName>
+<AreaPos_X>25.78</AreaPos_X>
+<AreaPos_X2>33.42</AreaPos_X2>
+<AreaPos_Y>57.12</AreaPos_Y>
+<AreaPos_Y2>62.08</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

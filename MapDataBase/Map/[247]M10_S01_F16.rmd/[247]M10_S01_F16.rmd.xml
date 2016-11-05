@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[247]M10_S01_F16.rmd</FileName>
+<FileType>Red Stone Scenario File 6.0 beta</FileType>
+<MapName>スウェブタワー　１６Ｆ</MapName>
+<SysWidth>80</SysWidth>
+<SysHeight>80</SysHeight>
+<TgaWidth>160</TgaWidth>
+<TgaHeight>80</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>3</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>19</P_SubElement1>
+<P_SubElement2>19</P_SubElement2>
+<P_SubElement3>17</P_SubElement3>
+<P_SubElement4>17</P_SubElement4>
+<P_SubElement5>17</P_SubElement5>
+<P_SubElement6>23</P_SubElement6>
+<M_AddElement1>19</M_AddElement1>
+<M_AddElement2>19</M_AddElement2>
+<M_AddElement3>16</M_AddElement3>
+<M_AddElement4>17</M_AddElement4>
+<M_AddElement5>17</M_AddElement5>
+<M_AddElement6>23</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>長老</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>50.94</PopPoint_X>
+<PopPoint_Y>28.59</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>ウィザード</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>61.53</PopPoint_X>
+<PopPoint_Y>25.88</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ウィザード</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>48.69</PopPoint_X>
+<PopPoint_Y>39.13</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>長老</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>84.75</PopPoint_X>
+<PopPoint_Y>27.41</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>ウィザード</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>81.19</PopPoint_X>
+<PopPoint_Y>23.84</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ウィザード</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>96.38</PopPoint_X>
+<PopPoint_Y>31.44</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ウィザード</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>71.13</PopPoint_X>
+<PopPoint_Y>30.72</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>ウィザード</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>98.63</PopPoint_X>
+<PopPoint_Y>23.75</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>グニオグ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>115.72</PopPoint_X>
+<PopPoint_Y>43.03</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>Area 1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>52.16</AreaPos_X>
+<AreaPos_X2>65.13</AreaPos_X2>
+<AreaPos_Y>22.78</AreaPos_Y>
+<AreaPos_Y2>31.66</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>43.69</AreaPos_X>
+<AreaPos_X2>63.91</AreaPos_X2>
+<AreaPos_Y>37.59</AreaPos_Y>
+<AreaPos_Y2>42.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>77.56</AreaPos_X>
+<AreaPos_X2>102.13</AreaPos_X2>
+<AreaPos_Y>20.41</AreaPos_Y>
+<AreaPos_Y2>29.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>15층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[246]M10_S01_F15.rmd</AccessMap>
+<AccessMapName>スウェブタワー　１５Ｆ</AccessMapName>
+<AreaPos_X>86.34</AreaPos_X>
+<AreaPos_X2>90.81</AreaPos_X2>
+<AreaPos_Y>42.25</AreaPos_Y>
+<AreaPos_Y2>44.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>17층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[248]M10_S01_F17.rmd</AccessMap>
+<AccessMapName>スウェブタワー　１７Ｆ</AccessMapName>
+<AreaPos_X>66.66</AreaPos_X>
+<AreaPos_X2>71.66</AreaPos_X2>
+<AreaPos_Y>32.84</AreaPos_Y>
+<AreaPos_Y2>35.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

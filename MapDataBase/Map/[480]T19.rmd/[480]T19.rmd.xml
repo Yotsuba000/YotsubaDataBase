@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[480]T19.rmd</FileName>
+<FileType>Red Stone Scenario File 6.4 beta</FileType>
+<MapName>港町ボルティッシュ</MapName>
+<SysWidth>100</SysWidth>
+<SysHeight>100</SysHeight>
+<TgaWidth>200</TgaWidth>
+<TgaHeight>100</TgaHeight>
+<MapType>2</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>船員</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>135.06</PopPoint_X>
+<PopPoint_Y>34.69</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>アンジー</CharacterName>
+<CharacterType>13</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>12.63</PopPoint_X>
+<PopPoint_Y>66.41</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ビルド・デーズ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>93.25</PopPoint_X>
+<PopPoint_Y>52.13</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>ダドリー</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.25</PopPoint_X>
+<PopPoint_Y>73.75</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>冒険家</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>79.56</PopPoint_X>
+<PopPoint_Y>76.88</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>冒険家</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.03</PopPoint_X>
+<PopPoint_Y>78.09</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>冒険家</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>71.03</PopPoint_X>
+<PopPoint_Y>76.31</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>[입구] 용사들의 무덤</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>12.06</AreaPos_X>
+<AreaPos_X2>16.63</AreaPos_X2>
+<AreaPos_Y>48.03</AreaPos_Y>
+<AreaPos_Y2>50.66</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>[입구] 작은은행</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[481]T19_Bank01.rmd</AccessMap>
+<AccessMapName>ボルティッシュ銀行</AccessMapName>
+<AreaPos_X>48.63</AreaPos_X>
+<AreaPos_X2>52.00</AreaPos_X2>
+<AreaPos_Y>70.28</AreaPos_Y>
+<AreaPos_Y2>72.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>[입구] 여관겸 주점, 잡화점</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[484]T19_I01.rmd</AccessMap>
+<AccessMapName>ボルティッシュ旅館 / 酒場</AccessMapName>
+<AreaPos_X>98.00</AreaPos_X>
+<AreaPos_X2>101.44</AreaPos_X2>
+<AreaPos_Y>46.25</AreaPos_Y>
+<AreaPos_Y2>48.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>[이동] 교회</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[482]T19_C01.rmd</AccessMap>
+<AccessMapName>ボルティッシュ教会</AccessMapName>
+<AreaPos_X>28.63</AreaPos_X>
+<AreaPos_X2>31.81</AreaPos_X2>
+<AreaPos_Y>30.94</AreaPos_Y>
+<AreaPos_Y2>32.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>[이동] 무기점</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[483]T19_W01.rmd</AccessMap>
+<AccessMapName>ボルティッシュ武器店</AccessMapName>
+<AreaPos_X>64.59</AreaPos_X>
+<AreaPos_X2>67.78</AreaPos_X2>
+<AreaPos_Y>59.19</AreaPos_Y>
+<AreaPos_Y2>60.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>시작 영역</AreaName>
+<AreaType>5</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>121.88</AreaPos_X>
+<AreaPos_X2>127.91</AreaPos_X2>
+<AreaPos_Y>34.22</AreaPos_Y>
+<AreaPos_Y2>38.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>M27로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[486]M27.rmd</AccessMap>
+<AccessMapName>幻影の谷 / シトロンリバー上流</AccessMapName>
+<AreaPos_X>27.81</AreaPos_X>
+<AreaPos_X2>33.44</AreaPos_X2>
+<AreaPos_Y>91.09</AreaPos_Y>
+<AreaPos_Y2>94.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

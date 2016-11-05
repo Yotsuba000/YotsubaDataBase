@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[417]T04_H04_F02.rmd</FileName>
+<FileType>Red Stone Scenario File 6.4 beta</FileType>
+<MapName>ブリッジヘッド商人ギルド　２Ｆ</MapName>
+<SysWidth>30</SysWidth>
+<SysHeight>30</SysHeight>
+<TgaWidth>60</TgaWidth>
+<TgaHeight>30</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>アイリーン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>32.44</PopPoint_X>
+<PopPoint_Y>16.31</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>専属用心棒</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>18.28</PopPoint_X>
+<PopPoint_Y>14.16</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>専属用心棒</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>25.38</PopPoint_X>
+<PopPoint_Y>18.00</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>출구라네~</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[416]T04_H04_F01.rmd</AccessMap>
+<AccessMapName>ブリッジヘッド商人ギルド　１Ｆ</AccessMapName>
+<AreaPos_X>10.56</AreaPos_X>
+<AreaPos_X2>14.00</AreaPos_X2>
+<AreaPos_Y>19.16</AreaPos_Y>
+<AreaPos_Y2>20.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>11</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>40.06</AreaPos_X>
+<AreaPos_X2>44.03</AreaPos_X2>
+<AreaPos_Y>9.03</AreaPos_Y>
+<AreaPos_Y2>12.16</AreaPos_Y2>
+<AreaExpansion>
+<RecoveryTime>5</RecoveryTime>
+<DetectTrap_Lv>10</DetectTrap_Lv>
+<DisarmTrap_Lv>5</DisarmTrap_Lv>
+<TrapID1>21</TrapID1>
+<TrapID2>65535</TrapID2>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>RED STONEのかけらの隠し場所</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>44.53</AreaPos_X>
+<AreaPos_X2>49.69</AreaPos_X2>
+<AreaPos_Y>6.06</AreaPos_Y>
+<AreaPos_Y2>9.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.56</AreaPos_X>
+<AreaPos_X2>45.06</AreaPos_X2>
+<AreaPos_Y>10.94</AreaPos_Y>
+<AreaPos_Y2>24.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>15.09</AreaPos_X>
+<AreaPos_X2>26.56</AreaPos_X2>
+<AreaPos_Y>12.47</AreaPos_Y>
+<AreaPos_Y2>19.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

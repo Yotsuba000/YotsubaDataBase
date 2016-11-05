@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[525]Friends_02.rmd</FileName>
+<FileType>Red Stone Scenario File 7.3 beta</FileType>
+<MapName>冒険家街ジャクソン</MapName>
+<SysWidth>60</SysWidth>
+<SysHeight>80</SysHeight>
+<TgaWidth>320</TgaWidth>
+<TgaHeight>213</TgaHeight>
+<MapType>2</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ペット管理官</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>232.92</PopPoint_X>
+<PopPoint_Y>163.24</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>アルブレヒト</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>122.83</PopPoint_X>
+<PopPoint_Y>91.86</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>称号テレポーター</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>141.25</PopPoint_X>
+<PopPoint_Y>41.85</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>協会事務員</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>94.75</PopPoint_X>
+<PopPoint_Y>43.85</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>育成指導員</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>25</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>42.50</PopPoint_X>
+<PopPoint_Y>67.23</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>基本戦闘指導員</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>46.58</PopPoint_X>
+<PopPoint_Y>91.19</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>協会派遣魔法師</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>133.58</PopPoint_X>
+<PopPoint_Y>89.19</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>カカシ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>26</InternalID>
+<PopSpeed>1</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>61.08</PopPoint_X>
+<PopPoint_Y>101.67</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ギルド登録員</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>61.67</PopPoint_X>
+<PopPoint_Y>46.68</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>協会テレポーター</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.92</PopPoint_X>
+<PopPoint_Y>89.44</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>カカシ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>26</InternalID>
+<PopSpeed>1</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>74.00</PopPoint_X>
+<PopPoint_Y>108.08</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>カカシ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>26</InternalID>
+<PopSpeed>1</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>86.67</PopPoint_X>
+<PopPoint_Y>114.24</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>ファミリア</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>214.92</PopPoint_X>
+<PopPoint_Y>170.15</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>ブラウンベアー</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>235.17</PopPoint_X>
+<PopPoint_Y>148.77</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>骸骨狂戦士</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>249.58</PopPoint_X>
+<PopPoint_Y>177.14</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>エルフ暗殺者</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>228.83</PopPoint_X>
+<PopPoint_Y>180.72</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>サティロス</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>252.42</PopPoint_X>
+<PopPoint_Y>164.08</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>女冒険家</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>143.00</PopPoint_X>
+<PopPoint_Y>58.91</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>女冒険家</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.92</PopPoint_X>
+<PopPoint_Y>79.04</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>男冒険家</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>145.92</PopPoint_X>
+<PopPoint_Y>109.16</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>男冒険家</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>193.00</PopPoint_X>
+<PopPoint_Y>75.96</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>リラ</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>211.92</PopPoint_X>
+<PopPoint_Y>71.31</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>雑貨商人</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>22</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>169.33</PopPoint_X>
+<PopPoint_Y>46.76</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>ユニーク交換員</CharacterName>
+<CharacterType>19</CharacterType>
+<InternalID>23</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>119.08</PopPoint_X>
+<PopPoint_Y>41.35</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>羅針盤支給員</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>24</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.67</PopPoint_X>
+<PopPoint_Y>53.25</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>시작 영역</AreaName>
+<AreaType>5</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>87.33</AreaPos_X>
+<AreaPos_X2>107.25</AreaPos_X2>
+<AreaPos_Y>53.08</AreaPos_Y>
+<AreaPos_Y2>65.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>テイマーペット支給領域</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>208.17</AreaPos_X>
+<AreaPos_X2>268.00</AreaPos_X2>
+<AreaPos_Y>148.27</AreaPos_Y>
+<AreaPos_Y2>188.95</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>70.25</AreaPos_X>
+<AreaPos_X2>197.25</AreaPos_X2>
+<AreaPos_Y>54.17</AreaPos_Y>
+<AreaPos_Y2>117.15</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

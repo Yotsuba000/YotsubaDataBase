@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[tiamath]001.rmd</FileName>
+<FileType>Red Stone Scenario File 5.9 beta</FileType>
+<MapName>ティアメスの聖地</MapName>
+<SysWidth>50</SysWidth>
+<SysHeight>80</SysHeight>
+<TgaWidth>150</TgaWidth>
+<TgaHeight>120</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>8</MapView_Lv>
+<isLocationStrage>0</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ティアメス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>52.97</PopPoint_X>
+<PopPoint_Y>35.67</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>触手</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>52.97</PopPoint_X>
+<PopPoint_Y>35.20</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>触手</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>52.45</PopPoint_X>
+<PopPoint_Y>35.77</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>시작 영역</AreaName>
+<AreaType>5</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>130.36</AreaPos_X>
+<AreaPos_X2>136.69</AreaPos_X2>
+<AreaPos_Y>89.95</AreaPos_Y>
+<AreaPos_Y2>93.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>끝없는 사막으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[tiamath]000.rmd</AccessMap>
+<AccessMapName>果てしない砂漠</AccessMapName>
+<AreaPos_X>130.55</AreaPos_X>
+<AreaPos_X2>135.98</AreaPos_X2>
+<AreaPos_Y>85.03</AreaPos_Y>
+<AreaPos_Y2>88.45</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>奥に進む</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>107.63</AreaPos_X>
+<AreaPos_X2>124.08</AreaPos_X2>
+<AreaPos_Y>75.33</AreaPos_Y>
+<AreaPos_Y2>87.89</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>워프</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>105.05</AreaPos_X>
+<AreaPos_X2>111.89</AreaPos_X2>
+<AreaPos_Y>73.08</AreaPos_Y>
+<AreaPos_Y2>79.17</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>리젠 체크</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>87.75</AreaPos_X>
+<AreaPos_X2>114.66</AreaPos_X2>
+<AreaPos_Y>57.80</AreaPos_Y>
+<AreaPos_Y2>79.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>티아메스</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>43.13</AreaPos_X>
+<AreaPos_X2>64.69</AreaPos_X2>
+<AreaPos_Y>23.20</AreaPos_Y>
+<AreaPos_Y2>40.27</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>光の剣と光の盾</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>9.70</AreaPos_X>
+<AreaPos_X2>25.97</AreaPos_X2>
+<AreaPos_Y>14.06</AreaPos_Y>
+<AreaPos_Y2>29.30</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>이동체크</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>112.45</AreaPos_X>
+<AreaPos_X2>145.08</AreaPos_X2>
+<AreaPos_Y>74.81</AreaPos_Y>
+<AreaPos_Y2>104.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

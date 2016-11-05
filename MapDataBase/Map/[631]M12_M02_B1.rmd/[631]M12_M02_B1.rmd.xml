@@ -1,0 +1,5141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[631]M12_M02_B1.rmd</FileName>
+<FileType>Red Stone Scenario File 7.3 beta</FileType>
+<MapName>ミラーダンジョンパブル鉱山 B1 1-1</MapName>
+<SysWidth>350</SysWidth>
+<SysHeight>350</SysHeight>
+<TgaWidth>400</TgaWidth>
+<TgaHeight>200</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>1</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>1</MapView_Lv>
+<isLocationStrage>0</isLocationStrage>
+<P_SubElement1>50</P_SubElement1>
+<P_SubElement2>50</P_SubElement2>
+<P_SubElement3>50</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>194.32</PopPoint_X>
+<PopPoint_Y>173.14</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>73.98</PopPoint_X>
+<PopPoint_Y>71.36</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>4.45</PopPoint_X>
+<PopPoint_Y>14.36</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>9.50</PopPoint_X>
+<PopPoint_Y>9.09</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>バフォメット</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>383.50</PopPoint_X>
+<PopPoint_Y>14.98</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>6.27</PopPoint_X>
+<PopPoint_Y>13.93</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>6.98</PopPoint_X>
+<PopPoint_Y>12.05</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>8.23</PopPoint_X>
+<PopPoint_Y>10.61</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>11</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>20.73</PopPoint_X>
+<PopPoint_Y>152.30</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>26</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>18.04</PopPoint_X>
+<PopPoint_Y>26.27</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>26</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>15.61</PopPoint_X>
+<PopPoint_Y>27.09</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>27</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>80.93</PopPoint_X>
+<PopPoint_Y>144.20</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>348.68</PopPoint_X>
+<PopPoint_Y>123.39</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>12</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.73</PopPoint_X>
+<PopPoint_Y>45.77</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>27</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>87.29</PopPoint_X>
+<PopPoint_Y>148.38</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>23.80</PopPoint_X>
+<PopPoint_Y>63.25</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.77</PopPoint_X>
+<PopPoint_Y>60.18</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>33.21</PopPoint_X>
+<PopPoint_Y>66.18</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>80.45</PopPoint_X>
+<PopPoint_Y>45.25</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>92.88</PopPoint_X>
+<PopPoint_Y>45.91</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>79.18</PopPoint_X>
+<PopPoint_Y>76.50</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>77.95</PopPoint_X>
+<PopPoint_Y>73.46</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>76.61</PopPoint_X>
+<PopPoint_Y>80.14</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.80</PopPoint_X>
+<PopPoint_Y>76.80</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>34.02</PopPoint_X>
+<PopPoint_Y>110.29</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>30.71</PopPoint_X>
+<PopPoint_Y>108.14</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.04</PopPoint_X>
+<PopPoint_Y>112.88</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>251.77</PopPoint_X>
+<PopPoint_Y>129.55</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>11</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.70</PopPoint_X>
+<PopPoint_Y>154.75</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>43</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>20.27</PopPoint_X>
+<PopPoint_Y>160.82</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>11</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>24.95</PopPoint_X>
+<PopPoint_Y>156.82</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>52.57</PopPoint_X>
+<PopPoint_Y>159.89</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.89</PopPoint_X>
+<PopPoint_Y>167.32</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>55.71</PopPoint_X>
+<PopPoint_Y>161.07</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>57.41</PopPoint_X>
+<PopPoint_Y>169.59</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.27</PopPoint_X>
+<PopPoint_Y>164.45</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>55.75</PopPoint_X>
+<PopPoint_Y>171.59</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>リザードガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>370.04</PopPoint_X>
+<PopPoint_Y>44.61</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>リザードガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>145.30</PopPoint_X>
+<PopPoint_Y>74.07</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.52</PopPoint_X>
+<PopPoint_Y>95.54</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>リザードガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>317.11</PopPoint_X>
+<PopPoint_Y>87.04</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.18</PopPoint_X>
+<PopPoint_Y>82.95</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>133.04</PopPoint_X>
+<PopPoint_Y>23.41</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>138.70</PopPoint_X>
+<PopPoint_Y>27.45</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>136.05</PopPoint_X>
+<PopPoint_Y>27.66</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>136.70</PopPoint_X>
+<PopPoint_Y>24.21</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>208.32</PopPoint_X>
+<PopPoint_Y>12.29</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>23</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>184.73</PopPoint_X>
+<PopPoint_Y>112.23</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>42.77</PopPoint_X>
+<PopPoint_Y>175.73</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.45</PopPoint_X>
+<PopPoint_Y>169.11</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>28</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>187.23</PopPoint_X>
+<PopPoint_Y>118.21</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>181.07</PopPoint_X>
+<PopPoint_Y>117.23</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>47.75</PopPoint_X>
+<PopPoint_Y>178.20</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>124.21</PopPoint_X>
+<PopPoint_Y>145.11</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>8</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>116.79</PopPoint_X>
+<PopPoint_Y>141.63</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>194.25</PopPoint_X>
+<PopPoint_Y>182.05</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>200.20</PopPoint_X>
+<PopPoint_Y>181.20</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>200.20</PopPoint_X>
+<PopPoint_Y>172.89</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>190.25</PopPoint_X>
+<PopPoint_Y>177.43</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>202.89</PopPoint_X>
+<PopPoint_Y>177.13</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>213.54</PopPoint_X>
+<PopPoint_Y>12.38</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>217.70</PopPoint_X>
+<PopPoint_Y>11.84</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>214.93</PopPoint_X>
+<PopPoint_Y>9.52</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>209.43</PopPoint_X>
+<PopPoint_Y>19.93</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>269.89</PopPoint_X>
+<PopPoint_Y>184.29</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>290.02</PopPoint_X>
+<PopPoint_Y>184.29</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>99.50</PopPoint_X>
+<PopPoint_Y>5.59</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>96.39</PopPoint_X>
+<PopPoint_Y>10.46</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>49.98</PopPoint_X>
+<PopPoint_Y>157.55</PopPoint_Y>
+</Character>
+<Character id="cUid69">
+<CharacterUID>69</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>255.36</PopPoint_X>
+<PopPoint_Y>131.68</PopPoint_Y>
+</Character>
+<Character id="cUid70">
+<CharacterUID>70</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>260.02</PopPoint_X>
+<PopPoint_Y>130.96</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>92.98</PopPoint_X>
+<PopPoint_Y>126.11</PopPoint_Y>
+</Character>
+<Character id="cUid72">
+<CharacterUID>72</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>304.71</PopPoint_X>
+<PopPoint_Y>126.96</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>311.52</PopPoint_X>
+<PopPoint_Y>123.80</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>319.09</PopPoint_X>
+<PopPoint_Y>133.18</PopPoint_Y>
+</Character>
+<Character id="cUid75">
+<CharacterUID>75</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>14</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>324.30</PopPoint_X>
+<PopPoint_Y>146.27</PopPoint_Y>
+</Character>
+<Character id="cUid76">
+<CharacterUID>76</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>14</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>329.25</PopPoint_X>
+<PopPoint_Y>147.05</PopPoint_Y>
+</Character>
+<Character id="cUid77">
+<CharacterUID>77</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>14</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>331.75</PopPoint_X>
+<PopPoint_Y>145.18</PopPoint_Y>
+</Character>
+<Character id="cUid78">
+<CharacterUID>78</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>14</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>323.14</PopPoint_X>
+<PopPoint_Y>151.18</PopPoint_Y>
+</Character>
+<Character id="cUid79">
+<CharacterUID>79</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>318.98</PopPoint_X>
+<PopPoint_Y>131.02</PopPoint_Y>
+</Character>
+<Character id="cUid80">
+<CharacterUID>80</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>93.68</PopPoint_X>
+<PopPoint_Y>129.77</PopPoint_Y>
+</Character>
+<Character id="cUid81">
+<CharacterUID>81</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>344.27</PopPoint_X>
+<PopPoint_Y>72.23</PopPoint_Y>
+</Character>
+<Character id="cUid82">
+<CharacterUID>82</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>18</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>350.88</PopPoint_X>
+<PopPoint_Y>73.43</PopPoint_Y>
+</Character>
+<Character id="cUid83">
+<CharacterUID>83</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>32</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>376.50</PopPoint_X>
+<PopPoint_Y>78.30</PopPoint_Y>
+</Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>32</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>386.14</PopPoint_X>
+<PopPoint_Y>82.59</PopPoint_Y>
+</Character>
+<Character id="cUid85">
+<CharacterUID>85</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>377.93</PopPoint_X>
+<PopPoint_Y>86.43</PopPoint_Y>
+</Character>
+<Character id="cUid86">
+<CharacterUID>86</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>191.50</PopPoint_X>
+<PopPoint_Y>179.27</PopPoint_Y>
+</Character>
+<Character id="cUid87">
+<CharacterUID>87</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>378.64</PopPoint_X>
+<PopPoint_Y>174.55</PopPoint_Y>
+</Character>
+<Character id="cUid88">
+<CharacterUID>88</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>385.34</PopPoint_X>
+<PopPoint_Y>161.43</PopPoint_Y>
+</Character>
+<Character id="cUid89">
+<CharacterUID>89</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>376.50</PopPoint_X>
+<PopPoint_Y>161.16</PopPoint_Y>
+</Character>
+<Character id="cUid90">
+<CharacterUID>90</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>387.21</PopPoint_X>
+<PopPoint_Y>173.84</PopPoint_Y>
+</Character>
+<Character id="cUid91">
+<CharacterUID>91</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>392.66</PopPoint_X>
+<PopPoint_Y>164.93</PopPoint_Y>
+</Character>
+<Character id="cUid92">
+<CharacterUID>92</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>239.36</PopPoint_X>
+<PopPoint_Y>69.64</PopPoint_Y>
+</Character>
+<Character id="cUid93">
+<CharacterUID>93</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>235.25</PopPoint_X>
+<PopPoint_Y>75.00</PopPoint_Y>
+</Character>
+<Character id="cUid94">
+<CharacterUID>94</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>248.38</PopPoint_X>
+<PopPoint_Y>73.48</PopPoint_Y>
+</Character>
+<Character id="cUid95">
+<CharacterUID>95</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>241.32</PopPoint_X>
+<PopPoint_Y>81.07</PopPoint_Y>
+</Character>
+<Character id="cUid96">
+<CharacterUID>96</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>260.16</PopPoint_X>
+<PopPoint_Y>52.32</PopPoint_Y>
+</Character>
+<Character id="cUid97">
+<CharacterUID>97</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>261.59</PopPoint_X>
+<PopPoint_Y>55.18</PopPoint_Y>
+</Character>
+<Character id="cUid98">
+<CharacterUID>98</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>267.84</PopPoint_X>
+<PopPoint_Y>53.84</PopPoint_Y>
+</Character>
+<Character id="cUid99">
+<CharacterUID>99</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>231.07</PopPoint_X>
+<PopPoint_Y>41.36</PopPoint_Y>
+</Character>
+<Character id="cUid100">
+<CharacterUID>100</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>230.84</PopPoint_X>
+<PopPoint_Y>44.57</PopPoint_Y>
+</Character>
+<Character id="cUid101">
+<CharacterUID>101</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>236.11</PopPoint_X>
+<PopPoint_Y>41.00</PopPoint_Y>
+</Character>
+<Character id="cUid102">
+<CharacterUID>102</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>247.45</PopPoint_X>
+<PopPoint_Y>40.59</PopPoint_Y>
+</Character>
+<Character id="cUid103">
+<CharacterUID>103</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>241.38</PopPoint_X>
+<PopPoint_Y>45.98</PopPoint_Y>
+</Character>
+<Character id="cUid104">
+<CharacterUID>104</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>290.05</PopPoint_X>
+<PopPoint_Y>26.54</PopPoint_Y>
+</Character>
+<Character id="cUid105">
+<CharacterUID>105</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>296.64</PopPoint_X>
+<PopPoint_Y>29.04</PopPoint_Y>
+</Character>
+<Character id="cUid106">
+<CharacterUID>106</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>303.61</PopPoint_X>
+<PopPoint_Y>24.25</PopPoint_Y>
+</Character>
+<Character id="cUid107">
+<CharacterUID>107</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>296.98</PopPoint_X>
+<PopPoint_Y>26.52</PopPoint_Y>
+</Character>
+<Character id="cUid108">
+<CharacterUID>108</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>301.13</PopPoint_X>
+<PopPoint_Y>26.63</PopPoint_Y>
+</Character>
+<Character id="cUid109">
+<CharacterUID>109</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>154.07</PopPoint_X>
+<PopPoint_Y>95.89</PopPoint_Y>
+</Character>
+<Character id="cUid110">
+<CharacterUID>110</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>149.55</PopPoint_X>
+<PopPoint_Y>98.14</PopPoint_Y>
+</Character>
+<Character id="cUid111">
+<CharacterUID>111</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>151.34</PopPoint_X>
+<PopPoint_Y>101.07</PopPoint_Y>
+</Character>
+<Character id="cUid112">
+<CharacterUID>112</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>191.70</PopPoint_X>
+<PopPoint_Y>71.86</PopPoint_Y>
+</Character>
+<Character id="cUid113">
+<CharacterUID>113</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.46</PopPoint_X>
+<PopPoint_Y>101.54</PopPoint_Y>
+</Character>
+<Character id="cUid114">
+<CharacterUID>114</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>148.07</PopPoint_X>
+<PopPoint_Y>95.36</PopPoint_Y>
+</Character>
+<Character id="cUid115">
+<CharacterUID>115</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>189.16</PopPoint_X>
+<PopPoint_Y>74.75</PopPoint_Y>
+</Character>
+<Character id="cUid116">
+<CharacterUID>116</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>197.07</PopPoint_X>
+<PopPoint_Y>73.57</PopPoint_Y>
+</Character>
+<Character id="cUid117">
+<CharacterUID>117</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>197.02</PopPoint_X>
+<PopPoint_Y>89.54</PopPoint_Y>
+</Character>
+<Character id="cUid118">
+<CharacterUID>118</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>196.21</PopPoint_X>
+<PopPoint_Y>92.73</PopPoint_Y>
+</Character>
+<Character id="cUid119">
+<CharacterUID>119</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>200.89</PopPoint_X>
+<PopPoint_Y>89.64</PopPoint_Y>
+</Character>
+<Character id="cUid120">
+<CharacterUID>120</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>201.84</PopPoint_X>
+<PopPoint_Y>93.07</PopPoint_Y>
+</Character>
+<Character id="cUid121">
+<CharacterUID>121</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>147.70</PopPoint_X>
+<PopPoint_Y>75.57</PopPoint_Y>
+</Character>
+<Character id="cUid122">
+<CharacterUID>122</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>143.54</PopPoint_X>
+<PopPoint_Y>75.25</PopPoint_Y>
+</Character>
+<Character id="cUid123">
+<CharacterUID>123</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>366.39</PopPoint_X>
+<PopPoint_Y>46.18</PopPoint_Y>
+</Character>
+<Character id="cUid124">
+<CharacterUID>124</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>370.50</PopPoint_X>
+<PopPoint_Y>49.20</PopPoint_Y>
+</Character>
+<Character id="cUid125">
+<CharacterUID>125</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>278.96</PopPoint_X>
+<PopPoint_Y>188.57</PopPoint_Y>
+</Character>
+<Character id="cUid126">
+<CharacterUID>126</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.80</PopPoint_X>
+<PopPoint_Y>46.55</PopPoint_Y>
+</Character>
+<Character id="cUid127">
+<CharacterUID>127</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>94.96</PopPoint_X>
+<PopPoint_Y>49.27</PopPoint_Y>
+</Character>
+<Character id="cUid128">
+<CharacterUID>128</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>81.00</PopPoint_X>
+<PopPoint_Y>141.57</PopPoint_Y>
+</Character>
+<Character id="cUid129">
+<CharacterUID>129</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>352.70</PopPoint_X>
+<PopPoint_Y>126.23</PopPoint_Y>
+</Character>
+<Character id="cUid130">
+<CharacterUID>130</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>351.96</PopPoint_X>
+<PopPoint_Y>117.77</PopPoint_Y>
+</Character>
+<Character id="cUid131">
+<CharacterUID>131</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>26</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>85.82</PopPoint_X>
+<PopPoint_Y>143.88</PopPoint_Y>
+</Character>
+<Character id="cUid132">
+<CharacterUID>132</CharacterUID>
+<CharacterName>現場監督</CharacterName>
+<CharacterType>10</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>199.38</PopPoint_X>
+<PopPoint_Y>81.04</PopPoint_Y>
+</Character>
+<Character id="cUid133">
+<CharacterUID>133</CharacterUID>
+<CharacterName>デルロス</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>173.64</PopPoint_X>
+<PopPoint_Y>48.86</PopPoint_Y>
+</Character>
+<Character id="cUid134">
+<CharacterUID>134</CharacterUID>
+<CharacterName>デビルガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>383.66</PopPoint_X>
+<PopPoint_Y>21.14</PopPoint_Y>
+</Character>
+<Character id="cUid135">
+<CharacterUID>135</CharacterUID>
+<CharacterName>ジェリアド</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>13.16</PopPoint_X>
+<PopPoint_Y>176.88</PopPoint_Y>
+</Character>
+<Character id="cUid136">
+<CharacterUID>136</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.79</PopPoint_X>
+<PopPoint_Y>171.34</PopPoint_Y>
+</Character>
+<Character id="cUid137">
+<CharacterUID>137</CharacterUID>
+<CharacterName>ジェリアド</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>383.46</PopPoint_X>
+<PopPoint_Y>4.27</PopPoint_Y>
+</Character>
+<Character id="cUid138">
+<CharacterUID>138</CharacterUID>
+<CharacterName>リザードガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>393.54</PopPoint_X>
+<PopPoint_Y>9.29</PopPoint_Y>
+</Character>
+<Character id="cUid139">
+<CharacterUID>139</CharacterUID>
+<CharacterName>イビルガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>394.45</PopPoint_X>
+<PopPoint_Y>18.13</PopPoint_Y>
+</Character>
+<Character id="cUid140">
+<CharacterUID>140</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>107.32</PopPoint_X>
+<PopPoint_Y>125.14</PopPoint_Y>
+</Character>
+<Character id="cUid141">
+<CharacterUID>141</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>109.75</PopPoint_X>
+<PopPoint_Y>127.46</PopPoint_Y>
+</Character>
+<Character id="cUid142">
+<CharacterUID>142</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.96</PopPoint_X>
+<PopPoint_Y>179.55</PopPoint_Y>
+</Character>
+<Character id="cUid143">
+<CharacterUID>143</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>168.57</PopPoint_X>
+<PopPoint_Y>138.39</PopPoint_Y>
+</Character>
+<Character id="cUid144">
+<CharacterUID>144</CharacterUID>
+<CharacterName>デビルガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>98.89</PopPoint_X>
+<PopPoint_Y>7.43</PopPoint_Y>
+</Character>
+<Character id="cUid145">
+<CharacterUID>145</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.05</PopPoint_X>
+<PopPoint_Y>175.63</PopPoint_Y>
+</Character>
+<Character id="cUid146">
+<CharacterUID>146</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>225.18</PopPoint_X>
+<PopPoint_Y>94.02</PopPoint_Y>
+</Character>
+<Character id="cUid147">
+<CharacterUID>147</CharacterUID>
+<CharacterName>イビルガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>278.32</PopPoint_X>
+<PopPoint_Y>186.75</PopPoint_Y>
+</Character>
+<Character id="cUid148">
+<CharacterUID>148</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>231.25</PopPoint_X>
+<PopPoint_Y>99.55</PopPoint_Y>
+</Character>
+<Character id="cUid149">
+<CharacterUID>149</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>28</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>350.43</PopPoint_X>
+<PopPoint_Y>115.54</PopPoint_Y>
+</Character>
+<Character id="cUid150">
+<CharacterUID>150</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>107.09</PopPoint_X>
+<PopPoint_Y>131.41</PopPoint_Y>
+</Character>
+<Character id="cUid151">
+<CharacterUID>151</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>21</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.86</PopPoint_X>
+<PopPoint_Y>60.71</PopPoint_Y>
+</Character>
+<Character id="cUid152">
+<CharacterUID>152</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>21</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>164.34</PopPoint_X>
+<PopPoint_Y>72.34</PopPoint_Y>
+</Character>
+<Character id="cUid153">
+<CharacterUID>153</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>27</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>291.93</PopPoint_X>
+<PopPoint_Y>58.04</PopPoint_Y>
+</Character>
+<Character id="cUid154">
+<CharacterUID>154</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>27</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>298.41</PopPoint_X>
+<PopPoint_Y>60.38</PopPoint_Y>
+</Character>
+<Character id="cUid155">
+<CharacterUID>155</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>27</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>298.88</PopPoint_X>
+<PopPoint_Y>55.09</PopPoint_Y>
+</Character>
+<Character id="cUid156">
+<CharacterUID>156</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>114.61</PopPoint_X>
+<PopPoint_Y>87.89</PopPoint_Y>
+</Character>
+<Character id="cUid157">
+<CharacterUID>157</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>96.45</PopPoint_X>
+<PopPoint_Y>126.25</PopPoint_Y>
+</Character>
+<Character id="cUid158">
+<CharacterUID>158</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>26</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>163.59</PopPoint_X>
+<PopPoint_Y>68.75</PopPoint_Y>
+</Character>
+<Character id="cUid159">
+<CharacterUID>159</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>26</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>163.48</PopPoint_X>
+<PopPoint_Y>63.46</PopPoint_Y>
+</Character>
+<Character id="cUid160">
+<CharacterUID>160</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>43</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>242.48</PopPoint_X>
+<PopPoint_Y>155.07</PopPoint_Y>
+</Character>
+<Character id="cUid161">
+<CharacterUID>161</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>43</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>249.36</PopPoint_X>
+<PopPoint_Y>157.91</PopPoint_Y>
+</Character>
+<Character id="cUid162">
+<CharacterUID>162</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>43</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>243.38</PopPoint_X>
+<PopPoint_Y>158.02</PopPoint_Y>
+</Character>
+<Character id="cUid163">
+<CharacterUID>163</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>134.50</PopPoint_X>
+<PopPoint_Y>29.16</PopPoint_Y>
+</Character>
+<Character id="cUid164">
+<CharacterUID>164</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>25</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>141.79</PopPoint_X>
+<PopPoint_Y>24.38</PopPoint_Y>
+</Character>
+<Character id="cUid165">
+<CharacterUID>165</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>214.46</PopPoint_X>
+<PopPoint_Y>18.66</PopPoint_Y>
+</Character>
+<Character id="cUid166">
+<CharacterUID>166</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>217.46</PopPoint_X>
+<PopPoint_Y>15.82</PopPoint_Y>
+</Character>
+<Character id="cUid167">
+<CharacterUID>167</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>14</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>327.18</PopPoint_X>
+<PopPoint_Y>152.82</PopPoint_Y>
+</Character>
+<Character id="cUid168">
+<CharacterUID>168</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>26</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>9.29</PopPoint_X>
+<PopPoint_Y>28.59</PopPoint_Y>
+</Character>
+<Character id="cUid169">
+<CharacterUID>169</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>26</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>13.91</PopPoint_X>
+<PopPoint_Y>31.32</PopPoint_Y>
+</Character>
+<Character id="cUid170">
+<CharacterUID>170</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>26</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>13.84</PopPoint_X>
+<PopPoint_Y>27.54</PopPoint_Y>
+</Character>
+<Character id="cUid171">
+<CharacterUID>171</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>36</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>330.64</PopPoint_X>
+<PopPoint_Y>151.27</PopPoint_Y>
+</Character>
+<Character id="cUid172">
+<CharacterUID>172</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>91.14</PopPoint_X>
+<PopPoint_Y>128.66</PopPoint_Y>
+</Character>
+<Character id="cUid173">
+<CharacterUID>173</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>105.54</PopPoint_X>
+<PopPoint_Y>127.57</PopPoint_Y>
+</Character>
+<Character id="cUid174">
+<CharacterUID>174</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.09</PopPoint_X>
+<PopPoint_Y>62.96</PopPoint_Y>
+</Character>
+<Character id="cUid175">
+<CharacterUID>175</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>36.61</PopPoint_X>
+<PopPoint_Y>64.09</PopPoint_Y>
+</Character>
+<Character id="cUid176">
+<CharacterUID>176</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>36</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.68</PopPoint_X>
+<PopPoint_Y>154.75</PopPoint_Y>
+</Character>
+<Character id="cUid177">
+<CharacterUID>177</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.32</PopPoint_X>
+<PopPoint_Y>130.41</PopPoint_Y>
+</Character>
+<Character id="cUid178">
+<CharacterUID>178</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>84.68</PopPoint_X>
+<PopPoint_Y>58.23</PopPoint_Y>
+</Character>
+<Character id="cUid179">
+<CharacterUID>179</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>43</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>26.27</PopPoint_X>
+<PopPoint_Y>150.64</PopPoint_Y>
+</Character>
+<Character id="cUid180">
+<CharacterUID>180</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.05</PopPoint_X>
+<PopPoint_Y>43.18</PopPoint_Y>
+</Character>
+<Character id="cUid181">
+<CharacterUID>181</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>77.84</PopPoint_X>
+<PopPoint_Y>44.63</PopPoint_Y>
+</Character>
+<Character id="cUid182">
+<CharacterUID>182</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>95.20</PopPoint_X>
+<PopPoint_Y>44.11</PopPoint_Y>
+</Character>
+<Character id="cUid183">
+<CharacterUID>183</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>91.00</PopPoint_X>
+<PopPoint_Y>46.98</PopPoint_Y>
+</Character>
+<Character id="cUid184">
+<CharacterUID>184</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>90.43</PopPoint_X>
+<PopPoint_Y>59.21</PopPoint_Y>
+</Character>
+<Character id="cUid185">
+<CharacterUID>185</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>49.96</PopPoint_X>
+<PopPoint_Y>174.84</PopPoint_Y>
+</Character>
+<Character id="cUid186">
+<CharacterUID>186</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>57.70</PopPoint_X>
+<PopPoint_Y>161.45</PopPoint_Y>
+</Character>
+<Character id="cUid187">
+<CharacterUID>187</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>105.70</PopPoint_X>
+<PopPoint_Y>98.50</PopPoint_Y>
+</Character>
+<Character id="cUid188">
+<CharacterUID>188</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>114.45</PopPoint_X>
+<PopPoint_Y>85.52</PopPoint_Y>
+</Character>
+<Character id="cUid189">
+<CharacterUID>189</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>122.46</PopPoint_X>
+<PopPoint_Y>96.57</PopPoint_Y>
+</Character>
+<Character id="cUid190">
+<CharacterUID>190</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>108.11</PopPoint_X>
+<PopPoint_Y>88.32</PopPoint_Y>
+</Character>
+<Character id="cUid191">
+<CharacterUID>191</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>118.59</PopPoint_X>
+<PopPoint_Y>92.96</PopPoint_Y>
+</Character>
+<Character id="cUid192">
+<CharacterUID>192</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.96</PopPoint_X>
+<PopPoint_Y>95.55</PopPoint_Y>
+</Character>
+<Character id="cUid193">
+<CharacterUID>193</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>96.52</PopPoint_X>
+<PopPoint_Y>59.14</PopPoint_Y>
+</Character>
+<Character id="cUid194">
+<CharacterUID>194</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>302.66</PopPoint_X>
+<PopPoint_Y>129.61</PopPoint_Y>
+</Character>
+<Character id="cUid195">
+<CharacterUID>195</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>306.86</PopPoint_X>
+<PopPoint_Y>135.52</PopPoint_Y>
+</Character>
+<Character id="cUid196">
+<CharacterUID>196</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>314.89</PopPoint_X>
+<PopPoint_Y>125.82</PopPoint_Y>
+</Character>
+<Character id="cUid197">
+<CharacterUID>197</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>301.86</PopPoint_X>
+<PopPoint_Y>133.73</PopPoint_Y>
+</Character>
+<Character id="cUid198">
+<CharacterUID>198</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>314.02</PopPoint_X>
+<PopPoint_Y>134.36</PopPoint_Y>
+</Character>
+<Character id="cUid199">
+<CharacterUID>199</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>201.57</PopPoint_X>
+<PopPoint_Y>174.55</PopPoint_Y>
+</Character>
+<Character id="cUid200">
+<CharacterUID>200</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>36</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>325.20</PopPoint_X>
+<PopPoint_Y>156.11</PopPoint_Y>
+</Character>
+<Character id="cUid201">
+<CharacterUID>201</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>120.64</PopPoint_X>
+<PopPoint_Y>145.02</PopPoint_Y>
+</Character>
+<Character id="cUid202">
+<CharacterUID>202</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>130.86</PopPoint_X>
+<PopPoint_Y>141.57</PopPoint_Y>
+</Character>
+<Character id="cUid203">
+<CharacterUID>203</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>235.41</PopPoint_X>
+<PopPoint_Y>71.46</PopPoint_Y>
+</Character>
+<Character id="cUid204">
+<CharacterUID>204</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>246.34</PopPoint_X>
+<PopPoint_Y>79.80</PopPoint_Y>
+</Character>
+<Character id="cUid205">
+<CharacterUID>205</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>250.39</PopPoint_X>
+<PopPoint_Y>68.88</PopPoint_Y>
+</Character>
+<Character id="cUid206">
+<CharacterUID>206</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>234.82</PopPoint_X>
+<PopPoint_Y>79.30</PopPoint_Y>
+</Character>
+<Character id="cUid207">
+<CharacterUID>207</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>239.18</PopPoint_X>
+<PopPoint_Y>72.86</PopPoint_Y>
+</Character>
+<Character id="cUid208">
+<CharacterUID>208</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>248.32</PopPoint_X>
+<PopPoint_Y>76.82</PopPoint_Y>
+</Character>
+<Character id="cUid209">
+<CharacterUID>209</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>8</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>129.16</PopPoint_X>
+<PopPoint_Y>142.27</PopPoint_Y>
+</Character>
+<Character id="cUid210">
+<CharacterUID>210</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>13</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>380.04</PopPoint_X>
+<PopPoint_Y>83.14</PopPoint_Y>
+</Character>
+<Character id="cUid211">
+<CharacterUID>211</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>13</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>382.02</PopPoint_X>
+<PopPoint_Y>87.95</PopPoint_Y>
+</Character>
+<Character id="cUid212">
+<CharacterUID>212</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>13</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>372.88</PopPoint_X>
+<PopPoint_Y>90.38</PopPoint_Y>
+</Character>
+<Character id="cUid213">
+<CharacterUID>213</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>95.66</PopPoint_X>
+<PopPoint_Y>131.32</PopPoint_Y>
+</Character>
+<Character id="cUid214">
+<CharacterUID>214</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>123.71</PopPoint_X>
+<PopPoint_Y>162.96</PopPoint_Y>
+</Character>
+<Character id="cUid215">
+<CharacterUID>215</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>44</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>355.05</PopPoint_X>
+<PopPoint_Y>71.29</PopPoint_Y>
+</Character>
+<Character id="cUid216">
+<CharacterUID>216</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>125.79</PopPoint_X>
+<PopPoint_Y>160.82</PopPoint_Y>
+</Character>
+<Character id="cUid217">
+<CharacterUID>217</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>131.91</PopPoint_X>
+<PopPoint_Y>160.55</PopPoint_Y>
+</Character>
+<Character id="cUid218">
+<CharacterUID>218</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>18</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>342.57</PopPoint_X>
+<PopPoint_Y>76.79</PopPoint_Y>
+</Character>
+<Character id="cUid219">
+<CharacterUID>219</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>44</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>347.98</PopPoint_X>
+<PopPoint_Y>73.96</PopPoint_Y>
+</Character>
+<Character id="cUid220">
+<CharacterUID>220</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>379.66</PopPoint_X>
+<PopPoint_Y>79.89</PopPoint_Y>
+</Character>
+<Character id="cUid221">
+<CharacterUID>221</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>32</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>378.16</PopPoint_X>
+<PopPoint_Y>82.23</PopPoint_Y>
+</Character>
+<Character id="cUid222">
+<CharacterUID>222</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>32</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>382.63</PopPoint_X>
+<PopPoint_Y>78.80</PopPoint_Y>
+</Character>
+<Character id="cUid223">
+<CharacterUID>223</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>32</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>382.80</PopPoint_X>
+<PopPoint_Y>84.50</PopPoint_Y>
+</Character>
+<Character id="cUid224">
+<CharacterUID>224</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>131.55</PopPoint_X>
+<PopPoint_Y>170.50</PopPoint_Y>
+</Character>
+<Character id="cUid225">
+<CharacterUID>225</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>136.32</PopPoint_X>
+<PopPoint_Y>172.46</PopPoint_Y>
+</Character>
+<Character id="cUid226">
+<CharacterUID>226</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>290.20</PopPoint_X>
+<PopPoint_Y>29.68</PopPoint_Y>
+</Character>
+<Character id="cUid227">
+<CharacterUID>227</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>294.07</PopPoint_X>
+<PopPoint_Y>27.13</PopPoint_Y>
+</Character>
+<Character id="cUid228">
+<CharacterUID>228</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>303.52</PopPoint_X>
+<PopPoint_Y>27.32</PopPoint_Y>
+</Character>
+<Character id="cUid229">
+<CharacterUID>229</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>286.50</PopPoint_X>
+<PopPoint_Y>29.68</PopPoint_Y>
+</Character>
+<Character id="cUid230">
+<CharacterUID>230</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>263.82</PopPoint_X>
+<PopPoint_Y>54.11</PopPoint_Y>
+</Character>
+<Character id="cUid231">
+<CharacterUID>231</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>266.21</PopPoint_X>
+<PopPoint_Y>55.80</PopPoint_Y>
+</Character>
+<Character id="cUid232">
+<CharacterUID>232</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>257.86</PopPoint_X>
+<PopPoint_Y>52.75</PopPoint_Y>
+</Character>
+<Character id="cUid233">
+<CharacterUID>233</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>258.54</PopPoint_X>
+<PopPoint_Y>55.07</PopPoint_Y>
+</Character>
+<Character id="cUid234">
+<CharacterUID>234</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>139.50</PopPoint_X>
+<PopPoint_Y>167.91</PopPoint_Y>
+</Character>
+<Character id="cUid235">
+<CharacterUID>235</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>128.71</PopPoint_X>
+<PopPoint_Y>162.82</PopPoint_Y>
+</Character>
+<Character id="cUid236">
+<CharacterUID>236</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>122.20</PopPoint_X>
+<PopPoint_Y>161.00</PopPoint_Y>
+</Character>
+<Character id="cUid237">
+<CharacterUID>237</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>137.27</PopPoint_X>
+<PopPoint_Y>167.95</PopPoint_Y>
+</Character>
+<Character id="cUid238">
+<CharacterUID>238</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>135.27</PopPoint_X>
+<PopPoint_Y>170.39</PopPoint_Y>
+</Character>
+<Character id="cUid239">
+<CharacterUID>239</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>135.27</PopPoint_X>
+<PopPoint_Y>170.41</PopPoint_Y>
+</Character>
+<Character id="cUid240">
+<CharacterUID>240</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>266.88</PopPoint_X>
+<PopPoint_Y>156.36</PopPoint_Y>
+</Character>
+<Character id="cUid241">
+<CharacterUID>241</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>270.11</PopPoint_X>
+<PopPoint_Y>156.89</PopPoint_Y>
+</Character>
+<Character id="cUid242">
+<CharacterUID>242</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>268.16</PopPoint_X>
+<PopPoint_Y>160.70</PopPoint_Y>
+</Character>
+<Character id="cUid243">
+<CharacterUID>243</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>281.23</PopPoint_X>
+<PopPoint_Y>171.63</PopPoint_Y>
+</Character>
+<Character id="cUid244">
+<CharacterUID>244</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>278.86</PopPoint_X>
+<PopPoint_Y>174.16</PopPoint_Y>
+</Character>
+<Character id="cUid245">
+<CharacterUID>245</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>259.88</PopPoint_X>
+<PopPoint_Y>125.75</PopPoint_Y>
+</Character>
+<Character id="cUid246">
+<CharacterUID>246</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>262.32</PopPoint_X>
+<PopPoint_Y>128.25</PopPoint_Y>
+</Character>
+<Character id="cUid247">
+<CharacterUID>247</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>275.04</PopPoint_X>
+<PopPoint_Y>168.21</PopPoint_Y>
+</Character>
+<Character id="cUid248">
+<CharacterUID>248</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>278.98</PopPoint_X>
+<PopPoint_Y>171.66</PopPoint_Y>
+</Character>
+<Character id="cUid249">
+<CharacterUID>249</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>78.82</PopPoint_X>
+<PopPoint_Y>71.77</PopPoint_Y>
+</Character>
+<Character id="cUid250">
+<CharacterUID>250</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>28</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>188.75</PopPoint_X>
+<PopPoint_Y>113.86</PopPoint_Y>
+</Character>
+<Character id="cUid251">
+<CharacterUID>251</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>28</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>181.23</PopPoint_X>
+<PopPoint_Y>109.89</PopPoint_Y>
+</Character>
+<Character id="cUid252">
+<CharacterUID>252</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>186.29</PopPoint_X>
+<PopPoint_Y>114.95</PopPoint_Y>
+</Character>
+<Character id="cUid253">
+<CharacterUID>253</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>44.63</PopPoint_X>
+<PopPoint_Y>39.96</PopPoint_Y>
+</Character>
+<Character id="cUid254">
+<CharacterUID>254</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>12</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>47.30</PopPoint_X>
+<PopPoint_Y>41.75</PopPoint_Y>
+</Character>
+<Character id="cUid255">
+<CharacterUID>255</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>12</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.98</PopPoint_X>
+<PopPoint_Y>43.95</PopPoint_Y>
+</Character>
+<Character id="cUid256">
+<CharacterUID>256</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.96</PopPoint_X>
+<PopPoint_Y>112.29</PopPoint_Y>
+</Character>
+<Character id="cUid257">
+<CharacterUID>257</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>41.45</PopPoint_X>
+<PopPoint_Y>105.46</PopPoint_Y>
+</Character>
+<Character id="cUid258">
+<CharacterUID>258</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>29.32</PopPoint_X>
+<PopPoint_Y>108.63</PopPoint_Y>
+</Character>
+<Character id="cUid259">
+<CharacterUID>259</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>35.43</PopPoint_X>
+<PopPoint_Y>109.71</PopPoint_Y>
+</Character>
+<Character id="cUid260">
+<CharacterUID>260</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>34.64</PopPoint_X>
+<PopPoint_Y>112.77</PopPoint_Y>
+</Character>
+<Character id="cUid261">
+<CharacterUID>261</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>386.05</PopPoint_X>
+<PopPoint_Y>175.54</PopPoint_Y>
+</Character>
+<Character id="cUid262">
+<CharacterUID>262</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>389.91</PopPoint_X>
+<PopPoint_Y>162.55</PopPoint_Y>
+</Character>
+<Character id="cUid263">
+<CharacterUID>263</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>377.64</PopPoint_X>
+<PopPoint_Y>169.95</PopPoint_Y>
+</Character>
+<Character id="cUid264">
+<CharacterUID>264</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>377.14</PopPoint_X>
+<PopPoint_Y>172.27</PopPoint_Y>
+</Character>
+<Character id="cUid265">
+<CharacterUID>265</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>392.52</PopPoint_X>
+<PopPoint_Y>170.91</PopPoint_Y>
+</Character>
+<Character id="cUid266">
+<CharacterUID>266</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>246.27</PopPoint_X>
+<PopPoint_Y>44.34</PopPoint_Y>
+</Character>
+<Character id="cUid267">
+<CharacterUID>267</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>238.73</PopPoint_X>
+<PopPoint_Y>45.18</PopPoint_Y>
+</Character>
+<Character id="cUid268">
+<CharacterUID>268</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>225.63</PopPoint_X>
+<PopPoint_Y>42.82</PopPoint_Y>
+</Character>
+<Character id="cUid269">
+<CharacterUID>269</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>229.70</PopPoint_X>
+<PopPoint_Y>42.73</PopPoint_Y>
+</Character>
+<Character id="cUid270">
+<CharacterUID>270</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>248.95</PopPoint_X>
+<PopPoint_Y>39.29</PopPoint_Y>
+</Character>
+<Character id="cUid271">
+<CharacterUID>271</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>149.27</PopPoint_X>
+<PopPoint_Y>102.39</PopPoint_Y>
+</Character>
+<Character id="cUid272">
+<CharacterUID>272</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>158.30</PopPoint_X>
+<PopPoint_Y>93.89</PopPoint_Y>
+</Character>
+<Character id="cUid273">
+<CharacterUID>273</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>157.07</PopPoint_X>
+<PopPoint_Y>98.11</PopPoint_Y>
+</Character>
+<Character id="cUid274">
+<CharacterUID>274</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.02</PopPoint_X>
+<PopPoint_Y>97.89</PopPoint_Y>
+</Character>
+<Character id="cUid275">
+<CharacterUID>275</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>195.43</PopPoint_X>
+<PopPoint_Y>75.09</PopPoint_Y>
+</Character>
+<Character id="cUid276">
+<CharacterUID>276</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>202.00</PopPoint_X>
+<PopPoint_Y>73.05</PopPoint_Y>
+</Character>
+<Character id="cUid277">
+<CharacterUID>277</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>192.41</PopPoint_X>
+<PopPoint_Y>74.25</PopPoint_Y>
+</Character>
+<Character id="cUid278">
+<CharacterUID>278</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>201.57</PopPoint_X>
+<PopPoint_Y>75.63</PopPoint_Y>
+</Character>
+<Character id="cUid279">
+<CharacterUID>279</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>192.88</PopPoint_X>
+<PopPoint_Y>87.93</PopPoint_Y>
+</Character>
+<Character id="cUid280">
+<CharacterUID>280</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>191.43</PopPoint_X>
+<PopPoint_Y>93.95</PopPoint_Y>
+</Character>
+<Character id="cUid281">
+<CharacterUID>281</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>206.96</PopPoint_X>
+<PopPoint_Y>87.64</PopPoint_Y>
+</Character>
+<Character id="cUid282">
+<CharacterUID>282</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>193.04</PopPoint_X>
+<PopPoint_Y>90.82</PopPoint_Y>
+</Character>
+<Character id="cUid283">
+<CharacterUID>283</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>201.27</PopPoint_X>
+<PopPoint_Y>88.07</PopPoint_Y>
+</Character>
+<Character id="cUid284">
+<CharacterUID>284</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>26</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>90.55</PopPoint_X>
+<PopPoint_Y>147.29</PopPoint_Y>
+</Character>
+<Character id="cUid285">
+<CharacterUID>285</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>26</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>78.59</PopPoint_X>
+<PopPoint_Y>139.41</PopPoint_Y>
+</Character>
+<Character id="cUid286">
+<CharacterUID>286</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>274.52</PopPoint_X>
+<PopPoint_Y>170.20</PopPoint_Y>
+</Character>
+<Character id="cUid287">
+<CharacterUID>287</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>273.07</PopPoint_X>
+<PopPoint_Y>167.34</PopPoint_Y>
+</Character>
+<Character id="cUid288">
+<CharacterUID>288</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>163.30</PopPoint_X>
+<PopPoint_Y>181.39</PopPoint_Y>
+</Character>
+<Character id="cUid289">
+<CharacterUID>289</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>163.88</PopPoint_X>
+<PopPoint_Y>179.25</PopPoint_Y>
+</Character>
+<Character id="cUid290">
+<CharacterUID>290</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>158.43</PopPoint_X>
+<PopPoint_Y>174.45</PopPoint_Y>
+</Character>
+<Character id="cUid291">
+<CharacterUID>291</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>269.64</PopPoint_X>
+<PopPoint_Y>162.80</PopPoint_Y>
+</Character>
+<Character id="cUid292">
+<CharacterUID>292</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>163.82</PopPoint_X>
+<PopPoint_Y>140.82</PopPoint_Y>
+</Character>
+<Character id="cUid293">
+<CharacterUID>293</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>180.05</PopPoint_X>
+<PopPoint_Y>138.30</PopPoint_Y>
+</Character>
+<Character id="cUid294">
+<CharacterUID>294</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>271.98</PopPoint_X>
+<PopPoint_Y>159.21</PopPoint_Y>
+</Character>
+<Character id="cUid295">
+<CharacterUID>295</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>172.61</PopPoint_X>
+<PopPoint_Y>137.34</PopPoint_Y>
+</Character>
+<Character id="cUid296">
+<CharacterUID>296</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>35</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>178.48</PopPoint_X>
+<PopPoint_Y>138.00</PopPoint_Y>
+</Character>
+<Character id="cUid297">
+<CharacterUID>297</CharacterUID>
+<CharacterName>デビルガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>274.91</PopPoint_X>
+<PopPoint_Y>85.07</PopPoint_Y>
+</Character>
+<Character id="cUid298">
+<CharacterUID>298</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>223.61</PopPoint_X>
+<PopPoint_Y>92.18</PopPoint_Y>
+</Character>
+<Character id="cUid299">
+<CharacterUID>299</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>235.39</PopPoint_X>
+<PopPoint_Y>97.96</PopPoint_Y>
+</Character>
+<Character id="cUid300">
+<CharacterUID>300</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>228.38</PopPoint_X>
+<PopPoint_Y>103.13</PopPoint_Y>
+</Character>
+<Character id="cUid301">
+<CharacterUID>301</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>226.00</PopPoint_X>
+<PopPoint_Y>98.43</PopPoint_Y>
+</Character>
+<Character id="cUid302">
+<CharacterUID>302</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>228.64</PopPoint_X>
+<PopPoint_Y>96.18</PopPoint_Y>
+</Character>
+<Character id="cUid303">
+<CharacterUID>303</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>28</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>357.80</PopPoint_X>
+<PopPoint_Y>129.82</PopPoint_Y>
+</Character>
+<Character id="cUid304">
+<CharacterUID>304</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>28</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>347.45</PopPoint_X>
+<PopPoint_Y>127.18</PopPoint_Y>
+</Character>
+<Character id="cUid305">
+<CharacterUID>305</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>28</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>347.32</PopPoint_X>
+<PopPoint_Y>116.48</PopPoint_Y>
+</Character>
+<Character id="cUid306">
+<CharacterUID>306</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>274.64</PopPoint_X>
+<PopPoint_Y>86.68</PopPoint_Y>
+</Character>
+<Character id="cUid307">
+<CharacterUID>307</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>277.09</PopPoint_X>
+<PopPoint_Y>84.41</PopPoint_Y>
+</Character>
+<Character id="cUid308">
+<CharacterUID>308</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>28</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>355.52</PopPoint_X>
+<PopPoint_Y>113.91</PopPoint_Y>
+</Character>
+<Character id="cUid309">
+<CharacterUID>309</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>27</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>293.02</PopPoint_X>
+<PopPoint_Y>63.46</PopPoint_Y>
+</Character>
+<Character id="cUid310">
+<CharacterUID>310</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>27</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>289.88</PopPoint_X>
+<PopPoint_Y>55.25</PopPoint_Y>
+</Character>
+<Character id="cUid311">
+<CharacterUID>311</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>283.48</PopPoint_X>
+<PopPoint_Y>90.02</PopPoint_Y>
+</Character>
+<Character id="cUid312">
+<CharacterUID>312</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>27</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>165.46</PopPoint_X>
+<PopPoint_Y>70.14</PopPoint_Y>
+</Character>
+<Character id="cUid313">
+<CharacterUID>313</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>27</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>160.64</PopPoint_X>
+<PopPoint_Y>61.36</PopPoint_Y>
+</Character>
+<Character id="cUid314">
+<CharacterUID>314</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>242.88</PopPoint_X>
+<PopPoint_Y>159.73</PopPoint_Y>
+</Character>
+<Character id="cUid315">
+<CharacterUID>315</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>247.21</PopPoint_X>
+<PopPoint_Y>155.96</PopPoint_Y>
+</Character>
+<Character id="cUid316">
+<CharacterUID>316</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>43</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>246.09</PopPoint_X>
+<PopPoint_Y>156.95</PopPoint_Y>
+</Character>
+<Character id="cUid317">
+<CharacterUID>317</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>43</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>241.80</PopPoint_X>
+<PopPoint_Y>153.59</PopPoint_Y>
+</Character>
+<Character id="cUid318">
+<CharacterUID>318</CharacterUID>
+<CharacterName>イビルガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>374.95</PopPoint_X>
+<PopPoint_Y>21.66</PopPoint_Y>
+</Character>
+<Character id="cUid319">
+<CharacterUID>319</CharacterUID>
+<CharacterName>リザードガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>372.75</PopPoint_X>
+<PopPoint_Y>19.57</PopPoint_Y>
+</Character>
+<Character id="cUid320">
+<CharacterUID>320</CharacterUID>
+<CharacterName>イビルガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>373.09</PopPoint_X>
+<PopPoint_Y>12.52</PopPoint_Y>
+</Character>
+<Character id="cUid321">
+<CharacterUID>321</CharacterUID>
+<CharacterName>リザードガード</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>391.54</PopPoint_X>
+<PopPoint_Y>20.96</PopPoint_Y>
+</Character>
+<Character id="cUid322">
+<CharacterUID>322</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>287.61</PopPoint_X>
+<PopPoint_Y>93.57</PopPoint_Y>
+</Character>
+<Character id="cUid323">
+<CharacterUID>323</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>320.93</PopPoint_X>
+<PopPoint_Y>111.39</PopPoint_Y>
+</Character>
+<Character id="cUid324">
+<CharacterUID>324</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>311.75</PopPoint_X>
+<PopPoint_Y>111.21</PopPoint_Y>
+</Character>
+<Character id="cUid325">
+<CharacterUID>325</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>304.45</PopPoint_X>
+<PopPoint_Y>111.93</PopPoint_Y>
+</Character>
+<Character id="cUid326">
+<CharacterUID>326</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>317.25</PopPoint_X>
+<PopPoint_Y>103.32</PopPoint_Y>
+</Character>
+<Character id="cUid327">
+<CharacterUID>327</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>312.93</PopPoint_X>
+<PopPoint_Y>101.25</PopPoint_Y>
+</Character>
+<Character id="cUid328">
+<CharacterUID>328</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>301.59</PopPoint_X>
+<PopPoint_Y>91.07</PopPoint_Y>
+</Character>
+<Character id="cUid329">
+<CharacterUID>329</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>286.89</PopPoint_X>
+<PopPoint_Y>106.36</PopPoint_Y>
+</Character>
+<Character id="cUid330">
+<CharacterUID>330</CharacterUID>
+<CharacterName>降神術師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>292.46</PopPoint_X>
+<PopPoint_Y>109.71</PopPoint_Y>
+</Character>
+<Character id="cUid331">
+<CharacterUID>331</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>307.93</PopPoint_X>
+<PopPoint_Y>110.96</PopPoint_Y>
+</Character>
+<Character id="cUid332">
+<CharacterUID>332</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>319.86</PopPoint_X>
+<PopPoint_Y>107.91</PopPoint_Y>
+</Character>
+<Character id="cUid333">
+<CharacterUID>333</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>315.86</PopPoint_X>
+<PopPoint_Y>102.77</PopPoint_Y>
+</Character>
+<Character id="cUid334">
+<CharacterUID>334</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>311.70</PopPoint_X>
+<PopPoint_Y>99.98</PopPoint_Y>
+</Character>
+<Character id="cUid335">
+<CharacterUID>335</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>297.66</PopPoint_X>
+<PopPoint_Y>91.63</PopPoint_Y>
+</Character>
+<Character id="cUid336">
+<CharacterUID>336</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>286.68</PopPoint_X>
+<PopPoint_Y>90.55</PopPoint_Y>
+</Character>
+<Character id="cUid337">
+<CharacterUID>337</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>283.95</PopPoint_X>
+<PopPoint_Y>93.43</PopPoint_Y>
+</Character>
+<Character id="cUid338">
+<CharacterUID>338</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>289.89</PopPoint_X>
+<PopPoint_Y>106.39</PopPoint_Y>
+</Character>
+<Character id="cUid339">
+<CharacterUID>339</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>318.00</PopPoint_X>
+<PopPoint_Y>110.86</PopPoint_Y>
+</Character>
+<Character id="cUid340">
+<CharacterUID>340</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>294.64</PopPoint_X>
+<PopPoint_Y>91.36</PopPoint_Y>
+</Character>
+<Character id="cUid341">
+<CharacterUID>341</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>289.71</PopPoint_X>
+<PopPoint_Y>92.30</PopPoint_Y>
+</Character>
+<Character id="cUid342">
+<CharacterUID>342</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>291.43</PopPoint_X>
+<PopPoint_Y>110.86</PopPoint_Y>
+</Character>
+<Character id="cUid343">
+<CharacterUID>343</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>111.29</PopPoint_X>
+<PopPoint_Y>50.00</PopPoint_Y>
+</Character>
+<Character id="cUid344">
+<CharacterUID>344</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>121.32</PopPoint_X>
+<PopPoint_Y>50.02</PopPoint_Y>
+</Character>
+<Character id="cUid345">
+<CharacterUID>345</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>115.82</PopPoint_X>
+<PopPoint_Y>55.36</PopPoint_Y>
+</Character>
+<Character id="cUid346">
+<CharacterUID>346</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>115.70</PopPoint_X>
+<PopPoint_Y>51.34</PopPoint_Y>
+</Character>
+<Character id="cUid347">
+<CharacterUID>347</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>136.23</PopPoint_X>
+<PopPoint_Y>128.66</PopPoint_Y>
+</Character>
+<Character id="cUid348">
+<CharacterUID>348</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>144.36</PopPoint_X>
+<PopPoint_Y>129.80</PopPoint_Y>
+</Character>
+<Character id="cUid349">
+<CharacterUID>349</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>139.66</PopPoint_X>
+<PopPoint_Y>135.25</PopPoint_Y>
+</Character>
+<Character id="cUid350">
+<CharacterUID>350</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>140.75</PopPoint_X>
+<PopPoint_Y>131.21</PopPoint_Y>
+</Character>
+<Character id="cUid351">
+<CharacterUID>351</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>94.91</PopPoint_X>
+<PopPoint_Y>173.73</PopPoint_Y>
+</Character>
+<Character id="cUid352">
+<CharacterUID>352</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.18</PopPoint_X>
+<PopPoint_Y>173.55</PopPoint_Y>
+</Character>
+<Character id="cUid353">
+<CharacterUID>353</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>100.20</PopPoint_X>
+<PopPoint_Y>178.54</PopPoint_Y>
+</Character>
+<Character id="cUid354">
+<CharacterUID>354</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>99.70</PopPoint_X>
+<PopPoint_Y>175.95</PopPoint_Y>
+</Character>
+<Character id="cUid355">
+<CharacterUID>355</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>339.25</PopPoint_X>
+<PopPoint_Y>178.54</PopPoint_Y>
+</Character>
+<Character id="cUid356">
+<CharacterUID>356</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>344.63</PopPoint_X>
+<PopPoint_Y>180.29</PopPoint_Y>
+</Character>
+<Character id="cUid357">
+<CharacterUID>357</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>30</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>340.39</PopPoint_X>
+<PopPoint_Y>185.02</PopPoint_Y>
+</Character>
+<Character id="cUid358">
+<CharacterUID>358</CharacterUID>
+<CharacterName>ダークシャドウ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>341.29</PopPoint_X>
+<PopPoint_Y>181.66</PopPoint_Y>
+</Character>
+<Character id="cUid359">
+<CharacterUID>359</CharacterUID>
+<CharacterName>ミラーテレポータ</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>22</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>8.55</PopPoint_X>
+<PopPoint_Y>3.73</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>지하 2층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[210]M12_M02_B2.rmd</AccessMap>
+<AccessMapName>パブル鉱山　Ｂ２</AccessMapName>
+<AreaPos_X>373.29</AreaPos_X>
+<AreaPos_X2>376.00</AreaPos_X2>
+<AreaPos_Y>123.68</AreaPos_Y>
+<AreaPos_Y2>125.80</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>126.04</AreaPos_X>
+<AreaPos_X2>147.93</AreaPos_X2>
+<AreaPos_Y>17.63</AreaPos_Y>
+<AreaPos_Y2>32.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>보스 출현</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>379.91</AreaPos_X>
+<AreaPos_X2>386.79</AreaPos_X2>
+<AreaPos_Y>12.09</AreaPos_Y>
+<AreaPos_Y2>17.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>00북서</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>367.00</AreaPos_X>
+<AreaPos_X2>384.80</AreaPos_X2>
+<AreaPos_Y>3.07</AreaPos_Y>
+<AreaPos_Y2>15.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>01남서</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>367.07</AreaPos_X>
+<AreaPos_X2>384.79</AreaPos_X2>
+<AreaPos_Y>13.45</AreaPos_Y>
+<AreaPos_Y2>24.86</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>02남동</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>382.38</AreaPos_X>
+<AreaPos_X2>399.07</AreaPos_X2>
+<AreaPos_Y>13.43</AreaPos_Y>
+<AreaPos_Y2>24.86</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>03북동</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>382.34</AreaPos_X>
+<AreaPos_X2>399.00</AreaPos_X2>
+<AreaPos_Y>3.07</AreaPos_Y>
+<AreaPos_Y2>15.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>141.70</AreaPos_X>
+<AreaPos_X2>150.48</AreaPos_X2>
+<AreaPos_Y>71.05</AreaPos_Y>
+<AreaPos_Y2>77.46</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>365.05</AreaPos_X>
+<AreaPos_X2>374.05</AreaPos_X2>
+<AreaPos_Y>41.18</AreaPos_Y>
+<AreaPos_Y2>51.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.82</AreaPos_X>
+<AreaPos_X2>13.00</AreaPos_X2>
+<AreaPos_Y>6.77</AreaPos_Y>
+<AreaPos_Y2>17.36</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>2.77</AreaPos_X>
+<AreaPos_X2>21.00</AreaPos_X2>
+<AreaPos_Y>20.79</AreaPos_Y>
+<AreaPos_Y2>32.79</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.23</AreaPos_X>
+<AreaPos_X2>39.27</AreaPos_X2>
+<AreaPos_Y>59.00</AreaPos_Y>
+<AreaPos_Y2>68.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>15.05</AreaPos_X>
+<AreaPos_X2>33.68</AreaPos_X2>
+<AreaPos_Y>147.30</AreaPos_Y>
+<AreaPos_Y2>161.45</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>75.36</AreaPos_X>
+<AreaPos_X2>86.30</AreaPos_X2>
+<AreaPos_Y>39.82</AreaPos_Y>
+<AreaPos_Y2>50.43</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>202.50</AreaPos_X>
+<AreaPos_X2>224.09</AreaPos_X2>
+<AreaPos_Y>5.27</AreaPos_Y>
+<AreaPos_Y2>23.39</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>102.04</AreaPos_X>
+<AreaPos_X2>123.93</AreaPos_X2>
+<AreaPos_Y>80.11</AreaPos_Y>
+<AreaPos_Y2>101.57</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>298.05</AreaPos_X>
+<AreaPos_X2>308.46</AreaPos_X2>
+<AreaPos_Y>119.14</AreaPos_Y>
+<AreaPos_Y2>136.86</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>316.04</AreaPos_X>
+<AreaPos_X2>336.86</AreaPos_X2>
+<AreaPos_Y>140.66</AreaPos_Y>
+<AreaPos_Y2>158.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>Area 19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>231.63</AreaPos_X>
+<AreaPos_X2>242.04</AreaPos_X2>
+<AreaPos_Y>67.36</AreaPos_Y>
+<AreaPos_Y2>82.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>Area 20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>34.11</AreaPos_X>
+<AreaPos_X2>44.39</AreaPos_X2>
+<AreaPos_Y>161.50</AreaPos_Y>
+<AreaPos_Y2>170.29</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>Area 21</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>335.48</AreaPos_X>
+<AreaPos_X2>357.52</AreaPos_X2>
+<AreaPos_Y>66.79</AreaPos_Y>
+<AreaPos_Y2>79.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>Area 22</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>93.80</AreaPos_X>
+<AreaPos_X2>105.07</AreaPos_X2>
+<AreaPos_Y>3.02</AreaPos_Y>
+<AreaPos_Y2>13.68</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>Area 23</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>368.77</AreaPos_X>
+<AreaPos_X2>392.21</AreaPos_X2>
+<AreaPos_Y>72.75</AreaPos_Y>
+<AreaPos_Y2>93.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>Area 24</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>284.45</AreaPos_X>
+<AreaPos_X2>305.16</AreaPos_X2>
+<AreaPos_Y>21.61</AreaPos_Y>
+<AreaPos_Y2>31.61</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>Area 25</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>255.98</AreaPos_X>
+<AreaPos_X2>269.93</AreaPos_X2>
+<AreaPos_Y>49.36</AreaPos_Y>
+<AreaPos_Y2>59.04</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>Area 26</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>186.14</AreaPos_X>
+<AreaPos_X2>196.00</AreaPos_X2>
+<AreaPos_Y>171.84</AreaPos_Y>
+<AreaPos_Y2>183.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>바호메트죽임</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>15.86</AreaPos_X>
+<AreaPos_X2>18.77</AreaPos_X2>
+<AreaPos_Y>175.89</AreaPos_Y>
+<AreaPos_Y2>179.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>Area 28</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>114.98</AreaPos_X>
+<AreaPos_X2>132.95</AreaPos_X2>
+<AreaPos_Y>136.57</AreaPos_Y>
+<AreaPos_Y2>148.79</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>Area 29</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>246.02</AreaPos_X>
+<AreaPos_X2>266.50</AreaPos_X2>
+<AreaPos_Y>121.36</AreaPos_Y>
+<AreaPos_Y2>136.07</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>폐광으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[038]M12_M01_B02.rmd</AccessMap>
+<AccessMapName>廃坑　Ｂ２</AccessMapName>
+<AreaPos_X>3.77</AreaPos_X>
+<AreaPos_X2>5.55</AreaPos_X2>
+<AreaPos_Y>1.09</AreaPos_Y>
+<AreaPos_Y2>2.23</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>Area 30</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>267.61</AreaPos_X>
+<AreaPos_X2>294.71</AreaPos_X2>
+<AreaPos_Y>181.45</AreaPos_Y>
+<AreaPos_Y2>191.27</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>Area 32</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>70.89</AreaPos_X>
+<AreaPos_X2>86.04</AreaPos_X2>
+<AreaPos_Y>68.75</AreaPos_Y>
+<AreaPos_Y2>81.95</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>Area 33</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>174.02</AreaPos_X>
+<AreaPos_X2>192.59</AreaPos_X2>
+<AreaPos_Y>107.05</AreaPos_Y>
+<AreaPos_Y2>122.54</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>Area 34</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>35.79</AreaPos_X>
+<AreaPos_X2>52.13</AreaPos_X2>
+<AreaPos_Y>35.86</AreaPos_Y>
+<AreaPos_Y2>49.11</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>Area 35</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>27.05</AreaPos_X>
+<AreaPos_X2>42.41</AreaPos_X2>
+<AreaPos_Y>104.93</AreaPos_Y>
+<AreaPos_Y2>114.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>Area 36</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>374.89</AreaPos_X>
+<AreaPos_X2>393.70</AreaPos_X2>
+<AreaPos_Y>156.63</AreaPos_Y>
+<AreaPos_Y2>165.54</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid38">
+<AreaUID>38</AreaUID>
+<AreaName>Area 37</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>224.02</AreaPos_X>
+<AreaPos_X2>250.98</AreaPos_X2>
+<AreaPos_Y>36.07</AreaPos_Y>
+<AreaPos_Y2>50.80</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid39">
+<AreaUID>39</AreaUID>
+<AreaName>Area 38</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>142.95</AreaPos_X>
+<AreaPos_X2>163.66</AreaPos_X2>
+<AreaPos_Y>90.80</AreaPos_Y>
+<AreaPos_Y2>105.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid40">
+<AreaUID>40</AreaUID>
+<AreaName>Area 39</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>185.93</AreaPos_X>
+<AreaPos_X2>203.32</AreaPos_X2>
+<AreaPos_Y>69.18</AreaPos_Y>
+<AreaPos_Y2>77.11</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid41">
+<AreaUID>41</AreaUID>
+<AreaName>Area 40</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>187.23</AreaPos_X>
+<AreaPos_X2>208.16</AreaPos_X2>
+<AreaPos_Y>87.05</AreaPos_Y>
+<AreaPos_Y2>96.52</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid42">
+<AreaUID>42</AreaUID>
+<AreaName>서몬 몬스터1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>20.11</AreaPos_X>
+<AreaPos_X2>49.63</AreaPos_X2>
+<AreaPos_Y>98.82</AreaPos_Y>
+<AreaPos_Y2>122.98</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid43">
+<AreaUID>43</AreaUID>
+<AreaName>서몬 몬스터2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>362.59</AreaPos_X>
+<AreaPos_X2>399.50</AreaPos_X2>
+<AreaPos_Y>149.48</AreaPos_Y>
+<AreaPos_Y2>181.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid44">
+<AreaUID>44</AreaUID>
+<AreaName>서몬 몬스터3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>274.80</AreaPos_X>
+<AreaPos_X2>312.89</AreaPos_X2>
+<AreaPos_Y>12.73</AreaPos_Y>
+<AreaPos_Y2>39.04</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid45">
+<AreaUID>45</AreaUID>
+<AreaName>서몬 몬스터4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>68.34</AreaPos_X>
+<AreaPos_X2>98.82</AreaPos_X2>
+<AreaPos_Y>34.75</AreaPos_Y>
+<AreaPos_Y2>56.18</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid46">
+<AreaUID>46</AreaUID>
+<AreaName>Area 45</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>75.89</AreaPos_X>
+<AreaPos_X2>93.25</AreaPos_X2>
+<AreaPos_Y>136.66</AreaPos_Y>
+<AreaPos_Y2>150.77</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid47">
+<AreaUID>47</AreaUID>
+<AreaName>보스존</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>364.50</AreaPos_X>
+<AreaPos_X2>399.57</AreaPos_X2>
+<AreaPos_Y>0.82</AreaPos_Y>
+<AreaPos_Y2>25.80</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid48">
+<AreaUID>48</AreaUID>
+<AreaName>델러스</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>171.57</AreaPos_X>
+<AreaPos_X2>175.46</AreaPos_X2>
+<AreaPos_Y>47.89</AreaPos_Y>
+<AreaPos_Y2>51.86</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid49">
+<AreaUID>49</AreaUID>
+<AreaName>Area 48</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>315.55</AreaPos_X>
+<AreaPos_X2>319.21</AreaPos_X2>
+<AreaPos_Y>84.80</AreaPos_Y>
+<AreaPos_Y2>88.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid50">
+<AreaUID>50</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>54.96</AreaPos_X>
+<AreaPos_X2>56.25</AreaPos_X2>
+<AreaPos_Y>12.20</AreaPos_Y>
+<AreaPos_Y2>13.02</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid51">
+<AreaUID>51</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>3.55</AreaPos_X>
+<AreaPos_X2>4.57</AreaPos_X2>
+<AreaPos_Y>16.57</AreaPos_Y>
+<AreaPos_Y2>17.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid52">
+<AreaUID>52</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>17.18</AreaPos_X>
+<AreaPos_X2>18.27</AreaPos_X2>
+<AreaPos_Y>31.45</AreaPos_Y>
+<AreaPos_Y2>31.98</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid53">
+<AreaUID>53</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>6.89</AreaPos_X>
+<AreaPos_X2>7.98</AreaPos_X2>
+<AreaPos_Y>40.04</AreaPos_Y>
+<AreaPos_Y2>40.55</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid54">
+<AreaUID>54</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>3.45</AreaPos_X>
+<AreaPos_X2>4.57</AreaPos_X2>
+<AreaPos_Y>62.84</AreaPos_Y>
+<AreaPos_Y2>63.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid55">
+<AreaUID>55</AreaUID>
+<AreaName>보물상자05</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>6.89</AreaPos_X>
+<AreaPos_X2>7.86</AreaPos_X2>
+<AreaPos_Y>87.77</AreaPos_Y>
+<AreaPos_Y2>88.52</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid56">
+<AreaUID>56</AreaUID>
+<AreaName>보물상자06</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>9.20</AreaPos_X>
+<AreaPos_X2>10.25</AreaPos_X2>
+<AreaPos_Y>110.32</AreaPos_Y>
+<AreaPos_Y2>110.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid57">
+<AreaUID>57</AreaUID>
+<AreaName>보물상자07</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>3.45</AreaPos_X>
+<AreaPos_X2>4.71</AreaPos_X2>
+<AreaPos_Y>134.32</AreaPos_Y>
+<AreaPos_Y2>134.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid58">
+<AreaUID>58</AreaUID>
+<AreaName>보물상자08</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>19.89</AreaPos_X>
+<AreaPos_X2>21.16</AreaPos_X2>
+<AreaPos_Y>186.95</AreaPos_Y>
+<AreaPos_Y2>187.57</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid59">
+<AreaUID>59</AreaUID>
+<AreaName>보물상자09</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>45.75</AreaPos_X>
+<AreaPos_X2>46.86</AreaPos_X2>
+<AreaPos_Y>138.30</AreaPos_Y>
+<AreaPos_Y2>138.93</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid60">
+<AreaUID>60</AreaUID>
+<AreaName>보물상자10</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>126.91</AreaPos_X>
+<AreaPos_X2>127.98</AreaPos_X2>
+<AreaPos_Y>183.98</AreaPos_Y>
+<AreaPos_Y2>184.64</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid61">
+<AreaUID>61</AreaUID>
+<AreaName>보물상자11</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>68.68</AreaPos_X>
+<AreaPos_X2>69.89</AreaPos_X2>
+<AreaPos_Y>102.89</AreaPos_Y>
+<AreaPos_Y2>103.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid62">
+<AreaUID>62</AreaUID>
+<AreaName>보물상자12</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>167.02</AreaPos_X>
+<AreaPos_X2>167.96</AreaPos_X2>
+<AreaPos_Y>186.36</AreaPos_Y>
+<AreaPos_Y2>186.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid63">
+<AreaUID>63</AreaUID>
+<AreaName>보물상자13</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>173.63</AreaPos_X>
+<AreaPos_X2>174.89</AreaPos_X2>
+<AreaPos_Y>134.86</AreaPos_Y>
+<AreaPos_Y2>135.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid64">
+<AreaUID>64</AreaUID>
+<AreaName>보물상자14</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>218.38</AreaPos_X>
+<AreaPos_X2>219.43</AreaPos_X2>
+<AreaPos_Y>168.61</AreaPos_Y>
+<AreaPos_Y2>169.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid65">
+<AreaUID>65</AreaUID>
+<AreaName>보물상자15</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>334.88</AreaPos_X>
+<AreaPos_X2>335.98</AreaPos_X2>
+<AreaPos_Y>130.30</AreaPos_Y>
+<AreaPos_Y2>130.86</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid66">
+<AreaUID>66</AreaUID>
+<AreaName>보물상자16</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>123.41</AreaPos_X>
+<AreaPos_X2>124.61</AreaPos_X2>
+<AreaPos_Y>118.29</AreaPos_Y>
+<AreaPos_Y2>118.86</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid67">
+<AreaUID>67</AreaUID>
+<AreaName>보물상자17</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>101.70</AreaPos_X>
+<AreaPos_X2>102.79</AreaPos_X2>
+<AreaPos_Y>71.45</AreaPos_Y>
+<AreaPos_Y2>72.02</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid68">
+<AreaUID>68</AreaUID>
+<AreaName>보물상자18</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>75.48</AreaPos_X>
+<AreaPos_X2>76.52</AreaPos_X2>
+<AreaPos_Y>8.64</AreaPos_Y>
+<AreaPos_Y2>9.29</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid69">
+<AreaUID>69</AreaUID>
+<AreaName>보물상자19</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>176.07</AreaPos_X>
+<AreaPos_X2>177.14</AreaPos_X2>
+<AreaPos_Y>10.95</AreaPos_Y>
+<AreaPos_Y2>11.57</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid70">
+<AreaUID>70</AreaUID>
+<AreaName>보물상자20</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>208.07</AreaPos_X>
+<AreaPos_X2>209.14</AreaPos_X2>
+<AreaPos_Y>75.50</AreaPos_Y>
+<AreaPos_Y2>76.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid71">
+<AreaUID>71</AreaUID>
+<AreaName>보물상자21</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>397.75</AreaPos_X>
+<AreaPos_X2>398.80</AreaPos_X2>
+<AreaPos_Y>168.09</AreaPos_Y>
+<AreaPos_Y2>168.73</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid72">
+<AreaUID>72</AreaUID>
+<AreaName>보물상자22</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>332.39</AreaPos_X>
+<AreaPos_X2>333.55</AreaPos_X2>
+<AreaPos_Y>116.43</AreaPos_Y>
+<AreaPos_Y2>117.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid73">
+<AreaUID>73</AreaUID>
+<AreaName>보물상자23</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>355.43</AreaPos_X>
+<AreaPos_X2>356.32</AreaPos_X2>
+<AreaPos_Y>69.91</AreaPos_Y>
+<AreaPos_Y2>70.71</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid74">
+<AreaUID>74</AreaUID>
+<AreaName>보물상자24</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>346.32</AreaPos_X>
+<AreaPos_X2>347.39</AreaPos_X2>
+<AreaPos_Y>34.20</AreaPos_Y>
+<AreaPos_Y2>35.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid75">
+<AreaUID>75</AreaUID>
+<AreaName>보물상자25</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>310.61</AreaPos_X>
+<AreaPos_X2>311.86</AreaPos_X2>
+<AreaPos_Y>20.45</AreaPos_Y>
+<AreaPos_Y2>21.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid76">
+<AreaUID>76</AreaUID>
+<AreaName>Area 75</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>152.93</AreaPos_X>
+<AreaPos_X2>168.84</AreaPos_X2>
+<AreaPos_Y>169.20</AreaPos_Y>
+<AreaPos_Y2>183.55</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid77">
+<AreaUID>77</AreaUID>
+<AreaName>Area 76</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>160.71</AreaPos_X>
+<AreaPos_X2>181.41</AreaPos_X2>
+<AreaPos_Y>134.88</AreaPos_Y>
+<AreaPos_Y2>144.29</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid78">
+<AreaUID>78</AreaUID>
+<AreaName>Area 77</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>220.27</AreaPos_X>
+<AreaPos_X2>235.89</AreaPos_X2>
+<AreaPos_Y>91.70</AreaPos_Y>
+<AreaPos_Y2>104.11</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid79">
+<AreaUID>79</AreaUID>
+<AreaName>Area 78</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>342.50</AreaPos_X>
+<AreaPos_X2>361.05</AreaPos_X2>
+<AreaPos_Y>110.30</AreaPos_Y>
+<AreaPos_Y2>132.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid80">
+<AreaUID>80</AreaUID>
+<AreaName>Area 79</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>288.05</AreaPos_X>
+<AreaPos_X2>302.46</AreaPos_X2>
+<AreaPos_Y>52.25</AreaPos_Y>
+<AreaPos_Y2>64.55</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid81">
+<AreaUID>81</AreaUID>
+<AreaName>Area 80</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>154.34</AreaPos_X>
+<AreaPos_X2>172.79</AreaPos_X2>
+<AreaPos_Y>59.57</AreaPos_Y>
+<AreaPos_Y2>73.89</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid82">
+<AreaUID>82</AreaUID>
+<AreaName>Area 81</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>238.95</AreaPos_X>
+<AreaPos_X2>251.11</AreaPos_X2>
+<AreaPos_Y>151.91</AreaPos_Y>
+<AreaPos_Y2>161.14</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid83">
+<AreaUID>83</AreaUID>
+<AreaName>Area 82</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>89.82</AreaPos_X>
+<AreaPos_X2>98.14</AreaPos_X2>
+<AreaPos_Y>41.71</AreaPos_Y>
+<AreaPos_Y2>50.52</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid84">
+<AreaUID>84</AreaUID>
+<AreaName>Area 83</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>309.59</AreaPos_X>
+<AreaPos_X2>321.59</AreaPos_X2>
+<AreaPos_Y>119.16</AreaPos_Y>
+<AreaPos_Y2>136.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid85">
+<AreaUID>85</AreaUID>
+<AreaName>Area 84</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>245.39</AreaPos_X>
+<AreaPos_X2>252.48</AreaPos_X2>
+<AreaPos_Y>67.98</AreaPos_Y>
+<AreaPos_Y2>80.89</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid86">
+<AreaUID>86</AreaUID>
+<AreaName>Area 85</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>47.75</AreaPos_X>
+<AreaPos_X2>60.41</AreaPos_X2>
+<AreaPos_Y>156.34</AreaPos_Y>
+<AreaPos_Y2>163.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid87">
+<AreaUID>87</AreaUID>
+<AreaName>Area 86</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>40.30</AreaPos_X>
+<AreaPos_X2>52.64</AreaPos_X2>
+<AreaPos_Y>173.36</AreaPos_Y>
+<AreaPos_Y2>179.43</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid88">
+<AreaUID>88</AreaUID>
+<AreaName>Area 87</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>52.93</AreaPos_X>
+<AreaPos_X2>59.39</AreaPos_X2>
+<AreaPos_Y>167.13</AreaPos_Y>
+<AreaPos_Y2>174.79</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid89">
+<AreaUID>89</AreaUID>
+<AreaName>Area 88</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>198.30</AreaPos_X>
+<AreaPos_X2>208.70</AreaPos_X2>
+<AreaPos_Y>170.50</AreaPos_Y>
+<AreaPos_Y2>183.46</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid90">
+<AreaUID>90</AreaUID>
+<AreaName>Area 89</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>374.11</AreaPos_X>
+<AreaPos_X2>379.93</AreaPos_X2>
+<AreaPos_Y>166.11</AreaPos_Y>
+<AreaPos_Y2>176.46</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid91">
+<AreaUID>91</AreaUID>
+<AreaName>Area 90</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>383.63</AreaPos_X>
+<AreaPos_X2>394.93</AreaPos_X2>
+<AreaPos_Y>167.68</AreaPos_Y>
+<AreaPos_Y2>177.86</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid92">
+<AreaUID>92</AreaUID>
+<AreaName>플레이어 도착</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>370.29</AreaPos_X>
+<AreaPos_X2>375.34</AreaPos_X2>
+<AreaPos_Y>7.16</AreaPos_Y>
+<AreaPos_Y2>11.89</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid93">
+<AreaUID>93</AreaUID>
+<AreaName>바호메트 도살장</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>331.89</AreaPos_X>
+<AreaPos_X2>338.18</AreaPos_X2>
+<AreaPos_Y>0.45</AreaPos_Y>
+<AreaPos_Y2>4.39</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid94">
+<AreaUID>94</AreaUID>
+<AreaName>Area 93</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>88.88</AreaPos_X>
+<AreaPos_X2>98.32</AreaPos_X2>
+<AreaPos_Y>122.91</AreaPos_Y>
+<AreaPos_Y2>133.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid95">
+<AreaUID>95</AreaUID>
+<AreaName>Area 94</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>103.86</AreaPos_X>
+<AreaPos_X2>112.48</AreaPos_X2>
+<AreaPos_Y>122.32</AreaPos_Y>
+<AreaPos_Y2>134.96</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid96">
+<AreaUID>96</AreaUID>
+<AreaName>Area 95</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>83.34</AreaPos_X>
+<AreaPos_X2>100.32</AreaPos_X2>
+<AreaPos_Y>56.32</AreaPos_Y>
+<AreaPos_Y2>62.64</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid97">
+<AreaUID>97</AreaUID>
+<AreaName>Area 96</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>120.02</AreaPos_X>
+<AreaPos_X2>135.96</AreaPos_X2>
+<AreaPos_Y>158.16</AreaPos_Y>
+<AreaPos_Y2>165.14</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid98">
+<AreaUID>98</AreaUID>
+<AreaName>Area 97</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>130.89</AreaPos_X>
+<AreaPos_X2>142.80</AreaPos_X2>
+<AreaPos_Y>165.32</AreaPos_Y>
+<AreaPos_Y2>173.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid99">
+<AreaUID>99</AreaUID>
+<AreaName>Area 98</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>263.80</AreaPos_X>
+<AreaPos_X2>273.41</AreaPos_X2>
+<AreaPos_Y>153.52</AreaPos_Y>
+<AreaPos_Y2>164.96</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid100">
+<AreaUID>100</AreaUID>
+<AreaName>Area 99</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>269.77</AreaPos_X>
+<AreaPos_X2>283.86</AreaPos_X2>
+<AreaPos_Y>164.82</AreaPos_Y>
+<AreaPos_Y2>175.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid101">
+<AreaUID>101</AreaUID>
+<AreaName>Area 100</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>272.36</AreaPos_X>
+<AreaPos_X2>278.48</AreaPos_X2>
+<AreaPos_Y>83.11</AreaPos_Y>
+<AreaPos_Y2>87.77</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid102">
+<AreaUID>102</AreaUID>
+<AreaName>Area 101</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>280.63</AreaPos_X>
+<AreaPos_X2>291.91</AreaPos_X2>
+<AreaPos_Y>87.70</AreaPos_Y>
+<AreaPos_Y2>96.80</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid103">
+<AreaUID>103</AreaUID>
+<AreaName>Area 102</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>292.48</AreaPos_X>
+<AreaPos_X2>305.34</AreaPos_X2>
+<AreaPos_Y>87.91</AreaPos_Y>
+<AreaPos_Y2>93.77</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid104">
+<AreaUID>104</AreaUID>
+<AreaName>Area 103</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>282.23</AreaPos_X>
+<AreaPos_X2>295.05</AreaPos_X2>
+<AreaPos_Y>103.96</AreaPos_Y>
+<AreaPos_Y2>112.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid105">
+<AreaUID>105</AreaUID>
+<AreaName>Area 104</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>301.96</AreaPos_X>
+<AreaPos_X2>315.45</AreaPos_X2>
+<AreaPos_Y>107.55</AreaPos_Y>
+<AreaPos_Y2>114.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid106">
+<AreaUID>106</AreaUID>
+<AreaName>Area 105</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>308.93</AreaPos_X>
+<AreaPos_X2>319.93</AreaPos_X2>
+<AreaPos_Y>97.41</AreaPos_Y>
+<AreaPos_Y2>104.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid107">
+<AreaUID>107</AreaUID>
+<AreaName>Area 106</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>316.68</AreaPos_X>
+<AreaPos_X2>325.48</AreaPos_X2>
+<AreaPos_Y>105.34</AreaPos_Y>
+<AreaPos_Y2>112.98</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid108">
+<AreaUID>108</AreaUID>
+<AreaName>보스1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>108.46</AreaPos_X>
+<AreaPos_X2>122.82</AreaPos_X2>
+<AreaPos_Y>45.91</AreaPos_Y>
+<AreaPos_Y2>57.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid109">
+<AreaUID>109</AreaUID>
+<AreaName>보너스1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>113.14</AreaPos_X>
+<AreaPos_X2>118.16</AreaPos_X2>
+<AreaPos_Y>49.14</AreaPos_Y>
+<AreaPos_Y2>53.23</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid110">
+<AreaUID>110</AreaUID>
+<AreaName>보스2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>133.68</AreaPos_X>
+<AreaPos_X2>147.34</AreaPos_X2>
+<AreaPos_Y>126.23</AreaPos_Y>
+<AreaPos_Y2>136.11</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid111">
+<AreaUID>111</AreaUID>
+<AreaName>보너스2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>138.86</AreaPos_X>
+<AreaPos_X2>142.86</AreaPos_X2>
+<AreaPos_Y>129.59</AreaPos_Y>
+<AreaPos_Y2>132.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid112">
+<AreaUID>112</AreaUID>
+<AreaName>보스3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>93.00</AreaPos_X>
+<AreaPos_X2>105.04</AreaPos_X2>
+<AreaPos_Y>170.55</AreaPos_Y>
+<AreaPos_Y2>179.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid113">
+<AreaUID>113</AreaUID>
+<AreaName>보너스3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>96.70</AreaPos_X>
+<AreaPos_X2>101.34</AreaPos_X2>
+<AreaPos_Y>172.30</AreaPos_Y>
+<AreaPos_Y2>177.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid114">
+<AreaUID>114</AreaUID>
+<AreaName>보스4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>335.59</AreaPos_X>
+<AreaPos_X2>347.55</AreaPos_X2>
+<AreaPos_Y>176.79</AreaPos_Y>
+<AreaPos_Y2>186.23</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid115">
+<AreaUID>115</AreaUID>
+<AreaName>보너스4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>339.20</AreaPos_X>
+<AreaPos_X2>343.52</AreaPos_X2>
+<AreaPos_Y>179.46</AreaPos_Y>
+<AreaPos_Y2>183.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[048]M19_C01_B02.rmd</FileName>
+<FileType>Red Stone Scenario File 6.1 beta</FileType>
+<MapName>キャンサー気孔　Ｂ２</MapName>
+<SysWidth>200</SysWidth>
+<SysHeight>120</SysHeight>
+<TgaWidth>400</TgaWidth>
+<TgaHeight>120</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>34.94</PopPoint_X>
+<PopPoint_Y>18.63</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>29.03</PopPoint_X>
+<PopPoint_Y>30.22</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>58.03</PopPoint_X>
+<PopPoint_Y>38.03</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>332.53</PopPoint_X>
+<PopPoint_Y>93.75</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>53.97</PopPoint_X>
+<PopPoint_Y>78.84</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>72.09</PopPoint_X>
+<PopPoint_Y>59.38</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>329.41</PopPoint_X>
+<PopPoint_Y>97.28</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>80.09</PopPoint_X>
+<PopPoint_Y>81.00</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>365.59</PopPoint_X>
+<PopPoint_Y>92.38</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>82.38</PopPoint_X>
+<PopPoint_Y>95.91</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>74.25</PopPoint_X>
+<PopPoint_Y>99.75</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>105.09</PopPoint_X>
+<PopPoint_Y>25.63</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>110.16</PopPoint_X>
+<PopPoint_Y>19.03</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>371.44</PopPoint_X>
+<PopPoint_Y>94.28</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>135.09</PopPoint_X>
+<PopPoint_Y>33.38</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>127.94</PopPoint_X>
+<PopPoint_Y>66.41</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>367.84</PopPoint_X>
+<PopPoint_Y>98.88</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>128.94</PopPoint_X>
+<PopPoint_Y>85.78</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>367.66</PopPoint_X>
+<PopPoint_Y>95.53</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>145.28</PopPoint_X>
+<PopPoint_Y>103.94</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>149.06</PopPoint_X>
+<PopPoint_Y>105.59</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>158.56</PopPoint_X>
+<PopPoint_Y>63.88</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>165.81</PopPoint_X>
+<PopPoint_Y>101.22</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>163.94</PopPoint_X>
+<PopPoint_Y>88.09</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>208.78</PopPoint_X>
+<PopPoint_Y>40.56</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>215.41</PopPoint_X>
+<PopPoint_Y>47.97</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>194.00</PopPoint_X>
+<PopPoint_Y>43.56</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>184.31</PopPoint_X>
+<PopPoint_Y>69.53</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>178.22</PopPoint_X>
+<PopPoint_Y>76.63</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>174.59</PopPoint_X>
+<PopPoint_Y>48.34</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>193.72</PopPoint_X>
+<PopPoint_Y>100.03</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>213.56</PopPoint_X>
+<PopPoint_Y>96.38</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>240.06</PopPoint_X>
+<PopPoint_Y>62.31</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>239.47</PopPoint_X>
+<PopPoint_Y>87.03</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>259.13</PopPoint_X>
+<PopPoint_Y>92.94</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>266.81</PopPoint_X>
+<PopPoint_Y>98.84</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>271.78</PopPoint_X>
+<PopPoint_Y>74.25</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>253.16</PopPoint_X>
+<PopPoint_Y>21.06</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>270.44</PopPoint_X>
+<PopPoint_Y>14.84</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>279.50</PopPoint_X>
+<PopPoint_Y>26.22</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>273.22</PopPoint_X>
+<PopPoint_Y>39.72</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>295.25</PopPoint_X>
+<PopPoint_Y>11.53</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>303.38</PopPoint_X>
+<PopPoint_Y>11.34</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>298.53</PopPoint_X>
+<PopPoint_Y>25.47</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>316.81</PopPoint_X>
+<PopPoint_Y>16.50</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>346.22</PopPoint_X>
+<PopPoint_Y>20.28</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>312.75</PopPoint_X>
+<PopPoint_Y>38.88</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>317.41</PopPoint_X>
+<PopPoint_Y>72.91</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>リザードキリング</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>336.38</PopPoint_X>
+<PopPoint_Y>62.53</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>353.63</PopPoint_X>
+<PopPoint_Y>69.78</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>デスピンサー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>325.22</PopPoint_X>
+<PopPoint_Y>103.25</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>339.59</PopPoint_X>
+<PopPoint_Y>89.91</PopPoint_Y>
+</Character>
+<Character id="cUid80">
+<CharacterUID>80</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>346.94</PopPoint_X>
+<PopPoint_Y>39.22</PopPoint_Y>
+</Character>
+<Character id="cUid81">
+<CharacterUID>81</CharacterUID>
+<CharacterName>キングクラブ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>440</PopSpeed>
+<PopPoint_X>328.94</PopPoint_X>
+<PopPoint_Y>23.44</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>3층으러</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[049]M19_C01_B03.rmd</AccessMap>
+<AccessMapName>キャンサー気孔　Ｂ３</AccessMapName>
+<AreaPos_X>393.88</AreaPos_X>
+<AreaPos_X2>397.06</AreaPos_X2>
+<AreaPos_Y>17.97</AreaPos_Y>
+<AreaPos_Y2>21.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>3층으러2</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[049]M19_C01_B03.rmd</AccessMap>
+<AccessMapName>キャンサー気孔　Ｂ３</AccessMapName>
+<AreaPos_X>215.69</AreaPos_X>
+<AreaPos_X2>220.78</AreaPos_X2>
+<AreaPos_Y>1.94</AreaPos_Y>
+<AreaPos_Y2>4.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>3층으러3</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[049]M19_C01_B03.rmd</AccessMap>
+<AccessMapName>キャンサー気孔　Ｂ３</AccessMapName>
+<AreaPos_X>2.66</AreaPos_X>
+<AreaPos_X2>5.72</AreaPos_X2>
+<AreaPos_Y>24.25</AreaPos_Y>
+<AreaPos_Y2>27.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>1층으러</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[047]M19_C01_B01.rmd</AccessMap>
+<AccessMapName>キャンサー気孔　Ｂ１</AccessMapName>
+<AreaPos_X>73.91</AreaPos_X>
+<AreaPos_X2>78.53</AreaPos_X2>
+<AreaPos_Y>1.84</AreaPos_Y>
+<AreaPos_Y2>4.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>1층으러2</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[047]M19_C01_B01.rmd</AccessMap>
+<AccessMapName>キャンサー気孔　Ｂ１</AccessMapName>
+<AreaPos_X>112.22</AreaPos_X>
+<AreaPos_X2>117.72</AreaPos_X2>
+<AreaPos_Y>114.59</AreaPos_Y>
+<AreaPos_Y2>116.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>1층으러3</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[047]M19_C01_B01.rmd</AccessMap>
+<AccessMapName>キャンサー気孔　Ｂ１</AccessMapName>
+<AreaPos_X>280.13</AreaPos_X>
+<AreaPos_X2>285.88</AreaPos_X2>
+<AreaPos_Y>114.13</AreaPos_Y>
+<AreaPos_Y2>117.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>19.91</AreaPos_X>
+<AreaPos_X2>70.63</AreaPos_X2>
+<AreaPos_Y>14.38</AreaPos_Y>
+<AreaPos_Y2>45.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>51.09</AreaPos_X>
+<AreaPos_X2>90.16</AreaPos_X2>
+<AreaPos_Y>56.09</AreaPos_Y>
+<AreaPos_Y2>103.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>101.38</AreaPos_X>
+<AreaPos_X2>139.59</AreaPos_X2>
+<AreaPos_Y>10.63</AreaPos_Y>
+<AreaPos_Y2>45.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>121.78</AreaPos_X>
+<AreaPos_X2>170.66</AreaPos_X2>
+<AreaPos_Y>58.66</AreaPos_Y>
+<AreaPos_Y2>107.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>170.53</AreaPos_X>
+<AreaPos_X2>219.00</AreaPos_X2>
+<AreaPos_Y>37.28</AreaPos_Y>
+<AreaPos_Y2>111.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>246.03</AreaPos_X>
+<AreaPos_X2>287.13</AreaPos_X2>
+<AreaPos_Y>5.69</AreaPos_Y>
+<AreaPos_Y2>52.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>292.88</AreaPos_X>
+<AreaPos_X2>353.66</AreaPos_X2>
+<AreaPos_Y>7.88</AreaPos_Y>
+<AreaPos_Y2>31.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>310.06</AreaPos_X>
+<AreaPos_X2>370.75</AreaPos_X2>
+<AreaPos_Y>37.03</AreaPos_Y>
+<AreaPos_Y2>76.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>322.13</AreaPos_X>
+<AreaPos_X2>344.69</AreaPos_X2>
+<AreaPos_Y>87.50</AreaPos_Y>
+<AreaPos_Y2>103.66</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>227.06</AreaPos_X>
+<AreaPos_X2>273.63</AreaPos_X2>
+<AreaPos_Y>59.41</AreaPos_Y>
+<AreaPos_Y2>103.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>73.88</AreaPos_X>
+<AreaPos_X2>75.91</AreaPos_X2>
+<AreaPos_Y>112.84</AreaPos_Y>
+<AreaPos_Y2>113.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>10.13</AreaPos_X>
+<AreaPos_X2>11.97</AreaPos_X2>
+<AreaPos_Y>92.03</AreaPos_Y>
+<AreaPos_Y2>93.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>126.06</AreaPos_X>
+<AreaPos_X2>127.91</AreaPos_X2>
+<AreaPos_Y>96.13</AreaPos_Y>
+<AreaPos_Y2>96.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>180.06</AreaPos_X>
+<AreaPos_X2>181.97</AreaPos_X2>
+<AreaPos_Y>16.06</AreaPos_Y>
+<AreaPos_Y2>17.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>210.03</AreaPos_X>
+<AreaPos_X2>211.97</AreaPos_X2>
+<AreaPos_Y>103.03</AreaPos_Y>
+<AreaPos_Y2>103.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>보물상자05</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>250.06</AreaPos_X>
+<AreaPos_X2>251.91</AreaPos_X2>
+<AreaPos_Y>101.06</AreaPos_Y>
+<AreaPos_Y2>101.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>보물상자06</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>110.00</AreaPos_X>
+<AreaPos_X2>111.75</AreaPos_X2>
+<AreaPos_Y>31.78</AreaPos_Y>
+<AreaPos_Y2>32.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>보물상자07</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>189.59</AreaPos_X>
+<AreaPos_X2>191.44</AreaPos_X2>
+<AreaPos_Y>101.88</AreaPos_Y>
+<AreaPos_Y2>103.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>보물상자08</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>362.09</AreaPos_X>
+<AreaPos_X2>363.88</AreaPos_X2>
+<AreaPos_Y>113.13</AreaPos_Y>
+<AreaPos_Y2>114.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>보물상자09</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>360.34</AreaPos_X>
+<AreaPos_X2>362.06</AreaPos_X2>
+<AreaPos_Y>44.97</AreaPos_Y>
+<AreaPos_Y2>46.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>Area 27</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>362.84</AreaPos_X>
+<AreaPos_X2>375.50</AreaPos_X2>
+<AreaPos_Y>88.69</AreaPos_Y>
+<AreaPos_Y2>102.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

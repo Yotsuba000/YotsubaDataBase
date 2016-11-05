@@ -1,0 +1,2909 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[265]M11_C03_B01.rmd</FileName>
+<FileType>Red Stone Scenario File 5.7 beta</FileType>
+<MapName>河口ダンジョン　'ミ'　Ｂ１</MapName>
+<SysWidth>250</SysWidth>
+<SysHeight>250</SysHeight>
+<TgaWidth>500</TgaWidth>
+<TgaHeight>250</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>50</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>28.50</PopPoint_X>
+<PopPoint_Y>230.00</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>122.59</PopPoint_X>
+<PopPoint_Y>231.63</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>239.69</PopPoint_X>
+<PopPoint_Y>230.28</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>115.50</PopPoint_X>
+<PopPoint_Y>17.09</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>39.81</PopPoint_X>
+<PopPoint_Y>98.56</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>48.97</PopPoint_X>
+<PopPoint_Y>95.44</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>48.59</PopPoint_X>
+<PopPoint_Y>56.41</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>11.38</PopPoint_X>
+<PopPoint_Y>20.66</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>118.53</PopPoint_X>
+<PopPoint_Y>27.25</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>87.00</PopPoint_X>
+<PopPoint_Y>74.53</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>123.56</PopPoint_X>
+<PopPoint_Y>113.53</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>112.16</PopPoint_X>
+<PopPoint_Y>174.03</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>190.78</PopPoint_X>
+<PopPoint_Y>220.13</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>231.25</PopPoint_X>
+<PopPoint_Y>224.94</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>218.97</PopPoint_X>
+<PopPoint_Y>159.91</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>151.69</PopPoint_X>
+<PopPoint_Y>138.28</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>136.97</PopPoint_X>
+<PopPoint_Y>76.91</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>119.47</PopPoint_X>
+<PopPoint_Y>166.94</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>375.91</PopPoint_X>
+<PopPoint_Y>51.06</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>291.25</PopPoint_X>
+<PopPoint_Y>195.63</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>376.16</PopPoint_X>
+<PopPoint_Y>41.56</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>384.78</PopPoint_X>
+<PopPoint_Y>231.16</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>455.25</PopPoint_X>
+<PopPoint_Y>190.75</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>473.84</PopPoint_X>
+<PopPoint_Y>164.06</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>481.22</PopPoint_X>
+<PopPoint_Y>105.59</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>411.16</PopPoint_X>
+<PopPoint_Y>137.38</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>402.97</PopPoint_X>
+<PopPoint_Y>90.72</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>365.31</PopPoint_X>
+<PopPoint_Y>102.31</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>366.66</PopPoint_X>
+<PopPoint_Y>45.91</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>359.13</PopPoint_X>
+<PopPoint_Y>54.78</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>397.34</PopPoint_X>
+<PopPoint_Y>21.16</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>443.16</PopPoint_X>
+<PopPoint_Y>27.47</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>475.28</PopPoint_X>
+<PopPoint_Y>45.50</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>483.44</PopPoint_X>
+<PopPoint_Y>112.53</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>27.69</PopPoint_X>
+<PopPoint_Y>33.25</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>107.97</PopPoint_X>
+<PopPoint_Y>22.66</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>23.38</PopPoint_X>
+<PopPoint_Y>97.22</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>33.97</PopPoint_X>
+<PopPoint_Y>161.28</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>249.19</PopPoint_X>
+<PopPoint_Y>239.16</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>84.72</PopPoint_X>
+<PopPoint_Y>225.00</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>13.28</PopPoint_X>
+<PopPoint_Y>99.00</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>29.94</PopPoint_X>
+<PopPoint_Y>93.69</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>464.69</PopPoint_X>
+<PopPoint_Y>207.09</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>41.44</PopPoint_X>
+<PopPoint_Y>91.09</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>12.69</PopPoint_X>
+<PopPoint_Y>138.75</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>23.56</PopPoint_X>
+<PopPoint_Y>132.44</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>38.72</PopPoint_X>
+<PopPoint_Y>70.53</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>15.72</PopPoint_X>
+<PopPoint_Y>34.75</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>141.81</PopPoint_X>
+<PopPoint_Y>22.38</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>149.38</PopPoint_X>
+<PopPoint_Y>74.41</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>230.16</PopPoint_X>
+<PopPoint_Y>163.28</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>358.22</PopPoint_X>
+<PopPoint_Y>43.69</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>374.69</PopPoint_X>
+<PopPoint_Y>224.94</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>463.34</PopPoint_X>
+<PopPoint_Y>183.66</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>465.91</PopPoint_X>
+<PopPoint_Y>158.38</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>462.13</PopPoint_X>
+<PopPoint_Y>166.41</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>385.69</PopPoint_X>
+<PopPoint_Y>107.47</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>326.47</PopPoint_X>
+<PopPoint_Y>15.91</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>332.19</PopPoint_X>
+<PopPoint_Y>24.09</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>420.19</PopPoint_X>
+<PopPoint_Y>31.25</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>479.13</PopPoint_X>
+<PopPoint_Y>63.22</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>21.97</PopPoint_X>
+<PopPoint_Y>24.47</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>43.50</PopPoint_X>
+<PopPoint_Y>60.81</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>84.91</PopPoint_X>
+<PopPoint_Y>26.63</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>94.97</PopPoint_X>
+<PopPoint_Y>80.19</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>159.50</PopPoint_X>
+<PopPoint_Y>146.03</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>35.72</PopPoint_X>
+<PopPoint_Y>57.16</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>108.97</PopPoint_X>
+<PopPoint_Y>115.81</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>459.69</PopPoint_X>
+<PopPoint_Y>197.84</PopPoint_Y>
+</Character>
+<Character id="cUid69">
+<CharacterUID>69</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>35.91</PopPoint_X>
+<PopPoint_Y>222.47</PopPoint_Y>
+</Character>
+<Character id="cUid70">
+<CharacterUID>70</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>336.25</PopPoint_X>
+<PopPoint_Y>15.75</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>195.44</PopPoint_X>
+<PopPoint_Y>227.66</PopPoint_Y>
+</Character>
+<Character id="cUid72">
+<CharacterUID>72</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>103.66</PopPoint_X>
+<PopPoint_Y>84.59</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>121.50</PopPoint_X>
+<PopPoint_Y>120.69</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>89.69</PopPoint_X>
+<PopPoint_Y>86.91</PopPoint_Y>
+</Character>
+<Character id="cUid75">
+<CharacterUID>75</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>151.78</PopPoint_X>
+<PopPoint_Y>19.81</PopPoint_Y>
+</Character>
+<Character id="cUid76">
+<CharacterUID>76</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>311.22</PopPoint_X>
+<PopPoint_Y>235.38</PopPoint_Y>
+</Character>
+<Character id="cUid77">
+<CharacterUID>77</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>267.00</PopPoint_X>
+<PopPoint_Y>24.13</PopPoint_Y>
+</Character>
+<Character id="cUid78">
+<CharacterUID>78</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>444.50</PopPoint_X>
+<PopPoint_Y>14.72</PopPoint_Y>
+</Character>
+<Character id="cUid79">
+<CharacterUID>79</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>215.41</PopPoint_X>
+<PopPoint_Y>170.97</PopPoint_Y>
+</Character>
+<Character id="cUid80">
+<CharacterUID>80</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>294.19</PopPoint_X>
+<PopPoint_Y>208.41</PopPoint_Y>
+</Character>
+<Character id="cUid81">
+<CharacterUID>81</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>285.44</PopPoint_X>
+<PopPoint_Y>200.66</PopPoint_Y>
+</Character>
+<Character id="cUid82">
+<CharacterUID>82</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>365.88</PopPoint_X>
+<PopPoint_Y>229.09</PopPoint_Y>
+</Character>
+<Character id="cUid83">
+<CharacterUID>83</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>293.44</PopPoint_X>
+<PopPoint_Y>136.81</PopPoint_Y>
+</Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>278.03</PopPoint_X>
+<PopPoint_Y>134.88</PopPoint_Y>
+</Character>
+<Character id="cUid85">
+<CharacterUID>85</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>493.50</PopPoint_X>
+<PopPoint_Y>13.72</PopPoint_Y>
+</Character>
+<Character id="cUid86">
+<CharacterUID>86</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>392.16</PopPoint_X>
+<PopPoint_Y>129.41</PopPoint_Y>
+</Character>
+<Character id="cUid87">
+<CharacterUID>87</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>471.72</PopPoint_X>
+<PopPoint_Y>172.75</PopPoint_Y>
+</Character>
+<Character id="cUid88">
+<CharacterUID>88</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>485.84</PopPoint_X>
+<PopPoint_Y>96.94</PopPoint_Y>
+</Character>
+<Character id="cUid89">
+<CharacterUID>89</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>407.91</PopPoint_X>
+<PopPoint_Y>111.78</PopPoint_Y>
+</Character>
+<Character id="cUid90">
+<CharacterUID>90</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>401.03</PopPoint_X>
+<PopPoint_Y>98.38</PopPoint_Y>
+</Character>
+<Character id="cUid91">
+<CharacterUID>91</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>370.31</PopPoint_X>
+<PopPoint_Y>96.94</PopPoint_Y>
+</Character>
+<Character id="cUid92">
+<CharacterUID>92</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>359.75</PopPoint_X>
+<PopPoint_Y>19.94</PopPoint_Y>
+</Character>
+<Character id="cUid93">
+<CharacterUID>93</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>403.63</PopPoint_X>
+<PopPoint_Y>34.84</PopPoint_Y>
+</Character>
+<Character id="cUid94">
+<CharacterUID>94</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>453.28</PopPoint_X>
+<PopPoint_Y>29.13</PopPoint_Y>
+</Character>
+<Character id="cUid95">
+<CharacterUID>95</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>439.88</PopPoint_X>
+<PopPoint_Y>70.06</PopPoint_Y>
+</Character>
+<Character id="cUid96">
+<CharacterUID>96</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>389.22</PopPoint_X>
+<PopPoint_Y>30.34</PopPoint_Y>
+</Character>
+<Character id="cUid97">
+<CharacterUID>97</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>51.50</PopPoint_X>
+<PopPoint_Y>67.38</PopPoint_Y>
+</Character>
+<Character id="cUid98">
+<CharacterUID>98</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>41.50</PopPoint_X>
+<PopPoint_Y>233.38</PopPoint_Y>
+</Character>
+<Character id="cUid99">
+<CharacterUID>99</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>87.91</PopPoint_X>
+<PopPoint_Y>234.31</PopPoint_Y>
+</Character>
+<Character id="cUid100">
+<CharacterUID>100</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>369.81</PopPoint_X>
+<PopPoint_Y>17.44</PopPoint_Y>
+</Character>
+<Character id="cUid101">
+<CharacterUID>101</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>86.16</PopPoint_X>
+<PopPoint_Y>20.50</PopPoint_Y>
+</Character>
+<Character id="cUid102">
+<CharacterUID>102</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>92.03</PopPoint_X>
+<PopPoint_Y>33.38</PopPoint_Y>
+</Character>
+<Character id="cUid103">
+<CharacterUID>103</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>78.66</PopPoint_X>
+<PopPoint_Y>36.53</PopPoint_Y>
+</Character>
+<Character id="cUid104">
+<CharacterUID>104</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>37.66</PopPoint_X>
+<PopPoint_Y>21.44</PopPoint_Y>
+</Character>
+<Character id="cUid105">
+<CharacterUID>105</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>117.03</PopPoint_X>
+<PopPoint_Y>223.31</PopPoint_Y>
+</Character>
+<Character id="cUid106">
+<CharacterUID>106</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>364.00</PopPoint_X>
+<PopPoint_Y>27.75</PopPoint_Y>
+</Character>
+<Character id="cUid107">
+<CharacterUID>107</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>179.81</PopPoint_X>
+<PopPoint_Y>229.09</PopPoint_Y>
+</Character>
+<Character id="cUid108">
+<CharacterUID>108</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>25.94</PopPoint_X>
+<PopPoint_Y>17.25</PopPoint_Y>
+</Character>
+<Character id="cUid109">
+<CharacterUID>109</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>245.81</PopPoint_X>
+<PopPoint_Y>224.88</PopPoint_Y>
+</Character>
+<Character id="cUid110">
+<CharacterUID>110</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>330.00</PopPoint_X>
+<PopPoint_Y>234.28</PopPoint_Y>
+</Character>
+<Character id="cUid111">
+<CharacterUID>111</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>237.25</PopPoint_X>
+<PopPoint_Y>240.09</PopPoint_Y>
+</Character>
+<Character id="cUid112">
+<CharacterUID>112</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>273.78</PopPoint_X>
+<PopPoint_Y>207.16</PopPoint_Y>
+</Character>
+<Character id="cUid113">
+<CharacterUID>113</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>268.94</PopPoint_X>
+<PopPoint_Y>197.19</PopPoint_Y>
+</Character>
+<Character id="cUid114">
+<CharacterUID>114</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>303.69</PopPoint_X>
+<PopPoint_Y>231.41</PopPoint_Y>
+</Character>
+<Character id="cUid115">
+<CharacterUID>115</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>393.59</PopPoint_X>
+<PopPoint_Y>39.72</PopPoint_Y>
+</Character>
+<Character id="cUid116">
+<CharacterUID>116</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>352.13</PopPoint_X>
+<PopPoint_Y>226.72</PopPoint_Y>
+</Character>
+<Character id="cUid117">
+<CharacterUID>117</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>316.13</PopPoint_X>
+<PopPoint_Y>57.06</PopPoint_Y>
+</Character>
+<Character id="cUid118">
+<CharacterUID>118</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>245.31</PopPoint_X>
+<PopPoint_Y>29.03</PopPoint_Y>
+</Character>
+<Character id="cUid119">
+<CharacterUID>119</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>350.13</PopPoint_X>
+<PopPoint_Y>49.41</PopPoint_Y>
+</Character>
+<Character id="cUid120">
+<CharacterUID>120</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>325.78</PopPoint_X>
+<PopPoint_Y>40.78</PopPoint_Y>
+</Character>
+<Character id="cUid121">
+<CharacterUID>121</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>420.19</PopPoint_X>
+<PopPoint_Y>130.31</PopPoint_Y>
+</Character>
+<Character id="cUid122">
+<CharacterUID>122</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>207.41</PopPoint_X>
+<PopPoint_Y>197.16</PopPoint_Y>
+</Character>
+<Character id="cUid123">
+<CharacterUID>123</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>213.00</PopPoint_X>
+<PopPoint_Y>205.97</PopPoint_Y>
+</Character>
+<Character id="cUid124">
+<CharacterUID>124</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>425.41</PopPoint_X>
+<PopPoint_Y>79.50</PopPoint_Y>
+</Character>
+<Character id="cUid125">
+<CharacterUID>125</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>441.44</PopPoint_X>
+<PopPoint_Y>78.84</PopPoint_Y>
+</Character>
+<Character id="cUid126">
+<CharacterUID>126</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>315.09</PopPoint_X>
+<PopPoint_Y>46.66</PopPoint_Y>
+</Character>
+<Character id="cUid127">
+<CharacterUID>127</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>325.53</PopPoint_X>
+<PopPoint_Y>52.34</PopPoint_Y>
+</Character>
+<Character id="cUid128">
+<CharacterUID>128</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>356.72</PopPoint_X>
+<PopPoint_Y>98.59</PopPoint_Y>
+</Character>
+<Character id="cUid129">
+<CharacterUID>129</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>367.44</PopPoint_X>
+<PopPoint_Y>81.81</PopPoint_Y>
+</Character>
+<Character id="cUid130">
+<CharacterUID>130</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>389.88</PopPoint_X>
+<PopPoint_Y>98.88</PopPoint_Y>
+</Character>
+<Character id="cUid131">
+<CharacterUID>131</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>228.34</PopPoint_X>
+<PopPoint_Y>195.44</PopPoint_Y>
+</Character>
+<Character id="cUid132">
+<CharacterUID>132</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>231.16</PopPoint_X>
+<PopPoint_Y>205.41</PopPoint_Y>
+</Character>
+<Character id="cUid133">
+<CharacterUID>133</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>217.38</PopPoint_X>
+<PopPoint_Y>197.22</PopPoint_Y>
+</Character>
+<Character id="cUid134">
+<CharacterUID>134</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>265.16</PopPoint_X>
+<PopPoint_Y>172.78</PopPoint_Y>
+</Character>
+<Character id="cUid135">
+<CharacterUID>135</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>406.09</PopPoint_X>
+<PopPoint_Y>131.84</PopPoint_Y>
+</Character>
+<Character id="cUid136">
+<CharacterUID>136</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>397.66</PopPoint_X>
+<PopPoint_Y>115.78</PopPoint_Y>
+</Character>
+<Character id="cUid137">
+<CharacterUID>137</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>396.16</PopPoint_X>
+<PopPoint_Y>137.75</PopPoint_Y>
+</Character>
+<Character id="cUid138">
+<CharacterUID>138</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>483.91</PopPoint_X>
+<PopPoint_Y>169.56</PopPoint_Y>
+</Character>
+<Character id="cUid139">
+<CharacterUID>139</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>489.22</PopPoint_X>
+<PopPoint_Y>107.25</PopPoint_Y>
+</Character>
+<Character id="cUid140">
+<CharacterUID>140</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>477.25</PopPoint_X>
+<PopPoint_Y>97.22</PopPoint_Y>
+</Character>
+<Character id="cUid141">
+<CharacterUID>141</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>358.22</PopPoint_X>
+<PopPoint_Y>78.19</PopPoint_Y>
+</Character>
+<Character id="cUid142">
+<CharacterUID>142</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>350.78</PopPoint_X>
+<PopPoint_Y>86.91</PopPoint_Y>
+</Character>
+<Character id="cUid143">
+<CharacterUID>143</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>482.56</PopPoint_X>
+<PopPoint_Y>54.88</PopPoint_Y>
+</Character>
+<Character id="cUid144">
+<CharacterUID>144</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>445.03</PopPoint_X>
+<PopPoint_Y>85.69</PopPoint_Y>
+</Character>
+<Character id="cUid145">
+<CharacterUID>145</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>461.28</PopPoint_X>
+<PopPoint_Y>83.41</PopPoint_Y>
+</Character>
+<Character id="cUid146">
+<CharacterUID>146</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>256.09</PopPoint_X>
+<PopPoint_Y>166.69</PopPoint_Y>
+</Character>
+<Character id="cUid147">
+<CharacterUID>147</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>244.66</PopPoint_X>
+<PopPoint_Y>22.63</PopPoint_Y>
+</Character>
+<Character id="cUid148">
+<CharacterUID>148</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>463.22</PopPoint_X>
+<PopPoint_Y>18.13</PopPoint_Y>
+</Character>
+<Character id="cUid149">
+<CharacterUID>149</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>455.13</PopPoint_X>
+<PopPoint_Y>12.97</PopPoint_Y>
+</Character>
+<Character id="cUid150">
+<CharacterUID>150</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>465.03</PopPoint_X>
+<PopPoint_Y>25.31</PopPoint_Y>
+</Character>
+<Character id="cUid151">
+<CharacterUID>151</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>399.13</PopPoint_X>
+<PopPoint_Y>28.22</PopPoint_Y>
+</Character>
+<Character id="cUid152">
+<CharacterUID>152</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>417.00</PopPoint_X>
+<PopPoint_Y>20.06</PopPoint_Y>
+</Character>
+<Character id="cUid153">
+<CharacterUID>153</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>410.34</PopPoint_X>
+<PopPoint_Y>30.03</PopPoint_Y>
+</Character>
+<Character id="cUid154">
+<CharacterUID>154</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>316.25</PopPoint_X>
+<PopPoint_Y>36.34</PopPoint_Y>
+</Character>
+<Character id="cUid155">
+<CharacterUID>155</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>323.97</PopPoint_X>
+<PopPoint_Y>86.78</PopPoint_Y>
+</Character>
+<Character id="cUid156">
+<CharacterUID>156</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>361.09</PopPoint_X>
+<PopPoint_Y>89.84</PopPoint_Y>
+</Character>
+<Character id="cUid157">
+<CharacterUID>157</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>49.19</PopPoint_X>
+<PopPoint_Y>158.94</PopPoint_Y>
+</Character>
+<Character id="cUid158">
+<CharacterUID>158</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>424.50</PopPoint_X>
+<PopPoint_Y>21.91</PopPoint_Y>
+</Character>
+<Character id="cUid159">
+<CharacterUID>159</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>318.16</PopPoint_X>
+<PopPoint_Y>228.50</PopPoint_Y>
+</Character>
+<Character id="cUid160">
+<CharacterUID>160</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>303.09</PopPoint_X>
+<PopPoint_Y>170.72</PopPoint_Y>
+</Character>
+<Character id="cUid161">
+<CharacterUID>161</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>431.25</PopPoint_X>
+<PopPoint_Y>73.25</PopPoint_Y>
+</Character>
+<Character id="cUid162">
+<CharacterUID>162</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>295.47</PopPoint_X>
+<PopPoint_Y>177.25</PopPoint_Y>
+</Character>
+<Character id="cUid163">
+<CharacterUID>163</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>306.69</PopPoint_X>
+<PopPoint_Y>142.88</PopPoint_Y>
+</Character>
+<Character id="cUid164">
+<CharacterUID>164</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>429.38</PopPoint_X>
+<PopPoint_Y>29.41</PopPoint_Y>
+</Character>
+<Character id="cUid165">
+<CharacterUID>165</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>451.16</PopPoint_X>
+<PopPoint_Y>76.91</PopPoint_Y>
+</Character>
+<Character id="cUid166">
+<CharacterUID>166</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>279.38</PopPoint_X>
+<PopPoint_Y>167.41</PopPoint_Y>
+</Character>
+<Character id="cUid167">
+<CharacterUID>167</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>273.28</PopPoint_X>
+<PopPoint_Y>160.63</PopPoint_Y>
+</Character>
+<Character id="cUid168">
+<CharacterUID>168</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>266.66</PopPoint_X>
+<PopPoint_Y>162.09</PopPoint_Y>
+</Character>
+<Character id="cUid169">
+<CharacterUID>169</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>108.25</PopPoint_X>
+<PopPoint_Y>124.84</PopPoint_Y>
+</Character>
+<Character id="cUid170">
+<CharacterUID>170</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>485.28</PopPoint_X>
+<PopPoint_Y>16.06</PopPoint_Y>
+</Character>
+<Character id="cUid171">
+<CharacterUID>171</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>76.56</PopPoint_X>
+<PopPoint_Y>233.44</PopPoint_Y>
+</Character>
+<Character id="cUid172">
+<CharacterUID>172</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>40.03</PopPoint_X>
+<PopPoint_Y>153.72</PopPoint_Y>
+</Character>
+<Character id="cUid173">
+<CharacterUID>173</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>329.22</PopPoint_X>
+<PopPoint_Y>203.81</PopPoint_Y>
+</Character>
+<Character id="cUid174">
+<CharacterUID>174</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>163.78</PopPoint_X>
+<PopPoint_Y>23.63</PopPoint_Y>
+</Character>
+<Character id="cUid175">
+<CharacterUID>175</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>163.03</PopPoint_X>
+<PopPoint_Y>13.78</PopPoint_Y>
+</Character>
+<Character id="cUid176">
+<CharacterUID>176</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>476.28</PopPoint_X>
+<PopPoint_Y>20.97</PopPoint_Y>
+</Character>
+<Character id="cUid177">
+<CharacterUID>177</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>155.53</PopPoint_X>
+<PopPoint_Y>29.31</PopPoint_Y>
+</Character>
+<Character id="cUid178">
+<CharacterUID>178</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>273.91</PopPoint_X>
+<PopPoint_Y>34.34</PopPoint_Y>
+</Character>
+<Character id="cUid179">
+<CharacterUID>179</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>257.78</PopPoint_X>
+<PopPoint_Y>27.66</PopPoint_Y>
+</Character>
+<Character id="cUid180">
+<CharacterUID>180</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>276.47</PopPoint_X>
+<PopPoint_Y>23.44</PopPoint_Y>
+</Character>
+<Character id="cUid181">
+<CharacterUID>181</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>345.91</PopPoint_X>
+<PopPoint_Y>208.09</PopPoint_Y>
+</Character>
+<Character id="cUid182">
+<CharacterUID>182</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>261.34</PopPoint_X>
+<PopPoint_Y>18.38</PopPoint_Y>
+</Character>
+<Character id="cUid183">
+<CharacterUID>183</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>284.38</PopPoint_X>
+<PopPoint_Y>129.59</PopPoint_Y>
+</Character>
+<Character id="cUid184">
+<CharacterUID>184</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>303.31</PopPoint_X>
+<PopPoint_Y>134.44</PopPoint_Y>
+</Character>
+<Character id="cUid185">
+<CharacterUID>185</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>334.91</PopPoint_X>
+<PopPoint_Y>212.53</PopPoint_Y>
+</Character>
+<Character id="cUid186">
+<CharacterUID>186</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>487.88</PopPoint_X>
+<PopPoint_Y>62.63</PopPoint_Y>
+</Character>
+<Character id="cUid187">
+<CharacterUID>187</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>349.31</PopPoint_X>
+<PopPoint_Y>134.00</PopPoint_Y>
+</Character>
+<Character id="cUid188">
+<CharacterUID>188</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>340.72</PopPoint_X>
+<PopPoint_Y>141.47</PopPoint_Y>
+</Character>
+<Character id="cUid189">
+<CharacterUID>189</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>487.56</PopPoint_X>
+<PopPoint_Y>43.25</PopPoint_Y>
+</Character>
+<Character id="cUid190">
+<CharacterUID>190</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>396.44</PopPoint_X>
+<PopPoint_Y>106.53</PopPoint_Y>
+</Character>
+<Character id="cUid191">
+<CharacterUID>191</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>344.81</PopPoint_X>
+<PopPoint_Y>146.13</PopPoint_Y>
+</Character>
+<Character id="cUid192">
+<CharacterUID>192</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>338.59</PopPoint_X>
+<PopPoint_Y>156.28</PopPoint_Y>
+</Character>
+<Character id="cUid193">
+<CharacterUID>193</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>407.22</PopPoint_X>
+<PopPoint_Y>232.69</PopPoint_Y>
+</Character>
+<Character id="cUid194">
+<CharacterUID>194</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>78.41</PopPoint_X>
+<PopPoint_Y>82.53</PopPoint_Y>
+</Character>
+<Character id="cUid195">
+<CharacterUID>195</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>436.94</PopPoint_X>
+<PopPoint_Y>233.41</PopPoint_Y>
+</Character>
+<Character id="cUid196">
+<CharacterUID>196</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>425.63</PopPoint_X>
+<PopPoint_Y>231.25</PopPoint_Y>
+</Character>
+<Character id="cUid197">
+<CharacterUID>197</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>398.31</PopPoint_X>
+<PopPoint_Y>227.69</PopPoint_Y>
+</Character>
+<Character id="cUid198">
+<CharacterUID>198</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>415.84</PopPoint_X>
+<PopPoint_Y>236.22</PopPoint_Y>
+</Character>
+<Character id="cUid199">
+<CharacterUID>199</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>134.53</PopPoint_X>
+<PopPoint_Y>174.16</PopPoint_Y>
+</Character>
+<Character id="cUid200">
+<CharacterUID>200</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>167.09</PopPoint_X>
+<PopPoint_Y>98.50</PopPoint_Y>
+</Character>
+<Character id="cUid201">
+<CharacterUID>201</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>129.94</PopPoint_X>
+<PopPoint_Y>167.63</PopPoint_Y>
+</Character>
+<Character id="cUid202">
+<CharacterUID>202</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>148.38</PopPoint_X>
+<PopPoint_Y>96.66</PopPoint_Y>
+</Character>
+<Character id="cUid203">
+<CharacterUID>203</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>226.97</PopPoint_X>
+<PopPoint_Y>175.09</PopPoint_Y>
+</Character>
+<Character id="cUid204">
+<CharacterUID>204</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>164.13</PopPoint_X>
+<PopPoint_Y>136.56</PopPoint_Y>
+</Character>
+<Character id="cUid205">
+<CharacterUID>205</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>155.69</PopPoint_X>
+<PopPoint_Y>104.81</PopPoint_Y>
+</Character>
+<Character id="cUid206">
+<CharacterUID>206</CharacterUID>
+<CharacterName>深海イカ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>3600</PopSpeed>
+<PopPoint_X>350.63</PopPoint_X>
+<PopPoint_Y>44.69</PopPoint_Y>
+</Character>
+<Character id="cUid207">
+<CharacterUID>207</CharacterUID>
+<CharacterName>カーセル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>60</PopSpeed>
+<PopPoint_X>250.16</PopPoint_X>
+<PopPoint_Y>139.06</PopPoint_Y>
+</Character>
+<Character id="cUid208">
+<CharacterUID>208</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>336.88</PopPoint_X>
+<PopPoint_Y>86.50</PopPoint_Y>
+</Character>
+<Character id="cUid209">
+<CharacterUID>209</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>323.06</PopPoint_X>
+<PopPoint_Y>74.69</PopPoint_Y>
+</Character>
+<Character id="cUid210">
+<CharacterUID>210</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>332.22</PopPoint_X>
+<PopPoint_Y>80.34</PopPoint_Y>
+</Character>
+<Character id="cUid211">
+<CharacterUID>211</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>330.53</PopPoint_X>
+<PopPoint_Y>95.88</PopPoint_Y>
+</Character>
+<Character id="cUid213">
+<CharacterUID>213</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>122.16</PopPoint_X>
+<PopPoint_Y>75.03</PopPoint_Y>
+</Character>
+<Character id="cUid214">
+<CharacterUID>214</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>131.13</PopPoint_X>
+<PopPoint_Y>66.59</PopPoint_Y>
+</Character>
+<Character id="cUid215">
+<CharacterUID>215</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>140.38</PopPoint_X>
+<PopPoint_Y>69.81</PopPoint_Y>
+</Character>
+<Character id="cUid219">
+<CharacterUID>219</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>301.63</PopPoint_X>
+<PopPoint_Y>160.53</PopPoint_Y>
+</Character>
+<Character id="cUid220">
+<CharacterUID>220</CharacterUID>
+<CharacterName>アクアスライム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>312.03</PopPoint_X>
+<PopPoint_Y>164.72</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>한 / 도렘</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[259]M11.rmd</AccessMap>
+<AccessMapName>ハンヒ山脈 / ドレム川付近</AccessMapName>
+<AreaPos_X>4.16</AreaPos_X>
+<AreaPos_X2>7.03</AreaPos_X2>
+<AreaPos_Y>244.94</AreaPos_Y>
+<AreaPos_Y2>246.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>5.66</AreaPos_X>
+<AreaPos_X2>43.25</AreaPos_X2>
+<AreaPos_Y>6.50</AreaPos_Y>
+<AreaPos_Y2>41.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>71.25</AreaPos_X>
+<AreaPos_X2>96.66</AreaPos_X2>
+<AreaPos_Y>14.00</AreaPos_Y>
+<AreaPos_Y2>40.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>23.94</AreaPos_X>
+<AreaPos_X2>55.50</AreaPos_X2>
+<AreaPos_Y>46.41</AreaPos_Y>
+<AreaPos_Y2>76.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>6.63</AreaPos_X>
+<AreaPos_X2>60.00</AreaPos_X2>
+<AreaPos_Y>84.19</AreaPos_Y>
+<AreaPos_Y2>102.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>3.19</AreaPos_X>
+<AreaPos_X2>34.88</AreaPos_X2>
+<AreaPos_Y>122.00</AreaPos_Y>
+<AreaPos_Y2>143.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>26.97</AreaPos_X>
+<AreaPos_X2>54.69</AreaPos_X2>
+<AreaPos_Y>150.13</AreaPos_Y>
+<AreaPos_Y2>165.22</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>384.34</AreaPos_X>
+<AreaPos_X2>430.72</AreaPos_X2>
+<AreaPos_Y>14.50</AreaPos_Y>
+<AreaPos_Y2>43.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>23.84</AreaPos_X>
+<AreaPos_X2>45.19</AreaPos_X2>
+<AreaPos_Y>215.56</AreaPos_Y>
+<AreaPos_Y2>235.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>110.81</AreaPos_X>
+<AreaPos_X2>134.75</AreaPos_X2>
+<AreaPos_Y>217.34</AreaPos_Y>
+<AreaPos_Y2>236.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>175.19</AreaPos_X>
+<AreaPos_X2>198.44</AreaPos_X2>
+<AreaPos_Y>215.88</AreaPos_Y>
+<AreaPos_Y2>230.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>145.56</AreaPos_X>
+<AreaPos_X2>172.16</AreaPos_X2>
+<AreaPos_Y>131.44</AreaPos_Y>
+<AreaPos_Y2>148.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>211.44</AreaPos_X>
+<AreaPos_X2>235.41</AreaPos_X2>
+<AreaPos_Y>153.13</AreaPos_Y>
+<AreaPos_Y2>177.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>113.41</AreaPos_X>
+<AreaPos_X2>153.09</AreaPos_X2>
+<AreaPos_Y>58.66</AreaPos_Y>
+<AreaPos_Y2>81.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>131.78</AreaPos_X>
+<AreaPos_X2>174.31</AreaPos_X2>
+<AreaPos_Y>7.94</AreaPos_Y>
+<AreaPos_Y2>30.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>238.94</AreaPos_X>
+<AreaPos_X2>282.38</AreaPos_X2>
+<AreaPos_Y>13.31</AreaPos_Y>
+<AreaPos_Y2>35.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>267.59</AreaPos_X>
+<AreaPos_X2>300.72</AreaPos_X2>
+<AreaPos_Y>192.72</AreaPos_Y>
+<AreaPos_Y2>209.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>441.88</AreaPos_X>
+<AreaPos_X2>497.50</AreaPos_X2>
+<AreaPos_Y>9.00</AreaPos_Y>
+<AreaPos_Y2>31.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>1.72</AreaPos_X>
+<AreaPos_X2>3.91</AreaPos_X2>
+<AreaPos_Y>16.72</AreaPos_Y>
+<AreaPos_Y2>18.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>9.91</AreaPos_X>
+<AreaPos_X2>11.72</AreaPos_X2>
+<AreaPos_Y>62.63</AreaPos_Y>
+<AreaPos_Y2>63.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>13.66</AreaPos_X>
+<AreaPos_X2>15.78</AreaPos_X2>
+<AreaPos_Y>92.72</AreaPos_Y>
+<AreaPos_Y2>93.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>5.69</AreaPos_X>
+<AreaPos_X2>7.41</AreaPos_X2>
+<AreaPos_Y>156.81</AreaPos_Y>
+<AreaPos_Y2>157.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>89.97</AreaPos_X>
+<AreaPos_X2>91.78</AreaPos_X2>
+<AreaPos_Y>216.75</AreaPos_Y>
+<AreaPos_Y2>217.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>보물상자05</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>84.50</AreaPos_X>
+<AreaPos_X2>86.06</AreaPos_X2>
+<AreaPos_Y>114.81</AreaPos_Y>
+<AreaPos_Y2>115.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>보물상자06</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>91.88</AreaPos_X>
+<AreaPos_X2>93.75</AreaPos_X2>
+<AreaPos_Y>22.97</AreaPos_Y>
+<AreaPos_Y2>23.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>보물상자07</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>133.72</AreaPos_X>
+<AreaPos_X2>135.75</AreaPos_X2>
+<AreaPos_Y>19.91</AreaPos_Y>
+<AreaPos_Y2>21.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>보물상자08</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>284.06</AreaPos_X>
+<AreaPos_X2>286.09</AreaPos_X2>
+<AreaPos_Y>16.41</AreaPos_Y>
+<AreaPos_Y2>17.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>보물상자09</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>439.50</AreaPos_X>
+<AreaPos_X2>442.16</AreaPos_X2>
+<AreaPos_Y>9.84</AreaPos_Y>
+<AreaPos_Y2>11.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>보물상자10</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>493.72</AreaPos_X>
+<AreaPos_X2>495.75</AreaPos_X2>
+<AreaPos_Y>60.94</AreaPos_Y>
+<AreaPos_Y2>62.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>보물상자11</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>399.81</AreaPos_X>
+<AreaPos_X2>401.53</AreaPos_X2>
+<AreaPos_Y>76.56</AreaPos_Y>
+<AreaPos_Y2>77.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>보물상자12</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>475.75</AreaPos_X>
+<AreaPos_X2>477.94</AreaPos_X2>
+<AreaPos_Y>156.56</AreaPos_Y>
+<AreaPos_Y2>157.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>보물상자13</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>309.97</AreaPos_X>
+<AreaPos_X2>312.00</AreaPos_X2>
+<AreaPos_Y>97.81</AreaPos_Y>
+<AreaPos_Y2>99.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>보물상자14</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>493.88</AreaPos_X>
+<AreaPos_X2>495.75</AreaPos_X2>
+<AreaPos_Y>240.31</AreaPos_Y>
+<AreaPos_Y2>241.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>보물상자15</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>357.63</AreaPos_X>
+<AreaPos_X2>360.28</AreaPos_X2>
+<AreaPos_Y>223.59</AreaPos_Y>
+<AreaPos_Y2>225.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>보물상자16</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>297.16</AreaPos_X>
+<AreaPos_X2>299.81</AreaPos_X2>
+<AreaPos_Y>243.44</AreaPos_Y>
+<AreaPos_Y2>244.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>보물상자17</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>202.00</AreaPos_X>
+<AreaPos_X2>203.72</AreaPos_X2>
+<AreaPos_Y>243.44</AreaPos_Y>
+<AreaPos_Y2>245.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid38">
+<AreaUID>38</AreaUID>
+<AreaName>보물상자18</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>247.50</AreaPos_X>
+<AreaPos_X2>250.00</AreaPos_X2>
+<AreaPos_Y>178.75</AreaPos_Y>
+<AreaPos_Y2>180.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid39">
+<AreaUID>39</AreaUID>
+<AreaName>보물상자19</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>345.78</AreaPos_X>
+<AreaPos_X2>347.97</AreaPos_X2>
+<AreaPos_Y>162.81</AreaPos_Y>
+<AreaPos_Y2>164.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid40">
+<AreaUID>40</AreaUID>
+<AreaName>보물상자20</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>117.66</AreaPos_X>
+<AreaPos_X2>120.31</AreaPos_X2>
+<AreaPos_Y>69.84</AreaPos_Y>
+<AreaPos_Y2>70.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid41">
+<AreaUID>41</AreaUID>
+<AreaName>보물상자21</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>217.81</AreaPos_X>
+<AreaPos_X2>220.03</AreaPos_X2>
+<AreaPos_Y>126.00</AreaPos_Y>
+<AreaPos_Y2>127.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid42">
+<AreaUID>42</AreaUID>
+<AreaName>Area 41</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>73.94</AreaPos_X>
+<AreaPos_X2>92.50</AreaPos_X2>
+<AreaPos_Y>220.63</AreaPos_Y>
+<AreaPos_Y2>237.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid43">
+<AreaUID>43</AreaUID>
+<AreaName>Area 42</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>74.41</AreaPos_X>
+<AreaPos_X2>110.19</AreaPos_X2>
+<AreaPos_Y>71.09</AreaPos_Y>
+<AreaPos_Y2>89.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid44">
+<AreaUID>44</AreaUID>
+<AreaName>Area 43</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>103.25</AreaPos_X>
+<AreaPos_X2>138.66</AreaPos_X2>
+<AreaPos_Y>161.03</AreaPos_Y>
+<AreaPos_Y2>179.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid45">
+<AreaUID>45</AreaUID>
+<AreaName>Area 44</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>102.78</AreaPos_X>
+<AreaPos_X2>129.19</AreaPos_X2>
+<AreaPos_Y>109.81</AreaPos_Y>
+<AreaPos_Y2>127.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid46">
+<AreaUID>46</AreaUID>
+<AreaName>Area 45</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>226.94</AreaPos_X>
+<AreaPos_X2>252.16</AreaPos_X2>
+<AreaPos_Y>219.78</AreaPos_Y>
+<AreaPos_Y2>243.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid47">
+<AreaUID>47</AreaUID>
+<AreaName>Area 46</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>272.31</AreaPos_X>
+<AreaPos_X2>310.88</AreaPos_X2>
+<AreaPos_Y>127.06</AreaPos_Y>
+<AreaPos_Y2>144.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid48">
+<AreaUID>48</AreaUID>
+<AreaName>Area 47</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>348.06</AreaPos_X>
+<AreaPos_X2>445.00</AreaPos_X2>
+<AreaPos_Y>220.50</AreaPos_Y>
+<AreaPos_Y2>238.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid49">
+<AreaUID>49</AreaUID>
+<AreaName>Area 48</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>447.16</AreaPos_X>
+<AreaPos_X2>467.31</AreaPos_X2>
+<AreaPos_Y>179.28</AreaPos_Y>
+<AreaPos_Y2>209.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid50">
+<AreaUID>50</AreaUID>
+<AreaName>Area 49</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>102.22</AreaPos_X>
+<AreaPos_X2>124.19</AreaPos_X2>
+<AreaPos_Y>11.28</AreaPos_Y>
+<AreaPos_Y2>31.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid51">
+<AreaUID>51</AreaUID>
+<AreaName>Area 19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>470.13</AreaPos_X>
+<AreaPos_X2>495.38</AreaPos_X2>
+<AreaPos_Y>33.75</AreaPos_Y>
+<AreaPos_Y2>74.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid52">
+<AreaUID>52</AreaUID>
+<AreaName>Area 20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>465.38</AreaPos_X>
+<AreaPos_X2>498.38</AreaPos_X2>
+<AreaPos_Y>83.00</AreaPos_Y>
+<AreaPos_Y2>112.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid53">
+<AreaUID>53</AreaUID>
+<AreaName>Area 21</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>385.88</AreaPos_X>
+<AreaPos_X2>431.63</AreaPos_X2>
+<AreaPos_Y>126.25</AreaPos_Y>
+<AreaPos_Y2>142.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid54">
+<AreaUID>54</AreaUID>
+<AreaName>Area 22</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>314.38</AreaPos_X>
+<AreaPos_X2>342.50</AreaPos_X2>
+<AreaPos_Y>66.13</AreaPos_Y>
+<AreaPos_Y2>99.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid55">
+<AreaUID>55</AreaUID>
+<AreaName>Area 23</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>315.00</AreaPos_X>
+<AreaPos_X2>342.63</AreaPos_X2>
+<AreaPos_Y>3.75</AreaPos_Y>
+<AreaPos_Y2>31.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid56">
+<AreaUID>56</AreaUID>
+<AreaName>Area 55</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>292.25</AreaPos_X>
+<AreaPos_X2>340.38</AreaPos_X2>
+<AreaPos_Y>222.00</AreaPos_Y>
+<AreaPos_Y2>239.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid57">
+<AreaUID>57</AreaUID>
+<AreaName>Area 56</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>286.38</AreaPos_X>
+<AreaPos_X2>314.06</AreaPos_X2>
+<AreaPos_Y>155.69</AreaPos_Y>
+<AreaPos_Y2>182.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid58">
+<AreaUID>58</AreaUID>
+<AreaName>Area 57</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>347.00</AreaPos_X>
+<AreaPos_X2>375.75</AreaPos_X2>
+<AreaPos_Y>75.25</AreaPos_Y>
+<AreaPos_Y2>111.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid59">
+<AreaUID>59</AreaUID>
+<AreaName>Area 58</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>420.75</AreaPos_X>
+<AreaPos_X2>466.75</AreaPos_X2>
+<AreaPos_Y>68.25</AreaPos_Y>
+<AreaPos_Y2>87.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid60">
+<AreaUID>60</AreaUID>
+<AreaName>Area 59</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>383.50</AreaPos_X>
+<AreaPos_X2>414.75</AreaPos_X2>
+<AreaPos_Y>88.13</AreaPos_Y>
+<AreaPos_Y2>117.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid61">
+<AreaUID>61</AreaUID>
+<AreaName>Area 60</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>350.38</AreaPos_X>
+<AreaPos_X2>378.50</AreaPos_X2>
+<AreaPos_Y>7.25</AreaPos_Y>
+<AreaPos_Y2>31.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid62">
+<AreaUID>62</AreaUID>
+<AreaName>Area 61</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>458.25</AreaPos_X>
+<AreaPos_X2>491.88</AreaPos_X2>
+<AreaPos_Y>154.75</AreaPos_Y>
+<AreaPos_Y2>174.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid63">
+<AreaUID>63</AreaUID>
+<AreaName>Area 62</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>346.59</AreaPos_X>
+<AreaPos_X2>381.00</AreaPos_X2>
+<AreaPos_Y>37.38</AreaPos_Y>
+<AreaPos_Y2>56.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid64">
+<AreaUID>64</AreaUID>
+<AreaName>Area 63</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>310.25</AreaPos_X>
+<AreaPos_X2>332.63</AreaPos_X2>
+<AreaPos_Y>33.25</AreaPos_Y>
+<AreaPos_Y2>58.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid65">
+<AreaUID>65</AreaUID>
+<AreaName>Area 64</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>200.13</AreaPos_X>
+<AreaPos_X2>233.75</AreaPos_X2>
+<AreaPos_Y>188.63</AreaPos_Y>
+<AreaPos_Y2>209.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid66">
+<AreaUID>66</AreaUID>
+<AreaName>Area 65</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>251.00</AreaPos_X>
+<AreaPos_X2>283.63</AreaPos_X2>
+<AreaPos_Y>156.38</AreaPos_Y>
+<AreaPos_Y2>175.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid67">
+<AreaUID>67</AreaUID>
+<AreaName>Area 66</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>323.13</AreaPos_X>
+<AreaPos_X2>349.38</AreaPos_X2>
+<AreaPos_Y>197.50</AreaPos_Y>
+<AreaPos_Y2>214.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid68">
+<AreaUID>68</AreaUID>
+<AreaName>Area 67</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>334.50</AreaPos_X>
+<AreaPos_X2>353.94</AreaPos_X2>
+<AreaPos_Y>126.25</AreaPos_Y>
+<AreaPos_Y2>165.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid69">
+<AreaUID>69</AreaUID>
+<AreaName>Area 68</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>141.50</AreaPos_X>
+<AreaPos_X2>174.38</AreaPos_X2>
+<AreaPos_Y>89.88</AreaPos_Y>
+<AreaPos_Y2>107.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid70">
+<AreaUID>70</AreaUID>
+<AreaName>심해 오징어</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>316.25</AreaPos_X>
+<AreaPos_X2>377.78</AreaPos_X2>
+<AreaPos_Y>11.09</AreaPos_Y>
+<AreaPos_Y2>53.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

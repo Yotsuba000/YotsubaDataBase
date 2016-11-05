@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[wolf_cave]001.rmd</FileName>
+<FileType>Red Stone Scenario File 5.3 beta</FileType>
+<MapName>狼巣窟の隠された通路 B2</MapName>
+<SysWidth>100</SysWidth>
+<SysHeight>100</SysHeight>
+<TgaWidth>400</TgaWidth>
+<TgaHeight>200</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>2</MapView_Lv>
+<isLocationStrage>0</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>隊長デカラビア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>149.38</PopPoint_X>
+<PopPoint_Y>109.00</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>アロケン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>181.25</PopPoint_X>
+<PopPoint_Y>173.00</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>196.00</PopPoint_X>
+<PopPoint_Y>162.50</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>171.50</PopPoint_X>
+<PopPoint_Y>184.75</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>199.75</PopPoint_X>
+<PopPoint_Y>183.25</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>168.00</PopPoint_X>
+<PopPoint_Y>162.25</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>203.25</PopPoint_X>
+<PopPoint_Y>172.75</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>168.25</PopPoint_X>
+<PopPoint_Y>176.75</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>349.25</PopPoint_X>
+<PopPoint_Y>42.25</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>347.00</PopPoint_X>
+<PopPoint_Y>49.50</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>332.75</PopPoint_X>
+<PopPoint_Y>43.50</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>301.00</PopPoint_X>
+<PopPoint_Y>46.00</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>302.25</PopPoint_X>
+<PopPoint_Y>57.00</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>299.00</PopPoint_X>
+<PopPoint_Y>37.50</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>387.00</PopPoint_X>
+<PopPoint_Y>90.50</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>385.25</PopPoint_X>
+<PopPoint_Y>85.25</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>392.25</PopPoint_X>
+<PopPoint_Y>110.00</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>333.25</PopPoint_X>
+<PopPoint_Y>168.25</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>307.50</PopPoint_X>
+<PopPoint_Y>183.25</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>329.00</PopPoint_X>
+<PopPoint_Y>162.00</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>346.75</PopPoint_X>
+<PopPoint_Y>166.75</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>311.25</PopPoint_X>
+<PopPoint_Y>176.25</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>324.75</PopPoint_X>
+<PopPoint_Y>187.00</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>282.25</PopPoint_X>
+<PopPoint_Y>128.75</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>342.50</PopPoint_X>
+<PopPoint_Y>103.50</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>265.25</PopPoint_X>
+<PopPoint_Y>21.00</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>222.75</PopPoint_X>
+<PopPoint_Y>65.50</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>226.00</PopPoint_X>
+<PopPoint_Y>130.25</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>300.50</PopPoint_X>
+<PopPoint_Y>121.25</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>293.75</PopPoint_X>
+<PopPoint_Y>137.25</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>336.75</PopPoint_X>
+<PopPoint_Y>112.50</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>340.25</PopPoint_X>
+<PopPoint_Y>97.00</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>260.25</PopPoint_X>
+<PopPoint_Y>29.50</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>271.50</PopPoint_X>
+<PopPoint_Y>13.75</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>226.00</PopPoint_X>
+<PopPoint_Y>72.50</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>222.25</PopPoint_X>
+<PopPoint_Y>53.75</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>225.50</PopPoint_X>
+<PopPoint_Y>117.00</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>210.00</PopPoint_X>
+<PopPoint_Y>130.00</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>172.63</PopPoint_X>
+<PopPoint_Y>91.75</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>137.75</PopPoint_X>
+<PopPoint_Y>128.50</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>71.25</PopPoint_X>
+<PopPoint_Y>147.50</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>40.25</PopPoint_X>
+<PopPoint_Y>123.25</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>167.00</PopPoint_X>
+<PopPoint_Y>82.50</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>150.75</PopPoint_X>
+<PopPoint_Y>86.00</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>152.75</PopPoint_X>
+<PopPoint_Y>120.75</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>147.25</PopPoint_X>
+<PopPoint_Y>133.75</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>72.50</PopPoint_X>
+<PopPoint_Y>151.75</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>73.75</PopPoint_X>
+<PopPoint_Y>141.50</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>44.00</PopPoint_X>
+<PopPoint_Y>128.25</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>53.25</PopPoint_X>
+<PopPoint_Y>119.50</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>121.00</PopPoint_X>
+<PopPoint_Y>103.75</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>115.00</PopPoint_X>
+<PopPoint_Y>96.25</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>111.75</PopPoint_X>
+<PopPoint_Y>113.50</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>159.25</PopPoint_X>
+<PopPoint_Y>114.50</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>シジョンマ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>140.50</PopPoint_X>
+<PopPoint_Y>103.50</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>盗掘者カレノ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>18.56</PopPoint_X>
+<PopPoint_Y>86.81</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>Area 1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>329.69</AreaPos_X>
+<AreaPos_X2>363.88</AreaPos_X2>
+<AreaPos_Y>31.25</AreaPos_Y>
+<AreaPos_Y2>55.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>291.75</AreaPos_X>
+<AreaPos_X2>313.00</AreaPos_X2>
+<AreaPos_Y>33.13</AreaPos_Y>
+<AreaPos_Y2>70.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>376.38</AreaPos_X>
+<AreaPos_X2>398.25</AreaPos_X2>
+<AreaPos_Y>74.56</AreaPos_Y>
+<AreaPos_Y2>125.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>300.13</AreaPos_X>
+<AreaPos_X2>351.75</AreaPos_X2>
+<AreaPos_Y>159.25</AreaPos_Y>
+<AreaPos_Y2>191.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>270.94</AreaPos_X>
+<AreaPos_X2>308.00</AreaPos_X2>
+<AreaPos_Y>117.19</AreaPos_Y>
+<AreaPos_Y2>142.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>321.75</AreaPos_X>
+<AreaPos_X2>357.81</AreaPos_X2>
+<AreaPos_Y>90.13</AreaPos_Y>
+<AreaPos_Y2>117.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>247.75</AreaPos_X>
+<AreaPos_X2>279.38</AreaPos_X2>
+<AreaPos_Y>11.25</AreaPos_Y>
+<AreaPos_Y2>34.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>211.44</AreaPos_X>
+<AreaPos_X2>235.63</AreaPos_X2>
+<AreaPos_Y>47.44</AreaPos_Y>
+<AreaPos_Y2>85.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>206.25</AreaPos_X>
+<AreaPos_X2>235.81</AreaPos_X2>
+<AreaPos_Y>110.94</AreaPos_Y>
+<AreaPos_Y2>142.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>159.63</AreaPos_X>
+<AreaPos_X2>214.31</AreaPos_X2>
+<AreaPos_Y>156.88</AreaPos_Y>
+<AreaPos_Y2>194.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>151.75</AreaPos_X>
+<AreaPos_X2>204.00</AreaPos_X2>
+<AreaPos_Y>77.75</AreaPos_Y>
+<AreaPos_Y2>97.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>129.75</AreaPos_X>
+<AreaPos_X2>175.19</AreaPos_X2>
+<AreaPos_Y>125.00</AreaPos_Y>
+<AreaPos_Y2>142.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>25.94</AreaPos_X>
+<AreaPos_X2>68.44</AreaPos_X2>
+<AreaPos_Y>112.50</AreaPos_Y>
+<AreaPos_Y2>135.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>55.13</AreaPos_X>
+<AreaPos_X2>88.13</AreaPos_X2>
+<AreaPos_Y>139.38</AreaPos_Y>
+<AreaPos_Y2>159.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>132.50</AreaPos_X>
+<AreaPos_X2>171.75</AreaPos_X2>
+<AreaPos_Y>99.75</AreaPos_Y>
+<AreaPos_Y2>120.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>105.00</AreaPos_X>
+<AreaPos_X2>126.75</AreaPos_X2>
+<AreaPos_Y>85.00</AreaPos_Y>
+<AreaPos_Y2>131.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>332.00</AreaPos_X>
+<AreaPos_X2>336.13</AreaPos_X2>
+<AreaPos_Y>133.94</AreaPos_Y>
+<AreaPos_Y2>136.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>315.75</AreaPos_X>
+<AreaPos_X2>319.94</AreaPos_X2>
+<AreaPos_Y>133.75</AreaPos_Y>
+<AreaPos_Y2>135.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>311.31</AreaPos_X>
+<AreaPos_X2>315.81</AreaPos_X2>
+<AreaPos_Y>133.44</AreaPos_Y>
+<AreaPos_Y2>135.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>311.81</AreaPos_X>
+<AreaPos_X2>316.13</AreaPos_X2>
+<AreaPos_Y>153.19</AreaPos_Y>
+<AreaPos_Y2>155.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>312.13</AreaPos_X>
+<AreaPos_X2>316.06</AreaPos_X2>
+<AreaPos_Y>141.88</AreaPos_Y>
+<AreaPos_Y2>144.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>보물상자05</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>324.94</AreaPos_X>
+<AreaPos_X2>328.63</AreaPos_X2>
+<AreaPos_Y>138.63</AreaPos_Y>
+<AreaPos_Y2>140.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>보물상자06</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>319.88</AreaPos_X>
+<AreaPos_X2>323.75</AreaPos_X2>
+<AreaPos_Y>145.44</AreaPos_Y>
+<AreaPos_Y2>147.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>문01</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>327.13</AreaPos_X>
+<AreaPos_X2>336.81</AreaPos_X2>
+<AreaPos_Y>142.75</AreaPos_Y>
+<AreaPos_Y2>152.06</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>6</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>10</DisarmTrap_Lv>
+<DetectTrap_Lv>2</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>알로켄 문</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>163.13</AreaPos_X>
+<AreaPos_X2>172.56</AreaPos_X2>
+<AreaPos_Y>147.38</AreaPos_Y>
+<AreaPos_Y2>156.44</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>0</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>6</DisarmTrap_Lv>
+<DetectTrap_Lv>4</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>문00</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>127.13</AreaPos_X>
+<AreaPos_X2>137.06</AreaPos_X2>
+<AreaPos_Y>42.75</AreaPos_Y>
+<AreaPos_Y2>51.69</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>12</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>8</DisarmTrap_Lv>
+<DetectTrap_Lv>2</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>문02</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>14.81</AreaPos_X>
+<AreaPos_X2>25.81</AreaPos_X2>
+<AreaPos_Y>68.44</AreaPos_Y>
+<AreaPos_Y2>77.94</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>6</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>0</isMortalObject>
+<DisarmTrap_Lv>8</DisarmTrap_Lv>
+<DetectTrap_Lv>2</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>보물상자07</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>35.81</AreaPos_X>
+<AreaPos_X2>39.81</AreaPos_X2>
+<AreaPos_Y>69.88</AreaPos_Y>
+<AreaPos_Y2>72.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>보물상자08</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>40.13</AreaPos_X>
+<AreaPos_X2>44.06</AreaPos_X2>
+<AreaPos_Y>69.88</AreaPos_Y>
+<AreaPos_Y2>72.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>보물상자09</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>39.94</AreaPos_X>
+<AreaPos_X2>43.94</AreaPos_X2>
+<AreaPos_Y>73.56</AreaPos_Y>
+<AreaPos_Y2>75.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>보물상자10</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>32.00</AreaPos_X>
+<AreaPos_X2>35.88</AreaPos_X2>
+<AreaPos_Y>83.50</AreaPos_Y>
+<AreaPos_Y2>85.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>보물상자11</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.25</AreaPos_X>
+<AreaPos_X2>20.00</AreaPos_X2>
+<AreaPos_Y>90.00</AreaPos_Y>
+<AreaPos_Y2>91.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>보물상자12</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>11.94</AreaPos_X>
+<AreaPos_X2>15.75</AreaPos_X2>
+<AreaPos_Y>82.00</AreaPos_Y>
+<AreaPos_Y2>83.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>보물상자13</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>23.56</AreaPos_X>
+<AreaPos_X2>27.63</AreaPos_X2>
+<AreaPos_Y>81.56</AreaPos_Y>
+<AreaPos_Y2>83.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>보물상자14</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>32.19</AreaPos_X>
+<AreaPos_X2>35.81</AreaPos_X2>
+<AreaPos_Y>75.63</AreaPos_Y>
+<AreaPos_Y2>77.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>보물상자15</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>28.06</AreaPos_X>
+<AreaPos_X2>31.69</AreaPos_X2>
+<AreaPos_Y>71.81</AreaPos_Y>
+<AreaPos_Y2>73.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid38">
+<AreaUID>38</AreaUID>
+<AreaName>보물상자16</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>203.63</AreaPos_X>
+<AreaPos_X2>208.06</AreaPos_X2>
+<AreaPos_Y>153.81</AreaPos_Y>
+<AreaPos_Y2>156.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid39">
+<AreaUID>39</AreaUID>
+<AreaName>보물상자17</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>47.69</AreaPos_X>
+<AreaPos_X2>52.06</AreaPos_X2>
+<AreaPos_Y>111.88</AreaPos_Y>
+<AreaPos_Y2>113.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid40">
+<AreaUID>40</AreaUID>
+<AreaName>보물상자18</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>95.75</AreaPos_X>
+<AreaPos_X2>99.88</AreaPos_X2>
+<AreaPos_Y>150.13</AreaPos_Y>
+<AreaPos_Y2>152.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid41">
+<AreaUID>41</AreaUID>
+<AreaName>보물상자19</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>164.06</AreaPos_X>
+<AreaPos_X2>167.75</AreaPos_X2>
+<AreaPos_Y>6.06</AreaPos_Y>
+<AreaPos_Y2>8.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid42">
+<AreaUID>42</AreaUID>
+<AreaName>보물상자20</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>199.81</AreaPos_X>
+<AreaPos_X2>203.75</AreaPos_X2>
+<AreaPos_Y>12.19</AreaPos_Y>
+<AreaPos_Y2>14.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid43">
+<AreaUID>43</AreaUID>
+<AreaName>보물상자21</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>208.06</AreaPos_X>
+<AreaPos_X2>212.00</AreaPos_X2>
+<AreaPos_Y>26.06</AreaPos_Y>
+<AreaPos_Y2>28.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid44">
+<AreaUID>44</AreaUID>
+<AreaName>보물상자22</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>200.13</AreaPos_X>
+<AreaPos_X2>204.00</AreaPos_X2>
+<AreaPos_Y>47.44</AreaPos_Y>
+<AreaPos_Y2>50.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid45">
+<AreaUID>45</AreaUID>
+<AreaName>보물상자23</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>152.38</AreaPos_X>
+<AreaPos_X2>155.63</AreaPos_X2>
+<AreaPos_Y>19.81</AreaPos_Y>
+<AreaPos_Y2>22.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid46">
+<AreaUID>46</AreaUID>
+<AreaName>보물상자24</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>165.88</AreaPos_X>
+<AreaPos_X2>169.69</AreaPos_X2>
+<AreaPos_Y>27.19</AreaPos_Y>
+<AreaPos_Y2>29.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid47">
+<AreaUID>47</AreaUID>
+<AreaName>보물상자25</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>152.50</AreaPos_X>
+<AreaPos_X2>156.38</AreaPos_X2>
+<AreaPos_Y>110.13</AreaPos_Y>
+<AreaPos_Y2>112.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid48">
+<AreaUID>48</AreaUID>
+<AreaName>보물상자26</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>184.19</AreaPos_X>
+<AreaPos_X2>187.63</AreaPos_X2>
+<AreaPos_Y>18.88</AreaPos_Y>
+<AreaPos_Y2>20.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid49">
+<AreaUID>49</AreaUID>
+<AreaName>보물상자27</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>172.13</AreaPos_X>
+<AreaPos_X2>175.50</AreaPos_X2>
+<AreaPos_Y>14.25</AreaPos_Y>
+<AreaPos_Y2>16.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid50">
+<AreaUID>50</AreaUID>
+<AreaName>워프1TO2</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]001.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B2</AccessMapName>
+<AreaPos_X>4.81</AreaPos_X>
+<AreaPos_X2>11.00</AreaPos_X2>
+<AreaPos_Y>40.81</AreaPos_Y>
+<AreaPos_Y2>45.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid51">
+<AreaUID>51</AreaUID>
+<AreaName>워프2TO1</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]001.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B2</AccessMapName>
+<AreaPos_X>4.31</AreaPos_X>
+<AreaPos_X2>10.00</AreaPos_X2>
+<AreaPos_Y>64.44</AreaPos_Y>
+<AreaPos_Y2>68.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid52">
+<AreaUID>52</AreaUID>
+<AreaName>지하1층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]000.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B1</AccessMapName>
+<AreaPos_X>387.69</AreaPos_X>
+<AreaPos_X2>395.38</AreaPos_X2>
+<AreaPos_Y>17.63</AreaPos_Y>
+<AreaPos_Y2>22.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid53">
+<AreaUID>53</AreaUID>
+<AreaName>워프3TO4</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]001.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B2</AccessMapName>
+<AreaPos_X>389.69</AreaPos_X>
+<AreaPos_X2>395.13</AreaPos_X2>
+<AreaPos_Y>55.25</AreaPos_Y>
+<AreaPos_Y2>59.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid54">
+<AreaUID>54</AreaUID>
+<AreaName>워프4TO3</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]001.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B2</AccessMapName>
+<AreaPos_X>339.75</AreaPos_X>
+<AreaPos_X2>345.31</AreaPos_X2>
+<AreaPos_Y>2.75</AreaPos_Y>
+<AreaPos_Y2>6.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid55">
+<AreaUID>55</AreaUID>
+<AreaName>워프5TO6</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]001.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B2</AccessMapName>
+<AreaPos_X>309.94</AreaPos_X>
+<AreaPos_X2>315.56</AreaPos_X2>
+<AreaPos_Y>190.69</AreaPos_Y>
+<AreaPos_Y2>194.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid56">
+<AreaUID>56</AreaUID>
+<AreaName>워프6TO5</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]001.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B2</AccessMapName>
+<AreaPos_X>276.56</AreaPos_X>
+<AreaPos_X2>282.63</AreaPos_X2>
+<AreaPos_Y>191.31</AreaPos_Y>
+<AreaPos_Y2>194.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid57">
+<AreaUID>57</AreaUID>
+<AreaName>워프7TO8</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]001.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B2</AccessMapName>
+<AreaPos_X>274.44</AreaPos_X>
+<AreaPos_X2>280.00</AreaPos_X2>
+<AreaPos_Y>2.31</AreaPos_Y>
+<AreaPos_Y2>5.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid58">
+<AreaUID>58</AreaUID>
+<AreaName>워프8TO7</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]001.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B2</AccessMapName>
+<AreaPos_X>224.00</AreaPos_X>
+<AreaPos_X2>229.38</AreaPos_X2>
+<AreaPos_Y>2.44</AreaPos_Y>
+<AreaPos_Y2>5.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid59">
+<AreaUID>59</AreaUID>
+<AreaName>워프9TO10</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]001.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B2</AccessMapName>
+<AreaPos_X>233.56</AreaPos_X>
+<AreaPos_X2>239.88</AreaPos_X2>
+<AreaPos_Y>191.56</AreaPos_Y>
+<AreaPos_Y2>195.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid60">
+<AreaUID>60</AreaUID>
+<AreaName>워프10TO9</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[wolf_cave]001.rmd</AccessMap>
+<AccessMapName>狼巣窟の隠された通路 B2</AccessMapName>
+<AreaPos_X>136.25</AreaPos_X>
+<AreaPos_X2>142.50</AreaPos_X2>
+<AreaPos_Y>190.25</AreaPos_Y>
+<AreaPos_Y2>194.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid61">
+<AreaUID>61</AreaUID>
+<AreaName>함정00</AreaName>
+<AreaType>11</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>275.38</AreaPos_X>
+<AreaPos_X2>296.13</AreaPos_X2>
+<AreaPos_Y>151.31</AreaPos_Y>
+<AreaPos_Y2>162.56</AreaPos_Y2>
+<AreaExpansion>
+<RecoveryTime>30</RecoveryTime>
+<DetectTrap_Lv>4</DetectTrap_Lv>
+<DisarmTrap_Lv>10</DisarmTrap_Lv>
+<TrapID1>6</TrapID1>
+<TrapID2>65535</TrapID2>
+</AreaExpansion>
+</Area>
+<Area id="aUid62">
+<AreaUID>62</AreaUID>
+<AreaName>함정01</AreaName>
+<AreaType>11</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>211.50</AreaPos_X>
+<AreaPos_X2>236.19</AreaPos_X2>
+<AreaPos_Y>64.31</AreaPos_Y>
+<AreaPos_Y2>75.69</AreaPos_Y2>
+<AreaExpansion>
+<RecoveryTime>30</RecoveryTime>
+<DetectTrap_Lv>4</DetectTrap_Lv>
+<DisarmTrap_Lv>10</DisarmTrap_Lv>
+<TrapID1>12</TrapID1>
+<TrapID2>26</TrapID2>
+</AreaExpansion>
+</Area>
+<Area id="aUid63">
+<AreaUID>63</AreaUID>
+<AreaName>함정02</AreaName>
+<AreaType>11</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>14.13</AreaPos_X>
+<AreaPos_X2>27.75</AreaPos_X2>
+<AreaPos_Y>43.75</AreaPos_Y>
+<AreaPos_Y2>52.31</AreaPos_Y2>
+<AreaExpansion>
+<RecoveryTime>30</RecoveryTime>
+<DetectTrap_Lv>10</DetectTrap_Lv>
+<DisarmTrap_Lv>4</DisarmTrap_Lv>
+<TrapID1>18</TrapID1>
+<TrapID2>65535</TrapID2>
+</AreaExpansion>
+</Area>
+<Area id="aUid64">
+<AreaUID>64</AreaUID>
+<AreaName>隠された十字架CASE1</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>22.38</AreaPos_X>
+<AreaPos_X2>31.81</AreaPos_X2>
+<AreaPos_Y>121.94</AreaPos_Y>
+<AreaPos_Y2>128.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid65">
+<AreaUID>65</AreaUID>
+<AreaName>隠された十字架CASE2</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>100.38</AreaPos_X>
+<AreaPos_X2>109.63</AreaPos_X2>
+<AreaPos_Y>26.19</AreaPos_Y>
+<AreaPos_Y2>32.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid66">
+<AreaUID>66</AreaUID>
+<AreaName>隠された十字架CASE3</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>217.94</AreaPos_X>
+<AreaPos_X2>226.38</AreaPos_X2>
+<AreaPos_Y>152.63</AreaPos_Y>
+<AreaPos_Y2>158.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid67">
+<AreaUID>67</AreaUID>
+<AreaName>隠された十字架CASE4</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>336.56</AreaPos_X>
+<AreaPos_X2>345.00</AreaPos_X2>
+<AreaPos_Y>63.44</AreaPos_Y>
+<AreaPos_Y2>70.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid68">
+<AreaUID>68</AreaUID>
+<AreaName>隠された十字架CASE5</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>157.25</AreaPos_X>
+<AreaPos_X2>165.19</AreaPos_X2>
+<AreaPos_Y>48.75</AreaPos_Y>
+<AreaPos_Y2>54.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid69">
+<AreaUID>69</AreaUID>
+<AreaName>隠された十字架CASE6</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>267.88</AreaPos_X>
+<AreaPos_X2>280.75</AreaPos_X2>
+<AreaPos_Y>60.44</AreaPos_Y>
+<AreaPos_Y2>71.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid70">
+<AreaUID>70</AreaUID>
+<AreaName>食虫植物</AreaName>
+<AreaType>12</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>137.00</AreaPos_X>
+<AreaPos_X2>147.63</AreaPos_X2>
+<AreaPos_Y>27.13</AreaPos_Y>
+<AreaPos_Y2>34.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid71">
+<AreaUID>71</AreaUID>
+<AreaName>엔피씨 도망</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.44</AreaPos_X>
+<AreaPos_X2>25.31</AreaPos_X2>
+<AreaPos_Y>3.69</AreaPos_Y>
+<AreaPos_Y2>7.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid72">
+<AreaUID>72</AreaUID>
+<AreaName>장로 무적 해재용 구역</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>92.56</AreaPos_X>
+<AreaPos_X2>219.81</AreaPos_X2>
+<AreaPos_Y>51.38</AreaPos_Y>
+<AreaPos_Y2>161.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

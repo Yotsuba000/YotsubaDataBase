@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[109]T04_H02_B02.rmd</FileName>
+<FileType>Red Stone Scenario File 5.3 beta</FileType>
+<MapName>シーフギルドの倉庫[Ｂ]　Ｂ２</MapName>
+<SysWidth>100</SysWidth>
+<SysHeight>100</SysHeight>
+<TgaWidth>200</TgaWidth>
+<TgaHeight>100</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ベグノム</CharacterName>
+<CharacterType>3</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>105.72</PopPoint_X>
+<PopPoint_Y>78.50</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>27.38</PopPoint_X>
+<PopPoint_Y>20.56</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>女王蜘蛛</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>3000</PopSpeed>
+<PopPoint_X>35.03</PopPoint_X>
+<PopPoint_Y>15.06</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>63.19</PopPoint_X>
+<PopPoint_Y>10.13</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>18.75</PopPoint_X>
+<PopPoint_Y>14.63</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>18.44</PopPoint_X>
+<PopPoint_Y>24.06</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>59.94</PopPoint_X>
+<PopPoint_Y>18.31</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>79.50</PopPoint_X>
+<PopPoint_Y>30.13</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>85.75</PopPoint_X>
+<PopPoint_Y>36.06</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>129.94</PopPoint_X>
+<PopPoint_Y>72.31</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>88.13</PopPoint_X>
+<PopPoint_Y>28.00</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>142.00</PopPoint_X>
+<PopPoint_Y>13.50</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>156.13</PopPoint_X>
+<PopPoint_Y>16.44</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>138.50</PopPoint_X>
+<PopPoint_Y>21.00</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>51.69</PopPoint_X>
+<PopPoint_Y>45.38</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>52.50</PopPoint_X>
+<PopPoint_Y>53.50</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>21.00</PopPoint_X>
+<PopPoint_Y>60.50</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>17.25</PopPoint_X>
+<PopPoint_Y>71.88</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>17.94</PopPoint_X>
+<PopPoint_Y>75.88</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>37.44</PopPoint_X>
+<PopPoint_Y>52.88</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>57.38</PopPoint_X>
+<PopPoint_Y>47.13</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>128.78</PopPoint_X>
+<PopPoint_Y>51.59</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>164.25</PopPoint_X>
+<PopPoint_Y>40.09</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>182.84</PopPoint_X>
+<PopPoint_Y>43.75</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>61.44</PopPoint_X>
+<PopPoint_Y>77.81</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>72.47</PopPoint_X>
+<PopPoint_Y>62.44</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>58.16</PopPoint_X>
+<PopPoint_Y>71.09</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>84.25</PopPoint_X>
+<PopPoint_Y>69.47</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>144.69</PopPoint_X>
+<PopPoint_Y>72.81</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>153.50</PopPoint_X>
+<PopPoint_Y>56.66</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>167.03</PopPoint_X>
+<PopPoint_Y>44.38</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>リーチ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>122.31</PopPoint_X>
+<PopPoint_Y>52.75</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>168.09</PopPoint_X>
+<PopPoint_Y>82.19</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>スナッチャー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<PopPoint_X>176.28</PopPoint_X>
+<PopPoint_Y>81.09</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>B1 로..</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[108]T04_H02_B01.rmd</AccessMap>
+<AccessMapName>シーフギルドの倉庫[Ｂ]　Ｂ１</AccessMapName>
+<AreaPos_X>177.59</AreaPos_X>
+<AreaPos_X2>182.00</AreaPos_X2>
+<AreaPos_Y>85.28</AreaPos_Y>
+<AreaPos_Y2>87.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>161.19</AreaPos_X>
+<AreaPos_X2>180.06</AreaPos_X2>
+<AreaPos_Y>77.69</AreaPos_Y>
+<AreaPos_Y2>91.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>121.88</AreaPos_X>
+<AreaPos_X2>165.69</AreaPos_X2>
+<AreaPos_Y>63.06</AreaPos_Y>
+<AreaPos_Y2>78.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>117.81</AreaPos_X>
+<AreaPos_X2>161.06</AreaPos_X2>
+<AreaPos_Y>48.75</AreaPos_Y>
+<AreaPos_Y2>61.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>160.50</AreaPos_X>
+<AreaPos_X2>188.13</AreaPos_X2>
+<AreaPos_Y>36.19</AreaPos_Y>
+<AreaPos_Y2>52.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>65.56</AreaPos_X>
+<AreaPos_X2>92.44</AreaPos_X2>
+<AreaPos_Y>57.81</AreaPos_Y>
+<AreaPos_Y2>75.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>45.06</AreaPos_X>
+<AreaPos_X2>69.63</AreaPos_X2>
+<AreaPos_Y>67.75</AreaPos_Y>
+<AreaPos_Y2>82.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>121.25</AreaPos_X>
+<AreaPos_X2>159.94</AreaPos_X2>
+<AreaPos_Y>7.88</AreaPos_Y>
+<AreaPos_Y2>26.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>70.63</AreaPos_X>
+<AreaPos_X2>106.13</AreaPos_X2>
+<AreaPos_Y>26.75</AreaPos_Y>
+<AreaPos_Y2>41.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>26.13</AreaPos_X>
+<AreaPos_X2>64.19</AreaPos_X2>
+<AreaPos_Y>42.38</AreaPos_Y>
+<AreaPos_Y2>57.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>11.19</AreaPos_X>
+<AreaPos_X2>27.94</AreaPos_X2>
+<AreaPos_Y>59.19</AreaPos_Y>
+<AreaPos_Y2>79.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>38.38</AreaPos_X>
+<AreaPos_X2>65.56</AreaPos_X2>
+<AreaPos_Y>8.00</AreaPos_Y>
+<AreaPos_Y2>24.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>9.94</AreaPos_X>
+<AreaPos_X2>33.88</AreaPos_X2>
+<AreaPos_Y>8.88</AreaPos_Y>
+<AreaPos_Y2>27.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>10.09</AreaPos_X>
+<AreaPos_X2>11.91</AreaPos_X2>
+<AreaPos_Y>10.03</AreaPos_Y>
+<AreaPos_Y2>10.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>12.06</AreaPos_X>
+<AreaPos_X2>13.88</AreaPos_X2>
+<AreaPos_Y>60.94</AreaPos_Y>
+<AreaPos_Y2>61.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>88.09</AreaPos_X>
+<AreaPos_X2>90.00</AreaPos_X2>
+<AreaPos_Y>58.94</AreaPos_Y>
+<AreaPos_Y2>60.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>153.97</AreaPos_X>
+<AreaPos_X2>155.94</AreaPos_X2>
+<AreaPos_Y>10.03</AreaPos_Y>
+<AreaPos_Y2>11.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>128.13</AreaPos_X>
+<AreaPos_X2>129.91</AreaPos_X2>
+<AreaPos_Y>48.03</AreaPos_Y>
+<AreaPos_Y2>49.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>문00</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>161.69</AreaPos_X>
+<AreaPos_X2>166.69</AreaPos_X2>
+<AreaPos_Y>27.94</AreaPos_Y>
+<AreaPos_Y2>31.72</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>315000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>0</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>1</isMortalObject>
+<DisarmTrap_Lv>26</DisarmTrap_Lv>
+<DetectTrap_Lv>26</DetectTrap_Lv>
+<TrapID1>10</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>문02</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>55.41</AreaPos_X>
+<AreaPos_X2>60.78</AreaPos_X2>
+<AreaPos_Y>55.53</AreaPos_Y>
+<AreaPos_Y2>58.91</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>300000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>0</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>1</isMortalObject>
+<DisarmTrap_Lv>28</DisarmTrap_Lv>
+<DetectTrap_Lv>20</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>여왕 거미</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>10.19</AreaPos_X>
+<AreaPos_X2>58.66</AreaPos_X2>
+<AreaPos_Y>9.50</AreaPos_Y>
+<AreaPos_Y2>25.22</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

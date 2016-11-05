@@ -1,0 +1,3355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[473]G21_G03_F01.rmd</FileName>
+<FileType>Red Stone Scenario File 7.2 beta</FileType>
+<MapName>時の森</MapName>
+<SysWidth>200</SysWidth>
+<SysHeight>300</SysHeight>
+<TgaWidth>400</TgaWidth>
+<TgaHeight>300</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>9</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>20</P_SubElement1>
+<P_SubElement2>10</P_SubElement2>
+<P_SubElement3>15</P_SubElement3>
+<P_SubElement4>10</P_SubElement4>
+<P_SubElement5>15</P_SubElement5>
+<P_SubElement6>5</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.97</PopPoint_X>
+<PopPoint_Y>176.00</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>46.53</PopPoint_X>
+<PopPoint_Y>182.66</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>時の高木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>300</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>311.78</PopPoint_X>
+<PopPoint_Y>238.78</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.31</PopPoint_X>
+<PopPoint_Y>167.53</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>60.09</PopPoint_X>
+<PopPoint_Y>178.66</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>48.69</PopPoint_X>
+<PopPoint_Y>175.22</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>301.41</PopPoint_X>
+<PopPoint_Y>230.97</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.66</PopPoint_X>
+<PopPoint_Y>231.50</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>322.78</PopPoint_X>
+<PopPoint_Y>247.09</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>300.88</PopPoint_X>
+<PopPoint_Y>247.53</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>378.72</PopPoint_X>
+<PopPoint_Y>63.00</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>129.19</PopPoint_X>
+<PopPoint_Y>176.63</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>179.25</PopPoint_X>
+<PopPoint_Y>166.66</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>290.28</PopPoint_X>
+<PopPoint_Y>201.00</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>137.59</PopPoint_X>
+<PopPoint_Y>169.72</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>44.72</PopPoint_X>
+<PopPoint_Y>147.44</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>129.75</PopPoint_X>
+<PopPoint_Y>165.59</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>301.19</PopPoint_X>
+<PopPoint_Y>201.03</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.84</PopPoint_X>
+<PopPoint_Y>57.56</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>311.56</PopPoint_X>
+<PopPoint_Y>199.19</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>265.31</PopPoint_X>
+<PopPoint_Y>214.06</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>274.06</PopPoint_X>
+<PopPoint_Y>207.97</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>378.06</PopPoint_X>
+<PopPoint_Y>118.63</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>196.94</PopPoint_X>
+<PopPoint_Y>169.16</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>330.97</PopPoint_X>
+<PopPoint_Y>127.19</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>365.34</PopPoint_X>
+<PopPoint_Y>119.25</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>283.72</PopPoint_X>
+<PopPoint_Y>212.88</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>378.56</PopPoint_X>
+<PopPoint_Y>125.91</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>282.63</PopPoint_X>
+<PopPoint_Y>206.66</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>264.66</PopPoint_X>
+<PopPoint_Y>225.63</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>256.22</PopPoint_X>
+<PopPoint_Y>230.88</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>271.56</PopPoint_X>
+<PopPoint_Y>221.28</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>261.13</PopPoint_X>
+<PopPoint_Y>247.56</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>271.66</PopPoint_X>
+<PopPoint_Y>254.72</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>273.91</PopPoint_X>
+<PopPoint_Y>230.72</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>256.88</PopPoint_X>
+<PopPoint_Y>239.69</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>時の高木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>300</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>33.66</PopPoint_X>
+<PopPoint_Y>31.91</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>91.84</PopPoint_X>
+<PopPoint_Y>174.44</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>26.97</PopPoint_X>
+<PopPoint_Y>36.13</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.94</PopPoint_X>
+<PopPoint_Y>36.88</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>108.84</PopPoint_X>
+<PopPoint_Y>171.94</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>288.94</PopPoint_X>
+<PopPoint_Y>239.00</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>21.63</PopPoint_X>
+<PopPoint_Y>62.53</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>34.59</PopPoint_X>
+<PopPoint_Y>63.28</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>293.41</PopPoint_X>
+<PopPoint_Y>261.53</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>337.69</PopPoint_X>
+<PopPoint_Y>239.50</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>342.59</PopPoint_X>
+<PopPoint_Y>214.06</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>199.16</PopPoint_X>
+<PopPoint_Y>226.59</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>358.22</PopPoint_X>
+<PopPoint_Y>220.75</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>63.09</PopPoint_X>
+<PopPoint_Y>93.22</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.28</PopPoint_X>
+<PopPoint_Y>58.47</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.41</PopPoint_X>
+<PopPoint_Y>155.16</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>30.69</PopPoint_X>
+<PopPoint_Y>138.75</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>351.81</PopPoint_X>
+<PopPoint_Y>214.22</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>372.69</PopPoint_X>
+<PopPoint_Y>28.44</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.22</PopPoint_X>
+<PopPoint_Y>146.66</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>361.66</PopPoint_X>
+<PopPoint_Y>233.81</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>355.44</PopPoint_X>
+<PopPoint_Y>229.28</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>367.56</PopPoint_X>
+<PopPoint_Y>230.69</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>46.69</PopPoint_X>
+<PopPoint_Y>139.06</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>354.09</PopPoint_X>
+<PopPoint_Y>247.50</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>366.34</PopPoint_X>
+<PopPoint_Y>243.75</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>359.41</PopPoint_X>
+<PopPoint_Y>250.69</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.94</PopPoint_X>
+<PopPoint_Y>106.66</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>172.28</PopPoint_X>
+<PopPoint_Y>200.66</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>68.28</PopPoint_X>
+<PopPoint_Y>131.16</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>77.91</PopPoint_X>
+<PopPoint_Y>137.53</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>360.09</PopPoint_X>
+<PopPoint_Y>28.53</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>195.00</PopPoint_X>
+<PopPoint_Y>108.97</PopPoint_Y>
+</Character>
+<Character id="cUid69">
+<CharacterUID>69</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>363.59</PopPoint_X>
+<PopPoint_Y>256.59</PopPoint_Y>
+</Character>
+<Character id="cUid70">
+<CharacterUID>70</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>256.88</PopPoint_X>
+<PopPoint_Y>181.47</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>298.66</PopPoint_X>
+<PopPoint_Y>177.63</PopPoint_Y>
+</Character>
+<Character id="cUid72">
+<CharacterUID>72</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>349.28</PopPoint_X>
+<PopPoint_Y>258.38</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>335.41</PopPoint_X>
+<PopPoint_Y>260.91</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>347.97</PopPoint_X>
+<PopPoint_Y>264.88</PopPoint_Y>
+</Character>
+<Character id="cUid75">
+<CharacterUID>75</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.09</PopPoint_X>
+<PopPoint_Y>265.28</PopPoint_Y>
+</Character>
+<Character id="cUid76">
+<CharacterUID>76</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>194.53</PopPoint_X>
+<PopPoint_Y>88.91</PopPoint_Y>
+</Character>
+<Character id="cUid77">
+<CharacterUID>77</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>176.41</PopPoint_X>
+<PopPoint_Y>47.06</PopPoint_Y>
+</Character>
+<Character id="cUid78">
+<CharacterUID>78</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>248.13</PopPoint_X>
+<PopPoint_Y>186.53</PopPoint_Y>
+</Character>
+<Character id="cUid79">
+<CharacterUID>79</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>318.41</PopPoint_X>
+<PopPoint_Y>180.50</PopPoint_Y>
+</Character>
+<Character id="cUid80">
+<CharacterUID>80</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>213.91</PopPoint_X>
+<PopPoint_Y>118.50</PopPoint_Y>
+</Character>
+<Character id="cUid81">
+<CharacterUID>81</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>366.78</PopPoint_X>
+<PopPoint_Y>279.78</PopPoint_Y>
+</Character>
+<Character id="cUid82">
+<CharacterUID>82</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>378.63</PopPoint_X>
+<PopPoint_Y>259.88</PopPoint_Y>
+</Character>
+<Character id="cUid83">
+<CharacterUID>83</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>384.44</PopPoint_X>
+<PopPoint_Y>235.78</PopPoint_Y>
+</Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>371.09</PopPoint_X>
+<PopPoint_Y>214.41</PopPoint_Y>
+</Character>
+<Character id="cUid85">
+<CharacterUID>85</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>237.25</PopPoint_X>
+<PopPoint_Y>60.06</PopPoint_Y>
+</Character>
+<Character id="cUid86">
+<CharacterUID>86</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>348.97</PopPoint_X>
+<PopPoint_Y>52.41</PopPoint_Y>
+</Character>
+<Character id="cUid87">
+<CharacterUID>87</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>361.72</PopPoint_X>
+<PopPoint_Y>126.06</PopPoint_Y>
+</Character>
+<Character id="cUid88">
+<CharacterUID>88</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>237.91</PopPoint_X>
+<PopPoint_Y>45.03</PopPoint_Y>
+</Character>
+<Character id="cUid89">
+<CharacterUID>89</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>247.50</PopPoint_X>
+<PopPoint_Y>42.50</PopPoint_Y>
+</Character>
+<Character id="cUid90">
+<CharacterUID>90</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>180.16</PopPoint_X>
+<PopPoint_Y>55.84</PopPoint_Y>
+</Character>
+<Character id="cUid91">
+<CharacterUID>91</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>186.28</PopPoint_X>
+<PopPoint_Y>64.59</PopPoint_Y>
+</Character>
+<Character id="cUid92">
+<CharacterUID>92</CharacterUID>
+<CharacterName>時の高木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>300</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>383.09</PopPoint_X>
+<PopPoint_Y>227.31</PopPoint_Y>
+</Character>
+<Character id="cUid93">
+<CharacterUID>93</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>216.13</PopPoint_X>
+<PopPoint_Y>130.47</PopPoint_Y>
+</Character>
+<Character id="cUid94">
+<CharacterUID>94</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>253.56</PopPoint_X>
+<PopPoint_Y>123.44</PopPoint_Y>
+</Character>
+<Character id="cUid95">
+<CharacterUID>95</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>211.97</PopPoint_X>
+<PopPoint_Y>139.06</PopPoint_Y>
+</Character>
+<Character id="cUid96">
+<CharacterUID>96</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>283.28</PopPoint_X>
+<PopPoint_Y>125.94</PopPoint_Y>
+</Character>
+<Character id="cUid97">
+<CharacterUID>97</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>293.75</PopPoint_X>
+<PopPoint_Y>121.75</PopPoint_Y>
+</Character>
+<Character id="cUid98">
+<CharacterUID>98</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>358.00</PopPoint_X>
+<PopPoint_Y>197.72</PopPoint_Y>
+</Character>
+<Character id="cUid99">
+<CharacterUID>99</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>304.31</PopPoint_X>
+<PopPoint_Y>125.09</PopPoint_Y>
+</Character>
+<Character id="cUid100">
+<CharacterUID>100</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>219.47</PopPoint_X>
+<PopPoint_Y>147.13</PopPoint_Y>
+</Character>
+<Character id="cUid101">
+<CharacterUID>101</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>207.84</PopPoint_X>
+<PopPoint_Y>156.31</PopPoint_Y>
+</Character>
+<Character id="cUid102">
+<CharacterUID>102</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>284.09</PopPoint_X>
+<PopPoint_Y>134.03</PopPoint_Y>
+</Character>
+<Character id="cUid103">
+<CharacterUID>103</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>300.97</PopPoint_X>
+<PopPoint_Y>134.34</PopPoint_Y>
+</Character>
+<Character id="cUid104">
+<CharacterUID>104</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>292.97</PopPoint_X>
+<PopPoint_Y>127.69</PopPoint_Y>
+</Character>
+<Character id="cUid105">
+<CharacterUID>105</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>254.38</PopPoint_X>
+<PopPoint_Y>128.34</PopPoint_Y>
+</Character>
+<Character id="cUid106">
+<CharacterUID>106</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>339.00</PopPoint_X>
+<PopPoint_Y>99.75</PopPoint_Y>
+</Character>
+<Character id="cUid107">
+<CharacterUID>107</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>350.34</PopPoint_X>
+<PopPoint_Y>104.56</PopPoint_Y>
+</Character>
+<Character id="cUid108">
+<CharacterUID>108</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>359.50</PopPoint_X>
+<PopPoint_Y>100.28</PopPoint_Y>
+</Character>
+<Character id="cUid109">
+<CharacterUID>109</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>335.66</PopPoint_X>
+<PopPoint_Y>117.78</PopPoint_Y>
+</Character>
+<Character id="cUid110">
+<CharacterUID>110</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>85.16</PopPoint_X>
+<PopPoint_Y>201.91</PopPoint_Y>
+</Character>
+<Character id="cUid111">
+<CharacterUID>111</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>232.78</PopPoint_X>
+<PopPoint_Y>205.69</PopPoint_Y>
+</Character>
+<Character id="cUid112">
+<CharacterUID>112</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>125.34</PopPoint_X>
+<PopPoint_Y>213.50</PopPoint_Y>
+</Character>
+<Character id="cUid113">
+<CharacterUID>113</CharacterUID>
+<CharacterName>時の高木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>300</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>84.22</PopPoint_X>
+<PopPoint_Y>253.13</PopPoint_Y>
+</Character>
+<Character id="cUid114">
+<CharacterUID>114</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>169.56</PopPoint_X>
+<PopPoint_Y>238.91</PopPoint_Y>
+</Character>
+<Character id="cUid115">
+<CharacterUID>115</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>207.25</PopPoint_X>
+<PopPoint_Y>242.66</PopPoint_Y>
+</Character>
+<Character id="cUid116">
+<CharacterUID>116</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>173.53</PopPoint_X>
+<PopPoint_Y>260.13</PopPoint_Y>
+</Character>
+<Character id="cUid117">
+<CharacterUID>117</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>128.38</PopPoint_X>
+<PopPoint_Y>246.53</PopPoint_Y>
+</Character>
+<Character id="cUid118">
+<CharacterUID>118</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>139.66</PopPoint_X>
+<PopPoint_Y>258.91</PopPoint_Y>
+</Character>
+<Character id="cUid119">
+<CharacterUID>119</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>134.75</PopPoint_X>
+<PopPoint_Y>252.03</PopPoint_Y>
+</Character>
+<Character id="cUid120">
+<CharacterUID>120</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>360.06</PopPoint_X>
+<PopPoint_Y>185.44</PopPoint_Y>
+</Character>
+<Character id="cUid121">
+<CharacterUID>121</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>369.34</PopPoint_X>
+<PopPoint_Y>181.28</PopPoint_Y>
+</Character>
+<Character id="cUid122">
+<CharacterUID>122</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>58.84</PopPoint_X>
+<PopPoint_Y>232.94</PopPoint_Y>
+</Character>
+<Character id="cUid123">
+<CharacterUID>123</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>372.69</PopPoint_X>
+<PopPoint_Y>174.91</PopPoint_Y>
+</Character>
+<Character id="cUid124">
+<CharacterUID>124</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>365.25</PopPoint_X>
+<PopPoint_Y>170.25</PopPoint_Y>
+</Character>
+<Character id="cUid125">
+<CharacterUID>125</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>70.94</PopPoint_X>
+<PopPoint_Y>223.56</PopPoint_Y>
+</Character>
+<Character id="cUid126">
+<CharacterUID>126</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>144.19</PopPoint_X>
+<PopPoint_Y>32.84</PopPoint_Y>
+</Character>
+<Character id="cUid127">
+<CharacterUID>127</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>167.09</PopPoint_X>
+<PopPoint_Y>32.94</PopPoint_Y>
+</Character>
+<Character id="cUid128">
+<CharacterUID>128</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>65.69</PopPoint_X>
+<PopPoint_Y>228.00</PopPoint_Y>
+</Character>
+<Character id="cUid129">
+<CharacterUID>129</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>28.25</PopPoint_X>
+<PopPoint_Y>266.69</PopPoint_Y>
+</Character>
+<Character id="cUid130">
+<CharacterUID>130</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>41.84</PopPoint_X>
+<PopPoint_Y>278.19</PopPoint_Y>
+</Character>
+<Character id="cUid131">
+<CharacterUID>131</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>25.94</PopPoint_X>
+<PopPoint_Y>29.69</PopPoint_Y>
+</Character>
+<Character id="cUid132">
+<CharacterUID>132</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>35.16</PopPoint_X>
+<PopPoint_Y>271.69</PopPoint_Y>
+</Character>
+<Character id="cUid133">
+<CharacterUID>133</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>140.53</PopPoint_X>
+<PopPoint_Y>79.53</PopPoint_Y>
+</Character>
+<Character id="cUid134">
+<CharacterUID>134</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>92.53</PopPoint_X>
+<PopPoint_Y>269.91</PopPoint_Y>
+</Character>
+<Character id="cUid135">
+<CharacterUID>135</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>87.50</PopPoint_X>
+<PopPoint_Y>277.56</PopPoint_Y>
+</Character>
+<Character id="cUid136">
+<CharacterUID>136</CharacterUID>
+<CharacterName>時の高木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>300</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>367.28</PopPoint_X>
+<PopPoint_Y>37.34</PopPoint_Y>
+</Character>
+<Character id="cUid137">
+<CharacterUID>137</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>367.59</PopPoint_X>
+<PopPoint_Y>44.75</PopPoint_Y>
+</Character>
+<Character id="cUid138">
+<CharacterUID>138</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>320.78</PopPoint_X>
+<PopPoint_Y>27.44</PopPoint_Y>
+</Character>
+<Character id="cUid139">
+<CharacterUID>139</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>101.88</PopPoint_X>
+<PopPoint_Y>252.97</PopPoint_Y>
+</Character>
+<Character id="cUid140">
+<CharacterUID>140</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.88</PopPoint_X>
+<PopPoint_Y>252.81</PopPoint_Y>
+</Character>
+<Character id="cUid141">
+<CharacterUID>141</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>331.81</PopPoint_X>
+<PopPoint_Y>27.75</PopPoint_Y>
+</Character>
+<Character id="cUid142">
+<CharacterUID>142</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>331.53</PopPoint_X>
+<PopPoint_Y>39.91</PopPoint_Y>
+</Character>
+<Character id="cUid143">
+<CharacterUID>143</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>367.06</PopPoint_X>
+<PopPoint_Y>84.63</PopPoint_Y>
+</Character>
+<Character id="cUid144">
+<CharacterUID>144</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>76.69</PopPoint_X>
+<PopPoint_Y>205.50</PopPoint_Y>
+</Character>
+<Character id="cUid145">
+<CharacterUID>145</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>382.13</PopPoint_X>
+<PopPoint_Y>83.78</PopPoint_Y>
+</Character>
+<Character id="cUid146">
+<CharacterUID>146</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.66</PopPoint_X>
+<PopPoint_Y>39.41</PopPoint_Y>
+</Character>
+<Character id="cUid147">
+<CharacterUID>147</CharacterUID>
+<CharacterName>時の高木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>300</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>79.31</PopPoint_X>
+<PopPoint_Y>151.78</PopPoint_Y>
+</Character>
+<Character id="cUid148">
+<CharacterUID>148</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>293.91</PopPoint_X>
+<PopPoint_Y>66.06</PopPoint_Y>
+</Character>
+<Character id="cUid149">
+<CharacterUID>149</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>294.25</PopPoint_X>
+<PopPoint_Y>78.91</PopPoint_Y>
+</Character>
+<Character id="cUid150">
+<CharacterUID>150</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>338.34</PopPoint_X>
+<PopPoint_Y>187.53</PopPoint_Y>
+</Character>
+<Character id="cUid151">
+<CharacterUID>151</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>356.56</PopPoint_X>
+<PopPoint_Y>176.41</PopPoint_Y>
+</Character>
+<Character id="cUid152">
+<CharacterUID>152</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>346.28</PopPoint_X>
+<PopPoint_Y>185.50</PopPoint_Y>
+</Character>
+<Character id="cUid153">
+<CharacterUID>153</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>348.19</PopPoint_X>
+<PopPoint_Y>177.41</PopPoint_Y>
+</Character>
+<Character id="cUid154">
+<CharacterUID>154</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>86.50</PopPoint_X>
+<PopPoint_Y>209.41</PopPoint_Y>
+</Character>
+<Character id="cUid155">
+<CharacterUID>155</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>244.28</PopPoint_X>
+<PopPoint_Y>126.19</PopPoint_Y>
+</Character>
+<Character id="cUid156">
+<CharacterUID>156</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>334.13</PopPoint_X>
+<PopPoint_Y>175.78</PopPoint_Y>
+</Character>
+<Character id="cUid157">
+<CharacterUID>157</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>115.34</PopPoint_X>
+<PopPoint_Y>217.69</PopPoint_Y>
+</Character>
+<Character id="cUid158">
+<CharacterUID>158</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>42.22</PopPoint_X>
+<PopPoint_Y>199.75</PopPoint_Y>
+</Character>
+<Character id="cUid159">
+<CharacterUID>159</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>124.44</PopPoint_X>
+<PopPoint_Y>222.22</PopPoint_Y>
+</Character>
+<Character id="cUid160">
+<CharacterUID>160</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>35.03</PopPoint_X>
+<PopPoint_Y>193.03</PopPoint_Y>
+</Character>
+<Character id="cUid161">
+<CharacterUID>161</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>48.84</PopPoint_X>
+<PopPoint_Y>192.91</PopPoint_Y>
+</Character>
+<Character id="cUid162">
+<CharacterUID>162</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>35.53</PopPoint_X>
+<PopPoint_Y>205.00</PopPoint_Y>
+</Character>
+<Character id="cUid163">
+<CharacterUID>163</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>49.00</PopPoint_X>
+<PopPoint_Y>205.09</PopPoint_Y>
+</Character>
+<Character id="cUid164">
+<CharacterUID>164</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>260.38</PopPoint_X>
+<PopPoint_Y>268.44</PopPoint_Y>
+</Character>
+<Character id="cUid165">
+<CharacterUID>165</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>88.47</PopPoint_X>
+<PopPoint_Y>72.09</PopPoint_Y>
+</Character>
+<Character id="cUid166">
+<CharacterUID>166</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>165.09</PopPoint_X>
+<PopPoint_Y>124.56</PopPoint_Y>
+</Character>
+<Character id="cUid167">
+<CharacterUID>167</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>272.91</PopPoint_X>
+<PopPoint_Y>274.06</PopPoint_Y>
+</Character>
+<Character id="cUid168">
+<CharacterUID>168</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>45</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>249.69</PopPoint_X>
+<PopPoint_Y>274.31</PopPoint_Y>
+</Character>
+<Character id="cUid169">
+<CharacterUID>169</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>223.84</PopPoint_X>
+<PopPoint_Y>254.38</PopPoint_Y>
+</Character>
+<Character id="cUid170">
+<CharacterUID>170</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>107.28</PopPoint_X>
+<PopPoint_Y>71.50</PopPoint_Y>
+</Character>
+<Character id="cUid171">
+<CharacterUID>171</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>243.03</PopPoint_X>
+<PopPoint_Y>226.94</PopPoint_Y>
+</Character>
+<Character id="cUid172">
+<CharacterUID>172</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>180</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>98.19</PopPoint_X>
+<PopPoint_Y>227.13</PopPoint_Y>
+</Character>
+<Character id="cUid173">
+<CharacterUID>173</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>180</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>158.19</PopPoint_X>
+<PopPoint_Y>175.91</PopPoint_Y>
+</Character>
+<Character id="cUid174">
+<CharacterUID>174</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>209.56</PopPoint_X>
+<PopPoint_Y>263.69</PopPoint_Y>
+</Character>
+<Character id="cUid175">
+<CharacterUID>175</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>326.28</PopPoint_X>
+<PopPoint_Y>55.19</PopPoint_Y>
+</Character>
+<Character id="cUid176">
+<CharacterUID>176</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>40.13</PopPoint_X>
+<PopPoint_Y>222.34</PopPoint_Y>
+</Character>
+<Character id="cUid177">
+<CharacterUID>177</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>202.06</PopPoint_X>
+<PopPoint_Y>260.59</PopPoint_Y>
+</Character>
+<Character id="cUid178">
+<CharacterUID>178</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>215.44</PopPoint_X>
+<PopPoint_Y>260.63</PopPoint_Y>
+</Character>
+<Character id="cUid179">
+<CharacterUID>179</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>209.59</PopPoint_X>
+<PopPoint_Y>268.66</PopPoint_Y>
+</Character>
+<Character id="cUid180">
+<CharacterUID>180</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>332.75</PopPoint_X>
+<PopPoint_Y>51.25</PopPoint_Y>
+</Character>
+<Character id="cUid181">
+<CharacterUID>181</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>319.59</PopPoint_X>
+<PopPoint_Y>59.03</PopPoint_Y>
+</Character>
+<Character id="cUid182">
+<CharacterUID>182</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>329.25</PopPoint_X>
+<PopPoint_Y>60.00</PopPoint_Y>
+</Character>
+<Character id="cUid183">
+<CharacterUID>183</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>34.50</PopPoint_X>
+<PopPoint_Y>218.00</PopPoint_Y>
+</Character>
+<Character id="cUid184">
+<CharacterUID>184</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>49.34</PopPoint_X>
+<PopPoint_Y>218.16</PopPoint_Y>
+</Character>
+<Character id="cUid185">
+<CharacterUID>185</CharacterUID>
+<CharacterName>ハゲワシ闘士</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>33.66</PopPoint_X>
+<PopPoint_Y>226.66</PopPoint_Y>
+</Character>
+<Character id="cUid186">
+<CharacterUID>186</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>149.31</PopPoint_X>
+<PopPoint_Y>137.56</PopPoint_Y>
+</Character>
+<Character id="cUid187">
+<CharacterUID>187</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.72</PopPoint_X>
+<PopPoint_Y>129.53</PopPoint_Y>
+</Character>
+<Character id="cUid188">
+<CharacterUID>188</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>105.66</PopPoint_X>
+<PopPoint_Y>126.66</PopPoint_Y>
+</Character>
+<Character id="cUid189">
+<CharacterUID>189</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>111.84</PopPoint_X>
+<PopPoint_Y>132.69</PopPoint_Y>
+</Character>
+<Character id="cUid190">
+<CharacterUID>190</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>118.72</PopPoint_X>
+<PopPoint_Y>127.75</PopPoint_Y>
+</Character>
+<Character id="cUid191">
+<CharacterUID>191</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>112.94</PopPoint_X>
+<PopPoint_Y>126.38</PopPoint_Y>
+</Character>
+<Character id="cUid192">
+<CharacterUID>192</CharacterUID>
+<CharacterName>ミラーテレポータ</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>165.41</PopPoint_X>
+<PopPoint_Y>101.53</PopPoint_Y>
+</Character>
+<Character id="cUid193">
+<CharacterUID>193</CharacterUID>
+<CharacterName>永劫のファントム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>225.59</PopPoint_X>
+<PopPoint_Y>184.56</PopPoint_Y>
+</Character>
+<Character id="cUid196">
+<CharacterUID>196</CharacterUID>
+<CharacterName>時の高木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>300</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>109.94</PopPoint_X>
+<PopPoint_Y>39.25</PopPoint_Y>
+</Character>
+<Character id="cUid197">
+<CharacterUID>197</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>125.56</PopPoint_X>
+<PopPoint_Y>44.63</PopPoint_Y>
+</Character>
+<Character id="cUid198">
+<CharacterUID>198</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>131.84</PopPoint_X>
+<PopPoint_Y>34.78</PopPoint_Y>
+</Character>
+<Character id="cUid199">
+<CharacterUID>199</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>117.47</PopPoint_X>
+<PopPoint_Y>25.16</PopPoint_Y>
+</Character>
+<Character id="cUid200">
+<CharacterUID>200</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>95.44</PopPoint_X>
+<PopPoint_Y>29.31</PopPoint_Y>
+</Character>
+<Character id="cUid201">
+<CharacterUID>201</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>84.91</PopPoint_X>
+<PopPoint_Y>40.75</PopPoint_Y>
+</Character>
+<Character id="cUid202">
+<CharacterUID>202</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>97.06</PopPoint_X>
+<PopPoint_Y>47.69</PopPoint_Y>
+</Character>
+<Character id="cUid203">
+<CharacterUID>203</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>117.28</PopPoint_X>
+<PopPoint_Y>56.13</PopPoint_Y>
+</Character>
+<Character id="cUid204">
+<CharacterUID>204</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>218.69</PopPoint_X>
+<PopPoint_Y>78.38</PopPoint_Y>
+</Character>
+<Character id="cUid205">
+<CharacterUID>205</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>220.72</PopPoint_X>
+<PopPoint_Y>65.44</PopPoint_Y>
+</Character>
+<Character id="cUid206">
+<CharacterUID>206</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>189.06</PopPoint_X>
+<PopPoint_Y>76.75</PopPoint_Y>
+</Character>
+<Character id="cUid207">
+<CharacterUID>207</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>253.78</PopPoint_X>
+<PopPoint_Y>120.34</PopPoint_Y>
+</Character>
+<Character id="cUid208">
+<CharacterUID>208</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>262.56</PopPoint_X>
+<PopPoint_Y>124.91</PopPoint_Y>
+</Character>
+<Character id="cUid209">
+<CharacterUID>209</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>248.28</PopPoint_X>
+<PopPoint_Y>137.06</PopPoint_Y>
+</Character>
+<Character id="cUid210">
+<CharacterUID>210</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>345.34</PopPoint_X>
+<PopPoint_Y>66.44</PopPoint_Y>
+</Character>
+<Character id="cUid211">
+<CharacterUID>211</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>328.22</PopPoint_X>
+<PopPoint_Y>84.84</PopPoint_Y>
+</Character>
+<Character id="cUid212">
+<CharacterUID>212</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>328.47</PopPoint_X>
+<PopPoint_Y>77.41</PopPoint_Y>
+</Character>
+<Character id="cUid213">
+<CharacterUID>213</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>330.38</PopPoint_X>
+<PopPoint_Y>69.84</PopPoint_Y>
+</Character>
+<Character id="cUid214">
+<CharacterUID>214</CharacterUID>
+<CharacterName>時の木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>41.53</PopPoint_X>
+<PopPoint_Y>29.47</PopPoint_Y>
+</Character>
+<Character id="cUid215">
+<CharacterUID>215</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>270.78</PopPoint_X>
+<PopPoint_Y>30.00</PopPoint_Y>
+</Character>
+<Character id="cUid216">
+<CharacterUID>216</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>50</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>288.34</PopPoint_X>
+<PopPoint_Y>27.94</PopPoint_Y>
+</Character>
+<Character id="cUid217">
+<CharacterUID>217</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.19</PopPoint_X>
+<PopPoint_Y>93.34</PopPoint_Y>
+</Character>
+<Character id="cUid218">
+<CharacterUID>218</CharacterUID>
+<CharacterName>時の大樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>75</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>35.66</PopPoint_X>
+<PopPoint_Y>114.44</PopPoint_Y>
+</Character>
+<Character id="cUid219">
+<CharacterUID>219</CharacterUID>
+<CharacterName>時の高木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>300</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>185.03</PopPoint_X>
+<PopPoint_Y>131.28</PopPoint_Y>
+</Character>
+<Character id="cUid220">
+<CharacterUID>220</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>234.13</PopPoint_X>
+<PopPoint_Y>105.25</PopPoint_Y>
+</Character>
+<Character id="cUid221">
+<CharacterUID>221</CharacterUID>
+<CharacterName>時の老樹</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>259.03</PopPoint_X>
+<PopPoint_Y>86.59</PopPoint_Y>
+</Character>
+<Character id="cUid222">
+<CharacterUID>222</CharacterUID>
+<CharacterName>時の高木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>300</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>275.63</PopPoint_X>
+<PopPoint_Y>152.91</PopPoint_Y>
+</Character>
+<Character id="cUid223">
+<CharacterUID>223</CharacterUID>
+<CharacterName>時の苗木</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>55</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>259.03</PopPoint_X>
+<PopPoint_Y>137.38</PopPoint_Y>
+</Character>
+<Character id="cUid224">
+<CharacterUID>224</CharacterUID>
+<CharacterName>時の種</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>218.22</PopPoint_X>
+<PopPoint_Y>166.88</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>시간 속의 숲 3-1로..</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[474]G21_G04_F01.rmd</AccessMap>
+<AccessMapName>時の森</AccessMapName>
+<AreaPos_X>202.13</AreaPos_X>
+<AreaPos_X2>206.50</AreaPos_X2>
+<AreaPos_Y>5.25</AreaPos_Y>
+<AreaPos_Y2>7.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>시간 속의 숲 1-1로..</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[472]G21_G02_F01.rmd</AccessMap>
+<AccessMapName>時の森</AccessMapName>
+<AreaPos_X>201.31</AreaPos_X>
+<AreaPos_X2>205.19</AreaPos_X2>
+<AreaPos_Y>292.13</AreaPos_Y>
+<AreaPos_Y2>294.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>시간의 종자 번식지역1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>328.13</AreaPos_X>
+<AreaPos_X2>352.28</AreaPos_X2>
+<AreaPos_Y>164.13</AreaPos_Y>
+<AreaPos_Y2>190.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>시간의 고목 활동지역1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>124.78</AreaPos_X>
+<AreaPos_X2>158.06</AreaPos_X2>
+<AreaPos_Y>67.84</AreaPos_Y>
+<AreaPos_Y2>94.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>시간의 고목 활동지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>82.78</AreaPos_X>
+<AreaPos_X2>112.50</AreaPos_X2>
+<AreaPos_Y>60.22</AreaPos_Y>
+<AreaPos_Y2>83.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>시간의 교목 활동지역1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.94</AreaPos_X>
+<AreaPos_X2>47.28</AreaPos_X2>
+<AreaPos_Y>25.06</AreaPos_Y>
+<AreaPos_Y2>45.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>일반지역1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>37.91</AreaPos_X>
+<AreaPos_X2>69.44</AreaPos_X2>
+<AreaPos_Y>161.16</AreaPos_Y>
+<AreaPos_Y2>184.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>시간의 고목 활동지역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>21.53</AreaPos_X>
+<AreaPos_X2>50.81</AreaPos_X2>
+<AreaPos_Y>131.50</AreaPos_Y>
+<AreaPos_Y2>157.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>일반지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>122.97</AreaPos_X>
+<AreaPos_X2>151.13</AreaPos_X2>
+<AreaPos_Y>155.84</AreaPos_Y>
+<AreaPos_Y2>179.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>시간의 종자 번식지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>237.78</AreaPos_X>
+<AreaPos_X2>270.19</AreaPos_X2>
+<AreaPos_Y>114.72</AreaPos_Y>
+<AreaPos_Y2>138.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>시간의 종자 번식지역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>273.47</AreaPos_X>
+<AreaPos_X2>310.41</AreaPos_X2>
+<AreaPos_Y>115.97</AreaPos_Y>
+<AreaPos_Y2>139.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>시간의 종자 번식지역4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>352.81</AreaPos_X>
+<AreaPos_X2>377.22</AreaPos_X2>
+<AreaPos_Y>164.34</AreaPos_Y>
+<AreaPos_Y2>190.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>시간의 교목 활동지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>354.97</AreaPos_X>
+<AreaPos_X2>379.81</AreaPos_X2>
+<AreaPos_Y>23.28</AreaPos_Y>
+<AreaPos_Y2>47.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>일반지역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>316.25</AreaPos_X>
+<AreaPos_X2>336.94</AreaPos_X2>
+<AreaPos_Y>23.13</AreaPos_Y>
+<AreaPos_Y2>43.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>시간의 고목 활동지역4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>352.09</AreaPos_X>
+<AreaPos_X2>385.75</AreaPos_X2>
+<AreaPos_Y>111.28</AreaPos_Y>
+<AreaPos_Y2>136.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>시간의 고목 활동지역5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>276.66</AreaPos_X>
+<AreaPos_X2>312.31</AreaPos_X2>
+<AreaPos_Y>63.03</AreaPos_Y>
+<AreaPos_Y2>82.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>시간의 고목 활동지역6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>143.22</AreaPos_X>
+<AreaPos_X2>167.97</AreaPos_X2>
+<AreaPos_Y>121.59</AreaPos_Y>
+<AreaPos_Y2>138.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>시간의 고목 활동지역7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>190.63</AreaPos_X>
+<AreaPos_X2>207.03</AreaPos_X2>
+<AreaPos_Y>84.38</AreaPos_Y>
+<AreaPos_Y2>112.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>일반지역4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>234.28</AreaPos_X>
+<AreaPos_X2>251.59</AreaPos_X2>
+<AreaPos_Y>38.41</AreaPos_Y>
+<AreaPos_Y2>62.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>일반지역5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>173.75</AreaPos_X>
+<AreaPos_X2>192.84</AreaPos_X2>
+<AreaPos_Y>41.88</AreaPos_Y>
+<AreaPos_Y2>81.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>시간의 고목 활동지역8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.38</AreaPos_X>
+<AreaPos_X2>51.72</AreaPos_X2>
+<AreaPos_Y>51.44</AreaPos_Y>
+<AreaPos_Y2>64.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>일반지역6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>57.81</AreaPos_X>
+<AreaPos_X2>72.53</AreaPos_X2>
+<AreaPos_Y>88.66</AreaPos_Y>
+<AreaPos_Y2>109.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>일반지역7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>245.50</AreaPos_X>
+<AreaPos_X2>272.16</AreaPos_X2>
+<AreaPos_Y>179.34</AreaPos_Y>
+<AreaPos_Y2>191.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>일반지역8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>58.34</AreaPos_X>
+<AreaPos_X2>85.25</AreaPos_X2>
+<AreaPos_Y>127.03</AreaPos_Y>
+<AreaPos_Y2>141.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>시간의 교목 활동지역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>81.09</AreaPos_X>
+<AreaPos_X2>134.97</AreaPos_X2>
+<AreaPos_Y>22.56</AreaPos_Y>
+<AreaPos_Y2>57.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>시간의 고목 활동지역9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>139.09</AreaPos_X>
+<AreaPos_X2>173.56</AreaPos_X2>
+<AreaPos_Y>27.34</AreaPos_Y>
+<AreaPos_Y2>41.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>일반지역9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>100.66</AreaPos_X>
+<AreaPos_X2>126.84</AreaPos_X2>
+<AreaPos_Y>121.41</AreaPos_Y>
+<AreaPos_Y2>135.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>시간의 고목 활동지역10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>360.63</AreaPos_X>
+<AreaPos_X2>384.53</AreaPos_X2>
+<AreaPos_Y>78.69</AreaPos_Y>
+<AreaPos_Y2>94.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>일반지역10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>290.41</AreaPos_X>
+<AreaPos_X2>326.16</AreaPos_X2>
+<AreaPos_Y>174.59</AreaPos_Y>
+<AreaPos_Y2>182.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>일반지역11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>215.22</AreaPos_X>
+<AreaPos_X2>230.59</AreaPos_X2>
+<AreaPos_Y>62.31</AreaPos_Y>
+<AreaPos_Y2>81.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>일반지역12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>205.31</AreaPos_X>
+<AreaPos_X2>224.28</AreaPos_X2>
+<AreaPos_Y>114.41</AreaPos_Y>
+<AreaPos_Y2>170.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>일반지역13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>341.94</AreaPos_X>
+<AreaPos_X2>352.03</AreaPos_X2>
+<AreaPos_Y>47.94</AreaPos_Y>
+<AreaPos_Y2>68.66</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>일반지역14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>323.25</AreaPos_X>
+<AreaPos_X2>332.41</AreaPos_X2>
+<AreaPos_Y>65.81</AreaPos_Y>
+<AreaPos_Y2>89.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>일반지역15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>373.25</AreaPos_X>
+<AreaPos_X2>383.75</AreaPos_X2>
+<AreaPos_Y>53.22</AreaPos_Y>
+<AreaPos_Y2>70.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>일반지역16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>333.19</AreaPos_X>
+<AreaPos_X2>366.28</AreaPos_X2>
+<AreaPos_Y>94.59</AreaPos_Y>
+<AreaPos_Y2>105.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>일반지역17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>327.56</AreaPos_X>
+<AreaPos_X2>338.69</AreaPos_X2>
+<AreaPos_Y>112.38</AreaPos_Y>
+<AreaPos_Y2>133.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid38">
+<AreaUID>38</AreaUID>
+<AreaName>시간의 고목 활동지역11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>265.84</AreaPos_X>
+<AreaPos_X2>291.28</AreaPos_X2>
+<AreaPos_Y>25.03</AreaPos_Y>
+<AreaPos_Y2>31.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid39">
+<AreaUID>39</AreaUID>
+<AreaName>일반지역18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>28.00</AreaPos_X>
+<AreaPos_X2>42.16</AreaPos_X2>
+<AreaPos_Y>76.72</AreaPos_Y>
+<AreaPos_Y2>122.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid40">
+<AreaUID>40</AreaUID>
+<AreaName>시간의 고목 활동지역12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>220.94</AreaPos_X>
+<AreaPos_X2>248.78</AreaPos_X2>
+<AreaPos_Y>98.94</AreaPos_Y>
+<AreaPos_Y2>110.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid41">
+<AreaUID>41</AreaUID>
+<AreaName>시간의 고목 활동지역13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>245.88</AreaPos_X>
+<AreaPos_X2>271.94</AreaPos_X2>
+<AreaPos_Y>81.09</AreaPos_Y>
+<AreaPos_Y2>91.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid42">
+<AreaUID>42</AreaUID>
+<AreaName>일반지역19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>176.75</AreaPos_X>
+<AreaPos_X2>205.03</AreaPos_X2>
+<AreaPos_Y>163.78</AreaPos_Y>
+<AreaPos_Y2>179.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid43">
+<AreaUID>43</AreaUID>
+<AreaName>일반지역20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>81.00</AreaPos_X>
+<AreaPos_X2>117.69</AreaPos_X2>
+<AreaPos_Y>167.41</AreaPos_Y>
+<AreaPos_Y2>177.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid44">
+<AreaUID>44</AreaUID>
+<AreaName>시간의 교목 활동지역4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>29.63</AreaPos_X>
+<AreaPos_X2>164.41</AreaPos_X2>
+<AreaPos_Y>124.38</AreaPos_Y>
+<AreaPos_Y2>179.22</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid45">
+<AreaUID>45</AreaUID>
+<AreaName>시간의 교목 활동지역5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>173.81</AreaPos_X>
+<AreaPos_X2>224.25</AreaPos_X2>
+<AreaPos_Y>37.59</AreaPos_Y>
+<AreaPos_Y2>184.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid46">
+<AreaUID>46</AreaUID>
+<AreaName>시간의 교목 활동지역6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>227.53</AreaPos_X>
+<AreaPos_X2>388.56</AreaPos_X2>
+<AreaPos_Y>110.75</AreaPos_Y>
+<AreaPos_Y2>189.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid47">
+<AreaUID>47</AreaUID>
+<AreaName>쥐구역</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>296.19</AreaPos_X>
+<AreaPos_X2>307.28</AreaPos_X2>
+<AreaPos_Y>14.59</AreaPos_Y>
+<AreaPos_Y2>26.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid48">
+<AreaUID>48</AreaUID>
+<AreaName>난이도 상</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>296.44</AreaPos_X>
+<AreaPos_X2>326.50</AreaPos_X2>
+<AreaPos_Y>226.88</AreaPos_Y>
+<AreaPos_Y2>249.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid49">
+<AreaUID>49</AreaUID>
+<AreaName>난이도 하</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>285.38</AreaPos_X>
+<AreaPos_X2>314.75</AreaPos_X2>
+<AreaPos_Y>195.13</AreaPos_Y>
+<AreaPos_Y2>207.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid50">
+<AreaUID>50</AreaUID>
+<AreaName>난이도 하2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>258.34</AreaPos_X>
+<AreaPos_X2>287.31</AreaPos_X2>
+<AreaPos_Y>204.25</AreaPos_Y>
+<AreaPos_Y2>217.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid51">
+<AreaUID>51</AreaUID>
+<AreaName>난이도 하3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>252.25</AreaPos_X>
+<AreaPos_X2>277.09</AreaPos_X2>
+<AreaPos_Y>218.28</AreaPos_Y>
+<AreaPos_Y2>232.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid52">
+<AreaUID>52</AreaUID>
+<AreaName>난이도 하4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>259.81</AreaPos_X>
+<AreaPos_X2>279.16</AreaPos_X2>
+<AreaPos_Y>245.13</AreaPos_Y>
+<AreaPos_Y2>258.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid53">
+<AreaUID>53</AreaUID>
+<AreaName>난이도 하5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>250.13</AreaPos_X>
+<AreaPos_X2>263.03</AreaPos_X2>
+<AreaPos_Y>229.28</AreaPos_Y>
+<AreaPos_Y2>250.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid54">
+<AreaUID>54</AreaUID>
+<AreaName>난이도 상2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>282.09</AreaPos_X>
+<AreaPos_X2>295.69</AreaPos_X2>
+<AreaPos_Y>229.56</AreaPos_Y>
+<AreaPos_Y2>248.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid55">
+<AreaUID>55</AreaUID>
+<AreaName>난이도 상3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>328.16</AreaPos_X>
+<AreaPos_X2>345.84</AreaPos_X2>
+<AreaPos_Y>232.66</AreaPos_Y>
+<AreaPos_Y2>245.22</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid56">
+<AreaUID>56</AreaUID>
+<AreaName>난이도 상2 - Copy</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>282.41</AreaPos_X>
+<AreaPos_X2>306.94</AreaPos_X2>
+<AreaPos_Y>253.09</AreaPos_Y>
+<AreaPos_Y2>266.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid57">
+<AreaUID>57</AreaUID>
+<AreaName>난이도 하6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>338.38</AreaPos_X>
+<AreaPos_X2>359.03</AreaPos_X2>
+<AreaPos_Y>206.13</AreaPos_Y>
+<AreaPos_Y2>216.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid58">
+<AreaUID>58</AreaUID>
+<AreaName>난이도 하7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>350.75</AreaPos_X>
+<AreaPos_X2>371.41</AreaPos_X2>
+<AreaPos_Y>226.38</AreaPos_Y>
+<AreaPos_Y2>236.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid59">
+<AreaUID>59</AreaUID>
+<AreaName>난이도 하8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>350.47</AreaPos_X>
+<AreaPos_X2>371.13</AreaPos_X2>
+<AreaPos_Y>238.81</AreaPos_Y>
+<AreaPos_Y2>248.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid60">
+<AreaUID>60</AreaUID>
+<AreaName>난이도 하9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>345.34</AreaPos_X>
+<AreaPos_X2>366.00</AreaPos_X2>
+<AreaPos_Y>249.56</AreaPos_Y>
+<AreaPos_Y2>259.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid61">
+<AreaUID>61</AreaUID>
+<AreaName>난이도 하10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>331.00</AreaPos_X>
+<AreaPos_X2>351.66</AreaPos_X2>
+<AreaPos_Y>257.34</AreaPos_Y>
+<AreaPos_Y2>267.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid62">
+<AreaUID>62</AreaUID>
+<AreaName>난이도 중</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>353.69</AreaPos_X>
+<AreaPos_X2>364.75</AreaPos_X2>
+<AreaPos_Y>216.13</AreaPos_Y>
+<AreaPos_Y2>225.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid63">
+<AreaUID>63</AreaUID>
+<AreaName>난이도 중2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>315.38</AreaPos_X>
+<AreaPos_X2>327.78</AreaPos_X2>
+<AreaPos_Y>259.78</AreaPos_Y>
+<AreaPos_Y2>269.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid64">
+<AreaUID>64</AreaUID>
+<AreaName>묘목번식지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>349.69</AreaPos_X>
+<AreaPos_X2>391.28</AreaPos_X2>
+<AreaPos_Y>194.41</AreaPos_Y>
+<AreaPos_Y2>285.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid65">
+<AreaUID>65</AreaUID>
+<AreaName>시간의 거목 번식 지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>193.94</AreaPos_X>
+<AreaPos_X2>205.09</AreaPos_X2>
+<AreaPos_Y>219.75</AreaPos_Y>
+<AreaPos_Y2>232.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid66">
+<AreaUID>66</AreaUID>
+<AreaName>시간의 거목 번식 지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>166.50</AreaPos_X>
+<AreaPos_X2>177.66</AreaPos_X2>
+<AreaPos_Y>193.84</AreaPos_Y>
+<AreaPos_Y2>206.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid67">
+<AreaUID>67</AreaUID>
+<AreaName>시간의 거목 번식 지역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>227.59</AreaPos_X>
+<AreaPos_X2>238.75</AreaPos_X2>
+<AreaPos_Y>198.19</AreaPos_Y>
+<AreaPos_Y2>210.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid68">
+<AreaUID>68</AreaUID>
+<AreaName>시간의 거목 번식지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>81.78</AreaPos_X>
+<AreaPos_X2>88.75</AreaPos_X2>
+<AreaPos_Y>198.22</AreaPos_Y>
+<AreaPos_Y2>204.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid69">
+<AreaUID>69</AreaUID>
+<AreaName>시간의 거목 번식지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>119.88</AreaPos_X>
+<AreaPos_X2>129.22</AreaPos_X2>
+<AreaPos_Y>208.75</AreaPos_Y>
+<AreaPos_Y2>216.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid70">
+<AreaUID>70</AreaUID>
+<AreaName>교목 번식지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>81.28</AreaPos_X>
+<AreaPos_X2>87.56</AreaPos_X2>
+<AreaPos_Y>249.78</AreaPos_Y>
+<AreaPos_Y2>255.22</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid71">
+<AreaUID>71</AreaUID>
+<AreaName>공룡발자국 지역1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>124.50</AreaPos_X>
+<AreaPos_X2>143.78</AreaPos_X2>
+<AreaPos_Y>242.56</AreaPos_Y>
+<AreaPos_Y2>261.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid72">
+<AreaUID>72</AreaUID>
+<AreaName>공룡발자국 지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>56.19</AreaPos_X>
+<AreaPos_X2>74.63</AreaPos_X2>
+<AreaPos_Y>218.44</AreaPos_Y>
+<AreaPos_Y2>237.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid73">
+<AreaUID>73</AreaUID>
+<AreaName>공룡발자국 지역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>23.03</AreaPos_X>
+<AreaPos_X2>45.53</AreaPos_X2>
+<AreaPos_Y>262.16</AreaPos_Y>
+<AreaPos_Y2>282.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid74">
+<AreaUID>74</AreaUID>
+<AreaName>공룡발자국 지역4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>82.50</AreaPos_X>
+<AreaPos_X2>102.25</AreaPos_X2>
+<AreaPos_Y>258.91</AreaPos_Y>
+<AreaPos_Y2>280.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid75">
+<AreaUID>75</AreaUID>
+<AreaName>공룡발자국 지역5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>30.88</AreaPos_X>
+<AreaPos_X2>53.16</AreaPos_X2>
+<AreaPos_Y>189.06</AreaPos_Y>
+<AreaPos_Y2>207.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid76">
+<AreaUID>76</AreaUID>
+<AreaName>종자의 지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>242.16</AreaPos_X>
+<AreaPos_X2>278.84</AreaPos_X2>
+<AreaPos_Y>265.25</AreaPos_Y>
+<AreaPos_Y2>277.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid77">
+<AreaUID>77</AreaUID>
+<AreaName>이계몬스터-1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>206.72</AreaPos_X>
+<AreaPos_X2>211.41</AreaPos_X2>
+<AreaPos_Y>261.00</AreaPos_Y>
+<AreaPos_Y2>264.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid78">
+<AreaUID>78</AreaUID>
+<AreaName>Area 77</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>196.56</AreaPos_X>
+<AreaPos_X2>220.19</AreaPos_X2>
+<AreaPos_Y>255.66</AreaPos_Y>
+<AreaPos_Y2>271.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid79">
+<AreaUID>79</AreaUID>
+<AreaName>이계몬스터-2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>323.66</AreaPos_X>
+<AreaPos_X2>327.78</AreaPos_X2>
+<AreaPos_Y>53.34</AreaPos_Y>
+<AreaPos_Y2>56.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid80">
+<AreaUID>80</AreaUID>
+<AreaName>Area 79</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>311.22</AreaPos_X>
+<AreaPos_X2>337.69</AreaPos_X2>
+<AreaPos_Y>46.97</AreaPos_Y>
+<AreaPos_Y2>62.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid81">
+<AreaUID>81</AreaUID>
+<AreaName>이계몬스터-3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>38.06</AreaPos_X>
+<AreaPos_X2>41.88</AreaPos_X2>
+<AreaPos_Y>220.16</AreaPos_Y>
+<AreaPos_Y2>223.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid82">
+<AreaUID>82</AreaUID>
+<AreaName>Area 81</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>28.44</AreaPos_X>
+<AreaPos_X2>51.91</AreaPos_X2>
+<AreaPos_Y>214.53</AreaPos_Y>
+<AreaPos_Y2>229.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid83">
+<AreaUID>83</AreaUID>
+<AreaName>시간의 망령</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>218.94</AreaPos_X>
+<AreaPos_X2>230.78</AreaPos_X2>
+<AreaPos_Y>178.31</AreaPos_Y>
+<AreaPos_Y2>188.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

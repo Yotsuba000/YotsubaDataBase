@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[145]G31_C02_B03.rmd</FileName>
+<FileType>Red Stone Scenario File 5.4 beta</FileType>
+<MapName>ソルティケーブ　Ｂ３</MapName>
+<SysWidth>80</SysWidth>
+<SysHeight>80</SysHeight>
+<TgaWidth>160</TgaWidth>
+<TgaHeight>80</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ケーブ族酋長</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10800</PopSpeed>
+<PopPoint_X>43.22</PopPoint_X>
+<PopPoint_Y>55.69</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>138.22</PopPoint_X>
+<PopPoint_Y>12.63</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<PopPoint_X>84.03</PopPoint_X>
+<PopPoint_Y>63.84</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>134.91</PopPoint_X>
+<PopPoint_Y>22.75</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<PopPoint_X>105.94</PopPoint_X>
+<PopPoint_Y>45.69</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>111.16</PopPoint_X>
+<PopPoint_Y>19.28</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>47.28</PopPoint_X>
+<PopPoint_Y>24.59</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>123.75</PopPoint_X>
+<PopPoint_Y>24.50</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<PopPoint_X>140.78</PopPoint_X>
+<PopPoint_Y>53.13</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>140.88</PopPoint_X>
+<PopPoint_Y>33.88</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<PopPoint_X>115.22</PopPoint_X>
+<PopPoint_Y>34.63</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ケーブ族</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>107.31</PopPoint_X>
+<PopPoint_Y>57.25</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>101.69</PopPoint_X>
+<PopPoint_Y>34.13</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>139.78</PopPoint_X>
+<PopPoint_Y>45.41</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>ケーブ族</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>85.16</PopPoint_X>
+<PopPoint_Y>45.44</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>135.19</PopPoint_X>
+<PopPoint_Y>56.34</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>78.03</PopPoint_X>
+<PopPoint_Y>26.00</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>127.50</PopPoint_X>
+<PopPoint_Y>61.34</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>96.97</PopPoint_X>
+<PopPoint_Y>59.63</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>75.94</PopPoint_X>
+<PopPoint_Y>34.41</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>ケーブ族</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>65.34</PopPoint_X>
+<PopPoint_Y>17.94</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>ケーブ族</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>55.41</PopPoint_X>
+<PopPoint_Y>19.97</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>サイドウォーカー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>51.34</PopPoint_X>
+<PopPoint_Y>36.75</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>ケーブ族</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>33.84</PopPoint_X>
+<PopPoint_Y>21.41</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>ケーブ族</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>20.66</PopPoint_X>
+<PopPoint_Y>19.41</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<PopPoint_X>21.72</PopPoint_X>
+<PopPoint_Y>13.75</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<PopPoint_X>27.81</PopPoint_X>
+<PopPoint_Y>23.72</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<PopPoint_X>50.22</PopPoint_X>
+<PopPoint_Y>49.13</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<PopPoint_X>34.81</PopPoint_X>
+<PopPoint_Y>62.84</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<PopPoint_X>30.94</PopPoint_X>
+<PopPoint_Y>48.31</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>ケーブ族リーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<PopPoint_X>59.38</PopPoint_X>
+<PopPoint_Y>57.91</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>ケーブ族</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>41.78</PopPoint_X>
+<PopPoint_Y>46.22</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>ケーブ族</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>50.13</PopPoint_X>
+<PopPoint_Y>61.38</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>ケーブ族</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>59.81</PopPoint_X>
+<PopPoint_Y>47.97</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>B2층으로..</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[144]G31_C02_B02.rmd</AccessMap>
+<AccessMapName>ソルティケーブ　Ｂ２</AccessMapName>
+<AreaPos_X>135.84</AreaPos_X>
+<AreaPos_X2>140.16</AreaPos_X2>
+<AreaPos_Y>1.41</AreaPos_Y>
+<AreaPos_Y2>3.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>B4층으로..</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[146]G31_C02_B04.rmd</AccessMap>
+<AccessMapName>ソルティケーブ　Ｂ４</AccessMapName>
+<AreaPos_X>12.84</AreaPos_X>
+<AreaPos_X2>17.09</AreaPos_X2>
+<AreaPos_Y>75.84</AreaPos_Y>
+<AreaPos_Y2>77.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>97.00</AreaPos_X>
+<AreaPos_X2>148.13</AreaPos_X2>
+<AreaPos_Y>7.38</AreaPos_Y>
+<AreaPos_Y2>37.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>81.38</AreaPos_X>
+<AreaPos_X2>117.13</AreaPos_X2>
+<AreaPos_Y>40.38</AreaPos_Y>
+<AreaPos_Y2>78.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>63.38</AreaPos_X>
+<AreaPos_X2>86.38</AreaPos_X2>
+<AreaPos_Y>13.38</AreaPos_Y>
+<AreaPos_Y2>39.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>10.38</AreaPos_X>
+<AreaPos_X2>40.38</AreaPos_X2>
+<AreaPos_Y>10.75</AreaPos_Y>
+<AreaPos_Y2>33.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.13</AreaPos_X>
+<AreaPos_X2>71.13</AreaPos_X2>
+<AreaPos_Y>41.25</AreaPos_Y>
+<AreaPos_Y2>68.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>추장의 이동 지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>26.00</AreaPos_X>
+<AreaPos_X2>61.88</AreaPos_X2>
+<AreaPos_Y>46.00</AreaPos_Y>
+<AreaPos_Y2>62.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>12.03</AreaPos_X>
+<AreaPos_X2>13.94</AreaPos_X2>
+<AreaPos_Y>18.13</AreaPos_Y>
+<AreaPos_Y2>19.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>22.16</AreaPos_X>
+<AreaPos_X2>23.97</AreaPos_X2>
+<AreaPos_Y>29.00</AreaPos_Y>
+<AreaPos_Y2>29.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>29.97</AreaPos_X>
+<AreaPos_X2>31.97</AreaPos_X2>
+<AreaPos_Y>50.00</AreaPos_Y>
+<AreaPos_Y2>50.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>65.91</AreaPos_X>
+<AreaPos_X2>67.91</AreaPos_X2>
+<AreaPos_Y>55.88</AreaPos_Y>
+<AreaPos_Y2>56.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>76.09</AreaPos_X>
+<AreaPos_X2>77.84</AreaPos_X2>
+<AreaPos_Y>61.03</AreaPos_Y>
+<AreaPos_Y2>61.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>보물상자05</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>127.97</AreaPos_X>
+<AreaPos_X2>129.94</AreaPos_X2>
+<AreaPos_Y>69.03</AreaPos_Y>
+<AreaPos_Y2>70.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>보물상자06</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>96.03</AreaPos_X>
+<AreaPos_X2>97.91</AreaPos_X2>
+<AreaPos_Y>18.03</AreaPos_Y>
+<AreaPos_Y2>19.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>36.13</AreaPos_X>
+<AreaPos_X2>61.63</AreaPos_X2>
+<AreaPos_Y>12.75</AreaPos_Y>
+<AreaPos_Y2>40.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>118.00</AreaPos_X>
+<AreaPos_X2>150.88</AreaPos_X2>
+<AreaPos_Y>40.13</AreaPos_Y>
+<AreaPos_Y2>74.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

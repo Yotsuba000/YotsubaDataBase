@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[GPB]004.rmd</FileName>
+<FileType>Red Stone Scenario File 6.6 beta</FileType>
+<MapName>ギルドポイント戦 / スモーキー諸島　悪魔の隠れ家</MapName>
+<SysWidth>60</SysWidth>
+<SysHeight>100</SysHeight>
+<TgaWidth>150</TgaWidth>
+<TgaHeight>125</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>0</isLocationStrage>
+<P_SubElement1>150</P_SubElement1>
+<P_SubElement2>150</P_SubElement2>
+<P_SubElement3>150</P_SubElement3>
+<P_SubElement4>150</P_SubElement4>
+<P_SubElement5>150</P_SubElement5>
+<P_SubElement6>150</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>地獄の門番</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>71.95</PopPoint_X>
+<PopPoint_Y>29.49</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>悪魔 テラザック</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>71.80</PopPoint_X>
+<PopPoint_Y>42.07</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>地獄の門番</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>51.84</PopPoint_X>
+<PopPoint_Y>43.40</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>地獄の門番</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>92.46</PopPoint_X>
+<PopPoint_Y>43.67</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>악마의 은신처 입구</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>expansion\[GPB]003.rmd</AccessMap>
+<AccessMapName>ギルドポイント戦 / スモーキー諸島　地下道</AccessMapName>
+<AreaPos_X>70.55</AreaPos_X>
+<AreaPos_X2>78.75</AreaPos_X2>
+<AreaPos_Y>115.59</AreaPos_Y>
+<AreaPos_Y2>122.54</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>악마 테라자크(Battle)</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>60.04</AreaPos_X>
+<AreaPos_X2>84.84</AreaPos_X2>
+<AreaPos_Y>32.62</AreaPos_Y>
+<AreaPos_Y2>48.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>처형 장소</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>7.11</AreaPos_X>
+<AreaPos_X2>17.81</AreaPos_X2>
+<AreaPos_Y>108.32</AreaPos_Y>
+<AreaPos_Y2>115.74</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>지옥의 수문장1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>66.95</AreaPos_X>
+<AreaPos_X2>77.27</AreaPos_X2>
+<AreaPos_Y>23.28</AreaPos_Y>
+<AreaPos_Y2>31.64</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>이벤트 시작</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>52.89</AreaPos_X>
+<AreaPos_X2>93.52</AreaPos_X2>
+<AreaPos_Y>65.08</AreaPos_Y>
+<AreaPos_Y2>78.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>지옥의 수문장2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>88.09</AreaPos_X>
+<AreaPos_X2>98.09</AreaPos_X2>
+<AreaPos_Y>37.85</AreaPos_Y>
+<AreaPos_Y2>46.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>最後</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>47.46</AreaPos_X>
+<AreaPos_X2>55.98</AreaPos_X2>
+<AreaPos_Y>37.42</AreaPos_Y>
+<AreaPos_Y2>45.66</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>테라자크 무적 해제</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>22.07</AreaPos_X>
+<AreaPos_X2>123.28</AreaPos_X2>
+<AreaPos_Y>10.82</AreaPos_Y>
+<AreaPos_Y2>118.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>메테오 대미지 영역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>49.14</AreaPos_X>
+<AreaPos_X2>96.72</AreaPos_X2>
+<AreaPos_Y>30.04</AreaPos_Y>
+<AreaPos_Y2>57.62</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

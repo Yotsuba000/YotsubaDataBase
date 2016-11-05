@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[413]T01_D01_B03.rmd</FileName>
+<FileType>Red Stone Scenario File 7.0 beta</FileType>
+<MapName>地下水路　Ｂ３</MapName>
+<SysWidth>60</SysWidth>
+<SysHeight>60</SysHeight>
+<TgaWidth>400</TgaWidth>
+<TgaHeight>200</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ヴァンパイア</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.33</PopPoint_X>
+<PopPoint_Y>34.90</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>クレテウス</CharacterName>
+<CharacterType>13</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.98</PopPoint_X>
+<PopPoint_Y>35.31</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>バトン</CharacterName>
+<CharacterType>13</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.50</PopPoint_X>
+<PopPoint_Y>48.54</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>メデス</CharacterName>
+<CharacterType>13</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>327.50</PopPoint_X>
+<PopPoint_Y>128.02</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ブリオ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>74.48</PopPoint_X>
+<PopPoint_Y>159.38</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>Area 1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>293.85</AreaPos_X>
+<AreaPos_X2>337.40</AreaPos_X2>
+<AreaPos_Y>23.65</AreaPos_Y>
+<AreaPos_Y2>61.98</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>62.19</AreaPos_X>
+<AreaPos_X2>106.25</AreaPos_X2>
+<AreaPos_Y>36.35</AreaPos_Y>
+<AreaPos_Y2>69.90</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>288.23</AreaPos_X>
+<AreaPos_X2>352.81</AreaPos_X2>
+<AreaPos_Y>119.38</AreaPos_Y>
+<AreaPos_Y2>165.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>53.02</AreaPos_X>
+<AreaPos_X2>119.58</AreaPos_X2>
+<AreaPos_Y>136.35</AreaPos_Y>
+<AreaPos_Y2>175.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[424]T01_D03_B01.rmd</AccessMap>
+<AccessMapName>演壇の部屋</AccessMapName>
+<AreaPos_X>46.15</AreaPos_X>
+<AreaPos_X2>59.58</AreaPos_X2>
+<AreaPos_Y>54.27</AreaPos_Y>
+<AreaPos_Y2>61.98</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>2층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[412]T01_D01_B02.rmd</AccessMap>
+<AccessMapName>地下水路　Ｂ２</AccessMapName>
+<AreaPos_X>185.94</AreaPos_X>
+<AreaPos_X2>197.19</AreaPos_X2>
+<AreaPos_Y>104.48</AreaPos_Y>
+<AreaPos_Y2>111.67</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>4층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[447]T01_D01_B04.rmd</AccessMap>
+<AccessMapName>地下水路　Ｂ４</AccessMapName>
+<AreaPos_X>220.42</AreaPos_X>
+<AreaPos_X2>233.02</AreaPos_X2>
+<AreaPos_Y>106.67</AreaPos_Y>
+<AreaPos_Y2>112.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

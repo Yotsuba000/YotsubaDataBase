@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[900]Duel_standby_0.rmd</FileName>
+<FileType>Red Stone Scenario File 7.0 beta</FileType>
+<MapName>決戦都市ヒルドブラント</MapName>
+<SysWidth>100</SysWidth>
+<SysHeight>150</SysHeight>
+<TgaWidth>210</TgaWidth>
+<TgaHeight>158</TgaHeight>
+<MapType>2</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>0</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ブルガント</CharacterName>
+<CharacterType>23</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>16.31</PopPoint_X>
+<PopPoint_Y>17.64</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>ハディン</CharacterName>
+<CharacterType>23</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.00</PopPoint_X>
+<PopPoint_Y>11.98</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>セイラン</CharacterName>
+<CharacterType>27</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>63.56</PopPoint_X>
+<PopPoint_Y>6.48</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>イメルレン</CharacterName>
+<CharacterType>27</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>63.69</PopPoint_X>
+<PopPoint_Y>20.44</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>決戦場ガイド</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>74.48</PopPoint_X>
+<PopPoint_Y>49.28</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ザメルリン</CharacterName>
+<CharacterType>28</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>160.58</PopPoint_X>
+<PopPoint_Y>147.76</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ハースルバル</CharacterName>
+<CharacterType>24</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>189.00</PopPoint_X>
+<PopPoint_Y>13.10</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>テイガン</CharacterName>
+<CharacterType>24</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>167.11</PopPoint_X>
+<PopPoint_Y>7.47</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ベルリート</CharacterName>
+<CharacterType>25</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>200.85</PopPoint_X>
+<PopPoint_Y>25.54</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>ザムエル</CharacterName>
+<CharacterType>25</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>200.52</PopPoint_X>
+<PopPoint_Y>35.29</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>決戦場テレポータ</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.51</PopPoint_X>
+<PopPoint_Y>63.10</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>決戦場ガイド</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>8.63</PopPoint_X>
+<PopPoint_Y>31.86</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>アートン</CharacterName>
+<CharacterType>26</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>32.52</PopPoint_X>
+<PopPoint_Y>112.81</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>キレン</CharacterName>
+<CharacterType>26</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>15.68</PopPoint_X>
+<PopPoint_Y>112.67</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>セリーン</CharacterName>
+<CharacterType>29</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>35.04</PopPoint_X>
+<PopPoint_Y>135.72</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>アメル</CharacterName>
+<CharacterType>29</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>9.52</PopPoint_X>
+<PopPoint_Y>126.86</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>ブエルラン</CharacterName>
+<CharacterType>30</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>201.11</PopPoint_X>
+<PopPoint_Y>124.33</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>ジンナエル</CharacterName>
+<CharacterType>30</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>170.49</PopPoint_X>
+<PopPoint_Y>111.78</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>決戦場ガイド</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>55.88</PopPoint_X>
+<PopPoint_Y>130.02</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>決戦場ガイド</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>136.83</PopPoint_X>
+<PopPoint_Y>133.05</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>決戦場ガイド</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>181.58</PopPoint_X>
+<PopPoint_Y>8.03</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>決戦場テレポータ</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>18.18</PopPoint_X>
+<PopPoint_Y>73.54</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>決戦場テレポータ</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.28</PopPoint_X>
+<PopPoint_Y>145.69</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>決戦場テレポータ</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>196.28</PopPoint_X>
+<PopPoint_Y>72.19</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>決戦場テレポータ</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.97</PopPoint_X>
+<PopPoint_Y>13.43</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>決戦場警備兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>22</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>182.96</PopPoint_X>
+<PopPoint_Y>20.34</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>決戦場警備兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>22</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.94</PopPoint_X>
+<PopPoint_Y>12.01</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>伝説の闘士バンテ</CharacterName>
+<CharacterType>14</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>118.03</PopPoint_X>
+<PopPoint_Y>63.17</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>ヘメル</CharacterName>
+<CharacterType>19</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>100.54</PopPoint_X>
+<PopPoint_Y>81.07</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>エイレン</CharacterName>
+<CharacterType>28</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>179.88</PopPoint_X>
+<PopPoint_Y>128.08</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>決戦場警備兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>22</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>95.55</PopPoint_X>
+<PopPoint_Y>65.80</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>決戦場警備兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>22</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>64.41</PopPoint_X>
+<PopPoint_Y>140.16</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>決戦場警備兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>22</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>147.13</PopPoint_X>
+<PopPoint_Y>139.60</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>調教師 チリ</CharacterName>
+<CharacterType>28</CharacterType>
+<InternalID>23</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>198.52</PopPoint_X>
+<PopPoint_Y>110.04</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>ホワイトゴルゴ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>24</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>201.70</PopPoint_X>
+<PopPoint_Y>112.51</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>ボーンドラゴン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>25</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>195.50</PopPoint_X>
+<PopPoint_Y>107.87</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>エモネ</CharacterName>
+<CharacterType>32</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>116.16</PopPoint_X>
+<PopPoint_Y>39.99</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>メリッサ</CharacterName>
+<CharacterType>39</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.02</PopPoint_X>
+<PopPoint_Y>84.00</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>ロイ</CharacterName>
+<CharacterType>36</CharacterType>
+<InternalID>34</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>91.65</PopPoint_X>
+<PopPoint_Y>50.99</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>レオナ</CharacterName>
+<CharacterType>32</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>130.40</PopPoint_X>
+<PopPoint_Y>48.03</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>ユニコーン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>27</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>182.44</PopPoint_X>
+<PopPoint_Y>127.65</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>鍛冶屋 パン</CharacterName>
+<CharacterType>18</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>137.62</PopPoint_X>
+<PopPoint_Y>56.81</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>国会議員ベンツ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>140.31</PopPoint_X>
+<PopPoint_Y>68.47</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>ジュドー</CharacterName>
+<CharacterType>36</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.88</PopPoint_X>
+<PopPoint_Y>55.33</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>ビーデル</CharacterName>
+<CharacterType>39</CharacterType>
+<InternalID>35</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>91.19</PopPoint_X>
+<PopPoint_Y>87.72</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>第1区</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>30.12</AreaPos_X>
+<AreaPos_X2>36.39</AreaPos_X2>
+<AreaPos_Y>15.31</AreaPos_Y>
+<AreaPos_Y2>17.58</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>第2区</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>170.46</AreaPos_X>
+<AreaPos_X2>180.76</AreaPos_X2>
+<AreaPos_Y>20.28</AreaPos_Y>
+<AreaPos_Y2>22.32</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>第3区</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>168.00</AreaPos_X>
+<AreaPos_X2>189.30</AreaPos_X2>
+<AreaPos_Y>126.83</AreaPos_Y>
+<AreaPos_Y2>132.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>中央広場</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>101.85</AreaPos_X>
+<AreaPos_X2>113.17</AreaPos_X2>
+<AreaPos_Y>72.25</AreaPos_Y>
+<AreaPos_Y2>75.87</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>第4区</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>33.24</AreaPos_X>
+<AreaPos_X2>36.32</AreaPos_X2>
+<AreaPos_Y>127.35</AreaPos_Y>
+<AreaPos_Y2>128.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>시작 영역</AreaName>
+<AreaType>5</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>103.92</AreaPos_X>
+<AreaPos_X2>108.31</AreaPos_X2>
+<AreaPos_Y>84.04</AreaPos_Y>
+<AreaPos_Y2>87.82</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>스킬 및 스테이터스 초기화 NPC1</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>71.79</AreaPos_X>
+<AreaPos_X2>78.98</AreaPos_X2>
+<AreaPos_Y>47.50</AreaPos_Y>
+<AreaPos_Y2>50.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>스킬 및 스테이터스 초기화 NPC2</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>6.66</AreaPos_X>
+<AreaPos_X2>11.12</AreaPos_X2>
+<AreaPos_Y>29.76</AreaPos_Y>
+<AreaPos_Y2>34.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>셀린의 이동 영역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>32.25</AreaPos_X>
+<AreaPos_X2>40.23</AreaPos_X2>
+<AreaPos_Y>132.98</AreaPos_Y>
+<AreaPos_Y2>139.73</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>스킬 및 스테이터스 초기화 NPC3</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>180.83</AreaPos_X>
+<AreaPos_X2>183.22</AreaPos_X2>
+<AreaPos_Y>6.32</AreaPos_Y>
+<AreaPos_Y2>9.32</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>전설의 투사 반테의 이동지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>111.27</AreaPos_X>
+<AreaPos_X2>124.56</AreaPos_X2>
+<AreaPos_Y>56.88</AreaPos_Y>
+<AreaPos_Y2>68.04</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>경호원 활동영역1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>86.79</AreaPos_X>
+<AreaPos_X2>100.24</AreaPos_X2>
+<AreaPos_Y>61.75</AreaPos_Y>
+<AreaPos_Y2>71.26</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>경호원 활동영역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>49.38</AreaPos_X>
+<AreaPos_X2>79.57</AreaPos_X2>
+<AreaPos_Y>135.06</AreaPos_Y>
+<AreaPos_Y2>143.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>헤멜 이동지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>99.13</AreaPos_X>
+<AreaPos_X2>111.00</AreaPos_X2>
+<AreaPos_Y>78.05</AreaPos_Y>
+<AreaPos_Y2>83.90</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>경호원 활동영역3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>130.00</AreaPos_X>
+<AreaPos_X2>161.44</AreaPos_X2>
+<AreaPos_Y>136.57</AreaPos_Y>
+<AreaPos_Y2>142.46</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>대기소 이동1</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>103.75</AreaPos_X>
+<AreaPos_X2>109.50</AreaPos_X2>
+<AreaPos_Y>59.32</AreaPos_Y>
+<AreaPos_Y2>64.55</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>대기소 이동2</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>14.47</AreaPos_X>
+<AreaPos_X2>22.71</AreaPos_X2>
+<AreaPos_Y>66.66</AreaPos_Y>
+<AreaPos_Y2>75.08</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>대기소 이동3</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>101.88</AreaPos_X>
+<AreaPos_X2>111.07</AreaPos_X2>
+<AreaPos_Y>140.82</AreaPos_Y>
+<AreaPos_Y2>148.45</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>대기소 이동4</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>190.51</AreaPos_X>
+<AreaPos_X2>201.57</AreaPos_X2>
+<AreaPos_Y>65.73</AreaPos_Y>
+<AreaPos_Y2>77.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>대기소 이동5</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>101.72</AreaPos_X>
+<AreaPos_X2>112.68</AreaPos_X2>
+<AreaPos_Y>8.82</AreaPos_Y>
+<AreaPos_Y2>18.14</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>스킬 및 스테이터스 초기화 NPC4</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>134.24</AreaPos_X>
+<AreaPos_X2>138.37</AreaPos_X2>
+<AreaPos_Y>131.04</AreaPos_Y>
+<AreaPos_Y2>134.99</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>스킬 및 스테이터스 초기화 NPC5</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>53.98</AreaPos_X>
+<AreaPos_X2>57.91</AreaPos_X2>
+<AreaPos_Y>128.38</AreaPos_Y>
+<AreaPos_Y2>131.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>경호원 활동영역4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>168.39</AreaPos_X>
+<AreaPos_X2>189.89</AreaPos_X2>
+<AreaPos_Y>12.38</AreaPos_Y>
+<AreaPos_Y2>28.57</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>경호원 활동영역5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>36.82</AreaPos_X>
+<AreaPos_X2>54.90</AreaPos_X2>
+<AreaPos_Y>7.14</AreaPos_Y>
+<AreaPos_Y2>16.46</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>국회의원 벤트의 이동영역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>127.71</AreaPos_X>
+<AreaPos_X2>147.69</AreaPos_X2>
+<AreaPos_Y>62.94</AreaPos_Y>
+<AreaPos_Y2>74.10</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

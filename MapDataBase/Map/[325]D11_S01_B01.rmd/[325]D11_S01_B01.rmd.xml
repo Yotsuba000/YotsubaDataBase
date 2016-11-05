@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[325]D11_S01_B01.rmd</FileName>
+<FileType>Red Stone Scenario File 6.3 beta</FileType>
+<MapName>ビックマウスダンジョン　Ｂ１</MapName>
+<SysWidth>50</SysWidth>
+<SysHeight>75</SysHeight>
+<TgaWidth>100</TgaWidth>
+<TgaHeight>75</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>27.03</PopPoint_X>
+<PopPoint_Y>16.88</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>28.75</PopPoint_X>
+<PopPoint_Y>22.97</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>37.66</PopPoint_X>
+<PopPoint_Y>20.47</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>63.75</PopPoint_X>
+<PopPoint_Y>14.53</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>77.34</PopPoint_X>
+<PopPoint_Y>13.44</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>77.34</PopPoint_X>
+<PopPoint_Y>17.81</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>19.22</PopPoint_X>
+<PopPoint_Y>54.84</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>23.13</PopPoint_X>
+<PopPoint_Y>63.91</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>37.34</PopPoint_X>
+<PopPoint_Y>55.94</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>80.63</PopPoint_X>
+<PopPoint_Y>54.06</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>ラットマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>84.06</PopPoint_X>
+<PopPoint_Y>61.09</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ラットシーフ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>30</PopSpeed>
+<PopPoint_X>31.09</PopPoint_X>
+<PopPoint_Y>60.31</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>입구</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[323]D11.rmd</AccessMap>
+<AccessMapName>ウェテンロード / ケルチ大橋付近</AccessMapName>
+<AreaPos_X>3.91</AreaPos_X>
+<AreaPos_X2>7.56</AreaPos_X2>
+<AreaPos_Y>2.06</AreaPos_Y>
+<AreaPos_Y2>4.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>아래 층</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[326]D11_S01_B02.rmd</AccessMap>
+<AccessMapName>ビックマウスダンジョン　Ｂ２</AccessMapName>
+<AreaPos_X>94.88</AreaPos_X>
+<AreaPos_X2>97.56</AreaPos_X2>
+<AreaPos_Y>29.28</AreaPos_Y>
+<AreaPos_Y2>32.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>출구!</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[323]D11.rmd</AccessMap>
+<AccessMapName>ウェテンロード / ケルチ大橋付近</AccessMapName>
+<AreaPos_X>54.75</AreaPos_X>
+<AreaPos_X2>58.81</AreaPos_X2>
+<AreaPos_Y>70.22</AreaPos_Y>
+<AreaPos_Y2>72.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>20.00</AreaPos_X>
+<AreaPos_X2>42.50</AreaPos_X2>
+<AreaPos_Y>12.97</AreaPos_Y>
+<AreaPos_Y2>27.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>57.19</AreaPos_X>
+<AreaPos_X2>84.69</AreaPos_X2>
+<AreaPos_Y>10.00</AreaPos_Y>
+<AreaPos_Y2>20.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>13.59</AreaPos_X>
+<AreaPos_X2>43.28</AreaPos_X2>
+<AreaPos_Y>48.75</AreaPos_Y>
+<AreaPos_Y2>68.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>73.44</AreaPos_X>
+<AreaPos_X2>89.38</AreaPos_X2>
+<AreaPos_Y>49.53</AreaPos_Y>
+<AreaPos_Y2>68.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>31.91</AreaPos_X>
+<AreaPos_X2>34.00</AreaPos_X2>
+<AreaPos_Y>10.94</AreaPos_Y>
+<AreaPos_Y2>12.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>14.06</AreaPos_X>
+<AreaPos_X2>15.94</AreaPos_X2>
+<AreaPos_Y>29.03</AreaPos_Y>
+<AreaPos_Y2>29.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>44.22</AreaPos_X>
+<AreaPos_X2>46.00</AreaPos_X2>
+<AreaPos_Y>58.00</AreaPos_Y>
+<AreaPos_Y2>58.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>58.13</AreaPos_X>
+<AreaPos_X2>59.94</AreaPos_X2>
+<AreaPos_Y>38.97</AreaPos_Y>
+<AreaPos_Y2>39.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>43.97</AreaPos_X>
+<AreaPos_X2>45.69</AreaPos_X2>
+<AreaPos_Y>38.94</AreaPos_Y>
+<AreaPos_Y2>40.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>보물상자05</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>76.09</AreaPos_X>
+<AreaPos_X2>77.81</AreaPos_X2>
+<AreaPos_Y>63.06</AreaPos_Y>
+<AreaPos_Y2>63.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>보물상자06</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>86.09</AreaPos_X>
+<AreaPos_X2>88.06</AreaPos_X2>
+<AreaPos_Y>22.97</AreaPos_Y>
+<AreaPos_Y2>24.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>보물상자07</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>55.84</AreaPos_X>
+<AreaPos_X2>57.94</AreaPos_X2>
+<AreaPos_Y>13.00</AreaPos_Y>
+<AreaPos_Y2>14.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

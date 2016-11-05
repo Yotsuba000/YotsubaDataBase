@@ -1,0 +1,2419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[634]M12_M02_B2.rmd</FileName>
+<FileType>Red Stone Scenario File 7.3 beta</FileType>
+<MapName>ミラーダンジョンパブル鉱山 B2 1-2</MapName>
+<SysWidth>150</SysWidth>
+<SysHeight>150</SysHeight>
+<TgaWidth>400</TgaWidth>
+<TgaHeight>200</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>1</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>1</MapView_Lv>
+<isLocationStrage>0</isLocationStrage>
+<P_SubElement1>60</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>50</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>21.42</PopPoint_X>
+<PopPoint_Y>18.71</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>29.33</PopPoint_X>
+<PopPoint_Y>27.58</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.67</PopPoint_X>
+<PopPoint_Y>20.54</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.04</PopPoint_X>
+<PopPoint_Y>51.33</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.33</PopPoint_X>
+<PopPoint_Y>43.83</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.25</PopPoint_X>
+<PopPoint_Y>104.71</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>101.25</PopPoint_X>
+<PopPoint_Y>70.58</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>93.88</PopPoint_X>
+<PopPoint_Y>69.42</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.50</PopPoint_X>
+<PopPoint_Y>117.13</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>126.92</PopPoint_X>
+<PopPoint_Y>56.63</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>122.79</PopPoint_X>
+<PopPoint_Y>51.04</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>126.71</PopPoint_X>
+<PopPoint_Y>53.04</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>124.46</PopPoint_X>
+<PopPoint_Y>16.17</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>130.58</PopPoint_X>
+<PopPoint_Y>17.83</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>135.58</PopPoint_X>
+<PopPoint_Y>23.54</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>202.46</PopPoint_X>
+<PopPoint_Y>70.00</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>196.67</PopPoint_X>
+<PopPoint_Y>72.75</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>208.33</PopPoint_X>
+<PopPoint_Y>72.08</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>201.33</PopPoint_X>
+<PopPoint_Y>27.17</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>210.21</PopPoint_X>
+<PopPoint_Y>26.13</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>207.58</PopPoint_X>
+<PopPoint_Y>36.42</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>253.83</PopPoint_X>
+<PopPoint_Y>51.25</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>259.71</PopPoint_X>
+<PopPoint_Y>60.33</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>253.42</PopPoint_X>
+<PopPoint_Y>56.96</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>273.17</PopPoint_X>
+<PopPoint_Y>90.13</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>333.83</PopPoint_X>
+<PopPoint_Y>76.67</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>310.83</PopPoint_X>
+<PopPoint_Y>41.63</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>354.96</PopPoint_X>
+<PopPoint_Y>27.08</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>377.04</PopPoint_X>
+<PopPoint_Y>56.04</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>277.38</PopPoint_X>
+<PopPoint_Y>85.00</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>324.58</PopPoint_X>
+<PopPoint_Y>80.46</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>379.75</PopPoint_X>
+<PopPoint_Y>60.63</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>347.88</PopPoint_X>
+<PopPoint_Y>24.17</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>303.13</PopPoint_X>
+<PopPoint_Y>38.13</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>266.63</PopPoint_X>
+<PopPoint_Y>82.92</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>329.54</PopPoint_X>
+<PopPoint_Y>71.67</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>316.88</PopPoint_X>
+<PopPoint_Y>42.04</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>362.46</PopPoint_X>
+<PopPoint_Y>24.79</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>380.17</PopPoint_X>
+<PopPoint_Y>52.08</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>ヘシース</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>162.54</PopPoint_X>
+<PopPoint_Y>42.17</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>53.04</PopPoint_X>
+<PopPoint_Y>61.42</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>66.38</PopPoint_X>
+<PopPoint_Y>73.50</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>62.67</PopPoint_X>
+<PopPoint_Y>62.50</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.25</PopPoint_X>
+<PopPoint_Y>139.88</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>48.96</PopPoint_X>
+<PopPoint_Y>76.29</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>87.38</PopPoint_X>
+<PopPoint_Y>71.79</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>113.21</PopPoint_X>
+<PopPoint_Y>62.79</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>103.21</PopPoint_X>
+<PopPoint_Y>34.71</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>97.83</PopPoint_X>
+<PopPoint_Y>26.38</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>112.83</PopPoint_X>
+<PopPoint_Y>33.29</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>114.21</PopPoint_X>
+<PopPoint_Y>28.00</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>34.04</PopPoint_X>
+<PopPoint_Y>99.17</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>184.08</PopPoint_X>
+<PopPoint_Y>68.17</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>199.42</PopPoint_X>
+<PopPoint_Y>36.71</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>206.63</PopPoint_X>
+<PopPoint_Y>43.00</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>250.25</PopPoint_X>
+<PopPoint_Y>44.33</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>244.79</PopPoint_X>
+<PopPoint_Y>38.00</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>289.00</PopPoint_X>
+<PopPoint_Y>85.50</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>326.29</PopPoint_X>
+<PopPoint_Y>64.83</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.38</PopPoint_X>
+<PopPoint_Y>60.33</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>300.13</PopPoint_X>
+<PopPoint_Y>29.25</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>305.29</PopPoint_X>
+<PopPoint_Y>21.08</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>296.13</PopPoint_X>
+<PopPoint_Y>24.83</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>341.33</PopPoint_X>
+<PopPoint_Y>22.50</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>384.58</PopPoint_X>
+<PopPoint_Y>42.96</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.79</PopPoint_X>
+<PopPoint_Y>128.17</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>48.96</PopPoint_X>
+<PopPoint_Y>135.79</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>19.00</PopPoint_X>
+<PopPoint_Y>113.96</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>29.08</PopPoint_X>
+<PopPoint_Y>98.88</PopPoint_Y>
+</Character>
+<Character id="cUid69">
+<CharacterUID>69</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>41.29</PopPoint_X>
+<PopPoint_Y>134.33</PopPoint_Y>
+</Character>
+<Character id="cUid70">
+<CharacterUID>70</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>25.75</PopPoint_X>
+<PopPoint_Y>159.13</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.63</PopPoint_X>
+<PopPoint_Y>174.42</PopPoint_Y>
+</Character>
+<Character id="cUid72">
+<CharacterUID>72</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>29.58</PopPoint_X>
+<PopPoint_Y>176.63</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>29.46</PopPoint_X>
+<PopPoint_Y>170.21</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>47.96</PopPoint_X>
+<PopPoint_Y>163.25</PopPoint_Y>
+</Character>
+<Character id="cUid75">
+<CharacterUID>75</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.71</PopPoint_X>
+<PopPoint_Y>163.92</PopPoint_Y>
+</Character>
+<Character id="cUid76">
+<CharacterUID>76</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>85.67</PopPoint_X>
+<PopPoint_Y>180.58</PopPoint_Y>
+</Character>
+<Character id="cUid77">
+<CharacterUID>77</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>74.17</PopPoint_X>
+<PopPoint_Y>180.29</PopPoint_Y>
+</Character>
+<Character id="cUid78">
+<CharacterUID>78</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>100.75</PopPoint_X>
+<PopPoint_Y>170.71</PopPoint_Y>
+</Character>
+<Character id="cUid79">
+<CharacterUID>79</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>101.29</PopPoint_X>
+<PopPoint_Y>162.04</PopPoint_Y>
+</Character>
+<Character id="cUid80">
+<CharacterUID>80</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.96</PopPoint_X>
+<PopPoint_Y>167.58</PopPoint_Y>
+</Character>
+<Character id="cUid81">
+<CharacterUID>81</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>108.08</PopPoint_X>
+<PopPoint_Y>161.92</PopPoint_Y>
+</Character>
+<Character id="cUid82">
+<CharacterUID>82</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.04</PopPoint_X>
+<PopPoint_Y>149.71</PopPoint_Y>
+</Character>
+<Character id="cUid83">
+<CharacterUID>83</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>79.50</PopPoint_X>
+<PopPoint_Y>144.25</PopPoint_Y>
+</Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>76.83</PopPoint_X>
+<PopPoint_Y>151.79</PopPoint_Y>
+</Character>
+<Character id="cUid85">
+<CharacterUID>85</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>79.67</PopPoint_X>
+<PopPoint_Y>111.58</PopPoint_Y>
+</Character>
+<Character id="cUid86">
+<CharacterUID>86</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>84.13</PopPoint_X>
+<PopPoint_Y>119.96</PopPoint_Y>
+</Character>
+<Character id="cUid87">
+<CharacterUID>87</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>78.96</PopPoint_X>
+<PopPoint_Y>122.71</PopPoint_Y>
+</Character>
+<Character id="cUid88">
+<CharacterUID>88</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>103.21</PopPoint_X>
+<PopPoint_Y>111.67</PopPoint_Y>
+</Character>
+<Character id="cUid89">
+<CharacterUID>89</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>107.17</PopPoint_X>
+<PopPoint_Y>109.00</PopPoint_Y>
+</Character>
+<Character id="cUid90">
+<CharacterUID>90</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>112.96</PopPoint_X>
+<PopPoint_Y>113.83</PopPoint_Y>
+</Character>
+<Character id="cUid91">
+<CharacterUID>91</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>119.88</PopPoint_X>
+<PopPoint_Y>108.29</PopPoint_Y>
+</Character>
+<Character id="cUid92">
+<CharacterUID>92</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>160.83</PopPoint_X>
+<PopPoint_Y>150.08</PopPoint_Y>
+</Character>
+<Character id="cUid93">
+<CharacterUID>93</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>142.33</PopPoint_X>
+<PopPoint_Y>138.46</PopPoint_Y>
+</Character>
+<Character id="cUid94">
+<CharacterUID>94</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>163.25</PopPoint_X>
+<PopPoint_Y>143.00</PopPoint_Y>
+</Character>
+<Character id="cUid95">
+<CharacterUID>95</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>137.42</PopPoint_X>
+<PopPoint_Y>142.38</PopPoint_Y>
+</Character>
+<Character id="cUid96">
+<CharacterUID>96</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>143.88</PopPoint_X>
+<PopPoint_Y>149.96</PopPoint_Y>
+</Character>
+<Character id="cUid97">
+<CharacterUID>97</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>133.08</PopPoint_X>
+<PopPoint_Y>137.00</PopPoint_Y>
+</Character>
+<Character id="cUid98">
+<CharacterUID>98</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>155.88</PopPoint_X>
+<PopPoint_Y>138.67</PopPoint_Y>
+</Character>
+<Character id="cUid99">
+<CharacterUID>99</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>152.04</PopPoint_X>
+<PopPoint_Y>145.42</PopPoint_Y>
+</Character>
+<Character id="cUid100">
+<CharacterUID>100</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>169.83</PopPoint_X>
+<PopPoint_Y>104.04</PopPoint_Y>
+</Character>
+<Character id="cUid101">
+<CharacterUID>101</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>177.92</PopPoint_X>
+<PopPoint_Y>102.29</PopPoint_Y>
+</Character>
+<Character id="cUid102">
+<CharacterUID>102</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>183.42</PopPoint_X>
+<PopPoint_Y>106.33</PopPoint_Y>
+</Character>
+<Character id="cUid103">
+<CharacterUID>103</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>194.71</PopPoint_X>
+<PopPoint_Y>133.88</PopPoint_Y>
+</Character>
+<Character id="cUid104">
+<CharacterUID>104</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>195.63</PopPoint_X>
+<PopPoint_Y>144.50</PopPoint_Y>
+</Character>
+<Character id="cUid105">
+<CharacterUID>105</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>204.33</PopPoint_X>
+<PopPoint_Y>137.58</PopPoint_Y>
+</Character>
+<Character id="cUid106">
+<CharacterUID>106</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>196.08</PopPoint_X>
+<PopPoint_Y>138.13</PopPoint_Y>
+</Character>
+<Character id="cUid107">
+<CharacterUID>107</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>180.04</PopPoint_X>
+<PopPoint_Y>178.00</PopPoint_Y>
+</Character>
+<Character id="cUid108">
+<CharacterUID>108</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>213.83</PopPoint_X>
+<PopPoint_Y>173.04</PopPoint_Y>
+</Character>
+<Character id="cUid109">
+<CharacterUID>109</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>208.21</PopPoint_X>
+<PopPoint_Y>181.38</PopPoint_Y>
+</Character>
+<Character id="cUid110">
+<CharacterUID>110</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>197.33</PopPoint_X>
+<PopPoint_Y>174.08</PopPoint_Y>
+</Character>
+<Character id="cUid111">
+<CharacterUID>111</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>191.25</PopPoint_X>
+<PopPoint_Y>181.46</PopPoint_Y>
+</Character>
+<Character id="cUid112">
+<CharacterUID>112</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>188.71</PopPoint_X>
+<PopPoint_Y>176.42</PopPoint_Y>
+</Character>
+<Character id="cUid113">
+<CharacterUID>113</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>246.13</PopPoint_X>
+<PopPoint_Y>188.75</PopPoint_Y>
+</Character>
+<Character id="cUid114">
+<CharacterUID>114</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>262.25</PopPoint_X>
+<PopPoint_Y>183.13</PopPoint_Y>
+</Character>
+<Character id="cUid115">
+<CharacterUID>115</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>250.63</PopPoint_X>
+<PopPoint_Y>171.92</PopPoint_Y>
+</Character>
+<Character id="cUid116">
+<CharacterUID>116</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>259.79</PopPoint_X>
+<PopPoint_Y>175.50</PopPoint_Y>
+</Character>
+<Character id="cUid117">
+<CharacterUID>117</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>255.25</PopPoint_X>
+<PopPoint_Y>184.42</PopPoint_Y>
+</Character>
+<Character id="cUid118">
+<CharacterUID>118</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>240.63</PopPoint_X>
+<PopPoint_Y>186.38</PopPoint_Y>
+</Character>
+<Character id="cUid119">
+<CharacterUID>119</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>229.29</PopPoint_X>
+<PopPoint_Y>107.71</PopPoint_Y>
+</Character>
+<Character id="cUid120">
+<CharacterUID>120</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>252.88</PopPoint_X>
+<PopPoint_Y>117.79</PopPoint_Y>
+</Character>
+<Character id="cUid121">
+<CharacterUID>121</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>246.17</PopPoint_X>
+<PopPoint_Y>113.00</PopPoint_Y>
+</Character>
+<Character id="cUid122">
+<CharacterUID>122</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>236.13</PopPoint_X>
+<PopPoint_Y>110.08</PopPoint_Y>
+</Character>
+<Character id="cUid123">
+<CharacterUID>123</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>267.67</PopPoint_X>
+<PopPoint_Y>136.04</PopPoint_Y>
+</Character>
+<Character id="cUid124">
+<CharacterUID>124</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>271.13</PopPoint_X>
+<PopPoint_Y>144.17</PopPoint_Y>
+</Character>
+<Character id="cUid125">
+<CharacterUID>125</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>279.50</PopPoint_X>
+<PopPoint_Y>156.96</PopPoint_Y>
+</Character>
+<Character id="cUid126">
+<CharacterUID>126</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>285.50</PopPoint_X>
+<PopPoint_Y>164.50</PopPoint_Y>
+</Character>
+<Character id="cUid127">
+<CharacterUID>127</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>279.79</PopPoint_X>
+<PopPoint_Y>164.25</PopPoint_Y>
+</Character>
+<Character id="cUid128">
+<CharacterUID>128</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>301.17</PopPoint_X>
+<PopPoint_Y>186.58</PopPoint_Y>
+</Character>
+<Character id="cUid129">
+<CharacterUID>129</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>319.04</PopPoint_X>
+<PopPoint_Y>186.63</PopPoint_Y>
+</Character>
+<Character id="cUid130">
+<CharacterUID>130</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>319.08</PopPoint_X>
+<PopPoint_Y>178.67</PopPoint_Y>
+</Character>
+<Character id="cUid131">
+<CharacterUID>131</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>311.33</PopPoint_X>
+<PopPoint_Y>183.21</PopPoint_Y>
+</Character>
+<Character id="cUid132">
+<CharacterUID>132</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>305.75</PopPoint_X>
+<PopPoint_Y>182.50</PopPoint_Y>
+</Character>
+<Character id="cUid133">
+<CharacterUID>133</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>342.29</PopPoint_X>
+<PopPoint_Y>177.17</PopPoint_Y>
+</Character>
+<Character id="cUid134">
+<CharacterUID>134</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>357.00</PopPoint_X>
+<PopPoint_Y>168.71</PopPoint_Y>
+</Character>
+<Character id="cUid135">
+<CharacterUID>135</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>347.33</PopPoint_X>
+<PopPoint_Y>170.88</PopPoint_Y>
+</Character>
+<Character id="cUid136">
+<CharacterUID>136</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>355.33</PopPoint_X>
+<PopPoint_Y>176.00</PopPoint_Y>
+</Character>
+<Character id="cUid137">
+<CharacterUID>137</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>363.25</PopPoint_X>
+<PopPoint_Y>139.33</PopPoint_Y>
+</Character>
+<Character id="cUid138">
+<CharacterUID>138</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>365.13</PopPoint_X>
+<PopPoint_Y>143.46</PopPoint_Y>
+</Character>
+<Character id="cUid139">
+<CharacterUID>139</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>366.63</PopPoint_X>
+<PopPoint_Y>152.29</PopPoint_Y>
+</Character>
+<Character id="cUid140">
+<CharacterUID>140</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>352.63</PopPoint_X>
+<PopPoint_Y>117.08</PopPoint_Y>
+</Character>
+<Character id="cUid141">
+<CharacterUID>141</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>364.25</PopPoint_X>
+<PopPoint_Y>120.17</PopPoint_Y>
+</Character>
+<Character id="cUid142">
+<CharacterUID>142</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>365.13</PopPoint_X>
+<PopPoint_Y>113.58</PopPoint_Y>
+</Character>
+<Character id="cUid143">
+<CharacterUID>143</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>375.67</PopPoint_X>
+<PopPoint_Y>111.54</PopPoint_Y>
+</Character>
+<Character id="cUid144">
+<CharacterUID>144</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>288.17</PopPoint_X>
+<PopPoint_Y>130.08</PopPoint_Y>
+</Character>
+<Character id="cUid145">
+<CharacterUID>145</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>305.42</PopPoint_X>
+<PopPoint_Y>130.46</PopPoint_Y>
+</Character>
+<Character id="cUid146">
+<CharacterUID>146</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>300.50</PopPoint_X>
+<PopPoint_Y>131.75</PopPoint_Y>
+</Character>
+<Character id="cUid147">
+<CharacterUID>147</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>297.25</PopPoint_X>
+<PopPoint_Y>138.04</PopPoint_Y>
+</Character>
+<Character id="cUid148">
+<CharacterUID>148</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>293.63</PopPoint_X>
+<PopPoint_Y>131.79</PopPoint_Y>
+</Character>
+<Character id="cUid149">
+<CharacterUID>149</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>312.54</PopPoint_X>
+<PopPoint_Y>108.08</PopPoint_Y>
+</Character>
+<Character id="cUid150">
+<CharacterUID>150</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>325.17</PopPoint_X>
+<PopPoint_Y>107.46</PopPoint_Y>
+</Character>
+<Character id="cUid151">
+<CharacterUID>151</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.71</PopPoint_X>
+<PopPoint_Y>109.92</PopPoint_Y>
+</Character>
+<Character id="cUid152">
+<CharacterUID>152</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>318.00</PopPoint_X>
+<PopPoint_Y>113.88</PopPoint_Y>
+</Character>
+<Character id="cUid153">
+<CharacterUID>153</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>373.67</PopPoint_X>
+<PopPoint_Y>82.50</PopPoint_Y>
+</Character>
+<Character id="cUid154">
+<CharacterUID>154</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>365.67</PopPoint_X>
+<PopPoint_Y>85.13</PopPoint_Y>
+</Character>
+<Character id="cUid155">
+<CharacterUID>155</CharacterUID>
+<CharacterName>クローラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>19</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>360.83</PopPoint_X>
+<PopPoint_Y>89.46</PopPoint_Y>
+</Character>
+<Character id="cUid156">
+<CharacterUID>156</CharacterUID>
+<CharacterName>ソーサラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>237.79</PopPoint_X>
+<PopPoint_Y>141.17</PopPoint_Y>
+</Character>
+<Character id="cUid157">
+<CharacterUID>157</CharacterUID>
+<CharacterName>クリーパー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>248.79</PopPoint_X>
+<PopPoint_Y>144.88</PopPoint_Y>
+</Character>
+<Character id="cUid158">
+<CharacterUID>158</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>19.63</PopPoint_X>
+<PopPoint_Y>143.63</PopPoint_Y>
+</Character>
+<Character id="cUid159">
+<CharacterUID>159</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.79</PopPoint_X>
+<PopPoint_Y>141.67</PopPoint_Y>
+</Character>
+<Character id="cUid160">
+<CharacterUID>160</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>32.75</PopPoint_X>
+<PopPoint_Y>151.63</PopPoint_Y>
+</Character>
+<Character id="cUid161">
+<CharacterUID>161</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>26.63</PopPoint_X>
+<PopPoint_Y>147.17</PopPoint_Y>
+</Character>
+<Character id="cUid162">
+<CharacterUID>162</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>135.63</PopPoint_X>
+<PopPoint_Y>108.58</PopPoint_Y>
+</Character>
+<Character id="cUid163">
+<CharacterUID>163</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.33</PopPoint_X>
+<PopPoint_Y>108.25</PopPoint_Y>
+</Character>
+<Character id="cUid164">
+<CharacterUID>164</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>142.83</PopPoint_X>
+<PopPoint_Y>119.92</PopPoint_Y>
+</Character>
+<Character id="cUid165">
+<CharacterUID>165</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>144.13</PopPoint_X>
+<PopPoint_Y>113.13</PopPoint_Y>
+</Character>
+<Character id="cUid166">
+<CharacterUID>166</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>206.79</PopPoint_X>
+<PopPoint_Y>51.13</PopPoint_Y>
+</Character>
+<Character id="cUid167">
+<CharacterUID>167</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>221.50</PopPoint_X>
+<PopPoint_Y>51.33</PopPoint_Y>
+</Character>
+<Character id="cUid168">
+<CharacterUID>168</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>219.88</PopPoint_X>
+<PopPoint_Y>63.04</PopPoint_Y>
+</Character>
+<Character id="cUid169">
+<CharacterUID>169</CharacterUID>
+<CharacterName>狂気の指揮官</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>215.29</PopPoint_X>
+<PopPoint_Y>56.50</PopPoint_Y>
+</Character>
+<Character id="cUid170">
+<CharacterUID>170</CharacterUID>
+<CharacterName>ミラーテレポータ</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>6.04</PopPoint_X>
+<PopPoint_Y>7.08</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>지하 1층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[209]M12_M02_B1.rmd</AccessMap>
+<AccessMapName>パブル鉱山　Ｂ１</AccessMapName>
+<AreaPos_X>11.29</AreaPos_X>
+<AreaPos_X2>16.33</AreaPos_X2>
+<AreaPos_Y>3.17</AreaPos_Y>
+<AreaPos_Y2>5.42</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>17.92</AreaPos_X>
+<AreaPos_X2>41.58</AreaPos_X2>
+<AreaPos_Y>11.21</AreaPos_Y>
+<AreaPos_Y2>32.04</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>85.25</AreaPos_X>
+<AreaPos_X2>116.63</AreaPos_X2>
+<AreaPos_Y>54.58</AreaPos_Y>
+<AreaPos_Y2>76.42</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>36.71</AreaPos_X>
+<AreaPos_X2>62.79</AreaPos_X2>
+<AreaPos_Y>40.21</AreaPos_Y>
+<AreaPos_Y2>55.79</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>119.71</AreaPos_X>
+<AreaPos_X2>148.04</AreaPos_X2>
+<AreaPos_Y>11.96</AreaPos_Y>
+<AreaPos_Y2>27.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>178.33</AreaPos_X>
+<AreaPos_X2>213.71</AreaPos_X2>
+<AreaPos_Y>64.29</AreaPos_Y>
+<AreaPos_Y2>79.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>193.50</AreaPos_X>
+<AreaPos_X2>215.42</AreaPos_X2>
+<AreaPos_Y>20.38</AreaPos_Y>
+<AreaPos_Y2>45.96</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>242.83</AreaPos_X>
+<AreaPos_X2>262.42</AreaPos_X2>
+<AreaPos_Y>35.75</AreaPos_Y>
+<AreaPos_Y2>64.83</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>259.75</AreaPos_X>
+<AreaPos_X2>296.71</AreaPos_X2>
+<AreaPos_Y>80.38</AreaPos_Y>
+<AreaPos_Y2>94.67</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>310.83</AreaPos_X>
+<AreaPos_X2>338.63</AreaPos_X2>
+<AreaPos_Y>56.08</AreaPos_Y>
+<AreaPos_Y2>85.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>293.29</AreaPos_X>
+<AreaPos_X2>325.25</AreaPos_X2>
+<AreaPos_Y>35.08</AreaPos_Y>
+<AreaPos_Y2>46.79</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>335.42</AreaPos_X>
+<AreaPos_X2>372.96</AreaPos_X2>
+<AreaPos_Y>19.29</AreaPos_Y>
+<AreaPos_Y2>32.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>370.04</AreaPos_X>
+<AreaPos_X2>392.04</AreaPos_X2>
+<AreaPos_Y>38.63</AreaPos_Y>
+<AreaPos_Y2>70.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>116.63</AreaPos_X>
+<AreaPos_X2>139.17</AreaPos_X2>
+<AreaPos_Y>43.63</AreaPos_Y>
+<AreaPos_Y2>65.17</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>타트바 광산으루</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[211]M09_M01_B1.rmd</AccessMap>
+<AccessMapName>タトバ鉱山　Ｂ１</AccessMapName>
+<AreaPos_X>391.25</AreaPos_X>
+<AreaPos_X2>394.71</AreaPos_X2>
+<AreaPos_Y>73.63</AreaPos_Y>
+<AreaPos_Y2>76.92</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>153.58</AreaPos_X>
+<AreaPos_X2>172.92</AreaPos_X2>
+<AreaPos_Y>28.38</AreaPos_Y>
+<AreaPos_Y2>55.04</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>26.63</AreaPos_X>
+<AreaPos_X2>42.58</AreaPos_X2>
+<AreaPos_Y>94.88</AreaPos_Y>
+<AreaPos_Y2>106.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>36.88</AreaPos_X>
+<AreaPos_X2>74.83</AreaPos_X2>
+<AreaPos_Y>55.92</AreaPos_Y>
+<AreaPos_Y2>86.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>Area 19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>96.00</AreaPos_X>
+<AreaPos_X2>119.67</AreaPos_X2>
+<AreaPos_Y>15.58</AreaPos_Y>
+<AreaPos_Y2>37.92</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>Area 20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>293.29</AreaPos_X>
+<AreaPos_X2>314.71</AreaPos_X2>
+<AreaPos_Y>15.88</AreaPos_Y>
+<AreaPos_Y2>35.08</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>Area 21</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.04</AreaPos_X>
+<AreaPos_X2>29.38</AreaPos_X2>
+<AreaPos_Y>109.50</AreaPos_Y>
+<AreaPos_Y2>118.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>Area 22</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>33.50</AreaPos_X>
+<AreaPos_X2>55.33</AreaPos_X2>
+<AreaPos_Y>123.29</AreaPos_Y>
+<AreaPos_Y2>143.54</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>Area 23</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>21.58</AreaPos_X>
+<AreaPos_X2>53.29</AreaPos_X2>
+<AreaPos_Y>153.42</AreaPos_Y>
+<AreaPos_Y2>179.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>Area 24</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>69.46</AreaPos_X>
+<AreaPos_X2>93.33</AreaPos_X2>
+<AreaPos_Y>176.50</AreaPos_Y>
+<AreaPos_Y2>186.46</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>Area 25</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>95.71</AreaPos_X>
+<AreaPos_X2>114.75</AreaPos_X2>
+<AreaPos_Y>155.83</AreaPos_Y>
+<AreaPos_Y2>174.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>Area 26</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>74.58</AreaPos_X>
+<AreaPos_X2>88.25</AreaPos_X2>
+<AreaPos_Y>139.79</AreaPos_Y>
+<AreaPos_Y2>155.83</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>Area 27</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>75.42</AreaPos_X>
+<AreaPos_X2>85.79</AreaPos_X2>
+<AreaPos_Y>108.54</AreaPos_Y>
+<AreaPos_Y2>129.58</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>Area 28</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>97.00</AreaPos_X>
+<AreaPos_X2>128.42</AreaPos_X2>
+<AreaPos_Y>102.75</AreaPos_Y>
+<AreaPos_Y2>117.21</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>Area 29</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>128.13</AreaPos_X>
+<AreaPos_X2>174.08</AreaPos_X2>
+<AreaPos_Y>129.83</AreaPos_Y>
+<AreaPos_Y2>157.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>Area 30</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>163.21</AreaPos_X>
+<AreaPos_X2>186.50</AreaPos_X2>
+<AreaPos_Y>99.08</AreaPos_Y>
+<AreaPos_Y2>112.83</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>Area 31</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>186.46</AreaPos_X>
+<AreaPos_X2>208.71</AreaPos_X2>
+<AreaPos_Y>127.33</AreaPos_Y>
+<AreaPos_Y2>148.79</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>Area 32</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>176.04</AreaPos_X>
+<AreaPos_X2>218.96</AreaPos_X2>
+<AreaPos_Y>167.58</AreaPos_Y>
+<AreaPos_Y2>186.96</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>Area 33</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>234.96</AreaPos_X>
+<AreaPos_X2>269.79</AreaPos_X2>
+<AreaPos_Y>167.88</AreaPos_Y>
+<AreaPos_Y2>195.42</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>Area 34</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>221.58</AreaPos_X>
+<AreaPos_X2>255.96</AreaPos_X2>
+<AreaPos_Y>103.71</AreaPos_Y>
+<AreaPos_Y2>120.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>Area 35</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>261.46</AreaPos_X>
+<AreaPos_X2>275.33</AreaPos_X2>
+<AreaPos_Y>128.17</AreaPos_Y>
+<AreaPos_Y2>148.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>Area 36</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>274.04</AreaPos_X>
+<AreaPos_X2>288.33</AreaPos_X2>
+<AreaPos_Y>153.79</AreaPos_Y>
+<AreaPos_Y2>171.17</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid38">
+<AreaUID>38</AreaUID>
+<AreaName>Area 37</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>295.63</AreaPos_X>
+<AreaPos_X2>325.92</AreaPos_X2>
+<AreaPos_Y>173.92</AreaPos_Y>
+<AreaPos_Y2>192.17</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid39">
+<AreaUID>39</AreaUID>
+<AreaName>Area 38</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>338.33</AreaPos_X>
+<AreaPos_X2>362.50</AreaPos_X2>
+<AreaPos_Y>164.79</AreaPos_Y>
+<AreaPos_Y2>182.92</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid40">
+<AreaUID>40</AreaUID>
+<AreaName>Area 39</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>353.46</AreaPos_X>
+<AreaPos_X2>376.42</AreaPos_X2>
+<AreaPos_Y>132.25</AreaPos_Y>
+<AreaPos_Y2>157.08</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid41">
+<AreaUID>41</AreaUID>
+<AreaName>Area 40</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>281.21</AreaPos_X>
+<AreaPos_X2>311.71</AreaPos_X2>
+<AreaPos_Y>122.04</AreaPos_Y>
+<AreaPos_Y2>141.08</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid42">
+<AreaUID>42</AreaUID>
+<AreaName>Area 41</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>304.00</AreaPos_X>
+<AreaPos_X2>335.71</AreaPos_X2>
+<AreaPos_Y>101.63</AreaPos_Y>
+<AreaPos_Y2>117.71</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid43">
+<AreaUID>43</AreaUID>
+<AreaName>Area 42</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>348.92</AreaPos_X>
+<AreaPos_X2>380.79</AreaPos_X2>
+<AreaPos_Y>106.33</AreaPos_Y>
+<AreaPos_Y2>123.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid44">
+<AreaUID>44</AreaUID>
+<AreaName>Area 43</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>354.58</AreaPos_X>
+<AreaPos_X2>379.38</AreaPos_X2>
+<AreaPos_Y>75.88</AreaPos_Y>
+<AreaPos_Y2>92.92</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid45">
+<AreaUID>45</AreaUID>
+<AreaName>Area 44</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>231.42</AreaPos_X>
+<AreaPos_X2>256.50</AreaPos_X2>
+<AreaPos_Y>135.17</AreaPos_Y>
+<AreaPos_Y2>151.58</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid46">
+<AreaUID>46</AreaUID>
+<AreaName>보스1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.54</AreaPos_X>
+<AreaPos_X2>35.88</AreaPos_X2>
+<AreaPos_Y>137.83</AreaPos_Y>
+<AreaPos_Y2>153.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid47">
+<AreaUID>47</AreaUID>
+<AreaName>보너스1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>22.42</AreaPos_X>
+<AreaPos_X2>30.79</AreaPos_X2>
+<AreaPos_Y>142.46</AreaPos_Y>
+<AreaPos_Y2>149.67</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid48">
+<AreaUID>48</AreaUID>
+<AreaName>보스2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>130.83</AreaPos_X>
+<AreaPos_X2>159.38</AreaPos_X2>
+<AreaPos_Y>102.67</AreaPos_Y>
+<AreaPos_Y2>122.29</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid49">
+<AreaUID>49</AreaUID>
+<AreaName>보너스2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>140.08</AreaPos_X>
+<AreaPos_X2>148.79</AreaPos_X2>
+<AreaPos_Y>108.79</AreaPos_Y>
+<AreaPos_Y2>116.08</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid50">
+<AreaUID>50</AreaUID>
+<AreaName>보스3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>200.71</AreaPos_X>
+<AreaPos_X2>231.04</AreaPos_X2>
+<AreaPos_Y>46.54</AreaPos_Y>
+<AreaPos_Y2>65.46</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid51">
+<AreaUID>51</AreaUID>
+<AreaName>보너스3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>211.75</AreaPos_X>
+<AreaPos_X2>218.79</AreaPos_X2>
+<AreaPos_Y>52.71</AreaPos_Y>
+<AreaPos_Y2>58.96</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

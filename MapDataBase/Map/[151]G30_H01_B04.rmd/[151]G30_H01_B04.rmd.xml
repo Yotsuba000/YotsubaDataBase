@@ -1,0 +1,3735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[151]G30_H01_B04.rmd</FileName>
+<FileType>Red Stone Scenario File 7.0 beta</FileType>
+<MapName>海の神殿　Ｂ４</MapName>
+<SysWidth>200</SysWidth>
+<SysHeight>200</SysHeight>
+<TgaWidth>400</TgaWidth>
+<TgaHeight>200</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>1</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>35</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>260.63</PopPoint_X>
+<PopPoint_Y>159.66</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>277.56</PopPoint_X>
+<PopPoint_Y>166.03</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>212.88</PopPoint_X>
+<PopPoint_Y>188.13</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>273.81</PopPoint_X>
+<PopPoint_Y>164.06</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>296.59</PopPoint_X>
+<PopPoint_Y>175.38</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>37</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>370.56</PopPoint_X>
+<PopPoint_Y>187.94</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.94</PopPoint_X>
+<PopPoint_Y>175.72</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>37</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>381.72</PopPoint_X>
+<PopPoint_Y>190.31</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>218.06</PopPoint_X>
+<PopPoint_Y>182.50</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>22</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>362.03</PopPoint_X>
+<PopPoint_Y>142.84</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>147.41</PopPoint_X>
+<PopPoint_Y>162.50</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>150.75</PopPoint_X>
+<PopPoint_Y>183.28</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>138.00</PopPoint_X>
+<PopPoint_Y>166.97</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>39.63</PopPoint_X>
+<PopPoint_Y>150.81</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>42.81</PopPoint_X>
+<PopPoint_Y>179.81</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>100.00</PopPoint_X>
+<PopPoint_Y>182.69</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>29.38</PopPoint_X>
+<PopPoint_Y>187.56</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>236.28</PopPoint_X>
+<PopPoint_Y>69.19</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.56</PopPoint_X>
+<PopPoint_Y>153.69</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>29.69</PopPoint_X>
+<PopPoint_Y>86.88</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>41</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>65.22</PopPoint_X>
+<PopPoint_Y>160.69</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>41</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>77.97</PopPoint_X>
+<PopPoint_Y>160.81</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>70.50</PopPoint_X>
+<PopPoint_Y>127.81</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>41</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>66.22</PopPoint_X>
+<PopPoint_Y>166.78</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>42</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>71.75</PopPoint_X>
+<PopPoint_Y>164.22</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>43</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>120.03</PopPoint_X>
+<PopPoint_Y>64.16</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>43</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>135.84</PopPoint_X>
+<PopPoint_Y>63.88</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.44</PopPoint_X>
+<PopPoint_Y>113.44</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>43</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>126.94</PopPoint_X>
+<PopPoint_Y>73.44</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>32.31</PopPoint_X>
+<PopPoint_Y>111.56</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>64.56</PopPoint_X>
+<PopPoint_Y>95.88</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>19.63</PopPoint_X>
+<PopPoint_Y>46.63</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>75.13</PopPoint_X>
+<PopPoint_Y>37.75</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>11</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>26.38</PopPoint_X>
+<PopPoint_Y>9.06</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>30.50</PopPoint_X>
+<PopPoint_Y>19.25</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>76.50</PopPoint_X>
+<PopPoint_Y>34.81</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>20.19</PopPoint_X>
+<PopPoint_Y>48.75</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>173.06</PopPoint_X>
+<PopPoint_Y>16.75</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>180.38</PopPoint_X>
+<PopPoint_Y>17.88</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>13</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>226.38</PopPoint_X>
+<PopPoint_Y>11.50</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>16</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>219.81</PopPoint_X>
+<PopPoint_Y>18.00</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>190.56</PopPoint_X>
+<PopPoint_Y>26.56</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>174.88</PopPoint_X>
+<PopPoint_Y>18.44</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>255.69</PopPoint_X>
+<PopPoint_Y>126.81</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>198.19</PopPoint_X>
+<PopPoint_Y>26.50</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>15</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>227.25</PopPoint_X>
+<PopPoint_Y>14.75</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>262.88</PopPoint_X>
+<PopPoint_Y>137.63</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>35</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>367.50</PopPoint_X>
+<PopPoint_Y>137.91</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>35</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>379.28</PopPoint_X>
+<PopPoint_Y>122.00</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>194.31</PopPoint_X>
+<PopPoint_Y>107.81</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>35</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>371.84</PopPoint_X>
+<PopPoint_Y>119.97</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>173.00</PopPoint_X>
+<PopPoint_Y>88.69</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>35</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>350.13</PopPoint_X>
+<PopPoint_Y>108.50</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>257.13</PopPoint_X>
+<PopPoint_Y>133.88</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>42</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>127.50</PopPoint_X>
+<PopPoint_Y>67.06</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>290.00</PopPoint_X>
+<PopPoint_Y>53.63</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>44</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>222.97</PopPoint_X>
+<PopPoint_Y>46.22</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>308.06</PopPoint_X>
+<PopPoint_Y>37.50</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>44</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>239.13</PopPoint_X>
+<PopPoint_Y>43.09</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>342.44</PopPoint_X>
+<PopPoint_Y>19.19</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>19</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>368.13</PopPoint_X>
+<PopPoint_Y>14.31</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>382.31</PopPoint_X>
+<PopPoint_Y>14.13</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>241.41</PopPoint_X>
+<PopPoint_Y>69.94</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>353.50</PopPoint_X>
+<PopPoint_Y>21.44</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>20</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>361.44</PopPoint_X>
+<PopPoint_Y>29.25</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>44</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>228.41</PopPoint_X>
+<PopPoint_Y>52.75</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>361.50</PopPoint_X>
+<PopPoint_Y>52.75</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>ソウルガーダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>42</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>232.09</PopPoint_X>
+<PopPoint_Y>46.75</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>388.44</PopPoint_X>
+<PopPoint_Y>62.31</PopPoint_Y>
+</Character>
+<Character id="cUid69">
+<CharacterUID>69</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>377.06</PopPoint_X>
+<PopPoint_Y>85.44</PopPoint_Y>
+</Character>
+<Character id="cUid70">
+<CharacterUID>70</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>21</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>370.00</PopPoint_X>
+<PopPoint_Y>85.94</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>ミラーテレポータ</CharacterName>
+<CharacterType>15</CharacterType>
+<InternalID>45</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>266.97</PopPoint_X>
+<PopPoint_Y>186.44</PopPoint_Y>
+</Character>
+<Character id="cUid72">
+<CharacterUID>72</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>23</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>205.44</PopPoint_X>
+<PopPoint_Y>164.13</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>22</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>375.06</PopPoint_X>
+<PopPoint_Y>117.19</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>23</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>218.44</PopPoint_X>
+<PopPoint_Y>156.31</PopPoint_Y>
+</Character>
+<Character id="cUid78">
+<CharacterUID>78</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>23</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>192.75</PopPoint_X>
+<PopPoint_Y>147.88</PopPoint_Y>
+</Character>
+<Character id="cUid79">
+<CharacterUID>79</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>23</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>179.63</PopPoint_X>
+<PopPoint_Y>135.63</PopPoint_Y>
+</Character>
+<Character id="cUid80">
+<CharacterUID>80</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>23</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>166.50</PopPoint_X>
+<PopPoint_Y>142.44</PopPoint_Y>
+</Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>24</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>315.63</PopPoint_X>
+<PopPoint_Y>150.06</PopPoint_Y>
+</Character>
+<Character id="cUid85">
+<CharacterUID>85</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>25</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>254.13</PopPoint_X>
+<PopPoint_Y>156.06</PopPoint_Y>
+</Character>
+<Character id="cUid89">
+<CharacterUID>89</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>25</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>280.44</PopPoint_X>
+<PopPoint_Y>171.56</PopPoint_Y>
+</Character>
+<Character id="cUid95">
+<CharacterUID>95</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>25</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>246.75</PopPoint_X>
+<PopPoint_Y>175.44</PopPoint_Y>
+</Character>
+<Character id="cUid98">
+<CharacterUID>98</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>27</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>143.69</PopPoint_X>
+<PopPoint_Y>180.69</PopPoint_Y>
+</Character>
+<Character id="cUid99">
+<CharacterUID>99</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>26</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>258.31</PopPoint_X>
+<PopPoint_Y>188.38</PopPoint_Y>
+</Character>
+<Character id="cUid100">
+<CharacterUID>100</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>26</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>222.13</PopPoint_X>
+<PopPoint_Y>186.06</PopPoint_Y>
+</Character>
+<Character id="cUid107">
+<CharacterUID>107</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.88</PopPoint_X>
+<PopPoint_Y>153.56</PopPoint_Y>
+</Character>
+<Character id="cUid108">
+<CharacterUID>108</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.81</PopPoint_X>
+<PopPoint_Y>149.44</PopPoint_Y>
+</Character>
+<Character id="cUid109">
+<CharacterUID>109</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>44.53</PopPoint_X>
+<PopPoint_Y>149.00</PopPoint_Y>
+</Character>
+<Character id="cUid110">
+<CharacterUID>110</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>89.69</PopPoint_X>
+<PopPoint_Y>175.75</PopPoint_Y>
+</Character>
+<Character id="cUid111">
+<CharacterUID>111</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>90.19</PopPoint_X>
+<PopPoint_Y>180.38</PopPoint_Y>
+</Character>
+<Character id="cUid112">
+<CharacterUID>112</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>94.25</PopPoint_X>
+<PopPoint_Y>183.88</PopPoint_Y>
+</Character>
+<Character id="cUid113">
+<CharacterUID>113</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.19</PopPoint_X>
+<PopPoint_Y>178.19</PopPoint_Y>
+</Character>
+<Character id="cUid114">
+<CharacterUID>114</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>34.56</PopPoint_X>
+<PopPoint_Y>176.13</PopPoint_Y>
+</Character>
+<Character id="cUid115">
+<CharacterUID>115</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.13</PopPoint_X>
+<PopPoint_Y>185.13</PopPoint_Y>
+</Character>
+<Character id="cUid116">
+<CharacterUID>116</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>28</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>36.19</PopPoint_X>
+<PopPoint_Y>189.19</PopPoint_Y>
+</Character>
+<Character id="cUid117">
+<CharacterUID>117</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>30.00</PopPoint_X>
+<PopPoint_Y>83.63</PopPoint_Y>
+</Character>
+<Character id="cUid118">
+<CharacterUID>118</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>24.06</PopPoint_X>
+<PopPoint_Y>85.81</PopPoint_Y>
+</Character>
+<Character id="cUid119">
+<CharacterUID>119</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>36.06</PopPoint_X>
+<PopPoint_Y>88.94</PopPoint_Y>
+</Character>
+<Character id="cUid120">
+<CharacterUID>120</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>54.13</PopPoint_X>
+<PopPoint_Y>96.44</PopPoint_Y>
+</Character>
+<Character id="cUid121">
+<CharacterUID>121</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>59.00</PopPoint_X>
+<PopPoint_Y>102.81</PopPoint_Y>
+</Character>
+<Character id="cUid122">
+<CharacterUID>122</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>66.25</PopPoint_X>
+<PopPoint_Y>97.75</PopPoint_Y>
+</Character>
+<Character id="cUid123">
+<CharacterUID>123</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>54.69</PopPoint_X>
+<PopPoint_Y>99.25</PopPoint_Y>
+</Character>
+<Character id="cUid124">
+<CharacterUID>124</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>43.13</PopPoint_X>
+<PopPoint_Y>107.25</PopPoint_Y>
+</Character>
+<Character id="cUid125">
+<CharacterUID>125</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.94</PopPoint_X>
+<PopPoint_Y>114.63</PopPoint_Y>
+</Character>
+<Character id="cUid126">
+<CharacterUID>126</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>60.50</PopPoint_X>
+<PopPoint_Y>125.38</PopPoint_Y>
+</Character>
+<Character id="cUid128">
+<CharacterUID>128</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>69.56</PopPoint_X>
+<PopPoint_Y>125.94</PopPoint_Y>
+</Character>
+<Character id="cUid129">
+<CharacterUID>129</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>73.19</PopPoint_X>
+<PopPoint_Y>130.44</PopPoint_Y>
+</Character>
+<Character id="cUid130">
+<CharacterUID>130</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>11.75</PopPoint_X>
+<PopPoint_Y>50.13</PopPoint_Y>
+</Character>
+<Character id="cUid131">
+<CharacterUID>131</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>19.69</PopPoint_X>
+<PopPoint_Y>44.06</PopPoint_Y>
+</Character>
+<Character id="cUid132">
+<CharacterUID>132</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>24.50</PopPoint_X>
+<PopPoint_Y>50.63</PopPoint_Y>
+</Character>
+<Character id="cUid133">
+<CharacterUID>133</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.19</PopPoint_X>
+<PopPoint_Y>34.88</PopPoint_Y>
+</Character>
+<Character id="cUid134">
+<CharacterUID>134</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>68.56</PopPoint_X>
+<PopPoint_Y>40.75</PopPoint_Y>
+</Character>
+<Character id="cUid135">
+<CharacterUID>135</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>82.44</PopPoint_X>
+<PopPoint_Y>42.44</PopPoint_Y>
+</Character>
+<Character id="cUid136">
+<CharacterUID>136</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>20.75</PopPoint_X>
+<PopPoint_Y>7.38</PopPoint_Y>
+</Character>
+<Character id="cUid137">
+<CharacterUID>137</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>17.69</PopPoint_X>
+<PopPoint_Y>14.56</PopPoint_Y>
+</Character>
+<Character id="cUid138">
+<CharacterUID>138</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.31</PopPoint_X>
+<PopPoint_Y>9.31</PopPoint_Y>
+</Character>
+<Character id="cUid139">
+<CharacterUID>139</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.25</PopPoint_X>
+<PopPoint_Y>17.06</PopPoint_Y>
+</Character>
+<Character id="cUid140">
+<CharacterUID>140</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>196.06</PopPoint_X>
+<PopPoint_Y>29.88</PopPoint_Y>
+</Character>
+<Character id="cUid141">
+<CharacterUID>141</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>201.56</PopPoint_X>
+<PopPoint_Y>28.56</PopPoint_Y>
+</Character>
+<Character id="cUid142">
+<CharacterUID>142</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>174.00</PopPoint_X>
+<PopPoint_Y>14.44</PopPoint_Y>
+</Character>
+<Character id="cUid143">
+<CharacterUID>143</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>168.19</PopPoint_X>
+<PopPoint_Y>18.06</PopPoint_Y>
+</Character>
+<Character id="cUid144">
+<CharacterUID>144</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>178.13</PopPoint_X>
+<PopPoint_Y>16.13</PopPoint_Y>
+</Character>
+<Character id="cUid145">
+<CharacterUID>145</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>220.44</PopPoint_X>
+<PopPoint_Y>12.44</PopPoint_Y>
+</Character>
+<Character id="cUid146">
+<CharacterUID>146</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>217.75</PopPoint_X>
+<PopPoint_Y>14.75</PopPoint_Y>
+</Character>
+<Character id="cUid147">
+<CharacterUID>147</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>234.00</PopPoint_X>
+<PopPoint_Y>17.75</PopPoint_Y>
+</Character>
+<Character id="cUid148">
+<CharacterUID>148</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>248.38</PopPoint_X>
+<PopPoint_Y>127.38</PopPoint_Y>
+</Character>
+<Character id="cUid150">
+<CharacterUID>150</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>245.13</PopPoint_X>
+<PopPoint_Y>136.13</PopPoint_Y>
+</Character>
+<Character id="cUid152">
+<CharacterUID>152</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>265.00</PopPoint_X>
+<PopPoint_Y>128.13</PopPoint_Y>
+</Character>
+<Character id="cUid153">
+<CharacterUID>153</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>185.25</PopPoint_X>
+<PopPoint_Y>103.19</PopPoint_Y>
+</Character>
+<Character id="cUid154">
+<CharacterUID>154</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>176.75</PopPoint_X>
+<PopPoint_Y>107.38</PopPoint_Y>
+</Character>
+<Character id="cUid155">
+<CharacterUID>155</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>208.63</PopPoint_X>
+<PopPoint_Y>106.06</PopPoint_Y>
+</Character>
+<Character id="cUid156">
+<CharacterUID>156</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>176.50</PopPoint_X>
+<PopPoint_Y>85.13</PopPoint_Y>
+</Character>
+<Character id="cUid157">
+<CharacterUID>157</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>176.63</PopPoint_X>
+<PopPoint_Y>95.06</PopPoint_Y>
+</Character>
+<Character id="cUid159">
+<CharacterUID>159</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>200.19</PopPoint_X>
+<PopPoint_Y>85.50</PopPoint_Y>
+</Character>
+<Character id="cUid160">
+<CharacterUID>160</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>211.38</PopPoint_X>
+<PopPoint_Y>88.06</PopPoint_Y>
+</Character>
+<Character id="cUid161">
+<CharacterUID>161</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>212.31</PopPoint_X>
+<PopPoint_Y>93.50</PopPoint_Y>
+</Character>
+<Character id="cUid162">
+<CharacterUID>162</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>241.50</PopPoint_X>
+<PopPoint_Y>64.63</PopPoint_Y>
+</Character>
+<Character id="cUid163">
+<CharacterUID>163</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>248.94</PopPoint_X>
+<PopPoint_Y>68.00</PopPoint_Y>
+</Character>
+<Character id="cUid164">
+<CharacterUID>164</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>230.94</PopPoint_X>
+<PopPoint_Y>73.06</PopPoint_Y>
+</Character>
+<Character id="cUid165">
+<CharacterUID>165</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>241.56</PopPoint_X>
+<PopPoint_Y>79.00</PopPoint_Y>
+</Character>
+<Character id="cUid166">
+<CharacterUID>166</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>249.25</PopPoint_X>
+<PopPoint_Y>66.38</PopPoint_Y>
+</Character>
+<Character id="cUid167">
+<CharacterUID>167</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>18</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>252.06</PopPoint_X>
+<PopPoint_Y>70.81</PopPoint_Y>
+</Character>
+<Character id="cUid168">
+<CharacterUID>168</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>234.81</PopPoint_X>
+<PopPoint_Y>77.44</PopPoint_Y>
+</Character>
+<Character id="cUid169">
+<CharacterUID>169</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>245.13</PopPoint_X>
+<PopPoint_Y>76.94</PopPoint_Y>
+</Character>
+<Character id="cUid171">
+<CharacterUID>171</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>283.56</PopPoint_X>
+<PopPoint_Y>54.00</PopPoint_Y>
+</Character>
+<Character id="cUid172">
+<CharacterUID>172</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>303.94</PopPoint_X>
+<PopPoint_Y>45.38</PopPoint_Y>
+</Character>
+<Character id="cUid173">
+<CharacterUID>173</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>317.31</PopPoint_X>
+<PopPoint_Y>44.44</PopPoint_Y>
+</Character>
+<Character id="cUid174">
+<CharacterUID>174</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>323.75</PopPoint_X>
+<PopPoint_Y>37.31</PopPoint_Y>
+</Character>
+<Character id="cUid175">
+<CharacterUID>175</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>310.19</PopPoint_X>
+<PopPoint_Y>35.00</PopPoint_Y>
+</Character>
+<Character id="cUid176">
+<CharacterUID>176</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>354.31</PopPoint_X>
+<PopPoint_Y>18.19</PopPoint_Y>
+</Character>
+<Character id="cUid177">
+<CharacterUID>177</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>333.50</PopPoint_X>
+<PopPoint_Y>19.25</PopPoint_Y>
+</Character>
+<Character id="cUid179">
+<CharacterUID>179</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>369.13</PopPoint_X>
+<PopPoint_Y>23.66</PopPoint_Y>
+</Character>
+<Character id="cUid180">
+<CharacterUID>180</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>370.31</PopPoint_X>
+<PopPoint_Y>9.56</PopPoint_Y>
+</Character>
+<Character id="cUid181">
+<CharacterUID>181</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>33</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>378.81</PopPoint_X>
+<PopPoint_Y>12.69</PopPoint_Y>
+</Character>
+<Character id="cUid183">
+<CharacterUID>183</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>34</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>366.19</PopPoint_X>
+<PopPoint_Y>65.56</PopPoint_Y>
+</Character>
+<Character id="cUid184">
+<CharacterUID>184</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>34</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>381.94</PopPoint_X>
+<PopPoint_Y>56.31</PopPoint_Y>
+</Character>
+<Character id="cUid185">
+<CharacterUID>185</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>34</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>379.38</PopPoint_X>
+<PopPoint_Y>63.38</PopPoint_Y>
+</Character>
+<Character id="cUid186">
+<CharacterUID>186</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>34</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>356.69</PopPoint_X>
+<PopPoint_Y>55.44</PopPoint_Y>
+</Character>
+<Character id="cUid187">
+<CharacterUID>187</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>34</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>354.63</PopPoint_X>
+<PopPoint_Y>63.81</PopPoint_Y>
+</Character>
+<Character id="cUid189">
+<CharacterUID>189</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>34</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>367.69</PopPoint_X>
+<PopPoint_Y>88.63</PopPoint_Y>
+</Character>
+<Character id="cUid196">
+<CharacterUID>196</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>35</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>335.25</PopPoint_X>
+<PopPoint_Y>129.63</PopPoint_Y>
+</Character>
+<Character id="cUid198">
+<CharacterUID>198</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>35</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>322.69</PopPoint_X>
+<PopPoint_Y>124.00</PopPoint_Y>
+</Character>
+<Character id="cUid199">
+<CharacterUID>199</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>35</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>355.00</PopPoint_X>
+<PopPoint_Y>104.38</PopPoint_Y>
+</Character>
+<Character id="cUid201">
+<CharacterUID>201</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>219.25</PopPoint_X>
+<PopPoint_Y>153.31</PopPoint_Y>
+</Character>
+<Character id="cUid202">
+<CharacterUID>202</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>223.56</PopPoint_X>
+<PopPoint_Y>156.13</PopPoint_Y>
+</Character>
+<Character id="cUid203">
+<CharacterUID>203</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>204.31</PopPoint_X>
+<PopPoint_Y>161.25</PopPoint_Y>
+</Character>
+<Character id="cUid204">
+<CharacterUID>204</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>211.19</PopPoint_X>
+<PopPoint_Y>162.88</PopPoint_Y>
+</Character>
+<Character id="cUid205">
+<CharacterUID>205</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>195.88</PopPoint_X>
+<PopPoint_Y>151.81</PopPoint_Y>
+</Character>
+<Character id="cUid206">
+<CharacterUID>206</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>197.56</PopPoint_X>
+<PopPoint_Y>149.75</PopPoint_Y>
+</Character>
+<Character id="cUid207">
+<CharacterUID>207</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>181.56</PopPoint_X>
+<PopPoint_Y>132.94</PopPoint_Y>
+</Character>
+<Character id="cUid208">
+<CharacterUID>208</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>182.56</PopPoint_X>
+<PopPoint_Y>137.94</PopPoint_Y>
+</Character>
+<Character id="cUid209">
+<CharacterUID>209</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>165.13</PopPoint_X>
+<PopPoint_Y>140.56</PopPoint_Y>
+</Character>
+<Character id="cUid210">
+<CharacterUID>210</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>169.06</PopPoint_X>
+<PopPoint_Y>144.44</PopPoint_Y>
+</Character>
+<Character id="cUid211">
+<CharacterUID>211</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>36</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>216.63</PopPoint_X>
+<PopPoint_Y>151.31</PopPoint_Y>
+</Character>
+<Character id="cUid213">
+<CharacterUID>213</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>37</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>377.94</PopPoint_X>
+<PopPoint_Y>183.13</PopPoint_Y>
+</Character>
+<Character id="cUid216">
+<CharacterUID>216</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>37</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>363.81</PopPoint_X>
+<PopPoint_Y>163.88</PopPoint_Y>
+</Character>
+<Character id="cUid218">
+<CharacterUID>218</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>37</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>336.44</PopPoint_X>
+<PopPoint_Y>169.88</PopPoint_Y>
+</Character>
+<Character id="cUid220">
+<CharacterUID>220</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>37</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>349.78</PopPoint_X>
+<PopPoint_Y>178.09</PopPoint_Y>
+</Character>
+<Character id="cUid221">
+<CharacterUID>221</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>37</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>300.88</PopPoint_X>
+<PopPoint_Y>158.00</PopPoint_Y>
+</Character>
+<Character id="cUid222">
+<CharacterUID>222</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>37</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>309.00</PopPoint_X>
+<PopPoint_Y>153.00</PopPoint_Y>
+</Character>
+<Character id="cUid224">
+<CharacterUID>224</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>37</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>306.88</PopPoint_X>
+<PopPoint_Y>148.69</PopPoint_Y>
+</Character>
+<Character id="cUid225">
+<CharacterUID>225</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>131.75</PopPoint_X>
+<PopPoint_Y>118.31</PopPoint_Y>
+</Character>
+<Character id="cUid227">
+<CharacterUID>227</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>24</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>311.44</PopPoint_X>
+<PopPoint_Y>157.69</PopPoint_Y>
+</Character>
+<Character id="cUid229">
+<CharacterUID>229</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>133.09</PopPoint_X>
+<PopPoint_Y>132.75</PopPoint_Y>
+</Character>
+<Character id="cUid230">
+<CharacterUID>230</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>32</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>150.88</PopPoint_X>
+<PopPoint_Y>126.69</PopPoint_Y>
+</Character>
+<Character id="cUid233">
+<CharacterUID>233</CharacterUID>
+<CharacterName>アイステンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>17</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>133.06</PopPoint_X>
+<PopPoint_Y>123.34</PopPoint_Y>
+</Character>
+<Character id="cUid234">
+<CharacterUID>234</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>138.44</PopPoint_X>
+<PopPoint_Y>24.66</PopPoint_Y>
+</Character>
+<Character id="cUid235">
+<CharacterUID>235</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>124.06</PopPoint_X>
+<PopPoint_Y>15.69</PopPoint_Y>
+</Character>
+<Character id="cUid236">
+<CharacterUID>236</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>12</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>96.56</PopPoint_X>
+<PopPoint_Y>8.41</PopPoint_Y>
+</Character>
+<Character id="cUid237">
+<CharacterUID>237</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>129.88</PopPoint_X>
+<PopPoint_Y>27.91</PopPoint_Y>
+</Character>
+<Character id="cUid238">
+<CharacterUID>238</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>140.28</PopPoint_X>
+<PopPoint_Y>29.94</PopPoint_Y>
+</Character>
+<Character id="cUid239">
+<CharacterUID>239</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>109.53</PopPoint_X>
+<PopPoint_Y>20.94</PopPoint_Y>
+</Character>
+<Character id="cUid240">
+<CharacterUID>240</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>109.56</PopPoint_X>
+<PopPoint_Y>13.97</PopPoint_Y>
+</Character>
+<Character id="cUid241">
+<CharacterUID>241</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>91.22</PopPoint_X>
+<PopPoint_Y>7.53</PopPoint_Y>
+</Character>
+<Character id="cUid242">
+<CharacterUID>242</CharacterUID>
+<CharacterName>ブルーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>30</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>102.94</PopPoint_X>
+<PopPoint_Y>11.84</PopPoint_Y>
+</Character>
+<Character id="cUid243">
+<CharacterUID>243</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>257.00</PopPoint_X>
+<PopPoint_Y>25.13</PopPoint_Y>
+</Character>
+<Character id="cUid244">
+<CharacterUID>244</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>248.38</PopPoint_X>
+<PopPoint_Y>34.25</PopPoint_Y>
+</Character>
+<Character id="cUid246">
+<CharacterUID>246</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>202.75</PopPoint_X>
+<PopPoint_Y>62.38</PopPoint_Y>
+</Character>
+<Character id="cUid247">
+<CharacterUID>247</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>14</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>215.38</PopPoint_X>
+<PopPoint_Y>55.50</PopPoint_Y>
+</Character>
+<Character id="cUid248">
+<CharacterUID>248</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>192.75</PopPoint_X>
+<PopPoint_Y>57.13</PopPoint_Y>
+</Character>
+<Character id="cUid250">
+<CharacterUID>250</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>207.75</PopPoint_X>
+<PopPoint_Y>53.88</PopPoint_Y>
+</Character>
+<Character id="cUid253">
+<CharacterUID>253</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>263.88</PopPoint_X>
+<PopPoint_Y>30.13</PopPoint_Y>
+</Character>
+<Character id="cUid254">
+<CharacterUID>254</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>245.25</PopPoint_X>
+<PopPoint_Y>24.13</PopPoint_Y>
+</Character>
+<Character id="cUid255">
+<CharacterUID>255</CharacterUID>
+<CharacterName>マーマンヒーロー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>31</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>247.88</PopPoint_X>
+<PopPoint_Y>30.38</PopPoint_Y>
+</Character>
+<Character id="cUid256">
+<CharacterUID>256</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>38</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.50</PopPoint_X>
+<PopPoint_Y>109.75</PopPoint_Y>
+</Character>
+<Character id="cUid257">
+<CharacterUID>257</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>38</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>78.88</PopPoint_X>
+<PopPoint_Y>114.88</PopPoint_Y>
+</Character>
+<Character id="cUid259">
+<CharacterUID>259</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>38</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>97.38</PopPoint_X>
+<PopPoint_Y>111.25</PopPoint_Y>
+</Character>
+<Character id="cUid260">
+<CharacterUID>260</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>38</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.75</PopPoint_X>
+<PopPoint_Y>93.53</PopPoint_Y>
+</Character>
+<Character id="cUid261">
+<CharacterUID>261</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>38</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>100.72</PopPoint_X>
+<PopPoint_Y>82.91</PopPoint_Y>
+</Character>
+<Character id="cUid262">
+<CharacterUID>262</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>38</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>87.00</PopPoint_X>
+<PopPoint_Y>85.50</PopPoint_Y>
+</Character>
+<Character id="cUid263">
+<CharacterUID>263</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>40</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>300.34</PopPoint_X>
+<PopPoint_Y>107.13</PopPoint_Y>
+</Character>
+<Character id="cUid264">
+<CharacterUID>264</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>40</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>292.28</PopPoint_X>
+<PopPoint_Y>107.25</PopPoint_Y>
+</Character>
+<Character id="cUid265">
+<CharacterUID>265</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>38</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.00</PopPoint_X>
+<PopPoint_Y>50.88</PopPoint_Y>
+</Character>
+<Character id="cUid266">
+<CharacterUID>266</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>38</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>148.13</PopPoint_X>
+<PopPoint_Y>56.00</PopPoint_Y>
+</Character>
+<Character id="cUid267">
+<CharacterUID>267</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>38</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>158.63</PopPoint_X>
+<PopPoint_Y>58.38</PopPoint_Y>
+</Character>
+<Character id="cUid268">
+<CharacterUID>268</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>38</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>164.63</PopPoint_X>
+<PopPoint_Y>53.75</PopPoint_Y>
+</Character>
+<Character id="cUid269">
+<CharacterUID>269</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>40</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>268.22</PopPoint_X>
+<PopPoint_Y>91.50</PopPoint_Y>
+</Character>
+<Character id="cUid270">
+<CharacterUID>270</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>40</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>267.38</PopPoint_X>
+<PopPoint_Y>95.38</PopPoint_Y>
+</Character>
+<Character id="cUid271">
+<CharacterUID>271</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>40</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>300.59</PopPoint_X>
+<PopPoint_Y>78.53</PopPoint_Y>
+</Character>
+<Character id="cUid273">
+<CharacterUID>273</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>40</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>313.03</PopPoint_X>
+<PopPoint_Y>89.13</PopPoint_Y>
+</Character>
+<Character id="cUid274">
+<CharacterUID>274</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>40</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>326.19</PopPoint_X>
+<PopPoint_Y>84.88</PopPoint_Y>
+</Character>
+<Character id="cUid276">
+<CharacterUID>276</CharacterUID>
+<CharacterName>シーテンプラー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>40</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>314.44</PopPoint_X>
+<PopPoint_Y>73.28</PopPoint_Y>
+</Character>
+<Character id="cUid277">
+<CharacterUID>277</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>295.28</PopPoint_X>
+<PopPoint_Y>81.03</PopPoint_Y>
+</Character>
+<Character id="cUid278">
+<CharacterUID>278</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>306.06</PopPoint_X>
+<PopPoint_Y>82.38</PopPoint_Y>
+</Character>
+<Character id="cUid279">
+<CharacterUID>279</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>293.00</PopPoint_X>
+<PopPoint_Y>53.56</PopPoint_Y>
+</Character>
+<Character id="cUid280">
+<CharacterUID>280</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>328.78</PopPoint_X>
+<PopPoint_Y>45.16</PopPoint_Y>
+</Character>
+<Character id="cUid281">
+<CharacterUID>281</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>327.84</PopPoint_X>
+<PopPoint_Y>35.19</PopPoint_Y>
+</Character>
+<Character id="cUid282">
+<CharacterUID>282</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>362.63</PopPoint_X>
+<PopPoint_Y>26.31</PopPoint_Y>
+</Character>
+<Character id="cUid283">
+<CharacterUID>283</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>371.44</PopPoint_X>
+<PopPoint_Y>18.75</PopPoint_Y>
+</Character>
+<Character id="cUid284">
+<CharacterUID>284</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>338.94</PopPoint_X>
+<PopPoint_Y>20.28</PopPoint_Y>
+</Character>
+<Character id="cUid285">
+<CharacterUID>285</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>386.25</PopPoint_X>
+<PopPoint_Y>13.03</PopPoint_Y>
+</Character>
+<Character id="cUid286">
+<CharacterUID>286</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>94.69</PopPoint_X>
+<PopPoint_Y>110.31</PopPoint_Y>
+</Character>
+<Character id="cUid287">
+<CharacterUID>287</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>97.50</PopPoint_X>
+<PopPoint_Y>86.69</PopPoint_Y>
+</Character>
+<Character id="cUid288">
+<CharacterUID>288</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.44</PopPoint_X>
+<PopPoint_Y>54.75</PopPoint_Y>
+</Character>
+<Character id="cUid289">
+<CharacterUID>289</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>278.94</PopPoint_X>
+<PopPoint_Y>188.16</PopPoint_Y>
+</Character>
+<Character id="cUid290">
+<CharacterUID>290</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>310.03</PopPoint_X>
+<PopPoint_Y>89.06</PopPoint_Y>
+</Character>
+<Character id="cUid291">
+<CharacterUID>291</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>321.59</PopPoint_X>
+<PopPoint_Y>84.00</PopPoint_Y>
+</Character>
+<Character id="cUid292">
+<CharacterUID>292</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>319.59</PopPoint_X>
+<PopPoint_Y>77.47</PopPoint_Y>
+</Character>
+<Character id="cUid293">
+<CharacterUID>293</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>310.81</PopPoint_X>
+<PopPoint_Y>76.88</PopPoint_Y>
+</Character>
+<Character id="cUid294">
+<CharacterUID>294</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>296.78</PopPoint_X>
+<PopPoint_Y>92.78</PopPoint_Y>
+</Character>
+<Character id="cUid295">
+<CharacterUID>295</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>291.00</PopPoint_X>
+<PopPoint_Y>102.47</PopPoint_Y>
+</Character>
+<Character id="cUid296">
+<CharacterUID>296</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>7</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>56.91</PopPoint_X>
+<PopPoint_Y>68.28</PopPoint_Y>
+</Character>
+<Character id="cUid297">
+<CharacterUID>297</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>8</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>67.09</PopPoint_X>
+<PopPoint_Y>74.47</PopPoint_Y>
+</Character>
+<Character id="cUid298">
+<CharacterUID>298</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>9</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>66.59</PopPoint_X>
+<PopPoint_Y>69.47</PopPoint_Y>
+</Character>
+<Character id="cUid299">
+<CharacterUID>299</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>10</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>55.84</PopPoint_X>
+<PopPoint_Y>73.94</PopPoint_Y>
+</Character>
+<Character id="cUid300">
+<CharacterUID>300</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>58.06</PopPoint_X>
+<PopPoint_Y>71.06</PopPoint_Y>
+</Character>
+<Character id="cUid301">
+<CharacterUID>301</CharacterUID>
+<CharacterName>グレートマーマン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>29</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>64.09</PopPoint_X>
+<PopPoint_Y>74.47</PopPoint_Y>
+</Character>
+<Character id="cUid303">
+<CharacterUID>303</CharacterUID>
+<CharacterName>ブルースカウト</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>40</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>271.63</PopPoint_X>
+<PopPoint_Y>94.03</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>시작지점</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[126]G30_H01_B03.rmd</AccessMap>
+<AccessMapName>海の神殿　Ｂ３</AccessMapName>
+<AreaPos_X>274.19</AreaPos_X>
+<AreaPos_X2>277.28</AreaPos_X2>
+<AreaPos_Y>188.22</AreaPos_Y>
+<AreaPos_Y2>190.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>Area 2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>205.00</AreaPos_X>
+<AreaPos_X2>228.22</AreaPos_X2>
+<AreaPos_Y>179.22</AreaPos_Y>
+<AreaPos_Y2>192.22</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>248.72</AreaPos_X>
+<AreaPos_X2>265.00</AreaPos_X2>
+<AreaPos_Y>152.13</AreaPos_Y>
+<AreaPos_Y2>164.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>275.78</AreaPos_X>
+<AreaPos_X2>300.28</AreaPos_X2>
+<AreaPos_Y>168.94</AreaPos_Y>
+<AreaPos_Y2>177.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>265.72</AreaPos_X>
+<AreaPos_X2>284.13</AreaPos_X2>
+<AreaPos_Y>158.88</AreaPos_Y>
+<AreaPos_Y2>168.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>243.34</AreaPos_X>
+<AreaPos_X2>273.66</AreaPos_X2>
+<AreaPos_Y>174.09</AreaPos_Y>
+<AreaPos_Y2>191.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>188.38</AreaPos_X>
+<AreaPos_X2>201.13</AreaPos_X2>
+<AreaPos_Y>146.44</AreaPos_Y>
+<AreaPos_Y2>154.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>212.53</AreaPos_X>
+<AreaPos_X2>226.88</AreaPos_X2>
+<AreaPos_Y>149.03</AreaPos_Y>
+<AreaPos_Y2>158.22</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>神殿の聖水</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>27.88</AreaPos_X>
+<AreaPos_X2>32.75</AreaPos_X2>
+<AreaPos_Y>13.00</AreaPos_Y>
+<AreaPos_Y2>15.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>神殿の空間</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>369.19</AreaPos_X>
+<AreaPos_X2>373.06</AreaPos_X2>
+<AreaPos_Y>182.28</AreaPos_Y>
+<AreaPos_Y2>184.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>神殿の生命 </AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>31.13</AreaPos_X>
+<AreaPos_X2>34.38</AreaPos_X2>
+<AreaPos_Y>180.50</AreaPos_Y>
+<AreaPos_Y2>182.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>198.19</AreaPos_X>
+<AreaPos_X2>214.41</AreaPos_X2>
+<AreaPos_Y>159.06</AreaPos_Y>
+<AreaPos_Y2>167.66</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>172.69</AreaPos_X>
+<AreaPos_X2>188.47</AreaPos_X2>
+<AreaPos_Y>128.31</AreaPos_Y>
+<AreaPos_Y2>139.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>神殿の時間の中</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>358.88</AreaPos_X>
+<AreaPos_X2>362.13</AreaPos_X2>
+<AreaPos_Y>18.25</AreaPos_Y>
+<AreaPos_Y2>20.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>154.09</AreaPos_X>
+<AreaPos_X2>170.91</AreaPos_X2>
+<AreaPos_Y>138.09</AreaPos_Y>
+<AreaPos_Y2>148.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>362.72</AreaPos_X>
+<AreaPos_X2>387.38</AreaPos_X2>
+<AreaPos_Y>180.75</AreaPos_Y>
+<AreaPos_Y2>193.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>355.13</AreaPos_X>
+<AreaPos_X2>376.63</AreaPos_X2>
+<AreaPos_Y>161.53</AreaPos_Y>
+<AreaPos_Y2>172.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>331.53</AreaPos_X>
+<AreaPos_X2>351.16</AreaPos_X2>
+<AreaPos_Y>165.69</AreaPos_Y>
+<AreaPos_Y2>177.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>Area 19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>295.69</AreaPos_X>
+<AreaPos_X2>325.50</AreaPos_X2>
+<AreaPos_Y>146.88</AreaPos_Y>
+<AreaPos_Y2>160.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>Area 20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>353.53</AreaPos_X>
+<AreaPos_X2>370.81</AreaPos_X2>
+<AreaPos_Y>134.84</AreaPos_Y>
+<AreaPos_Y2>145.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>Area 21</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>332.34</AreaPos_X>
+<AreaPos_X2>349.75</AreaPos_X2>
+<AreaPos_Y>126.22</AreaPos_Y>
+<AreaPos_Y2>135.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>Area 22</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>344.56</AreaPos_X>
+<AreaPos_X2>361.06</AreaPos_X2>
+<AreaPos_Y>100.00</AreaPos_Y>
+<AreaPos_Y2>110.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>Area 23</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>367.28</AreaPos_X>
+<AreaPos_X2>383.16</AreaPos_X2>
+<AreaPos_Y>113.41</AreaPos_Y>
+<AreaPos_Y2>124.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>Area 24</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>318.66</AreaPos_X>
+<AreaPos_X2>334.03</AreaPos_X2>
+<AreaPos_Y>118.38</AreaPos_Y>
+<AreaPos_Y2>127.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>Area 25</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>285.28</AreaPos_X>
+<AreaPos_X2>340.50</AreaPos_X2>
+<AreaPos_Y>69.56</AreaPos_Y>
+<AreaPos_Y2>96.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>Area 26</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>264.38</AreaPos_X>
+<AreaPos_X2>273.94</AreaPos_X2>
+<AreaPos_Y>89.03</AreaPos_Y>
+<AreaPos_Y2>98.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>Area 27</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>285.47</AreaPos_X>
+<AreaPos_X2>303.38</AreaPos_X2>
+<AreaPos_Y>99.28</AreaPos_Y>
+<AreaPos_Y2>109.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>罪の束縛</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>60.00</AreaPos_X>
+<AreaPos_X2>63.75</AreaPos_X2>
+<AreaPos_Y>70.75</AreaPos_Y>
+<AreaPos_Y2>73.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>Area 29</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>139.09</AreaPos_X>
+<AreaPos_X2>163.81</AreaPos_X2>
+<AreaPos_Y>172.25</AreaPos_Y>
+<AreaPos_Y2>187.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>Area 30</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>128.66</AreaPos_X>
+<AreaPos_X2>153.63</AreaPos_X2>
+<AreaPos_Y>156.84</AreaPos_Y>
+<AreaPos_Y2>171.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>Area 31</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>25.09</AreaPos_X>
+<AreaPos_X2>53.28</AreaPos_X2>
+<AreaPos_Y>144.69</AreaPos_Y>
+<AreaPos_Y2>158.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>Area 32</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>79.81</AreaPos_X>
+<AreaPos_X2>107.94</AreaPos_X2>
+<AreaPos_Y>172.94</AreaPos_Y>
+<AreaPos_Y2>188.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>Area 33</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>17.34</AreaPos_X>
+<AreaPos_X2>50.06</AreaPos_X2>
+<AreaPos_Y>173.44</AreaPos_Y>
+<AreaPos_Y2>193.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>Area 34</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>57.06</AreaPos_X>
+<AreaPos_X2>78.25</AreaPos_X2>
+<AreaPos_Y>123.31</AreaPos_Y>
+<AreaPos_Y2>132.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>Area 35</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>26.06</AreaPos_X>
+<AreaPos_X2>46.78</AreaPos_X2>
+<AreaPos_Y>104.97</AreaPos_Y>
+<AreaPos_Y2>117.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>Area 36</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>51.16</AreaPos_X>
+<AreaPos_X2>71.81</AreaPos_X2>
+<AreaPos_Y>92.47</AreaPos_Y>
+<AreaPos_Y2>105.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid38">
+<AreaUID>38</AreaUID>
+<AreaName>Area 37</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>19.53</AreaPos_X>
+<AreaPos_X2>41.00</AreaPos_X2>
+<AreaPos_Y>81.38</AreaPos_Y>
+<AreaPos_Y2>93.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid39">
+<AreaUID>39</AreaUID>
+<AreaName>Area 38</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>52.03</AreaPos_X>
+<AreaPos_X2>72.03</AreaPos_X2>
+<AreaPos_Y>66.63</AreaPos_Y>
+<AreaPos_Y2>76.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid40">
+<AreaUID>40</AreaUID>
+<AreaName>Area 39</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>12.09</AreaPos_X>
+<AreaPos_X2>45.31</AreaPos_X2>
+<AreaPos_Y>5.19</AreaPos_Y>
+<AreaPos_Y2>22.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid41">
+<AreaUID>41</AreaUID>
+<AreaName>Area 40</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>7.09</AreaPos_X>
+<AreaPos_X2>27.88</AreaPos_X2>
+<AreaPos_Y>40.31</AreaPos_Y>
+<AreaPos_Y2>53.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid42">
+<AreaUID>42</AreaUID>
+<AreaName>Area 41</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>59.91</AreaPos_X>
+<AreaPos_X2>88.63</AreaPos_X2>
+<AreaPos_Y>32.00</AreaPos_Y>
+<AreaPos_Y2>45.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid43">
+<AreaUID>43</AreaUID>
+<AreaName>Area 42</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>88.38</AreaPos_X>
+<AreaPos_X2>105.25</AreaPos_X2>
+<AreaPos_Y>2.66</AreaPos_Y>
+<AreaPos_Y2>13.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid44">
+<AreaUID>44</AreaUID>
+<AreaName>Area 43</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>124.63</AreaPos_X>
+<AreaPos_X2>149.59</AreaPos_X2>
+<AreaPos_Y>21.25</AreaPos_Y>
+<AreaPos_Y2>33.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid45">
+<AreaUID>45</AreaUID>
+<AreaName>Area 44</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>105.72</AreaPos_X>
+<AreaPos_X2>131.38</AreaPos_X2>
+<AreaPos_Y>10.50</AreaPos_Y>
+<AreaPos_Y2>23.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid46">
+<AreaUID>46</AreaUID>
+<AreaName>Area 45</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>141.91</AreaPos_X>
+<AreaPos_X2>168.19</AreaPos_X2>
+<AreaPos_Y>46.50</AreaPos_Y>
+<AreaPos_Y2>64.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid47">
+<AreaUID>47</AreaUID>
+<AreaName>Area 46</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>85.31</AreaPos_X>
+<AreaPos_X2>113.75</AreaPos_X2>
+<AreaPos_Y>76.03</AreaPos_Y>
+<AreaPos_Y2>94.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid48">
+<AreaUID>48</AreaUID>
+<AreaName>Area 47</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>74.28</AreaPos_X>
+<AreaPos_X2>101.13</AreaPos_X2>
+<AreaPos_Y>106.59</AreaPos_Y>
+<AreaPos_Y2>121.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid49">
+<AreaUID>49</AreaUID>
+<AreaName>Area 48</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>117.97</AreaPos_X>
+<AreaPos_X2>153.59</AreaPos_X2>
+<AreaPos_Y>115.00</AreaPos_Y>
+<AreaPos_Y2>135.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid50">
+<AreaUID>50</AreaUID>
+<AreaName>Area 49</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>238.13</AreaPos_X>
+<AreaPos_X2>276.72</AreaPos_X2>
+<AreaPos_Y>121.72</AreaPos_Y>
+<AreaPos_Y2>143.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid51">
+<AreaUID>51</AreaUID>
+<AreaName>Area 50</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>155.78</AreaPos_X>
+<AreaPos_X2>187.50</AreaPos_X2>
+<AreaPos_Y>75.63</AreaPos_Y>
+<AreaPos_Y2>98.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid52">
+<AreaUID>52</AreaUID>
+<AreaName>Area 51</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>160.00</AreaPos_X>
+<AreaPos_X2>221.72</AreaPos_X2>
+<AreaPos_Y>99.69</AreaPos_Y>
+<AreaPos_Y2>114.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid53">
+<AreaUID>53</AreaUID>
+<AreaName>Area 52</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>189.06</AreaPos_X>
+<AreaPos_X2>220.78</AreaPos_X2>
+<AreaPos_Y>76.56</AreaPos_Y>
+<AreaPos_Y2>98.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid54">
+<AreaUID>54</AreaUID>
+<AreaName>Area 53</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>235.75</AreaPos_X>
+<AreaPos_X2>260.13</AreaPos_X2>
+<AreaPos_Y>61.38</AreaPos_Y>
+<AreaPos_Y2>75.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid55">
+<AreaUID>55</AreaUID>
+<AreaName>Area 54</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>224.25</AreaPos_X>
+<AreaPos_X2>249.63</AreaPos_X2>
+<AreaPos_Y>68.75</AreaPos_Y>
+<AreaPos_Y2>83.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid56">
+<AreaUID>56</AreaUID>
+<AreaName>Area 55</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>276.38</AreaPos_X>
+<AreaPos_X2>300.00</AreaPos_X2>
+<AreaPos_Y>50.00</AreaPos_Y>
+<AreaPos_Y2>61.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid57">
+<AreaUID>57</AreaUID>
+<AreaName>Area 56</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>362.25</AreaPos_X>
+<AreaPos_X2>383.50</AreaPos_X2>
+<AreaPos_Y>82.25</AreaPos_Y>
+<AreaPos_Y2>92.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid58">
+<AreaUID>58</AreaUID>
+<AreaName>Area 57</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>375.50</AreaPos_X>
+<AreaPos_X2>395.25</AreaPos_X2>
+<AreaPos_Y>52.00</AreaPos_Y>
+<AreaPos_Y2>67.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid59">
+<AreaUID>59</AreaUID>
+<AreaName>Area 58</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>352.75</AreaPos_X>
+<AreaPos_X2>371.38</AreaPos_X2>
+<AreaPos_Y>49.50</AreaPos_Y>
+<AreaPos_Y2>57.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid60">
+<AreaUID>60</AreaUID>
+<AreaName>Area 59</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>350.38</AreaPos_X>
+<AreaPos_X2>370.25</AreaPos_X2>
+<AreaPos_Y>61.13</AreaPos_Y>
+<AreaPos_Y2>70.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid61">
+<AreaUID>61</AreaUID>
+<AreaName>Area 60</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>300.88</AreaPos_X>
+<AreaPos_X2>329.25</AreaPos_X2>
+<AreaPos_Y>32.00</AreaPos_Y>
+<AreaPos_Y2>40.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid62">
+<AreaUID>62</AreaUID>
+<AreaName>Area 61</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>290.63</AreaPos_X>
+<AreaPos_X2>331.88</AreaPos_X2>
+<AreaPos_Y>42.00</AreaPos_Y>
+<AreaPos_Y2>51.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid63">
+<AreaUID>63</AreaUID>
+<AreaName>Area 62</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>355.13</AreaPos_X>
+<AreaPos_X2>368.88</AreaPos_X2>
+<AreaPos_Y>25.38</AreaPos_Y>
+<AreaPos_Y2>38.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid64">
+<AreaUID>64</AreaUID>
+<AreaName>Area 63</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>327.25</AreaPos_X>
+<AreaPos_X2>359.50</AreaPos_X2>
+<AreaPos_Y>16.38</AreaPos_Y>
+<AreaPos_Y2>24.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid65">
+<AreaUID>65</AreaUID>
+<AreaName>Area 64</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>366.13</AreaPos_X>
+<AreaPos_X2>375.75</AreaPos_X2>
+<AreaPos_Y>4.88</AreaPos_Y>
+<AreaPos_Y2>24.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid66">
+<AreaUID>66</AreaUID>
+<AreaName>Area 65</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>377.13</AreaPos_X>
+<AreaPos_X2>390.00</AreaPos_X2>
+<AreaPos_Y>10.38</AreaPos_Y>
+<AreaPos_Y2>17.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid67">
+<AreaUID>67</AreaUID>
+<AreaName>Area 66</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>187.00</AreaPos_X>
+<AreaPos_X2>219.56</AreaPos_X2>
+<AreaPos_Y>47.38</AreaPos_Y>
+<AreaPos_Y2>66.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid68">
+<AreaUID>68</AreaUID>
+<AreaName>Area 67</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>239.13</AreaPos_X>
+<AreaPos_X2>272.94</AreaPos_X2>
+<AreaPos_Y>21.19</AreaPos_Y>
+<AreaPos_Y2>39.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid69">
+<AreaUID>69</AreaUID>
+<AreaName>Area 68</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>210.56</AreaPos_X>
+<AreaPos_X2>237.38</AreaPos_X2>
+<AreaPos_Y>6.56</AreaPos_Y>
+<AreaPos_Y2>22.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid70">
+<AreaUID>70</AreaUID>
+<AreaName>Area 69</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>188.19</AreaPos_X>
+<AreaPos_X2>205.81</AreaPos_X2>
+<AreaPos_Y>23.38</AreaPos_Y>
+<AreaPos_Y2>32.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid71">
+<AreaUID>71</AreaUID>
+<AreaName>Area 70</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>164.50</AreaPos_X>
+<AreaPos_X2>183.19</AreaPos_X2>
+<AreaPos_Y>12.44</AreaPos_Y>
+<AreaPos_Y2>21.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid72">
+<AreaUID>72</AreaUID>
+<AreaName>inter th high</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[151]G30_H01_B04.rmd</AccessMap>
+<AccessMapName>海の神殿　Ｂ４</AccessMapName>
+<AreaPos_X>140.88</AreaPos_X>
+<AreaPos_X2>143.91</AreaPos_X2>
+<AreaPos_Y>71.06</AreaPos_Y>
+<AreaPos_Y2>72.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid73">
+<AreaUID>73</AreaUID>
+<AreaName>inter the heigh2</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[151]G30_H01_B04.rmd</AccessMap>
+<AccessMapName>海の神殿　Ｂ４</AccessMapName>
+<AreaPos_X>274.06</AreaPos_X>
+<AreaPos_X2>276.84</AreaPos_X2>
+<AreaPos_Y>102.09</AreaPos_Y>
+<AreaPos_Y2>103.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid74">
+<AreaUID>74</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>24.00</AreaPos_X>
+<AreaPos_X2>26.38</AreaPos_X2>
+<AreaPos_Y>3.94</AreaPos_Y>
+<AreaPos_Y2>4.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid75">
+<AreaUID>75</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>8.13</AreaPos_X>
+<AreaPos_X2>9.91</AreaPos_X2>
+<AreaPos_Y>12.06</AreaPos_Y>
+<AreaPos_Y2>13.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid76">
+<AreaUID>76</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>65.97</AreaPos_X>
+<AreaPos_X2>67.97</AreaPos_X2>
+<AreaPos_Y>66.06</AreaPos_Y>
+<AreaPos_Y2>67.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid77">
+<AreaUID>77</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>365.97</AreaPos_X>
+<AreaPos_X2>368.13</AreaPos_X2>
+<AreaPos_Y>5.03</AreaPos_Y>
+<AreaPos_Y2>6.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid78">
+<AreaUID>78</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>375.84</AreaPos_X>
+<AreaPos_X2>377.84</AreaPos_X2>
+<AreaPos_Y>26.66</AreaPos_Y>
+<AreaPos_Y2>28.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid79">
+<AreaUID>79</AreaUID>
+<AreaName>보물상자05</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>66.06</AreaPos_X>
+<AreaPos_X2>67.94</AreaPos_X2>
+<AreaPos_Y>76.03</AreaPos_Y>
+<AreaPos_Y2>76.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid80">
+<AreaUID>80</AreaUID>
+<AreaName>보물상자06</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.00</AreaPos_X>
+<AreaPos_X2>17.78</AreaPos_X2>
+<AreaPos_Y>180.09</AreaPos_Y>
+<AreaPos_Y2>181.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid81">
+<AreaUID>81</AreaUID>
+<AreaName>보물상자07</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>29.69</AreaPos_X>
+<AreaPos_X2>32.03</AreaPos_X2>
+<AreaPos_Y>194.94</AreaPos_Y>
+<AreaPos_Y2>195.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid82">
+<AreaUID>82</AreaUID>
+<AreaName>보물상자08</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>52.25</AreaPos_X>
+<AreaPos_X2>54.00</AreaPos_X2>
+<AreaPos_Y>187.66</AreaPos_Y>
+<AreaPos_Y2>188.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid83">
+<AreaUID>83</AreaUID>
+<AreaName>보물상자09</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>390.16</AreaPos_X>
+<AreaPos_X2>391.97</AreaPos_X2>
+<AreaPos_Y>194.66</AreaPos_Y>
+<AreaPos_Y2>195.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid84">
+<AreaUID>84</AreaUID>
+<AreaName>보물상자10</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>373.66</AreaPos_X>
+<AreaPos_X2>375.97</AreaPos_X2>
+<AreaPos_Y>179.97</AreaPos_Y>
+<AreaPos_Y2>181.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid85">
+<AreaUID>85</AreaUID>
+<AreaName>보물상자11</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>372.00</AreaPos_X>
+<AreaPos_X2>374.00</AreaPos_X2>
+<AreaPos_Y>195.06</AreaPos_Y>
+<AreaPos_Y2>196.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid86">
+<AreaUID>86</AreaUID>
+<AreaName>보물상자12</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>93.97</AreaPos_X>
+<AreaPos_X2>96.03</AreaPos_X2>
+<AreaPos_Y>118.75</AreaPos_Y>
+<AreaPos_Y2>119.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid87">
+<AreaUID>87</AreaUID>
+<AreaName>보물상자13</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>330.09</AreaPos_X>
+<AreaPos_X2>331.97</AreaPos_X2>
+<AreaPos_Y>75.13</AreaPos_Y>
+<AreaPos_Y2>76.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid88">
+<AreaUID>88</AreaUID>
+<AreaName>보스1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>61.66</AreaPos_X>
+<AreaPos_X2>82.38</AreaPos_X2>
+<AreaPos_Y>155.50</AreaPos_Y>
+<AreaPos_Y2>171.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid89">
+<AreaUID>89</AreaUID>
+<AreaName>보너스1</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>68.47</AreaPos_X>
+<AreaPos_X2>75.25</AreaPos_X2>
+<AreaPos_Y>159.63</AreaPos_Y>
+<AreaPos_Y2>165.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid90">
+<AreaUID>90</AreaUID>
+<AreaName>보스2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>115.81</AreaPos_X>
+<AreaPos_X2>138.94</AreaPos_X2>
+<AreaPos_Y>57.19</AreaPos_Y>
+<AreaPos_Y2>75.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid91">
+<AreaUID>91</AreaUID>
+<AreaName>보너스2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>123.00</AreaPos_X>
+<AreaPos_X2>131.88</AreaPos_X2>
+<AreaPos_Y>62.91</AreaPos_Y>
+<AreaPos_Y2>68.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid92">
+<AreaUID>92</AreaUID>
+<AreaName>보스3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>219.81</AreaPos_X>
+<AreaPos_X2>244.06</AreaPos_X2>
+<AreaPos_Y>38.31</AreaPos_Y>
+<AreaPos_Y2>53.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid93">
+<AreaUID>93</AreaUID>
+<AreaName>보너스3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>228.41</AreaPos_X>
+<AreaPos_X2>235.56</AreaPos_X2>
+<AreaPos_Y>42.28</AreaPos_Y>
+<AreaPos_Y2>48.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

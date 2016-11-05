@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[040]M12_M01_B04.rmd</FileName>
+<FileType>Red Stone Scenario File 7.0 beta</FileType>
+<MapName>廃坑　Ｂ４</MapName>
+<SysWidth>100</SysWidth>
+<SysHeight>120</SysHeight>
+<TgaWidth>300</TgaWidth>
+<TgaHeight>180</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>205.88</PopPoint_X>
+<PopPoint_Y>64.73</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>212.81</PopPoint_X>
+<PopPoint_Y>81.56</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>225.56</PopPoint_X>
+<PopPoint_Y>64.59</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>265.78</PopPoint_X>
+<PopPoint_Y>89.11</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>272.63</PopPoint_X>
+<PopPoint_Y>66.94</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>265.59</PopPoint_X>
+<PopPoint_Y>49.31</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>226.78</PopPoint_X>
+<PopPoint_Y>50.58</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>229.69</PopPoint_X>
+<PopPoint_Y>81.05</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>236.91</PopPoint_X>
+<PopPoint_Y>71.72</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>267.84</PopPoint_X>
+<PopPoint_Y>81.09</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>270.94</PopPoint_X>
+<PopPoint_Y>73.45</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>260.91</PopPoint_X>
+<PopPoint_Y>43.64</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>226.97</PopPoint_X>
+<PopPoint_Y>42.38</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>毒スパイダー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>244.88</PopPoint_X>
+<PopPoint_Y>38.16</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.53</PopPoint_X>
+<PopPoint_Y>25.69</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>62.34</PopPoint_X>
+<PopPoint_Y>32.44</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.28</PopPoint_X>
+<PopPoint_Y>131.81</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>32.86</PopPoint_X>
+<PopPoint_Y>120.66</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>25.78</PopPoint_X>
+<PopPoint_Y>48.70</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>46.92</PopPoint_X>
+<PopPoint_Y>59.30</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>44.34</PopPoint_X>
+<PopPoint_Y>78.00</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>33.70</PopPoint_X>
+<PopPoint_Y>91.97</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>47.91</PopPoint_X>
+<PopPoint_Y>101.67</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>25.55</PopPoint_X>
+<PopPoint_Y>112.17</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>105.09</PopPoint_X>
+<PopPoint_Y>102.56</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>96.19</PopPoint_X>
+<PopPoint_Y>108.00</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>103.78</PopPoint_X>
+<PopPoint_Y>132.33</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>100.59</PopPoint_X>
+<PopPoint_Y>121.55</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>165.19</PopPoint_X>
+<PopPoint_Y>49.78</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>158.72</PopPoint_X>
+<PopPoint_Y>59.20</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>141.33</PopPoint_X>
+<PopPoint_Y>51.28</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>121.03</PopPoint_X>
+<PopPoint_Y>45.14</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>124.03</PopPoint_X>
+<PopPoint_Y>59.16</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>220.08</PopPoint_X>
+<PopPoint_Y>121.88</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>205.13</PopPoint_X>
+<PopPoint_Y>130.92</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>223.17</PopPoint_X>
+<PopPoint_Y>138.42</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>203.02</PopPoint_X>
+<PopPoint_Y>143.30</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>218.25</PopPoint_X>
+<PopPoint_Y>149.44</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>162.94</PopPoint_X>
+<PopPoint_Y>126.28</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>179.34</PopPoint_X>
+<PopPoint_Y>116.30</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>139.78</PopPoint_X>
+<PopPoint_Y>95.48</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>マーブルガゴイル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>164.58</PopPoint_X>
+<PopPoint_Y>96.75</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>ロックゴーレム</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>15</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>150.00</PopPoint_X>
+<PopPoint_Y>85.73</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>지하3층</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[039]M12_M01_B03.rmd</AccessMap>
+<AccessMapName>廃坑　Ｂ３</AccessMapName>
+<AreaPos_X>138.00</AreaPos_X>
+<AreaPos_X2>145.78</AreaPos_X2>
+<AreaPos_Y>2.11</AreaPos_Y>
+<AreaPos_Y2>6.80</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>지하 5층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[041]M12_M01_B05.rmd</AccessMap>
+<AccessMapName>廃坑　Ｂ５</AccessMapName>
+<AreaPos_X>46.55</AreaPos_X>
+<AreaPos_X2>55.41</AreaPos_X2>
+<AreaPos_Y>172.88</AreaPos_Y>
+<AreaPos_Y2>177.84</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>20.81</AreaPos_X>
+<AreaPos_X2>54.14</AreaPos_X2>
+<AreaPos_Y>72.98</AreaPos_Y>
+<AreaPos_Y2>138.52</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>195.05</AreaPos_X>
+<AreaPos_X2>233.81</AreaPos_X2>
+<AreaPos_Y>118.55</AreaPos_Y>
+<AreaPos_Y2>158.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>149.95</AreaPos_X>
+<AreaPos_X2>187.45</AreaPos_X2>
+<AreaPos_Y>110.86</AreaPos_Y>
+<AreaPos_Y2>130.08</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>87.89</AreaPos_X>
+<AreaPos_X2>109.64</AreaPos_X2>
+<AreaPos_Y>93.52</AreaPos_Y>
+<AreaPos_Y2>143.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>30.05</AreaPos_X>
+<AreaPos_X2>70.50</AreaPos_X2>
+<AreaPos_Y>19.27</AreaPos_Y>
+<AreaPos_Y2>38.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>197.44</AreaPos_X>
+<AreaPos_X2>241.59</AreaPos_X2>
+<AreaPos_Y>59.95</AreaPos_Y>
+<AreaPos_Y2>86.02</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>219.09</AreaPos_X>
+<AreaPos_X2>272.53</AreaPos_X2>
+<AreaPos_Y>28.88</AreaPos_Y>
+<AreaPos_Y2>55.55</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>독 거미 활동영역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>216.94</AreaPos_X>
+<AreaPos_X2>271.03</AreaPos_X2>
+<AreaPos_Y>34.88</AreaPos_Y>
+<AreaPos_Y2>88.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>281.53</AreaPos_X>
+<AreaPos_X2>296.11</AreaPos_X2>
+<AreaPos_Y>154.55</AreaPos_Y>
+<AreaPos_Y2>171.23</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>258.47</AreaPos_X>
+<AreaPos_X2>279.38</AreaPos_X2>
+<AreaPos_Y>59.25</AreaPos_Y>
+<AreaPos_Y2>96.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.50</AreaPos_X>
+<AreaPos_X2>52.13</AreaPos_X2>
+<AreaPos_Y>43.59</AreaPos_Y>
+<AreaPos_Y2>62.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>110.48</AreaPos_X>
+<AreaPos_X2>178.31</AreaPos_X2>
+<AreaPos_Y>41.16</AreaPos_Y>
+<AreaPos_Y2>62.11</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>130.03</AreaPos_X>
+<AreaPos_X2>174.56</AreaPos_X2>
+<AreaPos_Y>76.36</AreaPos_Y>
+<AreaPos_Y2>101.02</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>철광</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[067]T06_M01_B05.rmd</AccessMap>
+<AccessMapName>鉄鉱山　Ｂ５</AccessMapName>
+<AreaPos_X>139.13</AreaPos_X>
+<AreaPos_X2>146.86</AreaPos_X2>
+<AreaPos_Y>172.41</AreaPos_Y>
+<AreaPos_Y2>176.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>56.86</AreaPos_X>
+<AreaPos_X2>59.91</AreaPos_X2>
+<AreaPos_Y>72.00</AreaPos_Y>
+<AreaPos_Y2>73.83</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>38.91</AreaPos_X>
+<AreaPos_X2>41.91</AreaPos_X2>
+<AreaPos_Y>19.36</AreaPos_Y>
+<AreaPos_Y2>20.95</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>234.19</AreaPos_X>
+<AreaPos_X2>237.19</AreaPos_X2>
+<AreaPos_Y>18.14</AreaPos_Y>
+<AreaPos_Y2>19.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>150.14</AreaPos_X>
+<AreaPos_X2>153.00</AreaPos_X2>
+<AreaPos_Y>130.69</AreaPos_Y>
+<AreaPos_Y2>131.86</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>290.81</AreaPos_X>
+<AreaPos_X2>293.67</AreaPos_X2>
+<AreaPos_Y>171.19</AreaPos_Y>
+<AreaPos_Y2>172.55</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>금광</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>83.20</AreaPos_X>
+<AreaPos_X2>101.95</AreaPos_X2>
+<AreaPos_Y>56.81</AreaPos_Y>
+<AreaPos_Y2>72.70</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>0</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>1</isMortalObject>
+<DisarmTrap_Lv>0</DisarmTrap_Lv>
+<DetectTrap_Lv>0</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>1</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

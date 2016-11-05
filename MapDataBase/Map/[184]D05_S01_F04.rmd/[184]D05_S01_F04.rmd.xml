@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[184]D05_S01_F04.rmd</FileName>
+<FileType>Red Stone Scenario File 6.6 beta</FileType>
+<MapName>名も無い崩れた塔　４Ｆ</MapName>
+<SysWidth>80</SysWidth>
+<SysHeight>80</SysHeight>
+<TgaWidth>160</TgaWidth>
+<TgaHeight>80</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.78</PopPoint_X>
+<PopPoint_Y>53.19</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>32.41</PopPoint_X>
+<PopPoint_Y>59.47</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>44.84</PopPoint_X>
+<PopPoint_Y>35.06</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>80.50</PopPoint_X>
+<PopPoint_Y>65.13</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>44.59</PopPoint_X>
+<PopPoint_Y>46.56</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>38.19</PopPoint_X>
+<PopPoint_Y>38.09</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>117.81</PopPoint_X>
+<PopPoint_Y>13.09</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>136.06</PopPoint_X>
+<PopPoint_Y>21.69</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>72.41</PopPoint_X>
+<PopPoint_Y>20.50</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>86.66</PopPoint_X>
+<PopPoint_Y>16.84</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>93.03</PopPoint_X>
+<PopPoint_Y>21.41</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>108.88</PopPoint_X>
+<PopPoint_Y>12.88</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>137.47</PopPoint_X>
+<PopPoint_Y>29.19</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>121.66</PopPoint_X>
+<PopPoint_Y>35.84</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>128.81</PopPoint_X>
+<PopPoint_Y>40.88</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>119.63</PopPoint_X>
+<PopPoint_Y>44.97</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>19.00</PopPoint_X>
+<PopPoint_Y>56.09</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>40.66</PopPoint_X>
+<PopPoint_Y>62.22</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>92.91</PopPoint_X>
+<PopPoint_Y>60.53</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>88.09</PopPoint_X>
+<PopPoint_Y>64.22</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>74.25</PopPoint_X>
+<PopPoint_Y>60.94</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>54.63</PopPoint_X>
+<PopPoint_Y>67.56</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>49.69</PopPoint_X>
+<PopPoint_Y>61.88</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>長寿亀</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>58.25</PopPoint_X>
+<PopPoint_Y>28.06</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>キメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>1800</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>138.34</PopPoint_X>
+<PopPoint_Y>12.47</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>長寿亀</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>35.63</PopPoint_X>
+<PopPoint_Y>63.34</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>長寿亀</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>122.91</PopPoint_X>
+<PopPoint_Y>21.41</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>79.13</PopPoint_X>
+<PopPoint_Y>18.16</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>37.06</PopPoint_X>
+<PopPoint_Y>44.13</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>42.31</PopPoint_X>
+<PopPoint_Y>17.03</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>53.22</PopPoint_X>
+<PopPoint_Y>13.00</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>31.88</PopPoint_X>
+<PopPoint_Y>24.81</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>22.06</PopPoint_X>
+<PopPoint_Y>23.09</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>129.44</PopPoint_X>
+<PopPoint_Y>58.72</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>137.22</PopPoint_X>
+<PopPoint_Y>53.25</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>120.16</PopPoint_X>
+<PopPoint_Y>63.13</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.09</PopPoint_X>
+<PopPoint_Y>67.91</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>長寿亀</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>60</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>106.91</PopPoint_X>
+<PopPoint_Y>52.63</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>132.19</PopPoint_X>
+<PopPoint_Y>52.66</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>113.66</PopPoint_X>
+<PopPoint_Y>64.69</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>48.97</PopPoint_X>
+<PopPoint_Y>17.00</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>27.22</PopPoint_X>
+<PopPoint_Y>24.97</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>125.13</PopPoint_X>
+<PopPoint_Y>44.25</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>141.28</PopPoint_X>
+<PopPoint_Y>25.84</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>ビッグシェル</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>17</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>112.88</PopPoint_X>
+<PopPoint_Y>11.44</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>キメラ</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>1800</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>24.13</PopPoint_X>
+<PopPoint_Y>68.75</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>지상 5층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[185]D05_S01_F05.rmd</AccessMap>
+<AccessMapName>名も無い崩れた塔　５Ｆ</AccessMapName>
+<AreaPos_X>136.66</AreaPos_X>
+<AreaPos_X2>140.34</AreaPos_X2>
+<AreaPos_Y>67.63</AreaPos_Y>
+<AreaPos_Y2>69.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>지상 3층으로</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[183]D05_S01_F03.rmd</AccessMap>
+<AccessMapName>名も無い崩れた塔　３Ｆ</AccessMapName>
+<AreaPos_X>20.91</AreaPos_X>
+<AreaPos_X2>24.28</AreaPos_X2>
+<AreaPos_Y>11.09</AreaPos_Y>
+<AreaPos_Y2>13.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>104.31</AreaPos_X>
+<AreaPos_X2>125.84</AreaPos_X2>
+<AreaPos_Y>5.88</AreaPos_Y>
+<AreaPos_Y2>19.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>36.44</AreaPos_X>
+<AreaPos_X2>59.69</AreaPos_X2>
+<AreaPos_Y>58.16</AreaPos_Y>
+<AreaPos_Y2>74.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>114.84</AreaPos_X>
+<AreaPos_X2>132.81</AreaPos_X2>
+<AreaPos_Y>31.31</AreaPos_Y>
+<AreaPos_Y2>50.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>34.25</AreaPos_X>
+<AreaPos_X2>50.75</AreaPos_X2>
+<AreaPos_Y>31.19</AreaPos_Y>
+<AreaPos_Y2>49.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>126.88</AreaPos_X>
+<AreaPos_X2>147.66</AreaPos_X2>
+<AreaPos_Y>15.94</AreaPos_Y>
+<AreaPos_Y2>31.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>13.59</AreaPos_X>
+<AreaPos_X2>35.81</AreaPos_X2>
+<AreaPos_Y>49.78</AreaPos_Y>
+<AreaPos_Y2>64.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>23.59</AreaPos_X>
+<AreaPos_X2>47.88</AreaPos_X2>
+<AreaPos_Y>53.09</AreaPos_Y>
+<AreaPos_Y2>69.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>70.22</AreaPos_X>
+<AreaPos_X2>93.84</AreaPos_X2>
+<AreaPos_Y>12.56</AreaPos_Y>
+<AreaPos_Y2>24.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>117.00</AreaPos_X>
+<AreaPos_X2>132.38</AreaPos_X2>
+<AreaPos_Y>11.16</AreaPos_Y>
+<AreaPos_Y2>24.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>68.69</AreaPos_X>
+<AreaPos_X2>96.97</AreaPos_X2>
+<AreaPos_Y>57.19</AreaPos_Y>
+<AreaPos_Y2>67.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>37.13</AreaPos_X>
+<AreaPos_X2>57.03</AreaPos_X2>
+<AreaPos_Y>8.38</AreaPos_Y>
+<AreaPos_Y2>21.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>17.72</AreaPos_X>
+<AreaPos_X2>36.97</AreaPos_X2>
+<AreaPos_Y>19.59</AreaPos_Y>
+<AreaPos_Y2>31.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>124.41</AreaPos_X>
+<AreaPos_X2>147.84</AreaPos_X2>
+<AreaPos_Y>50.19</AreaPos_Y>
+<AreaPos_Y2>62.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>102.59</AreaPos_X>
+<AreaPos_X2>125.97</AreaPos_X2>
+<AreaPos_Y>60.97</AreaPos_Y>
+<AreaPos_Y2>73.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>키메라 활동 지역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>132.41</AreaPos_X>
+<AreaPos_X2>146.13</AreaPos_X2>
+<AreaPos_Y>5.00</AreaPos_Y>
+<AreaPos_Y2>17.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>장수거북01</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>51.97</AreaPos_X>
+<AreaPos_X2>63.38</AreaPos_X2>
+<AreaPos_Y>23.34</AreaPos_Y>
+<AreaPos_Y2>32.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>장수거북02</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>102.09</AreaPos_X>
+<AreaPos_X2>113.06</AreaPos_X2>
+<AreaPos_Y>46.81</AreaPos_Y>
+<AreaPos_Y2>57.28</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>키메라 활동 지역2</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>20.44</AreaPos_X>
+<AreaPos_X2>27.72</AreaPos_X2>
+<AreaPos_Y>64.75</AreaPos_Y>
+<AreaPos_Y2>71.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[102]G27_H01_B01.rmd</FileName>
+<FileType>Red Stone Scenario File 6.3 beta</FileType>
+<MapName>麻薬巣窟　Ｂ１</MapName>
+<SysWidth>80</SysWidth>
+<SysHeight>115</SysHeight>
+<TgaWidth>160</TgaWidth>
+<TgaHeight>115</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>90</PopSpeed>
+<PopPoint_X>78.09</PopPoint_X>
+<PopPoint_Y>65.41</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>104.09</PopPoint_X>
+<PopPoint_Y>46.72</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>101.44</PopPoint_X>
+<PopPoint_Y>53.19</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>67.34</PopPoint_X>
+<PopPoint_Y>63.31</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>86.94</PopPoint_X>
+<PopPoint_Y>72.31</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>44.56</PopPoint_X>
+<PopPoint_Y>47.28</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>63.63</PopPoint_X>
+<PopPoint_Y>42.78</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>29.66</PopPoint_X>
+<PopPoint_Y>12.31</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>21.91</PopPoint_X>
+<PopPoint_Y>16.56</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>54.81</PopPoint_X>
+<PopPoint_Y>29.50</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>79.50</PopPoint_X>
+<PopPoint_Y>20.25</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>22</PopSpeed>
+<PopPoint_X>122.22</PopPoint_X>
+<PopPoint_Y>82.44</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>22</PopSpeed>
+<PopPoint_X>136.66</PopPoint_X>
+<PopPoint_Y>92.88</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>24.75</PopPoint_X>
+<PopPoint_Y>91.19</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>24.38</PopPoint_X>
+<PopPoint_Y>69.06</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>75.50</PopPoint_X>
+<PopPoint_Y>89.13</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>104.50</PopPoint_X>
+<PopPoint_Y>103.00</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>97.94</PopPoint_X>
+<PopPoint_Y>22.13</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>152.28</PopPoint_X>
+<PopPoint_Y>67.44</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>144.63</PopPoint_X>
+<PopPoint_Y>34.63</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>143.50</PopPoint_X>
+<PopPoint_Y>31.13</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>27.25</PopPoint_X>
+<PopPoint_Y>65.25</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>72.44</PopPoint_X>
+<PopPoint_Y>92.25</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>50.16</PopPoint_X>
+<PopPoint_Y>26.34</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>75.19</PopPoint_X>
+<PopPoint_Y>18.81</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>プレーガー</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>20.13</PopPoint_X>
+<PopPoint_Y>29.44</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>18</PopSpeed>
+<PopPoint_X>107.84</PopPoint_X>
+<PopPoint_Y>55.56</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>18</PopSpeed>
+<PopPoint_X>96.31</PopPoint_X>
+<PopPoint_Y>45.78</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>17</PopSpeed>
+<PopPoint_X>135.13</PopPoint_X>
+<PopPoint_Y>88.03</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>17</PopSpeed>
+<PopPoint_X>125.47</PopPoint_X>
+<PopPoint_Y>78.66</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>18</PopSpeed>
+<PopPoint_X>74.28</PopPoint_X>
+<PopPoint_Y>71.88</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>18</PopSpeed>
+<PopPoint_X>68.28</PopPoint_X>
+<PopPoint_Y>71.75</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>50.75</PopPoint_X>
+<PopPoint_Y>52.56</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>64.28</PopPoint_X>
+<PopPoint_Y>37.38</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>堕落魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>25</PopSpeed>
+<PopPoint_X>25.63</PopPoint_X>
+<PopPoint_Y>24.16</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>ダイルン</CharacterName>
+<CharacterType>10</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>120</PopSpeed>
+<PopPoint_X>131.41</PopPoint_X>
+<PopPoint_Y>11.22</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>74.59</PopPoint_X>
+<PopPoint_Y>41.03</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>40.06</PopPoint_X>
+<PopPoint_Y>52.56</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>59.38</PopPoint_X>
+<PopPoint_Y>18.72</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>64.88</PopPoint_X>
+<PopPoint_Y>23.47</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>18</PopSpeed>
+<PopPoint_X>137.88</PopPoint_X>
+<PopPoint_Y>78.97</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>18</PopSpeed>
+<PopPoint_X>135.72</PopPoint_X>
+<PopPoint_Y>82.09</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>93.34</PopPoint_X>
+<PopPoint_Y>54.16</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>89.94</PopPoint_X>
+<PopPoint_Y>47.53</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>130.09</PopPoint_X>
+<PopPoint_Y>46.41</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>129.78</PopPoint_X>
+<PopPoint_Y>52.00</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>18.88</PopPoint_X>
+<PopPoint_Y>89.31</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>グレムリン</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>116.91</PopPoint_X>
+<PopPoint_Y>32.72</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>1층으로 올라가기</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[101]G27_H01_F01.rmd</AccessMap>
+<AccessMapName>麻薬巣窟　１Ｆ</AccessMapName>
+<AreaPos_X>141.75</AreaPos_X>
+<AreaPos_X2>145.94</AreaPos_X2>
+<AreaPos_Y>10.00</AreaPos_Y>
+<AreaPos_Y2>12.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>지하 2층으로 가기</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[103]G27_H01_B02.rmd</AccessMap>
+<AccessMapName>麻薬巣窟　Ｂ２</AccessMapName>
+<AreaPos_X>49.41</AreaPos_X>
+<AreaPos_X2>53.47</AreaPos_X2>
+<AreaPos_Y>78.00</AreaPos_Y>
+<AreaPos_Y2>80.09</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>85.72</AreaPos_X>
+<AreaPos_X2>107.88</AreaPos_X2>
+<AreaPos_Y>43.25</AreaPos_Y>
+<AreaPos_Y2>50.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>Area 4</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>91.50</AreaPos_X>
+<AreaPos_X2>110.25</AreaPos_X2>
+<AreaPos_Y>50.66</AreaPos_Y>
+<AreaPos_Y2>58.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.63</AreaPos_X>
+<AreaPos_X2>31.78</AreaPos_X2>
+<AreaPos_Y>60.38</AreaPos_Y>
+<AreaPos_Y2>75.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>61.63</AreaPos_X>
+<AreaPos_X2>87.13</AreaPos_X2>
+<AreaPos_Y>87.09</AreaPos_Y>
+<AreaPos_Y2>95.50</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.19</AreaPos_X>
+<AreaPos_X2>31.44</AreaPos_X2>
+<AreaPos_Y>87.25</AreaPos_Y>
+<AreaPos_Y2>96.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>71.91</AreaPos_X>
+<AreaPos_X2>89.91</AreaPos_X2>
+<AreaPos_Y>66.94</AreaPos_Y>
+<AreaPos_Y2>73.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>64.63</AreaPos_X>
+<AreaPos_X2>72.53</AreaPos_X2>
+<AreaPos_Y>59.97</AreaPos_Y>
+<AreaPos_Y2>73.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>45.00</AreaPos_X>
+<AreaPos_X2>64.75</AreaPos_X2>
+<AreaPos_Y>23.25</AreaPos_Y>
+<AreaPos_Y2>32.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>52.38</AreaPos_X>
+<AreaPos_X2>71.13</AreaPos_X2>
+<AreaPos_Y>12.63</AreaPos_Y>
+<AreaPos_Y2>28.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>72.63</AreaPos_X>
+<AreaPos_X2>85.00</AreaPos_X2>
+<AreaPos_Y>13.75</AreaPos_Y>
+<AreaPos_Y2>27.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>38.09</AreaPos_X>
+<AreaPos_X2>57.91</AreaPos_X2>
+<AreaPos_Y>43.06</AreaPos_Y>
+<AreaPos_Y2>56.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>58.03</AreaPos_X>
+<AreaPos_X2>77.91</AreaPos_X2>
+<AreaPos_Y>33.09</AreaPos_Y>
+<AreaPos_Y2>47.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>98.75</AreaPos_X>
+<AreaPos_X2>108.94</AreaPos_X2>
+<AreaPos_Y>99.25</AreaPos_Y>
+<AreaPos_Y2>106.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>플레이거 이동 영역 00</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>70.84</AreaPos_X>
+<AreaPos_X2>89.91</AreaPos_X2>
+<AreaPos_Y>59.09</AreaPos_Y>
+<AreaPos_Y2>69.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>117.28</AreaPos_X>
+<AreaPos_X2>125.19</AreaPos_X2>
+<AreaPos_Y>49.00</AreaPos_Y>
+<AreaPos_Y2>56.78</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>200</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>3</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>1</isMortalObject>
+<DisarmTrap_Lv>0</DisarmTrap_Lv>
+<DetectTrap_Lv>0</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>138.09</AreaPos_X>
+<AreaPos_X2>149.84</AreaPos_X2>
+<AreaPos_Y>27.50</AreaPos_Y>
+<AreaPos_Y2>40.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>Area 19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>144.91</AreaPos_X>
+<AreaPos_X2>155.97</AreaPos_X2>
+<AreaPos_Y>61.59</AreaPos_Y>
+<AreaPos_Y2>72.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>Area 20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>115.97</AreaPos_X>
+<AreaPos_X2>132.66</AreaPos_X2>
+<AreaPos_Y>74.03</AreaPos_Y>
+<AreaPos_Y2>88.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>Area 21</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>127.88</AreaPos_X>
+<AreaPos_X2>141.91</AreaPos_X2>
+<AreaPos_Y>76.59</AreaPos_Y>
+<AreaPos_Y2>94.91</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>Area 22</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>91.69</AreaPos_X>
+<AreaPos_X2>104.63</AreaPos_X2>
+<AreaPos_Y>16.63</AreaPos_Y>
+<AreaPos_Y2>28.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>Area 23</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>127.19</AreaPos_X>
+<AreaPos_X2>137.28</AreaPos_X2>
+<AreaPos_Y>42.03</AreaPos_Y>
+<AreaPos_Y2>56.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>Area 24</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>113.00</AreaPos_X>
+<AreaPos_X2>120.41</AreaPos_X2>
+<AreaPos_Y>27.78</AreaPos_Y>
+<AreaPos_Y2>35.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>Area 25</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>18.13</AreaPos_X>
+<AreaPos_X2>35.47</AreaPos_X2>
+<AreaPos_Y>10.16</AreaPos_Y>
+<AreaPos_Y2>19.81</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>Area 26</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>16.09</AreaPos_X>
+<AreaPos_X2>27.81</AreaPos_X2>
+<AreaPos_Y>22.13</AreaPos_Y>
+<AreaPos_Y2>32.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>Area 28</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>28.78</AreaPos_X>
+<AreaPos_X2>36.59</AreaPos_X2>
+<AreaPos_Y>81.72</AreaPos_Y>
+<AreaPos_Y2>89.72</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>100</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>3</UnlockDoor_Lv>
+<RecoveryTime>20</RecoveryTime>
+<isMortalObject>1</isMortalObject>
+<DisarmTrap_Lv>0</DisarmTrap_Lv>
+<DetectTrap_Lv>0</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>63.72</AreaPos_X>
+<AreaPos_X2>65.50</AreaPos_X2>
+<AreaPos_Y>58.00</AreaPos_Y>
+<AreaPos_Y2>58.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>36.59</AreaPos_X>
+<AreaPos_X2>38.28</AreaPos_X2>
+<AreaPos_Y>47.53</AreaPos_Y>
+<AreaPos_Y2>48.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>99.16</AreaPos_X>
+<AreaPos_X2>100.88</AreaPos_X2>
+<AreaPos_Y>32.16</AreaPos_Y>
+<AreaPos_Y2>33.06</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>32.78</AreaPos_X>
+<AreaPos_X2>34.53</AreaPos_X2>
+<AreaPos_Y>9.94</AreaPos_Y>
+<AreaPos_Y2>10.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>128.44</AreaPos_X>
+<AreaPos_X2>130.28</AreaPos_X2>
+<AreaPos_Y>73.84</AreaPos_Y>
+<AreaPos_Y2>75.16</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>보물상자05</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>80.69</AreaPos_X>
+<AreaPos_X2>82.44</AreaPos_X2>
+<AreaPos_Y>91.63</AreaPos_Y>
+<AreaPos_Y2>92.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>보물상자06</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>59.19</AreaPos_X>
+<AreaPos_X2>61.31</AreaPos_X2>
+<AreaPos_Y>14.03</AreaPos_Y>
+<AreaPos_Y2>15.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>Area 36</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>111.59</AreaPos_X>
+<AreaPos_X2>118.66</AreaPos_X2>
+<AreaPos_Y>10.25</AreaPos_Y>
+<AreaPos_Y2>17.41</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>50</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>1</UnlockDoor_Lv>
+<RecoveryTime>15</RecoveryTime>
+<isMortalObject>1</isMortalObject>
+<DisarmTrap_Lv>0</DisarmTrap_Lv>
+<DetectTrap_Lv>0</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

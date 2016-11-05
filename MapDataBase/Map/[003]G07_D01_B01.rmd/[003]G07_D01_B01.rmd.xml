@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[003]G07_D01_B01.rmd</FileName>
+<FileType>Red Stone Scenario File 5.9 beta</FileType>
+<MapName>旧レッドアイ研究所　Ｂ１</MapName>
+<SysWidth>120</SysWidth>
+<SysHeight>120</SysHeight>
+<TgaWidth>240</TgaWidth>
+<TgaHeight>120</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>1</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>103.44</PopPoint_X>
+<PopPoint_Y>53.66</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>198.09</PopPoint_X>
+<PopPoint_Y>70.59</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>71.84</PopPoint_X>
+<PopPoint_Y>72.47</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>45.63</PopPoint_X>
+<PopPoint_Y>81.56</PopPoint_Y>
+</Character>
+<Character id="cUid4">
+<CharacterUID>4</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>51.56</PopPoint_X>
+<PopPoint_Y>82.66</PopPoint_Y>
+</Character>
+<Character id="cUid5">
+<CharacterUID>5</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>34.38</PopPoint_X>
+<PopPoint_Y>82.34</PopPoint_Y>
+</Character>
+<Character id="cUid6">
+<CharacterUID>6</CharacterUID>
+<CharacterName>ラピ･ド･セイジ</CharacterName>
+<CharacterType>13</CharacterType>
+<InternalID>5</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>176.84</PopPoint_X>
+<PopPoint_Y>10.00</PopPoint_Y>
+</Character>
+<Character id="cUid7">
+<CharacterUID>7</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>127.78</PopPoint_X>
+<PopPoint_Y>29.69</PopPoint_Y>
+</Character>
+<Character id="cUid8">
+<CharacterUID>8</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>124.47</PopPoint_X>
+<PopPoint_Y>33.28</PopPoint_Y>
+</Character>
+<Character id="cUid9">
+<CharacterUID>9</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>130.53</PopPoint_X>
+<PopPoint_Y>45.59</PopPoint_Y>
+</Character>
+<Character id="cUid10">
+<CharacterUID>10</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>61.09</PopPoint_X>
+<PopPoint_Y>92.03</PopPoint_Y>
+</Character>
+<Character id="cUid11">
+<CharacterUID>11</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>66.97</PopPoint_X>
+<PopPoint_Y>94.88</PopPoint_Y>
+</Character>
+<Character id="cUid12">
+<CharacterUID>12</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>69.44</PopPoint_X>
+<PopPoint_Y>56.84</PopPoint_Y>
+</Character>
+<Character id="cUid13">
+<CharacterUID>13</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>46.56</PopPoint_X>
+<PopPoint_Y>44.63</PopPoint_Y>
+</Character>
+<Character id="cUid14">
+<CharacterUID>14</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>68.28</PopPoint_X>
+<PopPoint_Y>68.28</PopPoint_Y>
+</Character>
+<Character id="cUid15">
+<CharacterUID>15</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>155.81</PopPoint_X>
+<PopPoint_Y>54.50</PopPoint_Y>
+</Character>
+<Character id="cUid16">
+<CharacterUID>16</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>38.72</PopPoint_X>
+<PopPoint_Y>45.16</PopPoint_Y>
+</Character>
+<Character id="cUid17">
+<CharacterUID>17</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>73.88</PopPoint_X>
+<PopPoint_Y>68.25</PopPoint_Y>
+</Character>
+<Character id="cUid18">
+<CharacterUID>18</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>54.88</PopPoint_X>
+<PopPoint_Y>59.44</PopPoint_Y>
+</Character>
+<Character id="cUid19">
+<CharacterUID>19</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>53.06</PopPoint_X>
+<PopPoint_Y>62.06</PopPoint_Y>
+</Character>
+<Character id="cUid20">
+<CharacterUID>20</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>111.81</PopPoint_X>
+<PopPoint_Y>41.69</PopPoint_Y>
+</Character>
+<Character id="cUid21">
+<CharacterUID>21</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>52.75</PopPoint_X>
+<PopPoint_Y>36.84</PopPoint_Y>
+</Character>
+<Character id="cUid22">
+<CharacterUID>22</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>68.97</PopPoint_X>
+<PopPoint_Y>55.06</PopPoint_Y>
+</Character>
+<Character id="cUid23">
+<CharacterUID>23</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>59.91</PopPoint_X>
+<PopPoint_Y>64.72</PopPoint_Y>
+</Character>
+<Character id="cUid24">
+<CharacterUID>24</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>113.00</PopPoint_X>
+<PopPoint_Y>58.19</PopPoint_Y>
+</Character>
+<Character id="cUid25">
+<CharacterUID>25</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>70.84</PopPoint_X>
+<PopPoint_Y>59.25</PopPoint_Y>
+</Character>
+<Character id="cUid26">
+<CharacterUID>26</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>130.28</PopPoint_X>
+<PopPoint_Y>50.16</PopPoint_Y>
+</Character>
+<Character id="cUid27">
+<CharacterUID>27</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>161.97</PopPoint_X>
+<PopPoint_Y>55.88</PopPoint_Y>
+</Character>
+<Character id="cUid28">
+<CharacterUID>28</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>100.19</PopPoint_X>
+<PopPoint_Y>30.19</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>114.34</PopPoint_X>
+<PopPoint_Y>36.47</PopPoint_Y>
+</Character>
+<Character id="cUid30">
+<CharacterUID>30</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>112.66</PopPoint_X>
+<PopPoint_Y>39.50</PopPoint_Y>
+</Character>
+<Character id="cUid31">
+<CharacterUID>31</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>112.72</PopPoint_X>
+<PopPoint_Y>61.50</PopPoint_Y>
+</Character>
+<Character id="cUid32">
+<CharacterUID>32</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>86.19</PopPoint_X>
+<PopPoint_Y>61.56</PopPoint_Y>
+</Character>
+<Character id="cUid33">
+<CharacterUID>33</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>91.41</PopPoint_X>
+<PopPoint_Y>60.22</PopPoint_Y>
+</Character>
+<Character id="cUid34">
+<CharacterUID>34</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>100.97</PopPoint_X>
+<PopPoint_Y>55.88</PopPoint_Y>
+</Character>
+<Character id="cUid35">
+<CharacterUID>35</CharacterUID>
+<CharacterName>レッドアイ警備犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>80</PopSpeed>
+<PopPoint_X>104.06</PopPoint_X>
+<PopPoint_Y>65.38</PopPoint_Y>
+</Character>
+<Character id="cUid36">
+<CharacterUID>36</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>93.72</PopPoint_X>
+<PopPoint_Y>16.72</PopPoint_Y>
+</Character>
+<Character id="cUid37">
+<CharacterUID>37</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>154.47</PopPoint_X>
+<PopPoint_Y>104.00</PopPoint_Y>
+</Character>
+<Character id="cUid38">
+<CharacterUID>38</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>104.63</PopPoint_X>
+<PopPoint_Y>69.38</PopPoint_Y>
+</Character>
+<Character id="cUid39">
+<CharacterUID>39</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>124.50</PopPoint_X>
+<PopPoint_Y>68.19</PopPoint_Y>
+</Character>
+<Character id="cUid40">
+<CharacterUID>40</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>122.19</PopPoint_X>
+<PopPoint_Y>65.44</PopPoint_Y>
+</Character>
+<Character id="cUid41">
+<CharacterUID>41</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>160.78</PopPoint_X>
+<PopPoint_Y>97.91</PopPoint_Y>
+</Character>
+<Character id="cUid42">
+<CharacterUID>42</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>93.13</PopPoint_X>
+<PopPoint_Y>27.25</PopPoint_Y>
+</Character>
+<Character id="cUid43">
+<CharacterUID>43</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>153.44</PopPoint_X>
+<PopPoint_Y>94.50</PopPoint_Y>
+</Character>
+<Character id="cUid44">
+<CharacterUID>44</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>95.38</PopPoint_X>
+<PopPoint_Y>34.22</PopPoint_Y>
+</Character>
+<Character id="cUid45">
+<CharacterUID>45</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>98.31</PopPoint_X>
+<PopPoint_Y>18.91</PopPoint_Y>
+</Character>
+<Character id="cUid46">
+<CharacterUID>46</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>153.84</PopPoint_X>
+<PopPoint_Y>64.97</PopPoint_Y>
+</Character>
+<Character id="cUid47">
+<CharacterUID>47</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>87.44</PopPoint_X>
+<PopPoint_Y>78.75</PopPoint_Y>
+</Character>
+<Character id="cUid48">
+<CharacterUID>48</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>90.31</PopPoint_X>
+<PopPoint_Y>80.44</PopPoint_Y>
+</Character>
+<Character id="cUid49">
+<CharacterUID>49</CharacterUID>
+<CharacterName>レッドアイ魔法師</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>4</InternalID>
+<PopSpeed>20</PopSpeed>
+<PopPoint_X>110.66</PopPoint_X>
+<PopPoint_Y>23.78</PopPoint_Y>
+</Character>
+<Character id="cUid50">
+<CharacterUID>50</CharacterUID>
+<CharacterName>レッドアイ狂信者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>135.84</PopPoint_X>
+<PopPoint_Y>44.50</PopPoint_Y>
+</Character>
+<Character id="cUid51">
+<CharacterUID>51</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>106.44</PopPoint_X>
+<PopPoint_Y>85.25</PopPoint_Y>
+</Character>
+<Character id="cUid52">
+<CharacterUID>52</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>129.94</PopPoint_X>
+<PopPoint_Y>52.56</PopPoint_Y>
+</Character>
+<Character id="cUid53">
+<CharacterUID>53</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>114.00</PopPoint_X>
+<PopPoint_Y>86.13</PopPoint_Y>
+</Character>
+<Character id="cUid54">
+<CharacterUID>54</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>151.25</PopPoint_X>
+<PopPoint_Y>90.63</PopPoint_Y>
+</Character>
+<Character id="cUid55">
+<CharacterUID>55</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>46.94</PopPoint_X>
+<PopPoint_Y>48.09</PopPoint_Y>
+</Character>
+<Character id="cUid56">
+<CharacterUID>56</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>101.72</PopPoint_X>
+<PopPoint_Y>20.84</PopPoint_Y>
+</Character>
+<Character id="cUid57">
+<CharacterUID>57</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>162.59</PopPoint_X>
+<PopPoint_Y>59.13</PopPoint_Y>
+</Character>
+<Character id="cUid58">
+<CharacterUID>58</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>203.94</PopPoint_X>
+<PopPoint_Y>73.97</PopPoint_Y>
+</Character>
+<Character id="cUid59">
+<CharacterUID>59</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>142.63</PopPoint_X>
+<PopPoint_Y>105.38</PopPoint_Y>
+</Character>
+<Character id="cUid60">
+<CharacterUID>60</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>139.00</PopPoint_X>
+<PopPoint_Y>107.50</PopPoint_Y>
+</Character>
+<Character id="cUid61">
+<CharacterUID>61</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>185.50</PopPoint_X>
+<PopPoint_Y>78.16</PopPoint_Y>
+</Character>
+<Character id="cUid62">
+<CharacterUID>62</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>149.75</PopPoint_X>
+<PopPoint_Y>102.19</PopPoint_Y>
+</Character>
+<Character id="cUid63">
+<CharacterUID>63</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>177.22</PopPoint_X>
+<PopPoint_Y>73.16</PopPoint_Y>
+</Character>
+<Character id="cUid64">
+<CharacterUID>64</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>36.56</PopPoint_X>
+<PopPoint_Y>85.84</PopPoint_Y>
+</Character>
+<Character id="cUid65">
+<CharacterUID>65</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>47.53</PopPoint_X>
+<PopPoint_Y>86.13</PopPoint_Y>
+</Character>
+<Character id="cUid66">
+<CharacterUID>66</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>164.56</PopPoint_X>
+<PopPoint_Y>96.00</PopPoint_Y>
+</Character>
+<Character id="cUid67">
+<CharacterUID>67</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>62.50</PopPoint_X>
+<PopPoint_Y>96.81</PopPoint_Y>
+</Character>
+<Character id="cUid68">
+<CharacterUID>68</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>6</InternalID>
+<PopSpeed>15</PopSpeed>
+<PopPoint_X>57.72</PopPoint_X>
+<PopPoint_Y>82.56</PopPoint_Y>
+</Character>
+<Character id="cUid69">
+<CharacterUID>69</CharacterUID>
+<CharacterName>レッドアイ警備犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>80</PopSpeed>
+<PopPoint_X>187.47</PopPoint_X>
+<PopPoint_Y>75.69</PopPoint_Y>
+</Character>
+<Character id="cUid70">
+<CharacterUID>70</CharacterUID>
+<CharacterName>レッドアイ警備犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>80</PopSpeed>
+<PopPoint_X>129.06</PopPoint_X>
+<PopPoint_Y>39.13</PopPoint_Y>
+</Character>
+<Character id="cUid71">
+<CharacterUID>71</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>61.16</PopPoint_X>
+<PopPoint_Y>43.22</PopPoint_Y>
+</Character>
+<Character id="cUid72">
+<CharacterUID>72</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>59.19</PopPoint_X>
+<PopPoint_Y>44.63</PopPoint_Y>
+</Character>
+<Character id="cUid73">
+<CharacterUID>73</CharacterUID>
+<CharacterName>レッドアイ警備犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>80</PopSpeed>
+<PopPoint_X>52.94</PopPoint_X>
+<PopPoint_Y>45.41</PopPoint_Y>
+</Character>
+<Character id="cUid74">
+<CharacterUID>74</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>51.41</PopPoint_X>
+<PopPoint_Y>87.56</PopPoint_Y>
+</Character>
+<Character id="cUid82">
+<CharacterUID>82</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>62.06</PopPoint_X>
+<PopPoint_Y>35.00</PopPoint_Y>
+</Character>
+<Character id="cUid83">
+<CharacterUID>83</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>68.81</PopPoint_X>
+<PopPoint_Y>37.19</PopPoint_Y>
+</Character>
+<Character id="cUid96">
+<CharacterUID>96</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>107.00</PopPoint_X>
+<PopPoint_Y>24.69</PopPoint_Y>
+</Character>
+<Character id="cUid97">
+<CharacterUID>97</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>111.88</PopPoint_X>
+<PopPoint_Y>26.94</PopPoint_Y>
+</Character>
+<Character id="cUid105">
+<CharacterUID>105</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>146.75</PopPoint_X>
+<PopPoint_Y>68.75</PopPoint_Y>
+</Character>
+<Character id="cUid106">
+<CharacterUID>106</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>153.38</PopPoint_X>
+<PopPoint_Y>71.25</PopPoint_Y>
+</Character>
+<Character id="cUid115">
+<CharacterUID>115</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>182.56</PopPoint_X>
+<PopPoint_Y>67.63</PopPoint_Y>
+</Character>
+<Character id="cUid116">
+<CharacterUID>116</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>193.69</PopPoint_X>
+<PopPoint_Y>64.25</PopPoint_Y>
+</Character>
+<Character id="cUid117">
+<CharacterUID>117</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>189.75</PopPoint_X>
+<PopPoint_Y>65.88</PopPoint_Y>
+</Character>
+<Character id="cUid118">
+<CharacterUID>118</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>176.81</PopPoint_X>
+<PopPoint_Y>80.25</PopPoint_Y>
+</Character>
+<Character id="cUid120">
+<CharacterUID>120</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>191.88</PopPoint_X>
+<PopPoint_Y>79.00</PopPoint_Y>
+</Character>
+<Character id="cUid121">
+<CharacterUID>121</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>197.88</PopPoint_X>
+<PopPoint_Y>75.00</PopPoint_Y>
+</Character>
+<Character id="cUid124">
+<CharacterUID>124</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>207.25</PopPoint_X>
+<PopPoint_Y>75.44</PopPoint_Y>
+</Character>
+<Character id="cUid132">
+<CharacterUID>132</CharacterUID>
+<CharacterName>レッドアイ警備犬</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>170.13</PopPoint_X>
+<PopPoint_Y>59.88</PopPoint_Y>
+</Character>
+<Character id="cUid143">
+<CharacterUID>143</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>138.69</PopPoint_X>
+<PopPoint_Y>33.38</PopPoint_Y>
+</Character>
+<Character id="cUid147">
+<CharacterUID>147</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>136.75</PopPoint_X>
+<PopPoint_Y>36.38</PopPoint_Y>
+</Character>
+<Character id="cUid148">
+<CharacterUID>148</CharacterUID>
+<CharacterName>レッドアイ信奉者</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>3</InternalID>
+<PopSpeed>10</PopSpeed>
+<PopPoint_X>136.50</PopPoint_X>
+<PopPoint_Y>39.69</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>입구</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[001]G07.rmd</AccessMap>
+<AccessMapName>中央プラトン街道 / グレートフォレスト入口付近</AccessMapName>
+<AreaPos_X>24.81</AreaPos_X>
+<AreaPos_X2>28.19</AreaPos_X2>
+<AreaPos_Y>94.91</AreaPos_Y>
+<AreaPos_Y2>98.22</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>2층입구</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[004]G07_D01_B02.rmd</AccessMap>
+<AccessMapName>旧レッドアイ研究所　Ｂ２</AccessMapName>
+<AreaPos_X>186.16</AreaPos_X>
+<AreaPos_X2>189.81</AreaPos_X2>
+<AreaPos_Y>13.16</AreaPos_Y>
+<AreaPos_Y2>16.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>Area 3</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>30.78</AreaPos_X>
+<AreaPos_X2>42.91</AreaPos_X2>
+<AreaPos_Y>77.47</AreaPos_Y>
+<AreaPos_Y2>88.34</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>문</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>114.91</AreaPos_X>
+<AreaPos_X2>121.81</AreaPos_X2>
+<AreaPos_Y>53.50</AreaPos_Y>
+<AreaPos_Y2>59.66</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>3000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>0</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>1</isMortalObject>
+<DisarmTrap_Lv>2</DisarmTrap_Lv>
+<DetectTrap_Lv>2</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>Area 5</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>43.31</AreaPos_X>
+<AreaPos_X2>64.19</AreaPos_X2>
+<AreaPos_Y>79.56</AreaPos_Y>
+<AreaPos_Y2>89.56</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid7">
+<AreaUID>7</AreaUID>
+<AreaName>Area 6</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>55.03</AreaPos_X>
+<AreaPos_X2>69.00</AreaPos_X2>
+<AreaPos_Y>88.28</AreaPos_Y>
+<AreaPos_Y2>99.41</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid8">
+<AreaUID>8</AreaUID>
+<AreaName>Area 7</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>65.38</AreaPos_X>
+<AreaPos_X2>76.81</AreaPos_X2>
+<AreaPos_Y>65.31</AreaPos_Y>
+<AreaPos_Y2>74.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid9">
+<AreaUID>9</AreaUID>
+<AreaName>Area 8</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>50.88</AreaPos_X>
+<AreaPos_X2>62.75</AreaPos_X2>
+<AreaPos_Y>57.75</AreaPos_Y>
+<AreaPos_Y2>66.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid10">
+<AreaUID>10</AreaUID>
+<AreaName>Area 9</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>64.56</AreaPos_X>
+<AreaPos_X2>74.88</AreaPos_X2>
+<AreaPos_Y>51.75</AreaPos_Y>
+<AreaPos_Y2>60.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid11">
+<AreaUID>11</AreaUID>
+<AreaName>Area 10</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>84.13</AreaPos_X>
+<AreaPos_X2>93.56</AreaPos_X2>
+<AreaPos_Y>58.06</AreaPos_Y>
+<AreaPos_Y2>65.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid12">
+<AreaUID>12</AreaUID>
+<AreaName>Area 11</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>98.31</AreaPos_X>
+<AreaPos_X2>105.75</AreaPos_X2>
+<AreaPos_Y>51.06</AreaPos_Y>
+<AreaPos_Y2>57.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid13">
+<AreaUID>13</AreaUID>
+<AreaName>Area 12</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>98.25</AreaPos_X>
+<AreaPos_X2>107.75</AreaPos_X2>
+<AreaPos_Y>67.06</AreaPos_Y>
+<AreaPos_Y2>72.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid14">
+<AreaUID>14</AreaUID>
+<AreaName>Area 13</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>109.13</AreaPos_X>
+<AreaPos_X2>116.13</AreaPos_X2>
+<AreaPos_Y>56.00</AreaPos_Y>
+<AreaPos_Y2>67.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid15">
+<AreaUID>15</AreaUID>
+<AreaName>Area 14</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>119.19</AreaPos_X>
+<AreaPos_X2>127.75</AreaPos_X2>
+<AreaPos_Y>63.44</AreaPos_Y>
+<AreaPos_Y2>70.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid16">
+<AreaUID>16</AreaUID>
+<AreaName>Area 15</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>79.88</AreaPos_X>
+<AreaPos_X2>92.00</AreaPos_X2>
+<AreaPos_Y>73.13</AreaPos_Y>
+<AreaPos_Y2>81.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid17">
+<AreaUID>17</AreaUID>
+<AreaName>Area 16</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>102.25</AreaPos_X>
+<AreaPos_X2>117.31</AreaPos_X2>
+<AreaPos_Y>80.13</AreaPos_Y>
+<AreaPos_Y2>90.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid18">
+<AreaUID>18</AreaUID>
+<AreaName>Area 17</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>137.44</AreaPos_X>
+<AreaPos_X2>146.63</AreaPos_X2>
+<AreaPos_Y>103.13</AreaPos_Y>
+<AreaPos_Y2>111.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid19">
+<AreaUID>19</AreaUID>
+<AreaName>Area 18</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>147.56</AreaPos_X>
+<AreaPos_X2>157.19</AreaPos_X2>
+<AreaPos_Y>98.94</AreaPos_Y>
+<AreaPos_Y2>107.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid20">
+<AreaUID>20</AreaUID>
+<AreaName>Area 19</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>157.69</AreaPos_X>
+<AreaPos_X2>166.88</AreaPos_X2>
+<AreaPos_Y>94.31</AreaPos_Y>
+<AreaPos_Y2>103.25</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid21">
+<AreaUID>21</AreaUID>
+<AreaName>Area 20</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>148.44</AreaPos_X>
+<AreaPos_X2>157.00</AreaPos_X2>
+<AreaPos_Y>89.50</AreaPos_Y>
+<AreaPos_Y2>98.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid22">
+<AreaUID>22</AreaUID>
+<AreaName>Area 21</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>201.69</AreaPos_X>
+<AreaPos_X2>212.06</AreaPos_X2>
+<AreaPos_Y>68.94</AreaPos_Y>
+<AreaPos_Y2>76.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid23">
+<AreaUID>23</AreaUID>
+<AreaName>Area 22</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>188.19</AreaPos_X>
+<AreaPos_X2>200.63</AreaPos_X2>
+<AreaPos_Y>73.06</AreaPos_Y>
+<AreaPos_Y2>81.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid24">
+<AreaUID>24</AreaUID>
+<AreaName>Area 23</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>173.38</AreaPos_X>
+<AreaPos_X2>187.06</AreaPos_X2>
+<AreaPos_Y>76.44</AreaPos_Y>
+<AreaPos_Y2>88.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid25">
+<AreaUID>25</AreaUID>
+<AreaName>Area 24</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>173.75</AreaPos_X>
+<AreaPos_X2>186.50</AreaPos_X2>
+<AreaPos_Y>66.63</AreaPos_Y>
+<AreaPos_Y2>75.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid26">
+<AreaUID>26</AreaUID>
+<AreaName>Area 25</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>188.13</AreaPos_X>
+<AreaPos_X2>200.06</AreaPos_X2>
+<AreaPos_Y>63.25</AreaPos_Y>
+<AreaPos_Y2>72.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid27">
+<AreaUID>27</AreaUID>
+<AreaName>Area 26</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>122.03</AreaPos_X>
+<AreaPos_X2>134.19</AreaPos_X2>
+<AreaPos_Y>27.19</AreaPos_Y>
+<AreaPos_Y2>37.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid28">
+<AreaUID>28</AreaUID>
+<AreaName>Area 27</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>134.44</AreaPos_X>
+<AreaPos_X2>151.56</AreaPos_X2>
+<AreaPos_Y>31.09</AreaPos_Y>
+<AreaPos_Y2>41.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid29">
+<AreaUID>29</AreaUID>
+<AreaName>Area 28</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>108.75</AreaPos_X>
+<AreaPos_X2>121.81</AreaPos_X2>
+<AreaPos_Y>34.16</AreaPos_Y>
+<AreaPos_Y2>45.31</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid30">
+<AreaUID>30</AreaUID>
+<AreaName>Area 29</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>122.97</AreaPos_X>
+<AreaPos_X2>137.53</AreaPos_X2>
+<AreaPos_Y>42.00</AreaPos_Y>
+<AreaPos_Y2>54.38</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid31">
+<AreaUID>31</AreaUID>
+<AreaName>Area 30</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>60.25</AreaPos_X>
+<AreaPos_X2>71.00</AreaPos_X2>
+<AreaPos_Y>31.38</AreaPos_Y>
+<AreaPos_Y2>38.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid32">
+<AreaUID>32</AreaUID>
+<AreaName>Area 31</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>37.06</AreaPos_X>
+<AreaPos_X2>50.44</AreaPos_X2>
+<AreaPos_Y>42.88</AreaPos_Y>
+<AreaPos_Y2>50.88</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid33">
+<AreaUID>33</AreaUID>
+<AreaName>Area 32</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>49.78</AreaPos_X>
+<AreaPos_X2>63.28</AreaPos_X2>
+<AreaPos_Y>34.50</AreaPos_Y>
+<AreaPos_Y2>46.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid34">
+<AreaUID>34</AreaUID>
+<AreaName>Area 33</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>90.13</AreaPos_X>
+<AreaPos_X2>102.94</AreaPos_X2>
+<AreaPos_Y>14.69</AreaPos_Y>
+<AreaPos_Y2>22.75</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid35">
+<AreaUID>35</AreaUID>
+<AreaName>Area 34</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>104.25</AreaPos_X>
+<AreaPos_X2>120.25</AreaPos_X2>
+<AreaPos_Y>19.94</AreaPos_Y>
+<AreaPos_Y2>30.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid36">
+<AreaUID>36</AreaUID>
+<AreaName>경비견의 영역02</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>95.63</AreaPos_X>
+<AreaPos_X2>111.09</AreaPos_X2>
+<AreaPos_Y>55.75</AreaPos_Y>
+<AreaPos_Y2>68.59</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid37">
+<AreaUID>37</AreaUID>
+<AreaName>Area 36</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>153.09</AreaPos_X>
+<AreaPos_X2>173.25</AreaPos_X2>
+<AreaPos_Y>48.91</AreaPos_Y>
+<AreaPos_Y2>61.72</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid38">
+<AreaUID>38</AreaUID>
+<AreaName>Area 37</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>82.97</AreaPos_X>
+<AreaPos_X2>103.44</AreaPos_X2>
+<AreaPos_Y>24.22</AreaPos_Y>
+<AreaPos_Y2>35.47</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid39">
+<AreaUID>39</AreaUID>
+<AreaName>Area 38</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>140.78</AreaPos_X>
+<AreaPos_X2>161.25</AreaPos_X2>
+<AreaPos_Y>61.41</AreaPos_Y>
+<AreaPos_Y2>73.44</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid40">
+<AreaUID>40</AreaUID>
+<AreaName>비밀던전 입구~</AreaName>
+<AreaType>2</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>31.50</AreaPos_X>
+<AreaPos_X2>37.03</AreaPos_X2>
+<AreaPos_Y>38.44</AreaPos_Y>
+<AreaPos_Y2>45.72</AreaPos_Y2>
+<AreaExpansion>
+<Door_Endurance>10000</Door_Endurance>
+<DetectSecretDoor_Lv>0</DetectSecretDoor_Lv>
+<UnlockDoor_Lv>0</UnlockDoor_Lv>
+<RecoveryTime>30</RecoveryTime>
+<isMortalObject>1</isMortalObject>
+<DisarmTrap_Lv>0</DisarmTrap_Lv>
+<DetectTrap_Lv>0</DetectTrap_Lv>
+<TrapID1>65535</TrapID1>
+<TrapID2>65535</TrapID2>
+<isSecretDungeonEntrance>1</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid41">
+<AreaUID>41</AreaUID>
+<AreaName>보물상자00</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>28.09</AreaPos_X>
+<AreaPos_X2>29.78</AreaPos_X2>
+<AreaPos_Y>49.13</AreaPos_Y>
+<AreaPos_Y2>50.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid42">
+<AreaUID>42</AreaUID>
+<AreaName>보물상자01</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>84.09</AreaPos_X>
+<AreaPos_X2>85.94</AreaPos_X2>
+<AreaPos_Y>52.00</AreaPos_Y>
+<AreaPos_Y2>52.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid43">
+<AreaUID>43</AreaUID>
+<AreaName>보물상자02</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>104.13</AreaPos_X>
+<AreaPos_X2>105.91</AreaPos_X2>
+<AreaPos_Y>14.09</AreaPos_Y>
+<AreaPos_Y2>14.97</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid44">
+<AreaUID>44</AreaUID>
+<AreaName>보물상자03</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>131.94</AreaPos_X>
+<AreaPos_X2>133.91</AreaPos_X2>
+<AreaPos_Y>96.03</AreaPos_Y>
+<AreaPos_Y2>97.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid45">
+<AreaUID>45</AreaUID>
+<AreaName>보물상자04</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>182.13</AreaPos_X>
+<AreaPos_X2>183.94</AreaPos_X2>
+<AreaPos_Y>75.13</AreaPos_Y>
+<AreaPos_Y2>75.94</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid46">
+<AreaUID>46</AreaUID>
+<AreaName>보물상자05</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>142.19</AreaPos_X>
+<AreaPos_X2>143.81</AreaPos_X2>
+<AreaPos_Y>55.03</AreaPos_Y>
+<AreaPos_Y2>56.03</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid47">
+<AreaUID>47</AreaUID>
+<AreaName>보물상자06</AreaName>
+<AreaType>13</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>126.84</AreaPos_X>
+<AreaPos_X2>128.44</AreaPos_X2>
+<AreaPos_Y>38.78</AreaPos_Y>
+<AreaPos_Y2>39.78</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid48">
+<AreaUID>48</AreaUID>
+<AreaName>경비견의 영역01</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>177.91</AreaPos_X>
+<AreaPos_X2>194.28</AreaPos_X2>
+<AreaPos_Y>66.13</AreaPos_Y>
+<AreaPos_Y2>81.63</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid49">
+<AreaUID>49</AreaUID>
+<AreaName>경비견의 영역03</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>118.66</AreaPos_X>
+<AreaPos_X2>138.78</AreaPos_X2>
+<AreaPos_Y>32.81</AreaPos_Y>
+<AreaPos_Y2>47.53</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid50">
+<AreaUID>50</AreaUID>
+<AreaName>경비견의 영역04</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>45.06</AreaPos_X>
+<AreaPos_X2>67.66</AreaPos_X2>
+<AreaPos_Y>36.81</AreaPos_Y>
+<AreaPos_Y2>48.69</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>
