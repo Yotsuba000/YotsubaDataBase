@@ -70,8 +70,10 @@ hr.hide{
         padding: 2.5em 0 0 3em;
     }
         #wrapper #header #title h1 {
-            font-size: 120%;
-            color: #B22222;
+  		font-size: 150%;
+		font-weight: bold;
+		font-style: italic;
+  		color: #B22222;
         }
 
     #wrapper #header #introduction p {
