@@ -1,0 +1,212 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<link rel='stylesheet' type='text/css' href='../MainCSS/FreePage.css' />
+<link rel='stylesheet' type='text/css' href='./css/istyle.css' />
+<title>四つ葉日記 -MonsterDataBase-</title>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="header">
+  			<div id="title">
+  				<h1>モンスターデータベース</h1>
+  			</div>
+  			<div id="introduction">
+  				<p></p>
+  			</div>
+		</div>
+		<div id="backyard">
+			<br />
+			<p class="pagetop">
+				<a href="http://www.rays-counter.com/"><img src="http://www.rays-counter.com/d161_f6_046/4faf50ec48534/" alt="アクセスカウンター" border="0"></a>
+			</p>
+			<p class="pagetop">
+				<a href="http://yotsubadiary3.blog.fc2.com/" title="Homeへ">Home</a>
+			</p>
+			<div class="frame">
+				<div class="fhead">はじめに</div>
+				<div class="fbody">■注意<br />
+					<div style="margin-left: 13px; font-size: 80%; color: red;">
+						Copyright © 2012 L&K Logic Korea Co., Ltd. All Rights Reserved. <br /><a href="http://www.redsonline.jp/" target="_blank"><img src="http://image.space.rakuten.co.jp/lg01/93/0000809993/27/imgb503a7a6zik1zj.gif" alt="redfan.gif" align="right" border="0" height="50" width="150"></a>
+						License to GameOn Co., Ltd. <br />
+						当サイトで利用している画像及びデータは、株式会社ゲームオンに帰属します。 <br />
+						許可無くご利用又は転用になられる事は出来ませんので、予めご了承下さい。 <br />
+					</div>
+				</div>
+				<div class="fbody">■説明<br />
+					<div style="margin-left: 13px;">
+						現在のVersionでデータ的に実装されているモンスターの情報ページです。<br />
+						基本的な見方は石あげとほぼ同じです。<br />
+						Lv入力欄を変更することで自動的にLvに合わせたステータスが計算されます。<br />
+						Lv入力対応の特定異常抵抗、元素属性抵抗に使用している計算式は以下のものです。<br /><br /><b>
+							最終元素属性抵抗 = floor(MOB基礎元素抵抗 + (MOB知恵 / 20.0))<br />
+							最終異常抵抗 = floor(MOB基礎異常抵抗 * (1 + ((MOB知恵 + MOB威厳) / 500.0)))<br />
+							最終低下抵抗 = floor(MOB基礎低下抵抗 * (1 + ((MOB知恵 + MOB威厳) / 1000.0)))<br />
+							最終呪い抵抗 = floor(MOB基礎呪い抵抗 * (1 + ((MOB知恵 + MOB威厳) / 1000.0)))<br />
+							最終致命打抵抗 = floor(MOB基礎致命打抵抗 * (1 + ((MOB知恵 + MOB威厳) / 1000.0)))<br />
+							最終決定打抵抗 = floor(MOB基礎決定打抵抗 * (1 + ((MOB知恵 + MOB威厳) / 1000.0)))<br />
+							最終特定異常抵抗 = floor(MOB基礎特定異常抵抗 + (MOB異常抵抗 * ((MOB知恵 + MOB威厳) / 1000.0)))<br />
+							基礎経験値 = floor(MOB基礎経験値 / 10) * (MOBLV + 4))<br /><br /></b>
+						特定異常とは(暗闇、毒、睡眠、フリーズ、コールド、スタン、石化、混乱、魅了)を指します。<br />
+						また、MAPに配置されているMOBの最終属性抵抗値は、<br />
+						「MAP別追加属性抵抗」が加えられた値が最終値となります。<br />
+						異常抵抗の算出式は、現在使用している計算式から僅かに変更されている可能性があるとの情報があり、<br />
+						鵜呑みにしないようお願いします。<br /><br />
+						特定異常抵抗の判明していなかった部分については、<br />
+						「ヴェルダンディ様」、「愛読者A様」のご協力の元、検証結果を元にして配置させて頂きました。<br /><br />
+						基礎経験値に関する計算式は暫定的な値となります。<br />
+						スフィアなし、PTなし、G補正なし、称号効果、アイテム、実、キット等すべての上昇補正を除いた基準値となります<br />
+									
+					</div>
+				</div>
+				<div class="fbody">■更新履歴<br />
+					<div style="margin-left: 13px; width: 635px; height: 100px; overflow-y:scroll;">
+						2016/05/29 - DataBaseアップデート　(Ver0.0654)  </br>
+						2015/06/17 - DataBaseアップデート　(Ver0.0636)  </br>
+						2015/01/23 - DataBaseアップデート　(Ver0.0631)  </br>
+						2014/09/25 - DataBaseアップデート　(Ver0.0622)  </br>
+						2014/06/19 - DataBaseアップデート　(Ver0.0615)  </br>
+						2014/03/19 - DataBaseアップデート　(Ver0.0606)  2次POT(壺)MOB情報追加</br>
+						2013/11/28 - DataBaseアップデート　(Ver0.0599)  覚醒系MOB情報追加</br>
+						2013/07/28 - DataBaseアップデート　(Ver0.0591)  POT系(壺)MOB情報追加</br>
+						2013/03/13 - DataBaseアップデート　(Ver0.0586)</br>
+						2012/11/21 - DataBaseアップデート　(Ver0.0579)</br>
+						2012/08/16 - DataBaseアップデート　(Ver0.0575)</br>
+						2012/06/25 - DataBaseアップデート　(Ver0.0574)</br>
+						2012/05/12 - Sp系MOBの知識と知恵を反転。<br />
+						<span style="margin-left: 85px;">MOBID:1415~1452</span><br />
+						2012/05/09 - MOBの移動速度項目を追加。<br />
+						<span style="margin-left: 85px;">特定MOBの知識と知恵の値を反転修正。修正したMOBは以下の通り</span><br />
+						<span style="margin-left: 85px;">MOBID:1271~1289 (2次実装MOB中 ペット調練可能MOB)</span><br />
+						<span style="margin-left: 85px;">MOBID:1307~1325 (2次実装MOB中 決戦鯖用ペットMOB)</span><br />
+						<span style="margin-left: 85px;">MOBID:1328~1337 (ペット調練可能 聖Zin系MOB)</span><br />
+						2012/05/07 - 全MOBの風抵抗と土抵抗の値が反転していた問題を修正。<br />
+						<span style="margin-left: 85px;">全MOBの知識と知恵の値が反転していた問題を修正。</span><br />
+						2012/05/03 - 初回作成  (Ver 0.0571)<br />
+					</div>
+				</div>
+			</div>
+			<br />
+			<div class="frame">
+				<div class="fhead">モンスター検索</div>
+				<div class="fbody">■ここに検索したいモンスター名の全部または一部を入れ、検索ボタンを押してください。</div>
+					<div class="fbody">
+						<div style="margin-left: 10px;">
+							<form name="searchform1" method="get" action="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html">
+								<input name="Mode" value="2" type="hidden" />
+								<input type="text" size="40" name="keyword" />
+								<input type="submit" value="検索" />						
+							</form>
+						</div>
+				</div>	
+			</div>
+			<br />
+			<div class="frame">
+				<div class="fhead">モンスタースキル検索</div>
+				<div class="fbody">■ここに検索したいモンスタースキル名の全部または一部を入れ、検索ボタンを押してください。</div>
+					<div class="fbody">
+						<div style="margin-left: 10px;">
+							<form name="searchform2" method="get" action="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html">
+								<input name="Mode" value="4" type="hidden" />
+								<input type="text" size="40" name="keyword" />
+								<input type="submit" value="検索" />						
+							</form>
+						</div>
+				</div>	
+			</div>
+			<br />
+			<div class="frame">
+				<div class="fhead">モンスター情報</div>
+				<table id="t-01">
+					<tbody>
+						<tr>
+							<td class="tdtop">
+								<div>■アンデッド型<br /><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=0&Lin=0">* 一般1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=0&Lin=1">* 一般2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=0&Lin=2">* 一般3</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=0&Lin=3">* 一般4</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=0&Lin=4">* セミボス1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=0&Lin=5">* セミボス2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=0&Lin=6">* セミボス3</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=0&Lin=7">* ボス1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=0&Lin=8">* ボス2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=0&Lin=9">* ボス3</a><br />
+								</div>
+							</td>
+							<td class="tdtop">
+								<div>■人間型<br /><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=1&Lin=0">* 一般1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=1&Lin=1">* 一般2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=1&Lin=2">* 一般3</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=1&Lin=3">* 一般4</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=1&Lin=4">* セミボス1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=1&Lin=5">* セミボス2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=1&Lin=6">* セミボス3</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=1&Lin=7">* ボス1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=1&Lin=8">* ボス2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=1&Lin=9">* ボス3</a><br />
+								</div>
+							</td>
+							<td class="tdtop">
+								<div>■悪魔型<br /><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=2&Lin=0">* 一般1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=2&Lin=1">* 一般2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=2&Lin=2">* 一般3</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=2&Lin=3">* 一般4</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=2&Lin=4">* セミボス1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=2&Lin=5">* セミボス2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=2&Lin=6">* セミボス3</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=2&Lin=7">* ボス1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=2&Lin=8">* ボス2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=2&Lin=9">* ボス3</a><br />
+								</div>
+							</td>
+							<td class="tdtop">
+								<div>■動物型<br /><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=3&Lin=0">* 一般1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=3&Lin=1">* 一般2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=3&Lin=2">* 一般3</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=3&Lin=3">* 一般4</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=3&Lin=4">* セミボス1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=3&Lin=5">* セミボス2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=3&Lin=6">* セミボス3</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=3&Lin=7">* ボス1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=3&Lin=8">* ボス2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=3&Lin=9">* ボス3</a><br />
+								</div>
+							</td>
+							<td class="tdtop">
+								<div>■神獣型<br /><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=4&Lin=0">* 一般1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=4&Lin=1">* 一般2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=4&Lin=2">* 一般3</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=4&Lin=3">* 一般4</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=4&Lin=4">* セミボス1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=4&Lin=5">* セミボス2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=4&Lin=6">* セミボス3</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=4&Lin=7">* ボス1</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=4&Lin=8">* ボス2</a><br />
+									<a href="http://dl.dropbox.com/u/70568694/MonsterDataBase/MonsterDataBase.html?Mode=1&type=4&Lin=9">* ボス3</a><br />
+								</div>
+							</td>
+						</tr>		
+					</tbody>
+				</table>
+			</div>
+			<br />
+			<p class="pagetop">
+				<a href="http://yotsubadiary3.blog.fc2.com/" title="Homeへ">Home</a>
+			</p>			
+			<br />
+		</div>	
+		<div id="footer">
+			<br />
+			<br />
+		</div>	
+	</div>
+</body>
+</html>

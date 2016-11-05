@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<script type='text/javascript' src="../jQuery/jquery-ui-1.8.19.custom/js/jquery-1.7.2.min.js"></script>
+<script type='text/javascript' src="..jQuery/jquery-ui-1.8.19.custom/js/jquery-ui-1.8.19.custom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="..jQuery/jquery-ui-1.8.19.custom/css/ui-lightness/jquery-ui-1.8.19.custom.css">
+<link rel="stylesheet" type="text/css" href="./css/mstyle.css">
+<script type='text/javascript' src="./js/Monster.js"></script>
+<title>
+四つ葉日記 -MonsterDataBase-
+</title>
+</head>
+<body>
+<a name="pagetop"></a>
+<div class="main">
+	<div class="frame">
+		<div id="fhead">モンスター検索</div>
+		<div id="fbody">■ここに検索したいモンスター名の全部または一部を入れ、検索ボタンを押してください。</div>
+			<div id="fbody">
+			<form name="searchform1" onsubmit="return false;">
+				<input name="Mode" value="3" type="hidden" />
+				<input type="text" size="40" name="keyword" />
+				<input type="button" value="検索" onclick="SearchOfKeyword(3), DisplayDataAry(0)"/>						
+			</form>
+		</div>	
+	</div>
+	<div id="status"></div>
+	<div id="s_result"></div>
+	<div id="pheader"></div>
+	<div class="frame">
+		<div id="m_result" style="display: block; position: static;"></div>
+	</div>
+	<div id="pfooter"></div>
+	<p class="pagetop">
+		<a href="#pagetop" title="PageTopへ">PageTop</a>
+	</p>
+	<br /><br />
+	<div id="test"></div>
+</div>
+</body>
+</html>
+
