@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData>
+<Details>
+<FileName>[743]R02.rmd</FileName>
+<FileType>Red Stone Scenario File 7.4 beta</FileType>
+<MapName>ケルベロス生息地</MapName>
+<SysWidth>75</SysWidth>
+<SysHeight>75</SysHeight>
+<TgaWidth>510</TgaWidth>
+<TgaHeight>256</TgaHeight>
+<MapType>1</MapType>
+<isPremiumMap>0</isPremiumMap>
+<isPvPMap>0</isPvPMap>
+<MapView_Lv>0</MapView_Lv>
+<isLocationStrage>0</isLocationStrage>
+<P_SubElement1>0</P_SubElement1>
+<P_SubElement2>0</P_SubElement2>
+<P_SubElement3>0</P_SubElement3>
+<P_SubElement4>0</P_SubElement4>
+<P_SubElement5>0</P_SubElement5>
+<P_SubElement6>0</P_SubElement6>
+<M_AddElement1>0</M_AddElement1>
+<M_AddElement2>0</M_AddElement2>
+<M_AddElement3>0</M_AddElement3>
+<M_AddElement4>0</M_AddElement4>
+<M_AddElement5>0</M_AddElement5>
+<M_AddElement6>0</M_AddElement6>
+</Details>
+<CharacterData>
+<Character id="cUid0">
+<CharacterUID>0</CharacterUID>
+<CharacterName>ケルベロス</CharacterName>
+<CharacterType>2</CharacterType>
+<InternalID>2</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>1</isPTBoss>
+<PopPoint_X>192.42</PopPoint_X>
+<PopPoint_Y>149.23</PopPoint_Y>
+</Character>
+<Character id="cUid1">
+<CharacterUID>1</CharacterUID>
+<CharacterName>討伐団レーナ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>0</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>305.04</PopPoint_X>
+<PopPoint_Y>163.52</PopPoint_Y>
+</Character>
+<Character id="cUid2">
+<CharacterUID>2</CharacterUID>
+<CharacterName>討伐団槍兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>299.84</PopPoint_X>
+<PopPoint_Y>154.56</PopPoint_Y>
+</Character>
+<Character id="cUid3">
+<CharacterUID>3</CharacterUID>
+<CharacterName>討伐団槍兵</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>315.99</PopPoint_X>
+<PopPoint_Y>164.16</PopPoint_Y>
+</Character>
+</CharacterData>
+<AreaData>
+<Area id="aUid0">
+<AreaUID>0</AreaUID>
+<AreaName>_필드 전체</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>456339935.20</AreaPos_X>
+<AreaPos_X2>456339935.20</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid1">
+<AreaUID>1</AreaUID>
+<AreaName>_화면</AreaName>
+<AreaType>0</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>0.00</AreaPos_X>
+<AreaPos_X2>0.00</AreaPos_X2>
+<AreaPos_Y>0.00</AreaPos_Y>
+<AreaPos_Y2>0.00</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid2">
+<AreaUID>2</AreaUID>
+<AreaName>시작 영역</AreaName>
+<AreaType>5</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>489.81</AreaPos_X>
+<AreaPos_X2>505.54</AreaPos_X2>
+<AreaPos_Y>207.36</AreaPos_Y>
+<AreaPos_Y2>223.15</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid3">
+<AreaUID>3</AreaUID>
+<AreaName>캘베로스 행동 구역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>61.94</AreaPos_X>
+<AreaPos_X2>359.13</AreaPos_X2>
+<AreaPos_Y>66.45</AreaPos_Y>
+<AreaPos_Y2>254.19</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid4">
+<AreaUID>4</AreaUID>
+<AreaName>레이나 등장구역</AreaName>
+<AreaType>4</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>296.54</AreaPos_X>
+<AreaPos_X2>313.33</AreaPos_X2>
+<AreaPos_Y>157.23</AreaPos_Y>
+<AreaPos_Y2>165.01</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid5">
+<AreaUID>5</AreaUID>
+<AreaName>ケルベロス行動区域</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>184.03</AreaPos_X>
+<AreaPos_X2>198.58</AreaPos_X2>
+<AreaPos_Y>156.48</AreaPos_Y>
+<AreaPos_Y2>162.24</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+<Area id="aUid6">
+<AreaUID>6</AreaUID>
+<AreaName>討伐団派遣区域</AreaName>
+<AreaType>6</AreaType>
+<AccessMap></AccessMap>
+<AccessMapName></AccessMapName>
+<AreaPos_X>302.28</AreaPos_X>
+<AreaPos_X2>308.13</AreaPos_X2>
+<AreaPos_Y>160.00</AreaPos_Y>
+<AreaPos_Y2>162.13</AreaPos_Y2>
+<AreaExpansion>
+</AreaExpansion>
+</Area>
+</AreaData>
+</MapData>

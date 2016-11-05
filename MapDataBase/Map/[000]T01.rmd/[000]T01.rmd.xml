@@ -2,7 +2,7 @@
 <MapData>
 <Details>
 <FileName>[000]T01.rmd</FileName>
-<FileType>Red Stone Scenario File 7.3 beta</FileType>
+<FileType>Red Stone Scenario File 7.4 beta</FileType>
 <MapName>古都ブルンネンシュティグ</MapName>
 <SysWidth>205</SysWidth>
 <SysHeight>185</SysHeight>
@@ -867,6 +867,16 @@
 <PopPoint_X>222.66</PopPoint_X>
 <PopPoint_Y>228.42</PopPoint_Y>
 </Character>
+<Character id="cUid84">
+<CharacterUID>84</CharacterUID>
+<CharacterName>エイドン</CharacterName>
+<CharacterType>9</CharacterType>
+<InternalID>103</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>239.42</PopPoint_X>
+<PopPoint_Y>86.32</PopPoint_Y>
+</Character>
 <Character id="cUid85">
 <CharacterUID>85</CharacterUID>
 <CharacterName>ドロシー</CharacterName>
@@ -973,7 +983,7 @@
 <CharacterType>1</CharacterType>
 <InternalID>98</InternalID>
 <PopSpeed>120</PopSpeed>
-<isPTBoss>0</isPTBoss>
+<isPTBoss>1</isPTBoss>
 <PopPoint_X>268.89</PopPoint_X>
 <PopPoint_Y>156.12</PopPoint_Y>
 </Character>
@@ -1246,6 +1256,26 @@
 <isPTBoss>0</isPTBoss>
 <PopPoint_X>525.33</PopPoint_X>
 <PopPoint_Y>138.56</PopPoint_Y>
+</Character>
+<Character id="cUid123">
+<CharacterUID>123</CharacterUID>
+<CharacterName>カイトン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>104</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>223.25</PopPoint_X>
+<PopPoint_Y>222.55</PopPoint_Y>
+</Character>
+<Character id="cUid124">
+<CharacterUID>124</CharacterUID>
+<CharacterName>デーリック</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>105</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>216.58</PopPoint_X>
+<PopPoint_Y>113.18</PopPoint_Y>
 </Character>
 <Character id="cUid126">
 <CharacterUID>126</CharacterUID>

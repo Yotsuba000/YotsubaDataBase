@@ -2,7 +2,7 @@
 <MapData>
 <Details>
 <FileName>[433]chobozone.rmd</FileName>
-<FileType>Red Stone Scenario File 6.9 beta</FileType>
+<FileType>Red Stone Scenario File 7.4 beta</FileType>
 <MapName>冒険家協会　冒険家訓練所</MapName>
 <SysWidth>100</SysWidth>
 <SysHeight>100</SysHeight>
@@ -504,8 +504,8 @@
 <InternalID>38</InternalID>
 <PopSpeed>120</PopSpeed>
 <isPTBoss>0</isPTBoss>
-<PopPoint_X>286.05</PopPoint_X>
-<PopPoint_Y>36.60</PopPoint_Y>
+<PopPoint_X>294.70</PopPoint_X>
+<PopPoint_Y>36.55</PopPoint_Y>
 </Character>
 <Character id="cUid48">
 <CharacterUID>48</CharacterUID>
@@ -894,8 +894,8 @@
 <InternalID>27</InternalID>
 <PopSpeed>120</PopSpeed>
 <isPTBoss>0</isPTBoss>
-<PopPoint_X>310.05</PopPoint_X>
-<PopPoint_Y>21.05</PopPoint_Y>
+<PopPoint_X>309.70</PopPoint_X>
+<PopPoint_Y>19.70</PopPoint_Y>
 </Character>
 <Character id="cUid87">
 <CharacterUID>87</CharacterUID>
@@ -904,8 +904,8 @@
 <InternalID>29</InternalID>
 <PopSpeed>120</PopSpeed>
 <isPTBoss>0</isPTBoss>
-<PopPoint_X>310.40</PopPoint_X>
-<PopPoint_Y>31.30</PopPoint_Y>
+<PopPoint_X>310.20</PopPoint_X>
+<PopPoint_Y>27.30</PopPoint_Y>
 </Character>
 <Character id="cUid88">
 <CharacterUID>88</CharacterUID>
@@ -914,8 +914,8 @@
 <InternalID>30</InternalID>
 <PopSpeed>120</PopSpeed>
 <isPTBoss>0</isPTBoss>
-<PopPoint_X>309.65</PopPoint_X>
-<PopPoint_Y>36.85</PopPoint_Y>
+<PopPoint_X>310.20</PopPoint_X>
+<PopPoint_Y>32.05</PopPoint_Y>
 </Character>
 <Character id="cUid89">
 <CharacterUID>89</CharacterUID>
@@ -924,7 +924,7 @@
 <InternalID>31</InternalID>
 <PopSpeed>120</PopSpeed>
 <isPTBoss>0</isPTBoss>
-<PopPoint_X>301.85</PopPoint_X>
+<PopPoint_X>310.30</PopPoint_X>
 <PopPoint_Y>36.90</PopPoint_Y>
 </Character>
 <Character id="cUid90">
@@ -934,8 +934,8 @@
 <InternalID>37</InternalID>
 <PopSpeed>120</PopSpeed>
 <isPTBoss>0</isPTBoss>
-<PopPoint_X>293.25</PopPoint_X>
-<PopPoint_Y>36.45</PopPoint_Y>
+<PopPoint_X>302.45</PopPoint_X>
+<PopPoint_Y>36.60</PopPoint_Y>
 </Character>
 <Character id="cUid91">
 <CharacterUID>91</CharacterUID>
@@ -1017,6 +1017,16 @@
 <PopPoint_X>238.70</PopPoint_X>
 <PopPoint_Y>72.70</PopPoint_Y>
 </Character>
+<Character id="cUid99">
+<CharacterUID>99</CharacterUID>
+<CharacterName>マスケッティア</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>39</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>286.40</PopPoint_X>
+<PopPoint_Y>36.35</PopPoint_Y>
+</Character>
 <Character id="cUid101">
 <CharacterUID>101</CharacterUID>
 <CharacterName>ビーストテイマー</CharacterName>
@@ -1024,8 +1034,8 @@
 <InternalID>28</InternalID>
 <PopSpeed>120</PopSpeed>
 <isPTBoss>0</isPTBoss>
-<PopPoint_X>310.25</PopPoint_X>
-<PopPoint_Y>26.35</PopPoint_Y>
+<PopPoint_X>309.90</PopPoint_X>
+<PopPoint_Y>23.25</PopPoint_Y>
 </Character>
 </CharacterData>
 <AreaData>

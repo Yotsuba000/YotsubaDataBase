@@ -2,7 +2,7 @@
 <MapData>
 <Details>
 <FileName>[Trial_P]000.rmd</FileName>
-<FileType>Red Stone Scenario File 7.3 beta</FileType>
+<FileType>Red Stone Scenario File 7.4 beta</FileType>
 <MapName>試練のダンジョン(パーティー)</MapName>
 <SysWidth>170</SysWidth>
 <SysHeight>180</SysHeight>
@@ -3097,6 +3097,76 @@
 <PopPoint_X>107.40</PopPoint_X>
 <PopPoint_Y>73.12</PopPoint_Y>
 </Character>
+<Character id="cUid307">
+<CharacterUID>307</CharacterUID>
+<CharacterName>エル・スタイン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>66</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>79.33</PopPoint_X>
+<PopPoint_Y>37.10</PopPoint_Y>
+</Character>
+<Character id="cUid308">
+<CharacterUID>308</CharacterUID>
+<CharacterName>エル・スタイン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>66</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>143.38</PopPoint_X>
+<PopPoint_Y>41.27</PopPoint_Y>
+</Character>
+<Character id="cUid309">
+<CharacterUID>309</CharacterUID>
+<CharacterName>エル・スタイン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>66</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>186.07</PopPoint_X>
+<PopPoint_Y>76.41</PopPoint_Y>
+</Character>
+<Character id="cUid310">
+<CharacterUID>310</CharacterUID>
+<CharacterName>エル・スタイン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>66</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>239.70</PopPoint_X>
+<PopPoint_Y>127.83</PopPoint_Y>
+</Character>
+<Character id="cUid311">
+<CharacterUID>311</CharacterUID>
+<CharacterName>エル・スタイン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>66</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>153.31</PopPoint_X>
+<PopPoint_Y>99.35</PopPoint_Y>
+</Character>
+<Character id="cUid312">
+<CharacterUID>312</CharacterUID>
+<CharacterName>エル・スタイン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>66</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>58.35</PopPoint_X>
+<PopPoint_Y>142.52</PopPoint_Y>
+</Character>
+<Character id="cUid313">
+<CharacterUID>313</CharacterUID>
+<CharacterName>エル・スタイン</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>66</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>33.23</PopPoint_X>
+<PopPoint_Y>81.98</PopPoint_Y>
+</Character>
 </CharacterData>
 <AreaData>
 <Area id="aUid0">
@@ -3131,10 +3201,10 @@
 <AreaType>5</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>101.61</AreaPos_X>
-<AreaPos_X2>106.96</AreaPos_X2>
+<AreaPos_X>100.01</AreaPos_X>
+<AreaPos_X2>112.17</AreaPos_X2>
 <AreaPos_Y>74.83</AreaPos_Y>
-<AreaPos_Y2>79.09</AreaPos_Y2>
+<AreaPos_Y2>83.09</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -3209,10 +3279,10 @@
 <AreaType>0</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>237.71</AreaPos_X>
-<AreaPos_X2>242.21</AreaPos_X2>
-<AreaPos_Y>128.50</AreaPos_Y>
-<AreaPos_Y2>132.22</AreaPos_Y2>
+<AreaPos_X>236.99</AreaPos_X>
+<AreaPos_X2>246.40</AreaPos_X2>
+<AreaPos_Y>129.22</AreaPos_Y>
+<AreaPos_Y2>134.98</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>

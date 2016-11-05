@@ -2,7 +2,7 @@
 <MapData>
 <Details>
 <FileName>[502] T01_I01.rmd</FileName>
-<FileType>Red Stone Scenario File 7.3 beta</FileType>
+<FileType>Red Stone Scenario File 7.4 beta</FileType>
 <MapName>冒険家協会ブルンネンシュティグ本部</MapName>
 <SysWidth>80</SysWidth>
 <SysHeight>90</SysHeight>
@@ -316,6 +316,16 @@
 <isPTBoss>0</isPTBoss>
 <PopPoint_X>194.55</PopPoint_X>
 <PopPoint_Y>26.25</PopPoint_Y>
+</Character>
+<Character id="cUid29">
+<CharacterUID>29</CharacterUID>
+<CharacterName>クロロ</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>26</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>157.49</PopPoint_X>
+<PopPoint_Y>107.99</PopPoint_Y>
 </Character>
 </CharacterData>
 <AreaData>

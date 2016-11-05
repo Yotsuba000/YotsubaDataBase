@@ -2,7 +2,7 @@
 <MapData>
 <Details>
 <FileName>[507]BF_C01.rmd</FileName>
-<FileType>Red Stone Scenario File 7.3 beta</FileType>
+<FileType>Red Stone Scenario File 7.4 beta</FileType>
 <MapName>深淵の地底湖</MapName>
 <SysWidth>300</SysWidth>
 <SysHeight>400</SysHeight>
@@ -4431,10 +4431,10 @@
 <AreaType>4</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>445.60</AreaPos_X>
-<AreaPos_X2>462.35</AreaPos_X2>
-<AreaPos_Y>65.50</AreaPos_Y>
-<AreaPos_Y2>78.45</AreaPos_Y2>
+<AreaPos_X>444.20</AreaPos_X>
+<AreaPos_X2>460.95</AreaPos_X2>
+<AreaPos_Y>66.17</AreaPos_Y>
+<AreaPos_Y2>79.13</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -6582,6 +6582,19 @@
 <TrapID1>65535</TrapID1>
 <TrapID2>65535</TrapID2>
 <isSecretDungeonEntrance>0</isSecretDungeonEntrance>
+</AreaExpansion>
+</Area>
+<Area id="aUid225">
+<AreaUID>225</AreaUID>
+<AreaName>심연의 호수 외각으로 이동</AreaName>
+<AreaType>3</AreaType>
+<AccessMap>[738]BF_U04.rmd</AccessMap>
+<AccessMapName>深淵の地底湖外郭</AccessMapName>
+<AreaPos_X>453.88</AreaPos_X>
+<AreaPos_X2>458.63</AreaPos_X2>
+<AreaPos_Y>65.38</AreaPos_Y>
+<AreaPos_Y2>69.73</AreaPos_Y2>
+<AreaExpansion>
 </AreaExpansion>
 </Area>
 </AreaData>

@@ -2,7 +2,7 @@
 <MapData>
 <Details>
 <FileName>[Trial_S]000.rmd</FileName>
-<FileType>Red Stone Scenario File 7.0 beta</FileType>
+<FileType>Red Stone Scenario File 7.4 beta</FileType>
 <MapName>試練のダンジョン(一人用)</MapName>
 <SysWidth>75</SysWidth>
 <SysHeight>90</SysHeight>
@@ -66,16 +66,6 @@
 <isPTBoss>0</isPTBoss>
 <PopPoint_X>55.50</PopPoint_X>
 <PopPoint_Y>34.25</PopPoint_Y>
-</Character>
-<Character id="cUid9">
-<CharacterUID>9</CharacterUID>
-<CharacterName>闇魔法師</CharacterName>
-<CharacterType>1</CharacterType>
-<InternalID>17</InternalID>
-<PopSpeed>120</PopSpeed>
-<isPTBoss>0</isPTBoss>
-<PopPoint_X>145.25</PopPoint_X>
-<PopPoint_Y>138.69</PopPoint_Y>
 </Character>
 <Character id="cUid20">
 <CharacterUID>20</CharacterUID>
@@ -4151,10 +4141,10 @@
 <AreaType>5</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>16.06</AreaPos_X>
-<AreaPos_X2>35.38</AreaPos_X2>
-<AreaPos_Y>19.00</AreaPos_Y>
-<AreaPos_Y2>29.31</AreaPos_Y2>
+<AreaPos_X>16.19</AreaPos_X>
+<AreaPos_X2>35.50</AreaPos_X2>
+<AreaPos_Y>22.50</AreaPos_Y>
+<AreaPos_Y2>32.81</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -4239,10 +4229,10 @@
 <AreaType>0</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>194.75</AreaPos_X>
-<AreaPos_X2>207.06</AreaPos_X2>
-<AreaPos_Y>116.56</AreaPos_Y>
-<AreaPos_Y2>124.56</AreaPos_Y2>
+<AreaPos_X>193.25</AreaPos_X>
+<AreaPos_X2>205.56</AreaPos_X2>
+<AreaPos_Y>115.56</AreaPos_Y>
+<AreaPos_Y2>123.56</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -4317,10 +4307,10 @@
 <AreaType>4</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>197.75</AreaPos_X>
-<AreaPos_X2>223.38</AreaPos_X2>
-<AreaPos_Y>122.31</AreaPos_Y>
-<AreaPos_Y2>146.31</AreaPos_Y2>
+<AreaPos_X>196.50</AreaPos_X>
+<AreaPos_X2>221.63</AreaPos_X2>
+<AreaPos_Y>128.63</AreaPos_Y>
+<AreaPos_Y2>147.81</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>

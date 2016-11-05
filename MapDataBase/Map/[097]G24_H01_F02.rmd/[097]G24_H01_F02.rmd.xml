@@ -2,12 +2,12 @@
 <MapData>
 <Details>
 <FileName>[097]G24_H01_F02.rmd</FileName>
-<FileType>Red Stone Scenario File 6.1 beta</FileType>
+<FileType>Red Stone Scenario File 7.4 beta</FileType>
 <MapName>ハノブ南側望楼　２Ｆ</MapName>
 <SysWidth>60</SysWidth>
 <SysHeight>60</SysHeight>
-<TgaWidth>120</TgaWidth>
-<TgaHeight>60</TgaHeight>
+<TgaWidth>300</TgaWidth>
+<TgaHeight>150</TgaHeight>
 <MapType>1</MapType>
 <isPremiumMap>0</isPremiumMap>
 <isPvPMap>0</isPvPMap>
@@ -33,8 +33,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>4</InternalID>
 <PopSpeed>3000</PopSpeed>
-<PopPoint_X>95.38</PopPoint_X>
-<PopPoint_Y>45.53</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>238.44</PopPoint_X>
+<PopPoint_Y>113.83</PopPoint_Y>
 </Character>
 <Character id="cUid1">
 <CharacterUID>1</CharacterUID>
@@ -42,8 +43,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>2</InternalID>
 <PopSpeed>17</PopSpeed>
-<PopPoint_X>43.69</PopPoint_X>
-<PopPoint_Y>11.56</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>109.22</PopPoint_X>
+<PopPoint_Y>28.91</PopPoint_Y>
 </Character>
 <Character id="cUid2">
 <CharacterUID>2</CharacterUID>
@@ -51,8 +53,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>70.03</PopPoint_X>
-<PopPoint_Y>34.69</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>175.08</PopPoint_X>
+<PopPoint_Y>86.72</PopPoint_Y>
 </Character>
 <Character id="cUid3">
 <CharacterUID>3</CharacterUID>
@@ -60,8 +63,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>16.56</PopPoint_X>
-<PopPoint_Y>22.31</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>41.41</PopPoint_X>
+<PopPoint_Y>55.78</PopPoint_Y>
 </Character>
 <Character id="cUid4">
 <CharacterUID>4</CharacterUID>
@@ -69,8 +73,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>2</InternalID>
 <PopSpeed>17</PopSpeed>
-<PopPoint_X>27.88</PopPoint_X>
-<PopPoint_Y>21.09</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>69.69</PopPoint_X>
+<PopPoint_Y>52.73</PopPoint_Y>
 </Character>
 <Character id="cUid5">
 <CharacterUID>5</CharacterUID>
@@ -78,8 +83,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>44.25</PopPoint_X>
-<PopPoint_Y>15.81</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>110.63</PopPoint_X>
+<PopPoint_Y>39.53</PopPoint_Y>
 </Character>
 <Character id="cUid6">
 <CharacterUID>6</CharacterUID>
@@ -87,8 +93,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>18.06</PopPoint_X>
-<PopPoint_Y>37.69</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>45.16</PopPoint_X>
+<PopPoint_Y>94.22</PopPoint_Y>
 </Character>
 <Character id="cUid7">
 <CharacterUID>7</CharacterUID>
@@ -96,8 +103,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>16.22</PopPoint_X>
-<PopPoint_Y>48.13</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>40.55</PopPoint_X>
+<PopPoint_Y>120.31</PopPoint_Y>
 </Character>
 <Character id="cUid8">
 <CharacterUID>8</CharacterUID>
@@ -105,8 +113,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>24.59</PopPoint_X>
-<PopPoint_Y>42.44</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>61.48</PopPoint_X>
+<PopPoint_Y>106.09</PopPoint_Y>
 </Character>
 <Character id="cUid9">
 <CharacterUID>9</CharacterUID>
@@ -114,8 +123,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>34.50</PopPoint_X>
-<PopPoint_Y>40.91</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>86.25</PopPoint_X>
+<PopPoint_Y>102.27</PopPoint_Y>
 </Character>
 <Character id="cUid10">
 <CharacterUID>10</CharacterUID>
@@ -123,8 +133,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>30.50</PopPoint_X>
-<PopPoint_Y>48.97</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>76.25</PopPoint_X>
+<PopPoint_Y>122.42</PopPoint_Y>
 </Character>
 <Character id="cUid11">
 <CharacterUID>11</CharacterUID>
@@ -132,8 +143,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>2</InternalID>
 <PopSpeed>17</PopSpeed>
-<PopPoint_X>22.94</PopPoint_X>
-<PopPoint_Y>51.56</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>57.34</PopPoint_X>
+<PopPoint_Y>128.91</PopPoint_Y>
 </Character>
 <Character id="cUid12">
 <CharacterUID>12</CharacterUID>
@@ -141,8 +153,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>0</InternalID>
 <PopSpeed>17</PopSpeed>
-<PopPoint_X>59.16</PopPoint_X>
-<PopPoint_Y>20.19</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>147.89</PopPoint_X>
+<PopPoint_Y>50.47</PopPoint_Y>
 </Character>
 <Character id="cUid13">
 <CharacterUID>13</CharacterUID>
@@ -150,8 +163,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>58.88</PopPoint_X>
-<PopPoint_Y>32.63</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>147.19</PopPoint_X>
+<PopPoint_Y>81.56</PopPoint_Y>
 </Character>
 <Character id="cUid14">
 <CharacterUID>14</CharacterUID>
@@ -159,8 +173,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>33.31</PopPoint_X>
-<PopPoint_Y>17.47</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>83.28</PopPoint_X>
+<PopPoint_Y>43.67</PopPoint_Y>
 </Character>
 <Character id="cUid15">
 <CharacterUID>15</CharacterUID>
@@ -168,8 +183,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>0</InternalID>
 <PopSpeed>17</PopSpeed>
-<PopPoint_X>77.63</PopPoint_X>
-<PopPoint_Y>30.31</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>194.06</PopPoint_X>
+<PopPoint_Y>75.78</PopPoint_Y>
 </Character>
 <Character id="cUid17">
 <CharacterUID>17</CharacterUID>
@@ -177,8 +193,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>1</InternalID>
 <PopSpeed>25</PopSpeed>
-<PopPoint_X>49.75</PopPoint_X>
-<PopPoint_Y>30.31</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>124.38</PopPoint_X>
+<PopPoint_Y>75.78</PopPoint_Y>
 </Character>
 <Character id="cUid18">
 <CharacterUID>18</CharacterUID>
@@ -186,8 +203,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>1</InternalID>
 <PopSpeed>25</PopSpeed>
-<PopPoint_X>80.38</PopPoint_X>
-<PopPoint_Y>21.50</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>200.94</PopPoint_X>
+<PopPoint_Y>53.75</PopPoint_Y>
 </Character>
 <Character id="cUid20">
 <CharacterUID>20</CharacterUID>
@@ -195,8 +213,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>1</InternalID>
 <PopSpeed>25</PopSpeed>
-<PopPoint_X>62.44</PopPoint_X>
-<PopPoint_Y>26.00</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>156.09</PopPoint_X>
+<PopPoint_Y>65.00</PopPoint_Y>
 </Character>
 <Character id="cUid22">
 <CharacterUID>22</CharacterUID>
@@ -204,8 +223,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>2</InternalID>
 <PopSpeed>17</PopSpeed>
-<PopPoint_X>90.00</PopPoint_X>
-<PopPoint_Y>10.69</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>225.00</PopPoint_X>
+<PopPoint_Y>26.72</PopPoint_Y>
 </Character>
 <Character id="cUid23">
 <CharacterUID>23</CharacterUID>
@@ -213,8 +233,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>90.88</PopPoint_X>
-<PopPoint_Y>13.31</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>227.19</PopPoint_X>
+<PopPoint_Y>33.28</PopPoint_Y>
 </Character>
 <Character id="cUid24">
 <CharacterUID>24</CharacterUID>
@@ -222,8 +243,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>1</InternalID>
 <PopSpeed>25</PopSpeed>
-<PopPoint_X>103.31</PopPoint_X>
-<PopPoint_Y>19.00</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>258.28</PopPoint_X>
+<PopPoint_Y>47.50</PopPoint_Y>
 </Character>
 <Character id="cUid28">
 <CharacterUID>28</CharacterUID>
@@ -231,8 +253,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>0</InternalID>
 <PopSpeed>17</PopSpeed>
-<PopPoint_X>82.81</PopPoint_X>
-<PopPoint_Y>49.81</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>207.03</PopPoint_X>
+<PopPoint_Y>124.53</PopPoint_Y>
 </Character>
 <Character id="cUid29">
 <CharacterUID>29</CharacterUID>
@@ -240,8 +263,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>0</InternalID>
 <PopSpeed>17</PopSpeed>
-<PopPoint_X>97.19</PopPoint_X>
-<PopPoint_Y>52.25</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>242.97</PopPoint_X>
+<PopPoint_Y>130.63</PopPoint_Y>
 </Character>
 <Character id="cUid31">
 <CharacterUID>31</CharacterUID>
@@ -249,8 +273,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>1</InternalID>
 <PopSpeed>25</PopSpeed>
-<PopPoint_X>98.38</PopPoint_X>
-<PopPoint_Y>38.69</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>245.94</PopPoint_X>
+<PopPoint_Y>96.72</PopPoint_Y>
 </Character>
 <Character id="cUid32">
 <CharacterUID>32</CharacterUID>
@@ -258,8 +283,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>1</InternalID>
 <PopSpeed>25</PopSpeed>
-<PopPoint_X>87.34</PopPoint_X>
-<PopPoint_Y>43.81</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>218.36</PopPoint_X>
+<PopPoint_Y>109.53</PopPoint_Y>
 </Character>
 <Character id="cUid34">
 <CharacterUID>34</CharacterUID>
@@ -267,8 +293,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>1</InternalID>
 <PopSpeed>25</PopSpeed>
-<PopPoint_X>87.44</PopPoint_X>
-<PopPoint_Y>54.06</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>218.59</PopPoint_X>
+<PopPoint_Y>135.16</PopPoint_Y>
 </Character>
 <Character id="cUid35">
 <CharacterUID>35</CharacterUID>
@@ -276,8 +303,9 @@
 <CharacterType>2</CharacterType>
 <InternalID>3</InternalID>
 <PopSpeed>20</PopSpeed>
-<PopPoint_X>46.38</PopPoint_X>
-<PopPoint_Y>9.00</PopPoint_Y>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>115.94</PopPoint_X>
+<PopPoint_Y>22.50</PopPoint_Y>
 </Character>
 </CharacterData>
 <AreaData>
@@ -313,10 +341,10 @@
 <AreaType>3</AreaType>
 <AccessMap>[096]G24_H01_F01.rmd</AccessMap>
 <AccessMapName>ハノブ南側望楼　１Ｆ</AccessMapName>
-<AreaPos_X>10.22</AreaPos_X>
-<AreaPos_X2>14.28</AreaPos_X2>
-<AreaPos_Y>7.16</AreaPos_Y>
-<AreaPos_Y2>9.22</AreaPos_Y2>
+<AreaPos_X>25.55</AreaPos_X>
+<AreaPos_X2>35.70</AreaPos_X2>
+<AreaPos_Y>17.89</AreaPos_Y>
+<AreaPos_Y2>23.05</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -326,10 +354,10 @@
 <AreaType>4</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>12.81</AreaPos_X>
-<AreaPos_X2>39.69</AreaPos_X2>
-<AreaPos_Y>11.13</AreaPos_Y>
-<AreaPos_Y2>25.00</AreaPos_Y2>
+<AreaPos_X>32.03</AreaPos_X>
+<AreaPos_X2>99.22</AreaPos_X2>
+<AreaPos_Y>27.81</AreaPos_Y>
+<AreaPos_Y2>62.50</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -339,10 +367,10 @@
 <AreaType>4</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>40.75</AreaPos_X>
-<AreaPos_X2>60.03</AreaPos_X2>
-<AreaPos_Y>6.75</AreaPos_Y>
-<AreaPos_Y2>20.13</AreaPos_Y2>
+<AreaPos_X>101.88</AreaPos_X>
+<AreaPos_X2>150.08</AreaPos_X2>
+<AreaPos_Y>16.88</AreaPos_Y>
+<AreaPos_Y2>50.31</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -352,10 +380,10 @@
 <AreaType>4</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>8.13</AreaPos_X>
-<AreaPos_X2>39.84</AreaPos_X2>
-<AreaPos_Y>35.88</AreaPos_Y>
-<AreaPos_Y2>54.00</AreaPos_Y2>
+<AreaPos_X>20.31</AreaPos_X>
+<AreaPos_X2>99.61</AreaPos_X2>
+<AreaPos_Y>89.69</AreaPos_Y>
+<AreaPos_Y2>135.00</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -365,10 +393,10 @@
 <AreaType>4</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>48.19</AreaPos_X>
-<AreaPos_X2>82.19</AreaPos_X2>
-<AreaPos_Y>17.88</AreaPos_Y>
-<AreaPos_Y2>38.44</AreaPos_Y2>
+<AreaPos_X>120.47</AreaPos_X>
+<AreaPos_X2>205.47</AreaPos_X2>
+<AreaPos_Y>44.69</AreaPos_Y>
+<AreaPos_Y2>96.09</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -378,10 +406,10 @@
 <AreaType>4</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>77.31</AreaPos_X>
-<AreaPos_X2>107.88</AreaPos_X2>
-<AreaPos_Y>36.88</AreaPos_Y>
-<AreaPos_Y2>55.63</AreaPos_Y2>
+<AreaPos_X>193.28</AreaPos_X>
+<AreaPos_X2>269.69</AreaPos_X2>
+<AreaPos_Y>92.19</AreaPos_Y>
+<AreaPos_Y2>139.06</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -391,10 +419,10 @@
 <AreaType>4</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>85.81</AreaPos_X>
-<AreaPos_X2>108.44</AreaPos_X2>
-<AreaPos_Y>7.00</AreaPos_Y>
-<AreaPos_Y2>21.81</AreaPos_Y2>
+<AreaPos_X>214.53</AreaPos_X>
+<AreaPos_X2>271.09</AreaPos_X2>
+<AreaPos_Y>17.50</AreaPos_Y>
+<AreaPos_Y2>54.53</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -404,10 +432,10 @@
 <AreaType>13</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>52.13</AreaPos_X>
-<AreaPos_X2>53.88</AreaPos_X2>
-<AreaPos_Y>6.00</AreaPos_Y>
-<AreaPos_Y2>7.00</AreaPos_Y2>
+<AreaPos_X>130.31</AreaPos_X>
+<AreaPos_X2>134.69</AreaPos_X2>
+<AreaPos_Y>15.00</AreaPos_Y>
+<AreaPos_Y2>17.50</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -417,10 +445,10 @@
 <AreaType>13</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>22.56</AreaPos_X>
-<AreaPos_X2>24.38</AreaPos_X2>
-<AreaPos_Y>43.13</AreaPos_Y>
-<AreaPos_Y2>43.94</AreaPos_Y2>
+<AreaPos_X>56.41</AreaPos_X>
+<AreaPos_X2>60.94</AreaPos_X2>
+<AreaPos_Y>107.81</AreaPos_Y>
+<AreaPos_Y2>109.84</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -430,10 +458,10 @@
 <AreaType>13</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>96.41</AreaPos_X>
-<AreaPos_X2>98.19</AreaPos_X2>
-<AreaPos_Y>11.00</AreaPos_Y>
-<AreaPos_Y2>11.94</AreaPos_Y2>
+<AreaPos_X>241.02</AreaPos_X>
+<AreaPos_X2>245.47</AreaPos_X2>
+<AreaPos_Y>27.50</AreaPos_Y>
+<AreaPos_Y2>29.84</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -443,10 +471,10 @@
 <AreaType>13</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>100.16</AreaPos_X>
-<AreaPos_X2>101.94</AreaPos_X2>
-<AreaPos_Y>34.97</AreaPos_Y>
-<AreaPos_Y2>35.88</AreaPos_Y2>
+<AreaPos_X>250.39</AreaPos_X>
+<AreaPos_X2>254.84</AreaPos_X2>
+<AreaPos_Y>87.42</AreaPos_Y>
+<AreaPos_Y2>89.69</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -456,10 +484,10 @@
 <AreaType>13</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>74.09</AreaPos_X>
-<AreaPos_X2>75.88</AreaPos_X2>
-<AreaPos_Y>49.03</AreaPos_Y>
-<AreaPos_Y2>49.97</AreaPos_Y2>
+<AreaPos_X>185.23</AreaPos_X>
+<AreaPos_X2>189.69</AreaPos_X2>
+<AreaPos_Y>122.58</AreaPos_Y>
+<AreaPos_Y2>124.92</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -469,10 +497,10 @@
 <AreaType>13</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>68.00</AreaPos_X>
-<AreaPos_X2>69.88</AreaPos_X2>
-<AreaPos_Y>30.91</AreaPos_Y>
-<AreaPos_Y2>31.91</AreaPos_Y2>
+<AreaPos_X>170.00</AreaPos_X>
+<AreaPos_X2>174.69</AreaPos_X2>
+<AreaPos_Y>77.27</AreaPos_Y>
+<AreaPos_Y2>79.77</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>
@@ -482,10 +510,10 @@
 <AreaType>4</AreaType>
 <AccessMap></AccessMap>
 <AccessMapName></AccessMapName>
-<AreaPos_X>80.63</AreaPos_X>
-<AreaPos_X2>107.72</AreaPos_X2>
-<AreaPos_Y>34.78</AreaPos_Y>
-<AreaPos_Y2>57.09</AreaPos_Y2>
+<AreaPos_X>201.56</AreaPos_X>
+<AreaPos_X2>269.30</AreaPos_X2>
+<AreaPos_Y>86.95</AreaPos_Y>
+<AreaPos_Y2>142.73</AreaPos_Y2>
 <AreaExpansion>
 </AreaExpansion>
 </Area>

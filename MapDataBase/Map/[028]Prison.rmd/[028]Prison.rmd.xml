@@ -2,7 +2,7 @@
 <MapData>
 <Details>
 <FileName>[028]Prison.rmd</FileName>
-<FileType>Red Stone Scenario File 7.3 beta</FileType>
+<FileType>Red Stone Scenario File 7.4 beta</FileType>
 <MapName>ラウンジ</MapName>
 <SysWidth>60</SysWidth>
 <SysHeight>100</SysHeight>
@@ -1736,6 +1736,46 @@
 <isPTBoss>0</isPTBoss>
 <PopPoint_X>162.24</PopPoint_X>
 <PopPoint_Y>225.61</PopPoint_Y>
+</Character>
+<Character id="cUid171">
+<CharacterUID>171</CharacterUID>
+<CharacterName>マスケSETITEM</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>34</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>404.30</PopPoint_X>
+<PopPoint_Y>167.12</PopPoint_Y>
+</Character>
+<Character id="cUid172">
+<CharacterUID>172</CharacterUID>
+<CharacterName>マスケ商人</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>366.54</PopPoint_X>
+<PopPoint_Y>195.74</PopPoint_Y>
+</Character>
+<Character id="cUid173">
+<CharacterUID>173</CharacterUID>
+<CharacterName>セッティング商人</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>1</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>367.19</PopPoint_X>
+<PopPoint_Y>206.36</PopPoint_Y>
+</Character>
+<Character id="cUid174">
+<CharacterUID>174</CharacterUID>
+<CharacterName>レポクエ完了NPC</CharacterName>
+<CharacterType>1</CharacterType>
+<InternalID>91</InternalID>
+<PopSpeed>120</PopSpeed>
+<isPTBoss>0</isPTBoss>
+<PopPoint_X>369.66</PopPoint_X>
+<PopPoint_Y>222.28</PopPoint_Y>
 </Character>
 </CharacterData>
 <AreaData>
