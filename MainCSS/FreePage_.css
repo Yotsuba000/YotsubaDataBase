@@ -1,0 +1,185 @@
+﻿@charset "utf-8";
+
+/* 基本設計 */
+body {
+  margin: 0 auto;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  background-color: #ccc793;
+  background-image: url('../MainInterface/fab_bg.jpg');
+  color: #336633;/* 文字色 */
+  text-align: center;
+  font-family: "MS Pゴシック", sans-serif;
+  line-height: normal;
+}
+
+div#wrapper {
+  margin: 0 auto;
+  width: 800px;
+  background-color: transparent;
+  text-align: left;
+}
+
+div#wrapper div#backyard {
+  width : 800px;
+  overflow : visible;
+  background-color: #ffffff ;
+  text-align: center;
+  border-radius: 10px;         /* CSS3 */
+  -moz-border-radius: 10px;    /* Firefox */
+  -webkit-border-radius: 10px; /* Safari,Chrome */
+}
+
+div#wrapper div#footer {
+  clear : both;
+}
+
+div.AA {
+  font-weight:normal;
+  font-family: "MS PGothic",sans-serif;
+  font-size:12pt;
+  line-height:100%;
+}
+
+hr.hide{
+  display : none;
+}
+
+img {
+  border: 0;
+}
+
+.entry-body h3 {
+  padding-left: 8px;
+  border-left: 5px solid #cfcfcf;
+  border-bottom: 1px dotted #cfcfcf;
+  font-size: 100%;
+  font-weight: bold;
+}
+
+.entry-body h4 {
+  padding-left: 8px;
+  border-left: 5px solid #cfcfcf;
+  font-size: 100%;
+}
+
+.entry-body h5 {
+  padding-left: 8px;
+  border-bottom: 1px dotted #cfcfcf;
+  font-size: 100%;
+}
+
+/* 基本リンク */
+a:link,
+a:visited {
+  color: #cc6600;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ヘッダー */
+
+div#wrapper div#header {
+  margin: 20px 0;
+  width: 800px;
+  height: 200px;
+  border: 0;
+  background: url('../MainInterface/fab_title_bg.png') no-repeat left top;
+}
+
+div#wrapper div#header div#title {
+  padding: 2.5em 0 0 3em;
+}
+
+div#wrapper div#header div#title h1 {
+  font-size: 120%;
+  color: #B22222;
+}
+
+div#wrapper div#header div#introduction p {
+  margin-left: 5em;
+  width: 300px;
+  font-size: 75%;
+}
+
+div#wrapper div#backyard p.pagetop {
+  margin-right: 3em;
+  font-size: 75%;
+  text-align: right;
+}
+
+
+/*backyard*/
+div#main {
+  width : 800px;
+  overflow : visible;
+  background-color: #FFFFFF;
+  text-align: center;
+  border-radius: 10px;         /* CSS3 */
+  -moz-border-radius: 10px;    /* Firefox */
+  -webkit-border-radius: 10px; /* Safari,Chrome */
+}
+
+div#main p.pagetop {
+	text-align: right;
+ 	margin: 1em 3em;
+	font-size: 75%;
+}
+
+div#footer {
+  	clear : both;
+}
+
+.frame {
+	width: 700px;
+	font-size: 80%;
+	text-align: center;
+	border-style:outset;
+	border-width: 6px;
+	border-color:#907050;
+    margin-left: auto;
+	margin-right: auto;			
+}
+
+.fhead {
+	color: #DDDDDD;
+	background-color: #7e5e3e;
+}
+
+.fbody {
+	text-align: left;
+    padding: 10px 10px 10px 10px;
+}
+
+table#t-01 {
+	width: 700px;
+	table-layout:fixed;	
+	border-collapse: separate;
+	border-spacing: 10px 10px;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+table#t-01 th {
+	background-color: #9c4728;
+}
+
+table#t-01 td {
+	background-color: #fae0e7;
+}
+
+.hid {
+	height: 20px; 
+}
+
+.wid {
+	width: 50px;
+}
+.tdtop {
+	text-align: left;
+    vertical-align:top;
+}
