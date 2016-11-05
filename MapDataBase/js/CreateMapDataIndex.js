@@ -338,7 +338,7 @@
 	
 	function InitializeMapName(data) {
 		var TextObj = data;
-		var Sentence = TextObj.split('\r\n');
+		var Sentence = TextObj.split('\n');
     	for(var i = 0; i < Sentence.length; i++) {
    			var Word = Sentence[i].split(',');
 			if(Word.length){
