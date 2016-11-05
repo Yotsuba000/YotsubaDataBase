@@ -1,0 +1,200 @@
+﻿@charset "utf-8";
+
+
+#t-01 {
+	width: 690px;
+	table-layout: fixed;	
+    margin-left: auto;
+	margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+    #t-01 th {
+        color: rgba(255, 255, 255, 0.3);
+	    background-color: #501010;
+    }
+    #t-01 td {      
+	    background-color: #fae0e7;
+		position: relative;
+    }
+
+#hQuestCategory, #hQuestList, #hSearch, #hDetails {
+    cursor: pointer;
+}
+	#hQuestCategory:hover, #hQuestList:hover, #hSearch:hover, #hDetails:hover {
+		opacity: 0.9;
+	}
+	#hQuestCategory.Selected, #hQuestList.Selected, #hSearch.Selected, #hDetails.Selected {
+        color: rgba(255, 255, 255, 1.0);
+		background-color: #ff0000;
+	}
+
+#QuestCategory {
+	position: relative;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: left;
+}
+	#QuestCategory h1 {
+		font-size: 14px;
+		margin-left: 10px;
+        font-weight: bold;
+	}
+
+    #QuestCategory #t-03 {
+        width: 100%;
+	    table-layout: fixed;	
+        margin-left: auto;
+	    margin-right: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+        #QuestCategory #t-03 .Category {
+            height: 250px;
+            overflow-y: scroll;
+            margin-bottom: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+            #QuestCategory #t-03 .Category .mapList {
+                font-size: 11px;
+		        margin-left: 1.8em;
+		        margin-right: 1.5em;
+		        line-height: 1.1em;
+            }
+            #QuestCategory #t-03 .Category .mapList .Qtext{
+                color: #4000b2;
+                text-decoration: none;
+            }
+                #QuestCategory #t-03 .Category .mapList .Qtext:hover{
+                    text-decoration: underline;
+			cursor: pointer;
+                }
+
+#QuestList {
+	height: 600px;
+	position: relative;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: left;
+    overflow-y: scroll;
+}
+	#QuestList h1 {
+		font-size: 14px;
+		margin-left: 10px;
+        font-weight: bold;
+	}
+	#QuestList .mapList {
+		margin-left: 1.8em;
+		line-height: 1.1em;
+	}
+        #QuestList .mapList .Qtext{
+            color: #4000b2;
+            text-decoration: none;
+        }
+            #QuestList .mapList .Qtext:hover{
+                text-decoration: underline;
+            }
+
+
+#Search {
+	height: 600px;
+	min-height: 600px;
+	position: relative;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: left;
+    overflow-y: scroll;
+}
+	#Search h1 {
+		font-size: 14px;
+		margin-left: 10px;
+        font-weight: bold;
+	}
+	#Search h2 {
+		font-size: 12px;
+    	margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+	}
+	#Search .mapList {
+		margin-left: 1.8em;
+		line-height: 1.1em;
+	}
+        #Search .mapList .Qtext{
+            color: #4000b2;
+            text-decoration: none;
+        }
+            #Search .mapList .Qtext:hover{
+                text-decoration: underline;
+		cursor: pointer;
+            }
+
+#Details {
+	height: 600px;
+	min-height: 600px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+    color: #ffffff;
+    background-color: #101010;
+	position: relative;
+}
+	#Details h1 {
+		font-size: 14px;
+		margin-left: 10px;
+	    text-align: left;
+        font-weight: bold;
+        padding-top: 10px;
+	}
+	#Details h2 {
+		font-size: 12px;
+    	margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+	}
+
+    #Details #t-02.QuestTable {
+        width: 650px;
+        color: #ffffff;
+        background-color: #101010;
+        border-top:1px solid rgba(255, 255, 255, 0.8);
+        border-left:1px solid rgba(255, 255, 255, 0.8);
+        border-spacing:0;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+        #Details #t-02.QuestTable th {
+            min-height: 1em;
+            line-height: 2em;
+            color: #ffffff;
+            background-color: #505050;
+            border-right:1px solid rgba(255, 255, 255, 0.8);
+            border-bottom:1px solid rgba(255, 255, 255, 0.8);
+        }
+
+        #Details #t-02.QuestTable td {
+            min-height: 1em;
+            color: rgba(255, 255, 255, 0.8);
+            background-color: #101010;
+            border-right:1px solid rgba(255, 255, 255, 0.8);
+            border-bottom:1px solid rgba(255, 255, 255, 0.8);
+		    text-align: left;
+            padding: 3px 0px;
+        }
+
+            #Details #t-02.QuestTable td.left {
+                width: 200px;
+                padding-left: 10px;
+                padding-right:5px;
+            }
+            #Details #t-02.QuestTable td.right {
+                width: auto;
+                line-height: 1.2em;
+                padding-left: 10px;
+                padding-right:5px;
+            }
+            #Details #t-02.QuestTable td.color {
+                color: yellow;
+                font-weight: bold;
+            }
