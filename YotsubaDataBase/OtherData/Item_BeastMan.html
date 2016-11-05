@@ -1,0 +1,5290 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+
+<!-- jQuery -->
+<script src="../jQuery/jquery-1.8.2.min.js"></script>
+
+<link href="./css/indexlayout.css" rel="stylesheet" />
+<link href="../MainCSS/FreePage.css" rel="stylesheet" />
+
+<title>四つ葉日記 -BeastMan Item-</title>
+
+<style type="text/css">
+<!--
+#detail{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0 20px 0;
+    width: 400px;
+    background-color: #303030;
+    color: white;
+}
+.item{
+    padding: 0 20px 0 20px;
+    text-align: left;
+    position: relative;
+}
+.item pre{
+    overflow: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.item button{
+    position: absolute;
+    bottom: calc(0px + 20px);
+    right: calc(0px + 20px);
+}
+
+-->
+</style>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="header">
+  			<div id="title">
+  				<h1>[獣人]ユニークアイテム一覧</h1>
+  			</div>
+  			<div id="introduction">
+  				<p></p>
+  			</div>
+		</div>
+		<div id="main">
+			<br />
+			<p class="pagetop">
+				<a href="http://yotsubadiary3.blog.fc2.com/" title="Homeへ">Home</a>
+			</p>
+			<div class="frame">
+				<div class="fhead">はじめに</div>
+				<div class="fbody">■注意<br />
+					<div style="margin-left: 13px; font-size: 80%; color: red;">
+						Copyright c 2013 L&K Logic Korea Co., Ltd. All Rights Reserved. <br /><a href="http://www.redsonline.jp/" target="_blank"><img src="http://image.space.rakuten.co.jp/lg01/93/0000809993/27/imgb503a7a6zik1zj.gif" alt="redfan.gif" align="right" border="0" height="50" width="150" /></a>
+						License to GameOn Co., Ltd. <br />
+						当サイトで利用している画像及びデータは、株式会社ゲームオンに帰属します。 <br />
+						許可無くご利用又は転用になられる事は出来ませんので、予めご了承下さい。 <br />
+					</div>
+				</div>
+				<div class="fbody">■Index
+					<div style="margin-left: 13px; font-size: 80%;">
+<div style="float: left;">
+<a href="#index-0">雷の落雷</a><br/>
+<a href="#index-1">双頭馬車</a><br/>
+<a href="#index-2">ドッペルゲンガーブレード</a><br/>
+<a href="#index-3">醤油と莫耶</a><br/>
+<a href="#index-4">スキーポール</a><br/>
+<a href="#index-5">アラビアダンシングソード</a><br/>
+<a href="#index-6">ブルールビー</a><br/>
+<a href="#index-7">ダークネスブラック</a><br/>
+<a href="#index-8">パンパン棒風船</a><br/>
+<a href="#index-9">箸の行進曲</a><br/>
+<a href="#index-10">世界の2つの柱</a><br/>
+<a href="#index-11">双子の星の呪い</a><br/>
+<a href="#index-12">黄昏の中の人</a><br/>
+<a href="#index-13">炎の二枚貝</a><br/>
+<a href="#index-14">初心者検査の見栄</a><br/>
+<a href="#index-15">スペアブレード</a><br/>
+<a href="#index-16">フロムアルファトゥオメガ</a><br/>
+<a href="#index-17">おまけアンドダマー</a><br/>
+<a href="#index-18">ワーストパートナー</a><br/>
+<a href="#index-19">共生の墓</a><br/>
+</div>
+<div style="float: left; margin-left: 13px;">
+<a href="#index-20">アンホーリークルセイダー</a><br/>
+<a href="#index-21">スピンカッター</a><br/>
+<a href="#index-22">ダブルハート</a><br/>
+<a href="#index-23">雌雄日大剣</a><br/>
+<a href="#index-24">外耳数の角</a><br/>
+<a href="#index-25">超光子発現剣一閃</a><br/>
+<a href="#index-26">孤独の一本道</a><br/>
+<a href="#index-27">対魔剣エリーゼ、テレジェストーレ</a><br/>
+<a href="#index-28">剣帝</a><br/>
+<a href="#index-29">ソニックXブレード</a><br/>
+<a href="#index-30">雷の落雷[Nx]</a><br/>
+<a href="#index-31">双頭馬車[Nx]</a><br/>
+<a href="#index-32">ドッペルゲンガーブレード[Nx]</a><br/>
+<a href="#index-33">醤油と莫耶[Nx]</a><br/>
+<a href="#index-34">スキーポール[Nx]</a><br/>
+<a href="#index-35">アラビアダンシングソード[Nx]</a><br/>
+<a href="#index-36">ブルールビー[Nx]</a><br/>
+<a href="#index-37">ダークネスブラック[Nx]</a><br/>
+<a href="#index-38">パンパン棒風船[Nx]</a><br/>
+<a href="#index-39">箸のマーチ[Nx]</a><br/>
+</div>
+<div style="float: left; margin-left: 13px;margin-right: 13px;">
+<a href="#index-40">世界の2つの柱[Nx]</a><br/>
+<a href="#index-41">双子の星の呪い[Nx]</a><br/>
+<a href="#index-42">黄昏の中の人[Nx]</a><br/>
+<a href="#index-43">炎の二枚貝[Nx]</a><br/>
+<a href="#index-44">初心者検査の見栄[Nx]</a><br/>
+<a href="#index-45">スペアブレード[Nx]</a><br/>
+<a href="#index-46">フロムアルファトゥオメガ[Nx]</a><br/>
+<a href="#index-47">おまけアンドダマー[Nx]</a><br/>
+<a href="#index-48">ワーストパートナー[Nx]</a><br/>
+<a href="#index-49">共生の墓[Nx]</a><br/>
+<a href="#index-50">アンホーリークルセイダー[Nx]</a><br/>
+<a href="#index-51">スピンカッター[Nx]</a><br/>
+<a href="#index-52">雌雄日大剣[Nx]</a><br/>
+<a href="#index-53">外耳数の角[Nx]</a><br/>
+<a href="#index-54">超光子発現剣一閃[Nx]</a><br/>
+<a href="#index-55">孤独な一本道[Nx]</a><br/>
+<a href="#index-56">ダブルハート[Nx]</a><br/>
+<a href="#index-57">対魔剣エリーゼ、テレジェストーレ[Nx]</a><br/>
+<a href="#index-58">剣帝[Nx]</a><br/>
+<a href="#index-59">ソニックXブレード[Nx]</a><br/>
+</div>
+<div>
+<a href="#index-60">テレパシーシンドローム</a><br/>
+<a href="#index-61">テレパシーシンドローム[Nx]</a><br/>
+<a href="#index-62">エターナルフューリーI</a><br/>
+<a href="#index-63">エターナルフューリーII</a><br/>
+<a href="#index-64">エターナルフューリーIII</a><br/>
+<a href="#index-65">エターナルフューリーIV</a><br/>
+<a href="#index-66">エターナルフューリーV</a><br/>
+<a href="#index-67">エターナルフューリーVI</a><br/>
+<a href="#index-68">エターナルフューリーVII</a><br/>
+<a href="#index-69">エターナルフューリーVIII</a><br/>
+<a href="#index-70">エターナルフューリーVIII[Nx]</a><br/>
+<a href="#index-71">エターナルフューリーIX</a><br/>
+<a href="#index-72">エターナルフューリーIX[Nx]</a><br/>
+<a href="#index-73">エターナルフューリー'オウェイクニン'</a><br/>
+<a href="#index-74">エターナルフューリー'オウェイクニン'[Nx]</a><br/>
+<a href="#index-75">赤血の耳</a><br/>
+<a href="#index-76">赤血の耳[Nx]</a><br/>
+<a href="#index-77">ブラックレーベルユニコーン</a><br/>
+<a href="#index-78">ブラックレーベルユニコーン[Nx]</a><br/>
+<br/>
+<br/>
+<br/>
+</div>
+					</div>
+				</div>
+			</div>
+			<br />
+			<div class="frame">
+				<div class="fhead">詳細情報</div>
+				<div id="detail">
+				<div id="index-0" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2087.png"/></div>
+					<div class="jp">
+						<pre>
+雷の落雷
+
+&#x3C;Basic Information&#x3E;
+- O.P[14]〜[22]（1.80Second）
+- Shooting range100
+- ダメージ+50％
+- スタン攻撃+20％（2秒）
+- 光ダメージ10〜17
+- 5秒の間命中、回避低下
+
+&#x3C;Instruction&#x3E;
+- 右手の剣を振り回すと雷の音が鳴って、左手の剣を振り回すに雷が落ちるという神妙な魔法剣。何よりも見た目がかっこよすぎて双剣を使用して検査が最も欲しがるの剣である。
+
+&#x3C;Required Ability&#x3E;
+- Level 83
+- Power 30
+- Knowledge 10
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+천둥벼락
+
+&#x3C;Basic Information&#x3E;
+- O.P [14]~[22] (1.80Second)
+- Shooting range 100
+- 대미지 +50％
+- 스턴 공격 +20％(2초)
+- 빛 대미지 10~17
+- 5초동안 명중,회피 저하 
+
+&#x3C;Instruction&#x3E;
+- 오른손의 검을 휘두르면 천둥 소리가 울리고, 왼손의 검을 휘두르면 벼락이 떨어진다는 신묘한 마법검. 무엇보다도 외형이 너무 멋있어서 쌍검을 사용하는 검사들이 가장 탐내는 검이다.
+
+&#x3C;Required Ability&#x3E;
+- Level 83
+- Power 30
+- Knowledge 10
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-1" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2066.png"/></div>
+					<div class="jp">
+						<pre>
+双頭馬車
+
+&#x3C;Basic Information&#x3E;
+- O.P[16]〜[24]（1.60Second）
+- Shooting range100
+- ダメージ+85％
+- 攻撃速度+25％
+- クリティカル発動確率+10％
+
+&#x3C;Instruction&#x3E;
+- 馬車を安定的に引く二フィルの言葉のように、流麗でシャープな剣術を駆使できるように支援する二本の剣。お互いの動きの妨げにならないように軽量でシャープなのが特徴である。
+
+&#x3C;Required Ability&#x3E;
+- Level 96
+- Power 42
+- Knowledge 30
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+쌍두마차
+
+&#x3C;Basic Information&#x3E;
+- O.P [16]~[24] (1.60Second)
+- Shooting range 100
+- 대미지 +85％
+- 공격 속도 +25％
+- 치명타 발동 확률 +10％
+
+&#x3C;Instruction&#x3E;
+- 마차를 안정적으로 끄는 두 필의 말처럼, 유려하고 날카로운 검술을 구사할 수 있도록 도와주는 두 자루의 검. 서로의 움직임에 방해가 되지 않도록 가벼우면서도 날카로운 게 특징이다.
+
+&#x3C;Required Ability&#x3E;
+- Level 96
+- Power 42
+- Knowledge 30
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-2" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2067.png"/></div>
+					<div class="jp">
+						<pre>
+ドッペルゲンガーブレード
+
+&#x3C;Basic Information&#x3E;
+- O.P[22]〜[36]（1.80Second）
+- Shooting range100
+- ダメージ+60％
+- 敵に与えたダメージの8％を体力で吸収する。
+- CP獲得ボーナス30％
+- 鎧破壊攻撃+50％（8秒）
+
+&#x3C;Instruction&#x3E;
+- まるでドッペルゲンガーのように必要に応じて形状を変形させることができる魔法の剣。右手に持った剣で、まず形をコピーすると、左手にかかる剣がそれを再びコピーするメカニズムを持っている。
+
+&#x3C;Required Ability&#x3E;
+- Level 115
+- Power 47
+- Knowledge 47
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+도플갱어 블레이드
+
+&#x3C;Basic Information&#x3E;
+- O.P [22]~[36] (1.80Second)
+- Shooting range 100
+- 대미지 +60％
+- 적에게 입힌 대미지의 8％를 체력으로 흡수한다.
+- CP 획득 보너스 30％
+- 갑옷파괴 공격 +50％(8초)
+
+&#x3C;Instruction&#x3E;
+- 마치 도플갱어처럼 원하는 대로 모양을 변형시킬 수 있는 마법의 검. 오른손에 든 검으로 먼저 형태를 복사하면 왼손에 드는 검이 그걸 다시 한 번 복사하는 매커니즘을 가지고 있다.
+
+&#x3C;Required Ability&#x3E;
+- Level 115
+- Power 47
+- Knowledge 47
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-3" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2068.png"/></div>
+					<div class="jp">
+						<pre>
+醤油と莫耶
+
+&#x3C;Basic Information&#x3E;
+- O.P[18]〜[29]（1.60Second）
+- Shooting range100
+- クリティカル+[＃0:4〜8]％
+- ダメージ+110％
+- CP獲得ボーナス45％
+- 攻撃速度+35％
+
+&#x3C;Instruction&#x3E;
+- 伝説の鍛冶屋が、王の命令に基づいて作った二本の剣。鍛冶屋の妻が火鉢に身を投げて霊性を持つようになった。最終的には鍛冶屋は優れた武士にお願いして、この剣たちに王の首を施したとする。
+
+&#x3C;Required Ability&#x3E;
+- Level 83
+- Power 28
+- Knowledge 15
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+간장과 막야
+
+&#x3C;Basic Information&#x3E;
+- O.P [18]~[29] (1.60Second)
+- Shooting range 100
+- 크리티컬 +[#0:4~8]％
+- 대미지 +110％
+- CP 획득 보너스 45％
+- 공격 속도 +35％
+
+&#x3C;Instruction&#x3E;
+- 전설의 대장장이가 왕의 명령에 따라 만들었다는 두 자루의 검. 대장장이의 부인이 화로에 몸을 던져 영성을 갖게 되었다. 결국 대장장이는 뛰어난 무사에게 부탁해 이 검들로 왕의 목을 베었다고 한다.
+
+&#x3C;Required Ability&#x3E;
+- Level 83
+- Power 28
+- Knowledge 15
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-4" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2069.png"/></div>
+					<div class="jp">
+						<pre>
+スキーポール
+
+&#x3C;Basic Information&#x3E;
+- O.P[27]〜[40]（1.60Second）
+- Shooting range100
+- 攻撃速度+[＃0:1〜3]％
+- 水ダメージ15〜24
+- コールド40Frame
+- 最大CP+80
+- 最大CP+20％
+
+&#x3C;Instruction&#x3E;
+- 雪原で楽しむレジャースポーツであるスキーをするために必要なツール。ターンをしたり、坂道を登るときにバランスを維持するように助けてくれる。先端が尖って剣の代わりに使うことができるようだ。
+
+&#x3C;Required Ability&#x3E;
+- Level 142
+- Power 80
+- Knowledge 45
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+스키 폴
+
+&#x3C;Basic Information&#x3E;
+- O.P [27]~[40] (1.60Second)
+- Shooting range 100
+- 공격 속도 +[#0:1~3]％
+- 물 대미지 15~24
+- 콜드 40Frame
+- 최대 CP +80
+- 최대 CP +20％
+
+&#x3C;Instruction&#x3E;
+- 눈밭에서 즐기는 레포츠인 스키를 타기 위해 필요한 도구. 턴을 하거나 비탈길을 오를 때 균형을 유지하도록 도와준다. 끝이 뾰족해 검 대용으로 쓸 수 있을 것 같다.
+
+&#x3C;Required Ability&#x3E;
+- Level 142
+- Power 80
+- Knowledge 45
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-5" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2070.png"/></div>
+					<div class="jp">
+						<pre>
+アラビアダンシングソード
+
+&#x3C;Basic Information&#x3E;
+- O.P[15]〜[23]（1.40Second）
+- Shooting range100
+- クリティカル+[＃0:4〜8]％
+- 力+7
+- 知識+7
+- ダメージ+80％
+- 命中率+30％
+- 闇ダメージ27〜37 
+- 呪い17秒
+
+&#x3C;Instruction&#x3E;
+- ゆらゆらな装いのダンサーが剣の舞を踊るときに使用する双剣。華やかに飾って鋭い予想を消した。ダンサーの踊りをぼうっと見ている間は、双剣に首ベールかもしれない。
+
+&#x3C;Required Ability&#x3E;
+- Level 89
+- Power 25
+- Knowledge 25
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+아라비아 댄싱 소드
+
+&#x3C;Basic Information&#x3E;
+- O.P [15]~[23] (1.40Second)
+- Shooting range 100
+- 크리티컬 +[#0:4~8]％
+- 힘 +7
+- 지식 +7
+- 대미지 +80％
+- 명중률 +30％
+- 어둠 대미지 27~37
+- 저주 17초
+
+&#x3C;Instruction&#x3E;
+- 하늘하늘한 옷차림의 무희가 검무를 출 때 사용하는 쌍검. 화려하게 장식해 날카로운 예기를 감췄다. 무희의 춤을 넋 놓고 구경하고 있다간 이 쌍검에 목이 베일지도 모른다.
+
+&#x3C;Required Ability&#x3E;
+- Level 89
+- Power 25
+- Knowledge 25
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-6" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2071.png"/></div>
+					<div class="jp">
+						<pre>
+ブルールビー
+
+&#x3C;Basic Information&#x3E;
+- O.P[57]〜[63]（1.80Second）
+- Shooting range100
+- ダメージ+100％
+- 最大CP+10％
+- 攻撃速度+15％
+- 光ダメージ1〜90 
+- 3秒の間命中、回避低下
+- 5秒間、毎秒34〜46の毒ダメージ
+
+&#x3C;Instruction&#x3E;
+- 通称サファイアと呼ばれる宝石は、ルビーのような鉱物の結晶に色が違う。ここに着目した、優れたジュエリーデザイナーが腕のいい鍛冶屋と心を一つにして作った二本の剣。光の角度によってルビーにも、サファイアにも見えるのが特徴である美しい双剣である。
+
+&#x3C;Required Ability&#x3E;
+- Level 451
+- Power 134
+- Knowledge 95
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+블루 루비
+
+&#x3C;Basic Information&#x3E;
+- O.P [57]~[63] (1.80Second)
+- Shooting range 100
+- 대미지 +100％
+- 최대 CP +10％
+- 공격 속도 +15％
+- 빛 대미지 1~90
+- 3초동안 명중,회피 저하 
+- 5초간 초당 34~46의 중독 대미지
+
+&#x3C;Instruction&#x3E;
+- 통칭 사파이어라고 불리는 보석은 루비와 같은 광물의 결정으로 색깔만 다르다. 여기에 착안한 뛰어난 보석 디자이너가 솜씨 좋은 대장장이와 합심해 만든 두 자루의 검. 빛의 각도에 따라 루비로도, 사파이어로도 보이는 게 특징인 아름다운 쌍검이다.
+
+&#x3C;Required Ability&#x3E;
+- Level 451
+- Power 134
+- Knowledge 95
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-7" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2072.png"/></div>
+					<div class="jp">
+						<pre>
+ダークネスブラック
+
+&#x3C;Basic Information&#x3E;
+- O.P[68]〜[77]（1.60Second）
+- Shooting range100
+- クリティカル+[＃0:1〜2]％
+- ダメージ+120％
+- 力+1/レベル6
+- 攻撃速度+5％
+- ノックアウト攻撃+50％
+- 闇属性ダメージ吸収33％
+
+&#x3C;Instruction&#x3E;
+- 暗とも同じ黒色の剣二本には、所有者の深い怒りと憎しみが込められている。ハンドルの端の部分が普通の鉄の色であることを見た時は怒りと憎しみが、この双剣を暗い色に染めたようだ。
+
+&#x3C;Required Ability&#x3E;
+- Level 491
+- Power 154
+- Knowledge 120
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+다크니스 블랙
+
+&#x3C;Basic Information&#x3E;
+- O.P [68]~[77] (1.60Second)
+- Shooting range 100
+- 크리티컬 +[#0:1~2]％
+- 대미지 +120％
+- 힘 +1/레벨 6
+- 공격 속도 +5％
+- 녹아웃 공격 +50％
+- 어둠 속성 대미지 흡수 33％
+
+&#x3C;Instruction&#x3E;
+- 짙은 어둠과도 같은 흑색의 검 두 자루에는 주인의 깊은 분노와 증오가 담겨 있다. 손잡이 끝 부분이 평범한 철의 색깔임을 봤을 땐 분노와 증오가 이 쌍검을 어두운 색으로 물들인 듯 하다.
+
+&#x3C;Required Ability&#x3E;
+- Level 491
+- Power 154
+- Knowledge 120
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-8" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2073.png"/></div>
+					<div class="jp">
+						<pre>
+パンパン棒風船
+
+&#x3C;Basic Information&#x3E;
+- O.P[71]〜[83]（1.60Second）
+- Shooting range100
+- クリティカル+[＃0:1〜2]％
+- 最大体力+80
+- 減少限界CP+80
+- 攻撃速度+40％
+- クリティカル抵抗+10％
+- 神獣型キャラクターに追加で150％のダメージを与える。
+
+&#x3C;Instruction&#x3E;
+- 好きなチームを応援するときのツールとして使用する棒風船。片手に一つずつ持って、お互いをぶつけるとパンパンと音がとても冷たいれるように響く。これさすがに剣として使用できるかどうかは分からない。
+
+&#x3C;Required Ability&#x3E;
+- Level 504
+- Power 206
+- Knowledge 140
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+팡팡 막대풍선
+
+&#x3C;Basic Information&#x3E;
+- O.P [71]~[83] (1.60Second)
+- Shooting range 100
+- 크리티컬 +[#0:1~2]％
+- 최대 체력 +80
+- 감소 한계 CP +80
+- 공격 속도 +40％
+- 치명타 저항 +10％
+- 신수 형 캐릭터에게 추가로 150％의 대미지를 준다.
+
+&#x3C;Instruction&#x3E;
+- 좋아하는 팀을 응원할 때 도구로 사용하는 막대풍선. 한 손에 하나씩 잡고 서로를 부딪치면 팡팡하는 소리가 무척이나 찰지게 울린다. 이걸 과연 검으로 사용할 수 있을지는 모르겠다.
+
+&#x3C;Required Ability&#x3E;
+- Level 504
+- Power 206
+- Knowledge 140
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-9" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2074.png"/></div>
+					<div class="jp">
+						<pre>
+箸の行進曲
+
+&#x3C;Basic Information&#x3E;
+- O.P[91]〜[109]（1.80Second）
+- Shooting range100
+- ダメージ+210％
+- 健康+1/レベル4
+- 防御力+50
+- クリティカル発動確率+8％
+- 15秒間、毎秒34〜38の毒ダメージ
+- 動物型キャラクターに追加で40％のダメージを与える。
+
+&#x3C;Instruction&#x3E;
+- 優れた作曲家アルトィルの同名の曲を素材に制作した双剣。非常に細く、まるで箸とも同じ形ですが、相手を非常に深く刺してしまうことがある凶器だ。
+
+&#x3C;Required Ability&#x3E;
+- Level 752
+- Power 300
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+젓가락 행진곡
+
+&#x3C;Basic Information&#x3E;
+- O.P [91]~[109] (1.80Second)
+- Shooting range 100
+- 대미지 +210％
+- 건강 +1/레벨 4
+- 방어력 +50
+- 치명타 발동 확률 +8％
+- 15초간 초당 34~38의 중독 대미지
+- 동물형 캐릭터에게 추가로 40％의 대미지를 준다.
+
+&#x3C;Instruction&#x3E;
+- 뛰어난 작곡가 아르튀르의 동명의 곡을 소재로 제작한 쌍검. 매우 가늘어 마치 젓가락과도 같은 모양이지만, 상대를 아주 깊이 찔러 버릴 수 있는 흉기다.
+
+&#x3C;Required Ability&#x3E;
+- Level 752
+- Power 300
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-10" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2075.png"/></div>
+					<div class="jp">
+						<pre>
+世界の2つの柱
+
+&#x3C;Basic Information&#x3E;
+- O.P[86]〜[102]（1.80Second）
+- Shooting range90
+- ダメージ+150％
+- 力+120
+- 攻撃者の命中率補正値無視
+- 状態異常系抵抗+15％
+- アンデッド型キャラクターに追加で70％のダメージを与える。
+
+&#x3C;Instruction&#x3E;
+- 世界を支える二本の柱を抜いて、魔法の力で製錬した双剣。普通の形ですが、この二本の黒い世界の重量をそのまま差しているので、あまりにも重い。
+
+&#x3C;Required Ability&#x3E;
+- Level 581
+- Power 237
+- Knowledge 237
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+세계의 두 기둥
+
+&#x3C;Basic Information&#x3E;
+- O.P [86]~[102] (1.80Second)
+- Shooting range 90
+- 대미지 +150％
+- 힘 +120
+- 공격자의 명중률 보정치 무시
+- 상태 이상 계 저항 +15％
+- 언데드형 캐릭터에게 추가로 70％의 대미지를 준다.
+
+&#x3C;Instruction&#x3E;
+- 세계를 지탱하는 두 개의 기둥을 뽑아 마법의 힘으로 제련한 쌍검. 평범한 형태지만 이 두 자루의 검은 세계의 무게를 그대로 받치고 있기 때문에 너무너무 무겁다.
+
+&#x3C;Required Ability&#x3E;
+- Level 581
+- Power 237
+- Knowledge 237
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-11" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2076.png"/></div>
+					<div class="jp">
+						<pre>
+双子の星の呪い
+
+&#x3C;Basic Information&#x3E;
+- O.P[63]〜[69]（1.40Second）
+- Shooting range100
+- ダメージ+120％
+- 防御力+25
+- 命中率+10％
+- 混乱攻撃+99％（3秒）
+- 即死攻撃+1％
+
+&#x3C;Instruction&#x3E;
+- 呪われた13日のみ観測することができる双子の星の下製錬した剣。炎に輝くこの二本の黒い濃い魔力を含んでいるが、着用者を罵倒すると知られている。
+
+&#x3C;Required Ability&#x3E;
+- Level 473
+- Power 180
+- Knowledge 180
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+쌍둥이 별의 저주
+
+&#x3C;Basic Information&#x3E;
+- O.P [63]~[69] (1.40Second)
+- Shooting range 100
+- 대미지 +120％
+- 방어력 +25
+- 명중률 +10％
+- 혼란 공격 +99％(3초)
+- 즉사 공격 +1％
+
+&#x3C;Instruction&#x3E;
+- 저주받은 13일에만 관측할 수 있다는 쌍둥이 별 아래서 제련한 검. 불길하게 빛나는 이 두 자루의 검은 짙은 마력을 담고 있지만, 착용자를 저주한다고 알려져 있다.
+
+&#x3C;Required Ability&#x3E;
+- Level 473
+- Power 180
+- Knowledge 180
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-12" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2077.png"/></div>
+					<div class="jp">
+						<pre>
+黄昏の中の人
+
+&#x3C;Basic Information&#x3E;
+- O.P[106]〜[119]（2.00Second）
+- Shooting range100
+- 最大体力+150％
+- 最小ダメージ+15
+- 攻撃速度+20％
+- 鎧破壊攻撃+3％（25秒）
+- スキルレベル+2
+- ターゲットの光抵抗を33％弱化させる。
+
+&#x3C;Instruction&#x3E;
+- 剣の名前は、人、そして鞘名前は黄昏。普通の検査であれば、人が持って戦いに臨んだが、優れた検査であれば、黄昏も一緒に使って敵を撃殺する。剣と同じくらい鋭く危険な鞘が特徴的なこの黒いので、黄昏の中の人と呼ばれる。
+
+&#x3C;Required Ability&#x3E;
+- Level 607
+- Power 282
+- Knowledge 282
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+황혼 속의 여명
+
+&#x3C;Basic Information&#x3E;
+- O.P [106]~[119] (2.00Second)
+- Shooting range 100
+- 최대 체력 +150％
+- 최소 대미지 +15
+- 공격 속도 +20％
+- 갑옷파괴 공격 +3％(25초)
+- 스킬 레벨 +2
+- 타겟의 빛 저항을 33％ 약화 시킨다.
+
+&#x3C;Instruction&#x3E;
+- 검 이름은 여명, 그리고 검집 이름은 황혼. 평범한 검사라면 여명만 들고 전투에 임하겠지만, 뛰어난 검사라면 황혼도 함께 사용해 적을 격살한다. 검만큼이나 날카롭고 위험한 검집이 특징인 이 검은 그래서 황혼 속의 여명이라고 불린다.
+
+&#x3C;Required Ability&#x3E;
+- Level 607
+- Power 282
+- Knowledge 282
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-13" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2078.png"/></div>
+					<div class="jp">
+						<pre>
+炎の二枚貝
+
+&#x3C;Basic Information&#x3E;
+- O.P[103]〜[114]（2.00Second）
+- Shooting range100
+- 知識+1/レベル4
+- 最大ダメージ+42
+- 攻撃速度+15％
+- 光ダメージ1〜1100 
+- 2秒の間命中、回避低下
+- 火属性抵抗力+25％
+- 光属性攻撃力を115％強化させる。
+
+&#x3C;Instruction&#x3E;
+- 長い間鍛えた武道家の堅い二本の足のように広がって出てくる剣撃が敵を破壊してしまうという魔法の剣。剣を引き出すたびに、空気中のイヴサンを乗せて火を​​起こすの炎二枚貝という名前で呼ばれる。
+
+&#x3C;Required Ability&#x3E;
+- Level 541
+- Power 198
+- Knowledge 198
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+화염쌍각
+
+&#x3C;Basic Information&#x3E;
+- O.P [103]~[114] (2.00Second)
+- Shooting range 100
+- 지식 +1/레벨 4
+- 최대 대미지 +42
+- 공격 속도 +15％
+- 빛 대미지 1~1100
+- 2초동안 명중,회피 저하 
+- 불 속성 저항 +25％
+- 빛 속성 공격력을 115％ 강화 시킨다.
+
+&#x3C;Instruction&#x3E;
+- 오랫동안 단련한 무도가의 단단한 두 다리처럼 뻗어나오는 검격이 적을 파괴해 버린다는 마법검. 검을 뻗을 때마다 공기 중의 산로를 태워 불을 일으키기에 화염쌍각이라는 이름으로 불린다.
+
+&#x3C;Required Ability&#x3E;
+- Level 541
+- Power 198
+- Knowledge 198
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-14" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2079.png"/></div>
+					<div class="jp">
+						<pre>
+初心者検査の見栄
+
+&#x3C;Basic Information&#x3E;
+- O.P[110]〜[125]（2.00Second）
+- Shooting range90
+- クリティカル+[＃0:5〜10]％
+- ダメージ+200％
+- 防御力+30％
+- 攻撃速度+15％
+- 即死攻撃+4％
+- 火属性ダメージ吸収20％
+
+&#x3C;Instruction&#x3E;
+- 二刀流を大事にするのはかなり熟練した検査ではなく、立たなければ意欲も出すのは難しい。しかし、双剣を扱うのはかなりかっこいいので、初心者のテストは、何も知らず双剣を使用する。そして程なくして命を失う。この黒いそんな初歩検査者に捧げるレクイエムです。
+
+&#x3C;Required Ability&#x3E;
+- Level 739
+- Power 404
+- Knowledge 275
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+초보 검사의 허세
+
+&#x3C;Basic Information&#x3E;
+- O.P [110]~[125] (2.00Second)
+- Shooting range 90
+- 크리티컬 +[#0:5~10]％
+- 대미지 +200％
+- 방어력 +30％
+- 공격 속도 +15％
+- 즉사 공격 +4％
+- 불 속성 대미지 흡수 20％
+
+&#x3C;Instruction&#x3E;
+- 쌍검을 다룬다는 건 어지간히 숙련된 검사가 아니고서야 엄두도 내기 힘들다. 하지만 쌍검을 다루는 건 꽤 멋있기 때문에 초보 검사들은 멋모르고 쌍검을 사용한다. 그리고 얼마 지나지 않아 목숨을 잃는다. 이 검은 그런 초보 검사들에게 바치는 진혼곡이다.
+
+&#x3C;Required Ability&#x3E;
+- Level 739
+- Power 404
+- Knowledge 275
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-15" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2080.png"/></div>
+					<div class="jp">
+						<pre>
+スペアブレード
+
+&#x3C;Basic Information&#x3E;
+- O.P[10]〜[15]（1.40Second）
+- Shooting range100
+- vs人型キャラクター - ダメージ+[＃0:10〜10]％
+- 敏捷性+32
+- 最大ダメージ+20
+- 水ダメージ16〜29 - コールド12Frame
+- 水属性抵抗+48％
+- スキルレベル+1
+
+&#x3C;Instruction&#x3E;
+- 珍しい形ですが、決して珍しいことではない剣。それもそのはず、この剣の所有者がもし剣を失ってしまったり、剣が破損した場合に備えて、同じ形の剣を何百もの袋や作り置きからである。だから今の剣が元なのか、それともスペアブレードかは主人さえ知ることができない。
+
+&#x3C;Required Ability&#x3E;
+- Level 81
+- Power 5
+- Knowledge 10
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+스페어 블레이드
+
+&#x3C;Basic Information&#x3E;
+- O.P [10]~[15] (1.40Second)
+- Shooting range 100
+- vs 인간형 캐릭터 - 대미지 +[#0:10~10]％
+- 민첩성 +32
+- 최대 대미지 +20
+- 물 대미지 16~29- 콜드 12Frame
+- 물 속성 저항 +48％
+- 스킬 레벨 +1
+
+&#x3C;Instruction&#x3E;
+- 희귀한 형태지만 결코 희귀하지 않은 검. 그도 그럴 것이 이 검의 주인이 만약 검을 잃어버리거나 검이 파손될 경우를 대비해 똑같은 형태의 검을 수백 자루나 만들어 두었기 때문이다. 그래서 지금의 검이 원본인지, 아니면 스페어 블레이드인지는 주인조차 알 수 없다.
+
+&#x3C;Required Ability&#x3E;
+- Level 81
+- Power 5
+- Knowledge 10
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-16" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2081.png"/></div>
+					<div class="jp">
+						<pre>
+フロムアルファトゥオメガ
+
+&#x3C;Basic Information&#x3E;
+- O.P[19]〜[30]（2.00Second）
+- Shooting range100
+- クリティカル+[＃0:5〜10]％
+- 健康+52
+- ダメージ+95％
+- 移動速度+30％
+- 集中力+5％
+
+&#x3C;Instruction&#x3E;
+- 最初から最後まで剣のすべてを込めた二本の剣。一本では、剣の極意をすべて表現できないからだという制作者の言葉通り、二本の黒いそれぞれ斬りと突きのこつを含んでいる。
+
+&#x3C;Required Ability&#x3E;
+- Level 101
+- Power 15
+- Knowledge 15
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+프롬 알파 투 오메가
+
+&#x3C;Basic Information&#x3E;
+- O.P [19]~[30] (2.00Second)
+- Shooting range 100
+- 크리티컬 +[#0:5~10]％
+- 건강 +52
+- 대미지 +95％
+- 이동 속도 +30％
+- 집중력 +5％
+
+&#x3C;Instruction&#x3E;
+- 처음부터 끝까지 검의 모든 것을 담았다는 두 자루의 검. 한 자루로는 검의 극의를 다 표현할 수 없기 때문이라는 제작자의 말대로, 두 자루의 검은 각각 베기와 찌르기의 묘리를 담고 있다.
+
+&#x3C;Required Ability&#x3E;
+- Level 101
+- Power 15
+- Knowledge 15
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-17" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2082.png"/></div>
+					<div class="jp">
+						<pre>
+おまけアンドダマー
+
+&#x3C;Basic Information&#x3E;
+- O.P[33]〜[44]（2.00Second）
+- Shooting range90
+- 攻撃速度+[＃0:2〜6]％
+- 知恵+55
+- ダメージ+80％
+- 最大体力+100％
+- 復活の5％
+- 魔法アイテムドロップ確率+20％
+
+&#x3C;Instruction&#x3E;
+- 最も殺して迎えたが、見る人々に笑いを、あるいは過敏を誘発させた2つのテストの遺産。おまけアンドダマーというニックネームらしく二本の剣を同時に使用すると、妙に剣術がこじれた。
+
+&#x3C;Required Ability&#x3E;
+- Level 143
+- Power 50
+- Knowledge 55
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+덤 앤 더머
+
+&#x3C;Basic Information&#x3E;
+- O.P [33]~[44] (2.00Second)
+- Shooting range 90
+- 공격 속도 +[#0:2~6]％
+- 지혜 +55
+- 대미지 +80％
+- 최대 체력 +100％
+- 부활 5％
+- 마법 아이템 드랍 확률 +20％
+
+&#x3C;Instruction&#x3E;
+- 가장 죽이 잘 맞았지만 보는 사람들로 하여금 웃음을, 혹은 짜증을 유발시켰던 두 검사의 유산. 덤 앤 더머라는 별명답게 두 자루의 검을 동시에 사용하면 묘하게 검술이 꼬인다.
+
+&#x3C;Required Ability&#x3E;
+- Level 143
+- Power 50
+- Knowledge 55
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-18" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2083.png"/></div>
+					<div class="jp">
+						<pre>
+ワーストパートナー
+
+&#x3C;Basic Information&#x3E;
+- O.P[27]〜[43]（1.80Second）
+- Shooting range100
+- クリティカル+[＃0:1〜2]％
+- 力+50
+- 知識+50
+- ダメージ+110％
+- 魔法抵抗+15％
+- スキルレベル+1
+
+&#x3C;Instruction&#x3E;
+- あってはならない二種類の鉱石で作られた剣。製作方式もデザインも正反対の傾向を追求したため、常にお互いを押し出す性質を持った。この双剣を使用するには、元気に剣を押す境地に達しなければならない。
+
+&#x3C;Required Ability&#x3E;
+- Level 179
+- Power 90
+- Knowledge 115
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+워스트 파트너
+
+&#x3C;Basic Information&#x3E;
+- O.P [27]~[43] (1.80Second)
+- Shooting range 100
+- 크리티컬 +[#0:1~2]％
+- 힘 +50
+- 지식 +50
+- 대미지 +110％
+- 마법 저항 +15％
+- 스킬 레벨 +1
+
+&#x3C;Instruction&#x3E;
+- 만나서는 안될 두 종류의 광석으로 만든 검. 제작 방식도 디자인도 정 반대의 성향을 추구했기 때문에 항상 서로를 밀어내는 성질을 가졌다. 이 쌍검을 사용하려면 기운으로 검을 누르는 경지에 이르러야 한다.
+
+&#x3C;Required Ability&#x3E;
+- Level 179
+- Power 90
+- Knowledge 115
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-19" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2084.png"/></div>
+					<div class="jp">
+						<pre>
+共生の墓
+
+&#x3C;Basic Information&#x3E;
+- O.P[32]〜[50]（1.80Second）
+- Shooting range100
+- 最小ダメージ+10
+- 最大ダメージ+10
+- ダメージ+150％
+- 攻撃速度+5％
+- 水ダメージ5〜10 
+- コールド40Frame
+
+&#x3C;Instruction&#x3E;
+- 水が流れるように継続して続く剣術を使用するために最適な剣。一本の剣では不可能な行動も不思議は二刀流を使用すると、とても簡単に可能となる。だから検査は、この二本の剣が互いに共存すると思う。
+
+&#x3C;Required Ability&#x3E;
+- Level 179
+- Power 75
+- Knowledge 90
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+상생의 묘
+
+&#x3C;Basic Information&#x3E;
+- O.P [32]~[50] (1.80Second)
+- Shooting range 100
+- 최소 대미지 +10
+- 최대 대미지 +10
+- 대미지 +150％
+- 공격 속도 +5％
+- 물 대미지 5~10
+- 콜드 40Frame
+
+&#x3C;Instruction&#x3E;
+- 물 흐르듯 계속해서 이어지는 검술을 사용하는 데 최적인 검. 한 자루의 검으로는 불가능한 행동들도 이상하게 이 쌍검을 사용하면 무척이나 쉽게 가능해진다. 그래서 검사들은 이 두 자루의 검이 서로 상생한다고 생각한다.
+
+&#x3C;Required Ability&#x3E;
+- Level 179
+- Power 75
+- Knowledge 90
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-20" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2085.png"/></div>
+					<div class="jp">
+						<pre>
+アンホーリークルセイダー
+
+&#x3C;Basic Information&#x3E;
+- O.P[40]〜[55]（2.00Second）
+- Shooting range100
+- すべてのスキルレベル+[＃0:1〜2]
+- 知識+95
+- ダメージ+20％
+- 最大CP+10％
+- 集中力+5％
+- スキルレベル+3（19系列職業）
+
+&#x3C;Instruction&#x3E;
+- 一本は伝説の聖剣。他の一本は恐ろしい邪剣。この二人が会って相性をイルニどんな新兵でも太刀打ちできない。
+
+&#x3C;Required Ability&#x3E;
+- Level 226
+- Power 100
+- Knowledge 120
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+언홀리 크루세이더
+
+&#x3C;Basic Information&#x3E;
+- O.P [40]~[55] (2.00Second)
+- Shooting range 100
+- 모든 스킬 레벨 +[#0:1~2]
+- 지식 +95
+- 대미지 +20％
+- 최대 CP +10％
+- 집중력 +5％
+- 스킬 레벨 +3(19계열 직업)
+
+&#x3C;Instruction&#x3E;
+- 한 자루는 전설의 성검. 다른 한 자루는 무시무시한 사검. 이 둘이 만나 궁합을 이루니 그 어떤 신병이기도 당해낼 수 없다.
+
+&#x3C;Required Ability&#x3E;
+- Level 226
+- Power 100
+- Knowledge 120
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-21" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2086.png"/></div>
+					<div class="jp">
+						<pre>
+スピンカッター
+
+&#x3C;Basic Information&#x3E;
+- O.P[58]〜[63]（1.60Second）
+- Shooting range100
+- ダメージ+70％
+- 最大ダメージ+30
+- 攻撃速度+20％
+- 風ダメージ150〜300 
+- スタン8Frame
+- コールド抵抗+50％
+- 悪魔型キャラクターに追加で50％のダメージを与える。
+
+&#x3C;Instruction&#x3E;
+- 広幅したバーバリアンの必殺技であるぐるぐる回す剣法を使用するために必須と備えなければならない剣。高速回転力も強固に私を立てて近くのすべてを引き裂いて切り取ってしまう。
+
+&#x3C;Required Ability&#x3E;
+- Level 444
+- Power 130
+- Knowledge 150
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+스핀 커터
+
+&#x3C;Basic Information&#x3E;
+- O.P [58]~[63] (1.60Second)
+- Shooting range 100
+- 대미지 +70％
+- 최대 대미지 +30
+- 공격 속도 +20％
+- 바람 대미지 150~300
+- 스턴 8Frame
+- 콜드 저항 +50％
+- 악마형 캐릭터에게 추가로 50％의 대미지를 준다.
+
+&#x3C;Instruction&#x3E;
+- 광폭한 바바리안들의 필살기인 뱅뱅 돌기 검법을 사용하기 위해 필수로 구비해야 하는 검. 빠른 회전력에도 굳건하게 날을 세워 근처의 모든 것을 찢고 베어버린다.
+
+&#x3C;Required Ability&#x3E;
+- Level 444
+- Power 130
+- Knowledge 150
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-22" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2093.png"/></div>
+					<div class="jp">
+						<pre>
+ダブルハート
+
+<Basic Information>
+- O.P[88]〜[106]（1.80Second）
+- Shooting range100
+- 力+1/レベル5
+- 最大ダメージ+25
+- 命中率100％
+- 即死攻撃+5％
+- コールド攻撃+15％（12秒）
+- 武器破壊攻撃+8％（6秒）
+
+<Instruction>
+- 川の変異魔獣の両方の心を後退装飾した双剣。魔獣の粘り強い生命力が残っているが、心臓は、その所有者に負けない体力と忍耐を付与する。
+
+<Required Ability>
+- Level 696
+- Power 280
+- Knowledge 330
+
+<Put on/Job Available>
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+더블 하트
+
+<Basic Information>
+- O.P [88]~[106] (1.80Second)
+- Shooting range 100
+- 힘 +1/레벨 5
+- 최대 대미지 +25
+- 명중률 100％
+- 즉사 공격 +5％
+- 콜드 공격+ 15％(12초)
+- 무기파괴 공격 +8％(6초)
+
+<Instruction>
+- 강대한 돌연변이 마수의 두 심장을 떼다 장식한 쌍검. 마수의 끈질긴 생명력이 남아 있는 이 심장들은 주인에게 지치지 않는 체력과 끈기를 부여한다.
+
+<Required Ability>
+- Level 696
+- Power 280
+- Knowledge 330
+
+<Put on/Job Available>
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-23" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2065.png"/></div>
+					<div class="jp">
+						<pre>
+雌雄日大剣
+
+&#x3C;Basic Information&#x3E;
+- O.P[57]〜[62]（1.40Second）
+- Shooting range90
+- 力+35
+- クリティカル発動確率+8％
+- CP獲得ボーナス3％
+- 魔法抵抗+20％
+- スキルレベル+2
+- 最大体力+15％
+
+&#x3C;Instruction&#x3E;
+- 異国の優しい君主が使用した二本の剣。全体的な見た目は似ていますが、それぞれ男性と女性を象徴する装飾がかかっている。なぜかこの武器を使用すると、人々に認められている優しい君主になるようだ。
+
+&#x3C;Required Ability&#x3E;
+- Level 463
+- Power 160
+- Knowledge 160
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+자웅일대검
+
+&#x3C;Basic Information&#x3E;
+- O.P [57]~[62] (1.40Second)
+- Shooting range 90
+- 힘 +35
+- 치명타 발동 확률 +8％
+- CP 획득 보너스 3％
+- 마법 저항 +20％
+- 스킬 레벨 +2
+- 최대 체력 +15％
+
+&#x3C;Instruction&#x3E;
+- 이국의 자애로운 군주가 사용했다는 두 자루의 검.  전체적인 외형은 흡사하지만 각각 남성과 여성을 상징하는 장식이 달려 있다. 왠지 이 무기를 사용하면 백성들에게 인정받는 자애로운 군주가 될 것 같다.
+
+&#x3C;Required Ability&#x3E;
+- Level 463
+- Power 160
+- Knowledge 160
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-24" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2088.png"/></div>
+					<div class="jp">
+						<pre>
+外耳数の角
+
+&#x3C;Basic Information&#x3E;
+- O.P[67]〜[75]（1.60Second）
+- Shooting range100
+- 知識+85
+- 最大体力+150
+- 決定打発動確率+4％
+- 光属性攻撃力を33％強化させる。
+- すべての異常系抵抗+50％
+- 悪魔型キャラクターに追加で180％のダメージを与える。
+
+&#x3C;Instruction&#x3E;
+- まれに発見された2つの角を持つユニコーンはなく、バイコーンの角製作した剣。強大な魔力だけでなく、神聖力まで浮かべている。
+
+&#x3C;Required Ability&#x3E;
+- Level 480
+- Power 180
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이각수의 뿔
+
+&#x3C;Basic Information&#x3E;
+- O.P [67]~[75] (1.60Second)
+- Shooting range 100
+- 지식 +85
+- 최대 체력 +150
+- 결정타 발동 확률 +4％
+- 빛 속성 공격력을 33％ 강화 시킨다.
+- 모든 이상 계 저항 +50％
+- 악마형 캐릭터에게 추가로 180％의 대미지를 준다.
+
+&#x3C;Instruction&#x3E;
+- 아주 가끔 발견되는 두 개의 뿔을 가진 유니콘, 아니 바이콘의 뿔로 제작한 검. 강대한 마력 뿐만 아니라 신성력까지 머금고 있다.
+
+&#x3C;Required Ability&#x3E;
+- Level 480
+- Power 180
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-25" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2090.png"/></div>
+					<div class="jp">
+						<pre>
+超光子発現剣一閃
+
+&#x3C;Basic Information&#x3E;
+- O.P[69]〜[80]（1.60Second）
+- Shooting range100
+- vs悪魔型キャラクター - ダメージ+[＃0:50〜55]％
+- 知識+1/レベル4
+- 力+120
+- 攻撃速度+15％
+- ノックアウト攻撃+30％
+- 闇属性ダメージ吸収50％
+- 光ダメージ1〜125 
+- 2秒の間命中、回避低下
+
+&#x3C;Instruction&#x3E;
+- 光子の力を凝集してゴムナルを生成する剣。平常時には剣のハンドルがあるが、光の魔力をかき集めて、ハンドルに注入すると、瞬く間にゴムナルが生成される。
+
+&#x3C;Required Ability&#x3E;
+- Level 501
+- Power 150
+- Knowledge 210
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+초광자발현검 일섬
+
+&#x3C;Basic Information&#x3E;
+- O.P [69]~[80] (1.60Second)
+- Shooting range 100
+- vs 악마형 캐릭터 - 대미지 +[#0:50~55]％
+- 지식 +1/레벨 4
+- 힘 +120
+- 공격 속도 +15％
+- 녹아웃 공격 +30％
+- 어둠 속성 대미지 흡수 50％
+- 빛 대미지 1~125
+- 2초동안 명중,회피 저하 
+
+&#x3C;Instruction&#x3E;
+- 광자의 힘을 응집해 검날을 생성하는 검. 평상 시에는 검 손잡이만 있다가 빛의 마력을 끌어모아 손잡이에 주입하면 순식간에 검날이 생성된다.
+
+&#x3C;Required Ability&#x3E;
+- Level 501
+- Power 150
+- Knowledge 210
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-26" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2091.png"/></div>
+					<div class="jp">
+						<pre>
+孤独の一本道
+
+&#x3C;Basic Information&#x3E;
+- O.P[81]〜[95]（1.80Second）
+- Shooting range90
+- クリティカル+[＃0:3〜5]％
+- ダメージ+50％
+- 最大CP+50％
+- 10秒間、毎秒64〜64の毒ダメージ
+- コールド攻撃+7％（25秒）
+- 魔法アイテムドロップ確率+18％
+- 攻撃者の命中率補正値無視
+
+&#x3C;Instruction&#x3E;
+- 双剣の道は孤独な一本道である。見かけは派手だが、それほどの実利があるわけでもなく、本格的な論者たちは、使徒の長さだと無視されるからである。それでも双剣の道を歩く者たちは決してあきらめず、孤独な一本道の人生を楽しむ。
+
+&#x3C;Required Ability&#x3E;
+- Level 509
+- Power 180
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+고독한 외길
+
+&#x3C;Basic Information&#x3E;
+- O.P [81]~[95] (1.80Second)
+- Shooting range 90
+- 크리티컬 +[#0:3~5]％
+- 대미지 +50％
+- 최대 CP +50％
+- 10초간 초당 64~64의 중독 대미지
+- 콜드 공격+ 7％(25초)
+- 마법 아이템 드랍 확률 +18％
+- 공격자의 명중률 보정치 무시
+
+&#x3C;Instruction&#x3E;
+- 쌍검의 길은 고독한 외길이다. 겉모습은 화려하지만 그만큼의 실속이 있는 것도 아니고, 정통론자들에게는 사도의 길이라고 무시당하기 때문이다. 그럼에도 쌍검의 길을 걷는 자들은 결코 포기하지 않고 고독한 외길 인생을 즐긴다.
+
+&#x3C;Required Ability&#x3E;
+- Level 509
+- Power 180
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-27" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2094.png"/></div>
+					<div class="jp">
+						<pre>
+対魔剣エリーゼ、テレジェストーレ
+
+&#x3C;Basic Information&#x3E;
+- O.P[120]〜[141]（2.00Second）
+- Shooting range100
+- クリティカル+[＃0:3〜6]％
+- ダメージ+240％
+- 知識+200
+- 光属性攻撃力を15％強化させる。
+- ダメージ返す100％
+- 最大体力+120％
+- スキルレベル+3
+
+&#x3C;Instruction&#x3E;
+- 天才作曲家の悲恋が込められた二本の魔剣。作曲家が愛した女の切ない心が込められており、着用者は休む暇もなく涙を流すという。そしてその涙の量だけ強くなって尖る魔剣だ。
+
+&#x3C;Required Ability&#x3E;
+- Level 818
+- Power 340
+- Knowledge 462
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+쌍마검 엘리제, 테레제
+
+&#x3C;Basic Information&#x3E;
+- O.P [120]~[141] (2.00Second)
+- Shooting range 100
+- 크리티컬 +[#0:3~6]％
+- 대미지 +240％
+- 지식 +200
+- 빛 속성 공격력을 15％ 강화 시킨다.
+- 대미지 돌려주기 100％
+- 최대 체력 +120％
+- 스킬 레벨 +3
+
+&#x3C;Instruction&#x3E;
+- 천재 작곡가의 비련이 담긴 두 자루의 마검. 작곡가가 사랑한 여인에 대한 애절한 마음이 깃들어 있어 착용자는 쉴 새 없이 눈물을 흘린다고 한다. 그리고 그 눈물의 양만큼 강해지고 날카로워지는 마검이다.
+
+&#x3C;Required Ability&#x3E;
+- Level 818
+- Power 340
+- Knowledge 462
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-28" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2095.png"/></div>
+					<div class="jp">
+						<pre>
+剣帝
+
+&#x3C;Basic Information&#x3E;
+- O.P[94]〜[112]（1.80Second）
+- Shooting range100
+- クリティカル+[＃0:4〜8]％
+- ダメージ+200％
+- 回避率+8％
+- 攻撃速度+20％
+- 敵に与えたダメージの8％を体力で吸収する。
+- 打撃を着ると10％の確率でダメージの10％を応急処置する。
+- 集中力+20％
+
+&#x3C;Instruction&#x3E;
+- 自他が公認する剣の王。一本で製錬されるのは、世界の法則からずれたため、完成される直前に二本に分裂してしまった。それにも盛り込んでいる能力は素晴らしいし、必然的に剣の王という名前を得た。
+
+&#x3C;Required Ability&#x3E;
+- Level 775
+- Power 480
+- Knowledge 412
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+검제
+
+&#x3C;Basic Information&#x3E;
+- O.P [94]~[112] (1.80Second)
+- Shooting range 100
+- 크리티컬 +[#0:4~8]％
+- 대미지 +200％
+- 회피율 +8％
+- 공격 속도 +20％
+- 적에게 입힌 대미지의 8％를 체력으로 흡수한다.
+- 타격을 입으면 10％의 확률로 타격의 10％를 응급처치 한다.
+- 집중력 +20％
+
+&#x3C;Instruction&#x3E;
+- 자타가 공인하는 검의 제왕. 한 자루로 제련되는 건 세계의 법칙에서 어긋나기 때문에 완성되기 직전 두 자루로 분열해 버렸다. 그럼에도 담고 있는 능력이 어마어마해 필연적으로 검의 제왕이라는 이름을 얻었다.
+
+&#x3C;Required Ability&#x3E;
+- Level 775
+- Power 480
+- Knowledge 412
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-29" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2096.png"/></div>
+					<div class="jp">
+						<pre>
+ソニックXブレード
+
+&#x3C;Basic Information&#x3E;
+- O.P[87]〜[102]（1.80Second）
+- Shooting range100
+- すべてのスキルレベル+[＃0:3〜3]
+- ダメージ+165％
+- ターゲットの回避率補正値無視
+- クリティカル発動確率+25％
+- 力+125
+- 人間型キャラクターに追加で85％のダメージを与える。
+- 鎧破壊攻撃+5％（5秒）
+
+&#x3C;Instruction&#x3E;
+- 最初に二刀流を扱った伝説の検査が残した遺物。双剣酒の概念を確立し、実戦で上手に使えるように訓練法まで作ったこの伝説の検査は、残念ながら、激戦中に彼の双剣で刺され、命を失った。
+
+&#x3C;Required Ability&#x3E;
+- Level 680
+- Power 450
+- Knowledge 450
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+소닉 X 블레이드
+
+&#x3C;Basic Information&#x3E;
+- O.P [87]~[102] (1.80Second)
+- Shooting range 100
+- 모든 스킬 레벨 +[#0:3~3]
+- 대미지 +165％
+- 타겟의 회피율 보정치 무시
+- 치명타 발동 확률 +25％
+- 힘 +125
+- 인간형 캐릭터에게 추가로 85％의 대미지를 준다.
+- 갑옷파괴 공격 +5％(5초)
+
+&#x3C;Instruction&#x3E;
+- 최초로 쌍검을 다뤘던 전설의 검사가 남긴 유물. 쌍검술의 개념을 확립하고 실전에서 능숙하게 사용할 수 있도록 훈련법까지 만들어 낸 이 전설의 검사는 안타깝게도 격전 도중 자신의 쌍검에 찔려 목숨을 잃었다.
+
+&#x3C;Required Ability&#x3E;
+- Level 680
+- Power 450
+- Knowledge 450
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-30" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2087.png"/></div>
+					<div class="jp">
+						<pre>
+雷の落雷[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[35]〜[55]（1.80Second）
+- Shooting range100
+- ダメージ+70％
+- スタン攻撃+20％（2秒）
+- 光ダメージ10〜217 
+- 5秒の間命中、回避低下
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-40
+- ダメージ+20％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 右手の剣を振り回すと雷の音が鳴って、左手の剣を振り回すに雷が落ちるという神妙な魔法剣。何よりも見た目がかっこよすぎて双剣を使用して検査が最も欲しがるの剣である。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 166
+- Power 30
+- Knowledge 10
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+천둥벼락[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [35]~[55] (1.80Second)
+- Shooting range 100
+- 대미지 +70％
+- 스턴 공격 +20％(2초)
+- 빛 대미지 10~217- 5초동안 명중,회피 저하 
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -40
+- 대미지 +20％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 오른손의 검을 휘두르면 천둥 소리가 울리고, 왼손의 검을 휘두르면 벼락이 떨어진다는 신묘한 마법검. 무엇보다도 외형이 너무 멋있어서 쌍검을 사용하는 검사들이 가장 탐내는 검이다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 166
+- Power 30
+- Knowledge 10
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-31" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2066.png"/></div>
+					<div class="jp">
+						<pre>
+双頭馬車[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[43]〜[58]（1.60Second）
+- Shooting range100
+- ダメージ+115％
+- 攻撃速度+25％
+- クリティカル発動確率+15％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-40
+- ダメージ+20％
+- 最終的なダメージ+10％
+- 最終的なダメージ+10％
+
+&#x3C;Instruction&#x3E;
+- 馬車を安定的に引く二フィルの言葉のように、流麗でシャープな剣術を駆使できるように支援する二本の剣。お互いの動きの妨げにならないように軽量でシャープなのが特徴だ。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 152
+- Power 42
+- Knowledge 30
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+쌍두마차[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [43]~[58] (1.60Second)
+- Shooting range 100
+- 대미지 +115％
+- 공격 속도 +25％
+- 치명타 발동 확률 +15％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -40
+- 대미지 +20％
+- 최종대미지 +10％
+- 최종대미지 +10％
+
+&#x3C;Instruction&#x3E;
+- 마차를 안정적으로 끄는 두 필의 말처럼, 유려하고 날카로운 검술을 구사할 수 있도록 도와주는 두 자루의 검. 서로의 움직임에 방해가 되지 않도록 가벼우면서도 날카로운 게 특징이다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 152
+- Power 42
+- Knowledge 30
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-32" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2067.png"/></div>
+					<div class="jp">
+						<pre>
+ドッペルゲンガーブレード[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[39]〜[80]（1.80Second）
+- Shooting range100
+- ダメージ+120％
+- 敵に与えたダメージの10％を体力で吸収する。
+- CP獲得ボーナス30％
+- 鎧破壊攻撃+50％（8秒）
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-40
+- ダメージ+20％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- まるでドッペルゲンガーのように必要に応じて形状を変形させることができる魔法の剣。右手に持った剣で、まず形をコピーすると、左手にかかる剣がそれを再びコピーするメカニズムを持っている。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 230
+- Power 47
+- Knowledge 47
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+도플갱어 블레이드[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [39]~[80] (1.80Second)
+- Shooting range 100
+- 대미지 +120％
+- 적에게 입힌 대미지의 10％를 체력으로 흡수한다.
+- CP 획득 보너스 30％
+- 갑옷파괴 공격 +50％(8초)
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -40
+- 대미지 +20％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 마치 도플갱어처럼 원하는 대로 모양을 변형시킬 수 있는 마법의 검. 오른손에 든 검으로 먼저 형태를 복사하면 왼손에 드는 검이 그걸 다시 한 번 복사하는 매커니즘을 가지고 있다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 230
+- Power 47
+- Knowledge 47
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-33" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2068.png"/></div>
+					<div class="jp">
+						<pre>
+醤油と莫耶[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[48]〜[66]（1.60Second）
+- Shooting range100
+- クリティカル+[＃0:4〜8]％
+- ダメージ+130％
+- CP獲得ボーナス50％
+- 攻撃速度+35％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-40
+- ダメージ+20％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 伝説の鍛冶屋が、王の命令に基づいて作った二本の剣。鍛冶屋の妻が火鉢に身を投げて霊性を持つようになった。最終的には鍛冶屋は優れた武士にお願いして、この剣たちに王の首を施したという。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 345
+- Power 28
+- Knowledge 15
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+간장과 막야[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [48]~[66] (1.60Second)
+- Shooting range 100
+- 크리티컬 +[#0:4~8]％
+- 대미지 +130％
+- CP 획득 보너스 50％
+- 공격 속도 +35％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -40
+- 대미지 +20％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 전설의 대장장이가 왕의 명령에 따라 만들었다는 두 자루의 검. 대장장이의 부인이 화로에 몸을 던져 영성을 갖게 되었다. 결국 대장장이는 뛰어난 무사에게 부탁해 이 검들로 왕의 목을 베었다고 한다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 345
+- Power 28
+- Knowledge 15
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-34" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2069.png"/></div>
+					<div class="jp">
+						<pre>
+スキーポール[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[40]〜[53]（1.60Second）
+- Shooting range100
+- 攻撃速度+[＃0:1〜3]％
+- 水ダメージ240〜340 
+- コールド40Frame
+- 最大CP+150
+- 最大CP+20％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-80
+- ダメージ+40％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 雪原で楽しむレジャースポーツであるスキーをするために必要なツール。ターンをしたり、坂道を登るときにバランスを維持するように助けてくれる。先端が尖って剣の代わりに使うことができるようだ。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 284
+- Power 80
+- Knowledge 45
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+스키 폴[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [40]~[53] (1.60Second)
+- Shooting range 100
+- 공격 속도 +[#0:1~3]％
+- 물 대미지 240~340
+- 콜드 40Frame
+- 최대 CP +150
+- 최대 CP +20％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -80
+- 대미지 +40％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 눈밭에서 즐기는 레포츠인 스키를 타기 위해 필요한 도구. 턴을 하거나 비탈길을 오를 때 균형을 유지하도록 도와준다. 끝이 뾰족해 검 대용으로 쓸 수 있을 것 같다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 284
+- Power 80
+- Knowledge 45
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-35" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2070.png"/></div>
+					<div class="jp">
+						<pre>
+アラビアダンシングソード[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[29]〜[42]（1.40Second）
+- Shooting range100
+- クリティカル+[＃0:4〜8]％
+- 力+100
+- 知識+100
+- ダメージ+80％
+- 命中率+30％
+- 闇ダメージ127〜247 
+- 呪い17秒
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-80
+- ダメージ+40％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- ゆらゆらな装いのダンサーが剣の舞を踊るときに使用する双剣。華やかに飾って鋭い予想を消した。ダンサーの踊りをぼうっと見ている間は、双剣に首ベールかもしれない。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 178
+- Power 25
+- Knowledge 25
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+아라비아 댄싱 소드[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [29]~[42] (1.40Second)
+- Shooting range 100
+- 크리티컬 +[#0:4~8]％
+- 힘 +100
+- 지식 +100
+- 대미지 +80％
+- 명중률 +30％
+- 어둠 대미지 127~247
+- 저주 17초
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -80
+- 대미지 +40％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 하늘하늘한 옷차림의 무희가 검무를 출 때 사용하는 쌍검. 화려하게 장식해 날카로운 예기를 감췄다. 무희의 춤을 넋 놓고 구경하고 있다간 이 쌍검에 목이 베일지도 모른다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 178
+- Power 25
+- Knowledge 25
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-36" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2071.png"/></div>
+					<div class="jp">
+						<pre>
+ブルールビー[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[59]〜[66]（1.80Second）
+- Shooting range100
+- ダメージ+120％
+- 最大CP+15％
+- 攻撃速度+15％
+- 光ダメージ1〜900 
+- 3秒の間命中、回避低下
+- 5秒間、毎秒144〜236の毒ダメージ
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-80
+- ダメージ+40％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 通称サファイアと呼ばれる宝石は、ルビーのような鉱物の結晶に色が違う。ここに着目した、優れたジュエリーデザイナーが腕のいい鍛冶屋と心を一つにして作った二本の剣。光の角度によってルビーにも、サファイアにも見えるのが特徴である美しい双剣です。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 451
+- Power 134
+- Knowledge 95
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+블루 루비[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [59]~[66] (1.80Second)
+- Shooting range 100
+- 대미지 +120％
+- 최대 CP +15％
+- 공격 속도 +15％
+- 빛 대미지 1~900
+- 3초동안 명중,회피 저하 
+- 5초간 초당 144~236의 중독 대미지
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -80
+- 대미지 +40％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 통칭 사파이어라고 불리는 보석은 루비와 같은 광물의 결정으로 색깔만 다르다. 여기에 착안한 뛰어난 보석 디자이너가 솜씨 좋은 대장장이와 합심해 만든 두 자루의 검. 빛의 각도에 따라 루비로도, 사파이어로도 보이는 게 특징인 아름다운 쌍검이다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 451
+- Power 134
+- Knowledge 95
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-37" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2072.png"/></div>
+					<div class="jp">
+						<pre>
+ダークネスブラック[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[70]〜[79]（1.60Second）
+- Shooting range100
+- クリティカル+[＃0:1〜2]％
+- ダメージ+135％
+- 力+1/レベル5
+- 攻撃速度+5％
+- ノックアウト攻撃+50％
+- 闇属性ダメージ吸収33％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-60
+- ダメージ+30％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 暗とも同じ黒色の剣二本には、所有者の深い怒りと憎しみが込められている。ハンドルの端の部分が普通の鉄の色であることを見た時は怒りと憎しみが、この双剣を暗い色に染めたようだ。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 491
+- Power 154
+- Knowledge 120
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+다크니스 블랙[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [70]~[79] (1.60Second)
+- Shooting range 100
+- 크리티컬 +[#0:1~2]％
+- 대미지 +135％
+- 힘 +1/레벨 5
+- 공격 속도 +5％
+- 녹아웃 공격 +50％
+- 어둠 속성 대미지 흡수 33％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -60
+- 대미지 +30％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 짙은 어둠과도 같은 흑색의 검 두 자루에는 주인의 깊은 분노와 증오가 담겨 있다. 손잡이 끝 부분이 평범한 철의 색깔임을 봤을 땐 분노와 증오가 이 쌍검을 어두운 색으로 물들인 듯 하다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 491
+- Power 154
+- Knowledge 120
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-38" class="item">
+
+					<div class="icon"><img src="./Image/BeastMan/2073.png"/></div>
+					<div class="jp">
+						<pre>
+パンパン棒風船[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[78]〜[88]（1.60Second）
+- Shooting range100
+- クリティカル+[＃0:1〜2]％
+- 最大体力+250
+- 減少限界CP+80
+- 攻撃速度+40％
+- クリティカル抵抗+15％
+- 神獣型キャラクターに追加で150％のダメージを与える。
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-60
+- ダメージ+30％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 好きなチームを応援するときのツールとして使用する棒風船。片手に一つずつ持って、お互いをぶつけるとパンパンと音がとても冷たいれるように響く。これさすがに剣として使用できるかどうかは分からない。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 504
+- Power 206
+- Knowledge 140
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+팡팡 막대풍선[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [78]~[88] (1.60Second)
+- Shooting range 100
+- 크리티컬 +[#0:1~2]％
+- 최대 체력 +250
+- 감소 한계 CP +80
+- 공격 속도 +40％
+- 치명타 저항 +15％
+- 신수 형 캐릭터에게 추가로 150％의 대미지를 준다.
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -60
+- 대미지 +30％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 좋아하는 팀을 응원할 때 도구로 사용하는 막대풍선. 한 손에 하나씩 잡고 서로를 부딪치면 팡팡하는 소리가 무척이나 찰지게 울린다. 이걸 과연 검으로 사용할 수 있을지는 모르겠다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 504
+- Power 206
+- Knowledge 140
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-39" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2074.png"/></div>
+					<div class="jp">
+						<pre>
+箸のマーチ[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[105]〜[147]（1.80Second）
+- Shooting range100
+- ダメージ+220％
+- 健康+1/レベル3
+- 防御力+50
+- クリティカル発動確率+10％
+- 15秒間、毎秒334〜438の毒ダメージ
+- 動物型キャラクターに追加で40％のダメージを与える。
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-60
+- ダメージ+30％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 優れた作曲家アルトィルの同名の曲を素材に制作した双剣。非常に細く、まるで箸とも同じ形ですが、相手を非常に深く刺してしまうことがある凶器だ。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 752
+- Power 300
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+젓가락 행진곡[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [105]~[147] (1.80Second)
+- Shooting range 100
+- 대미지 +220％
+- 건강 +1/레벨 3
+- 방어력 +50
+- 치명타 발동 확률 +10％
+- 15초간 초당 334~438의 중독 대미지
+- 동물형 캐릭터에게 추가로 40％의 대미지를 준다.
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -60
+- 대미지 +30％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 뛰어난 작곡가 아르튀르의 동명의 곡을 소재로 제작한 쌍검. 매우 가늘어 마치 젓가락과도 같은 모양이지만, 상대를 아주 깊이 찔러 버릴 수 있는 흉기다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 752
+- Power 300
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-40" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2075.png"/></div>
+					<div class="jp">
+						<pre>
+世界の2つの柱[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[115]〜[127]（1.80Second）
+- Shooting range90
+- ダメージ+160％
+- 力+180
+- 攻撃者の命中率補正値無視
+- 状態異常系抵抗+15％
+- アンデッド型キャラクターに追加で90％のダメージを与える。
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-70
+- ダメージ+50％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 世界を支える二本の柱を抜いて、魔法の力で製錬した双剣。普通の形ですが、この二本の黒い世界の重量をそのまま差しているので、あまりにも重い。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 581
+- Power 237
+- Knowledge 237
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+세계의 두 기둥[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [115]~[127] (1.80Second)
+- Shooting range 90
+- 대미지 +160％
+- 힘 +180
+- 공격자의 명중률 보정치 무시
+- 상태 이상 계 저항 +15％
+- 언데드형 캐릭터에게 추가로 90％의 대미지를 준다.
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -70
+- 대미지 +50％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 세계를 지탱하는 두 개의 기둥을 뽑아 마법의 힘으로 제련한 쌍검. 평범한 형태지만 이 두 자루의 검은 세계의 무게를 그대로 받치고 있기 때문에 너무너무 무겁다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 581
+- Power 237
+- Knowledge 237
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-41" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2076.png"/></div>
+					<div class="jp">
+						<pre>
+双子の星の呪い[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[65]〜[77]（1.40Second）
+- Shooting range100
+- ダメージ+130％
+- 防御力+30
+- 命中率+13％
+- 混乱攻撃+99％（3秒）
+- 即死攻撃+2％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-70
+- ダメージ+50％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 呪われた13日のみ観測することができる双子の星の下製錬した剣。炎に輝くこの二本の黒い濃い魔力を含んでいるが、着用者を罵倒すると言われています。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 473
+- Power 180
+- Knowledge 180
+
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+쌍둥이 별의 저주[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [65]~[77] (1.40Second)
+- Shooting range 100
+- 대미지 +130％
+- 방어력 +30
+- 명중률 +13％
+- 혼란 공격 +99％(3초)
+- 즉사 공격 +2％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -70
+- 대미지 +50％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 저주받은 13일에만 관측할 수 있다는 쌍둥이 별 아래서 제련한 검. 불길하게 빛나는 이 두 자루의 검은 짙은 마력을 담고 있지만, 착용자를 저주한다고 알려져 있다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 473
+- Power 180
+- Knowledge 180
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-42" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2077.png"/></div>
+					<div class="jp">
+						<pre>
+黄昏の中の人[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[106]〜[185]（2.00Second）
+- Shooting range100
+- 最大体力+170％
+- 最小ダメージ+20
+- 攻撃速度+20％
+- 鎧破壊攻撃+10％（25秒）
+- スキルレベル+3
+- ターゲットの光抵抗を33％弱化させる。
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-70
+- ダメージ+50％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 剣の名前は、人、そして鞘名前は黄昏。普通の検査であれば、人が持って戦いに臨んだが、優れた検査であれば、黄昏も一緒に使って敵を撃殺する。剣と同じくらい鋭く危険な鞘が特徴的なこの黒いので、黄昏の中の人と呼ばれる。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 607
+- Power 282
+- Knowledge 282
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+황혼 속의 여명[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [106]~[185] (2.00Second)
+- Shooting range 100
+- 최대 체력 +170％
+- 최소 대미지 +20
+- 공격 속도 +20％
+- 갑옷파괴 공격 +10％(25초)
+- 스킬 레벨 +3
+- 타겟의 빛 저항을 33％ 약화 시킨다.
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -70
+- 대미지 +50％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 검 이름은 여명, 그리고 검집 이름은 황혼. 평범한 검사라면 여명만 들고 전투에 임하겠지만, 뛰어난 검사라면 황혼도 함께 사용해 적을 격살한다. 검만큼이나 날카롭고 위험한 검집이 특징인 이 검은 그래서 황혼 속의 여명이라고 불린다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 607
+- Power 282
+- Knowledge 282
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-43" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2078.png"/></div>
+					<div class="jp">
+						<pre>
+炎の二枚貝[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[123]〜[145]（2.00Second）
+- Shooting range100
+- 知識+1/レベル3
+- 最大ダメージ+45
+- 攻撃速度+20％
+- 光ダメージ1〜2200 
+- 2秒の間命中、回避低下
+- 火属性抵抗力+25％
+- 光属性攻撃力を115％強化させる。
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-70
+- ダメージ+50％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 長い間鍛えた武道家の堅い二本の足のように広がって出てくる剣撃が敵を破壊してしまうという魔法の剣。剣を引き出すたびに、空気中のイヴサンを乗せて火を​​起こすの炎二枚貝という名前で呼ばれる。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 541
+- Power 198
+- Knowledge 198
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+화염쌍각[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [123]~[145] (2.00Second)
+- Shooting range 100
+- 지식 +1/레벨 3
+- 최대 대미지 +45
+- 공격 속도 +20％
+- 빛 대미지 1~2200
+- 2초동안 명중,회피 저하 
+- 불 속성 저항 +25％
+- 빛 속성 공격력을 115％ 강화 시킨다.
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -70
+- 대미지 +50％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 오랫동안 단련한 무도가의 단단한 두 다리처럼 뻗어나오는 검격이 적을 파괴해 버린다는 마법검. 검을 뻗을 때마다 공기 중의 산로를 태워 불을 일으키기에 화염쌍각이라는 이름으로 불린다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 541
+- Power 198
+- Knowledge 198
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-44" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2079.png"/></div>
+					<div class="jp">
+						<pre>
+初心者検査の見栄[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[143]〜[145]（2.00Second）
+- Shooting range90
+- クリティカル+[＃0:5〜10]％
+- ダメージ+220％
+- 防御力+30％
+- 攻撃速度+20％
+- 即死攻撃+5％
+- 火属性ダメージ吸収25％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-90
+- ダメージ+60％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 二刀流を大事にするのはかなり熟練した検査ではなく、立たなければ意欲も出すのは難しい。しかし、双剣を扱うのはかなりかっこいいので、初心者のテストは、何も知らず双剣を使用する。そして程なくして命を失う。この黒いそんな初歩検査者に捧げるレクイエムです。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 739
+- Power 404
+- Knowledge 275
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+초보 검사의 허세[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [143]~[145] (2.00Second)
+- Shooting range 90
+- 크리티컬 +[#0:5~10]％
+- 대미지 +220％
+- 방어력 +30％
+- 공격 속도 +20％
+- 즉사 공격 +5％
+- 불 속성 대미지 흡수 25％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -90
+- 대미지 +60％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 쌍검을 다룬다는 건 어지간히 숙련된 검사가 아니고서야 엄두도 내기 힘들다. 하지만 쌍검을 다루는 건 꽤 멋있기 때문에 초보 검사들은 멋모르고 쌍검을 사용한다. 그리고 얼마 지나지 않아 목숨을 잃는다. 이 검은 그런 초보 검사들에게 바치는 진혼곡이다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 739
+- Power 404
+- Knowledge 275
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-45" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2080.png"/></div>
+					<div class="jp">
+						<pre>
+スペアブレード[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[45]〜[60]（1.40Second）
+- Shooting range100
+- vs人型キャラクター - ダメージ+[＃0:10〜10]％
+- 敏捷+132
+- 最大ダメージ+30
+- 水ダメージ266〜279 
+- コールド12Frame
+- 水属性抵抗+48％
+- スキルレベル+2
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-40
+- ダメージ+20％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 珍しい形ですが、決して珍しいことではない剣。それもそのはず、この剣の所有者がもし剣を失ってしまったり、剣が破損した場合に備えて、同じ形の剣を何百もの袋や作り置きからである。だから今の剣が元なのか、それともスペアブレードかは主人さえ知ることができない。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 162
+- Power 5
+- Knowledge 10
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+스페어 블레이드[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [45]~[60] (1.40Second)
+- Shooting range 100
+- vs 인간형 캐릭터 - 대미지 +[#0:10~10]％
+- 민첩성 +132
+- 최대 대미지 +30
+- 물 대미지 266~279
+- 콜드 12Frame
+- 물 속성 저항 +48％
+- 스킬 레벨 +2
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -40
+- 대미지 +20％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 희귀한 형태지만 결코 희귀하지 않은 검. 그도 그럴 것이 이 검의 주인이 만약 검을 잃어버리거나 검이 파손될 경우를 대비해 똑같은 형태의 검을 수백 자루나 만들어 두었기 때문이다. 그래서 지금의 검이 원본인지, 아니면 스페어 블레이드인지는 주인조차 알 수 없다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 162
+- Power 5
+- Knowledge 10
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-46" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2081.png"/></div>
+					<div class="jp">
+						<pre>
+フロムアルファトゥオメガ[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[33]〜[53]（2.00Second）
+- Shooting range100
+- クリティカル+[＃0:5〜10]％
+- 健康+152
+- ダメージ+125％
+- 移動速度+40％
+- 集中力+15％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-40
+- ダメージ+20％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 最初から最後まで剣のすべてを込めた二本の剣。一本では、剣の極意をすべて表現できないからだという制作者の言葉通り、二本の黒いそれぞれ斬りと突きのこつを含んでいる。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 201
+- Power 15
+- Knowledge 15
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+프롬 알파 투 오메가[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [33]~[53] (2.00Second)
+- Shooting range 100
+- 크리티컬 +[#0:5~10]％
+- 건강 +152
+- 대미지 +125％
+- 이동 속도 +40％
+- 집중력 +15％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -40
+- 대미지 +20％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 처음부터 끝까지 검의 모든 것을 담았다는 두 자루의 검. 한 자루로는 검의 극의를 다 표현할 수 없기 때문이라는 제작자의 말대로, 두 자루의 검은 각각 베기와 찌르기의 묘리를 담고 있다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 201
+- Power 15
+- Knowledge 15
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-47" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2082.png"/></div>
+					<div class="jp">
+						<pre>
+おまけアンドダマー[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[55]〜[70]（2.00Second）
+- Shooting range90
+- 攻撃速度+[＃0:2〜6]％
+- 知恵+155
+- ダメージ+100％
+- 最大体力+100％
+- 復活25％
+- 魔法アイテムドロップ確率+30％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-40
+- ダメージ+20％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 最も殺して迎えたが、見る人々に笑いを、あるいは過敏を誘発させた2つのテストの遺産。おまけアンドダマーというニックネームらしく二本の剣を同時に使用すると、妙に剣術が狂う。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 243
+- Power 50
+- Knowledge 55
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+덤 앤 더머[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [55]~[70] (2.00Second)
+- Shooting range 90
+- 공격 속도 +[#0:2~6]％
+- 지혜 +155
+- 대미지 +100％
+- 최대 체력 +100％
+- 부활 25％
+- 마법 아이템 드랍 확률 +30％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -40
+- 대미지 +20％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 가장 죽이 잘 맞았지만 보는 사람들로 하여금 웃음을, 혹은 짜증을 유발시켰던 두 검사의 유산. 덤 앤 더머라는 별명답게 두 자루의 검을 동시에 사용하면 묘하게 검술이 꼬인다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 243
+- Power 50
+- Knowledge 55
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-48" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2083.png"/></div>
+					<div class="jp">
+						<pre>
+ワーストパートナー[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[50]〜[71]（1.80Second）
+- Shooting range100
+- クリティカル+[＃0:1〜2]％
+- 力+150
+- 知識+150
+- ダメージ+110％
+- 魔法抵抗+18％
+- スキルレベル+3
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-40
+- ダメージ+20％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- あってはならない二種類の鉱石で作られた剣。製作方式もデザインも正反対の傾向を追求したため、常にお互いを押し出す性質を持った。この双剣を使用するには、元気に剣を押す境地に達しなければならない。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 321
+- Power 90
+- Knowledge 115
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+워스트 파트너[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [50]~[71] (1.80Second)
+- Shooting range 100
+- 크리티컬 +[#0:1~2]％
+- 힘 +150
+- 지식 +150
+- 대미지 +110％
+- 마법 저항 +18％
+- 스킬 레벨 +3
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -40
+- 대미지 +20％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 만나서는 안될 두 종류의 광석으로 만든 검. 제작 방식도 디자인도 정 반대의 성향을 추구했기 때문에 항상 서로를 밀어내는 성질을 가졌다. 이 쌍검을 사용하려면 기운으로 검을 누르는 경지에 이르러야 한다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 321
+- Power 90
+- Knowledge 115
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-49" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2084.png"/></div>
+					<div class="jp">
+						<pre>
+共生の墓[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[40]〜[92]（1.80Second）
+- Shooting range100
+- 最小ダメージ+15
+- 最大ダメージ+15
+- ダメージ+150％
+- 攻撃速度+10％
+- 水ダメージ50〜100 
+- コールド40Frame
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-80
+- ダメージ+40％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 水が流れるように継続して続く剣術を使用するために最適な剣。一本の剣では不可能な行動も不思議は二刀流を使用すると、とても簡単に可能となる。だから検査は、この二本の剣が互いに共存すると考える。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 378
+- Power 75
+- Knowledge 90
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+상생의 묘[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [40]~[92] (1.80Second)
+- Shooting range 100
+- 최소 대미지 +15
+- 최대 대미지 +15
+- 대미지 +150％
+- 공격 속도 +10％
+- 물 대미지 50~100
+- 콜드 40Frame
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -80
+- 대미지 +40％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 물 흐르듯 계속해서 이어지는 검술을 사용하는 데 최적인 검. 한 자루의 검으로는 불가능한 행동들도 이상하게 이 쌍검을 사용하면 무척이나 쉽게 가능해진다. 그래서 검사들은 이 두 자루의 검이 서로 상생한다고 생각한다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 378
+- Power 75
+- Knowledge 90
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-50" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2085.png"/></div>
+					<div class="jp">
+						<pre>
+アンホーリークルセイダー[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[67]〜[80]（2.00Second）
+- Shooting range100
+- すべてのスキルレベル+[＃0:1〜2]
+- 知識+195
+- ダメージ+50％
+- 最大CP+20％
+- 集中力+5％
+- スキルレベル+5（19系列職業）
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-80
+- ダメージ+40％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 一本は伝説の聖剣。他の一本は恐ろしい邪剣。この二人が会って相性をイルニどんな新兵でも太刀打ちできない。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 326
+- Power 100
+- Knowledge 120
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+언홀리 크루세이더[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [67]~[80] (2.00Second)
+- Shooting range 100
+- 모든 스킬 레벨 +[#0:1~2]
+- 지식 +195
+- 대미지 +50％
+- 최대 CP +20％
+- 집중력 +5％
+- 스킬 레벨 +5(19계열 직업)
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -80
+- 대미지 +40％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 한 자루는 전설의 성검. 다른 한 자루는 무시무시한 사검. 이 둘이 만나 궁합을 이루니 그 어떤 신병이기도 당해낼 수 없다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 326
+- Power 100
+- Knowledge 120
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-51" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2086.png"/></div>
+					<div class="jp">
+						<pre>
+スピンカッター[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[60]〜[67]（1.60Second）
+- Shooting range100
+- ダメージ+100％
+- 最大ダメージ+30
+- 攻撃速度+20％
+- 風ダメージ450〜550 
+- スタン8Frame
+- コールド抵抗+50％
+- 悪魔型キャラクターに追加で50％のダメージを与える。
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-80
+- ダメージ+40％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 広幅したバーバリアンの必殺技であるぐるぐる回す剣法を使用するために必須と備えなければならない剣。高速回転力も強固に私を立てて近くのすべてを引き裂いて切り取ってしまう。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 444
+- Power 130
+- Knowledge 150
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+스핀 커터[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [60]~[67] (1.60Second)
+- Shooting range 100
+- 대미지 +100％
+- 최대 대미지 +30
+- 공격 속도 +20％
+- 바람 대미지 450~550
+- 스턴 8Frame
+- 콜드 저항 +50％
+- 악마형 캐릭터에게 추가로 50％의 대미지를 준다.
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -80
+- 대미지 +40％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 광폭한 바바리안들의 필살기인 뱅뱅 돌기 검법을 사용하기 위해 필수로 구비해야 하는 검. 빠른 회전력에도 굳건하게 날을 세워 근처의 모든 것을 찢고 베어버린다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 444
+- Power 130
+- Knowledge 150
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-52" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2065.png"/></div>
+					<div class="jp">
+						<pre>
+雌雄日大剣[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[58]〜[63]（1.40Second）
+- Shooting range90
+- 力+110
+- クリティカル発動確率+10％
+- CP獲得ボーナス5％
+- 魔法抵抗+30％
+- スキルレベル+3
+- 最大体力+25％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-60
+- ダメージ+30％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 異国の優しい君主が使用した二本の剣。全体的な見た目は似ていますが、それぞれ男性と女性を象徴する装飾がかかっている。なぜかこの武器を使用すると、人々に認められている慈愛の君主となりそうだ。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 463
+- Power 160
+- Knowledge 160
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+자웅일대검[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [58]~[63] (1.40Second)
+- Shooting range 90
+- 힘 +110
+- 치명타 발동 확률 +10％
+- CP 획득 보너스 5％
+- 마법 저항 +30％
+- 스킬 레벨 +3
+- 최대 체력 +25％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -60
+- 대미지 +30％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 이국의 자애로운 군주가 사용했다는 두 자루의 검.  전체적인 외형은 흡사하지만 각각 남성과 여성을 상징하는 장식이 달려 있다. 왠지 이 무기를 사용하면 백성들에게 인정받는 자애로운 군주가 될 것 같다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 463
+- Power 160
+- Knowledge 160
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-53" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2088.png"/></div>
+					<div class="jp">
+						<pre>
+外耳数の角[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[69]〜[77]（1.60Second）
+- Shooting range100
+- 知識+120
+- 最大体力+250
+- 決定打発動確率+5％
+- 光属性攻撃力を33％強化させる。
+- すべての異常系抵抗+50％
+- 悪魔型キャラクターに追加で180％のダメージを与える。
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-60
+- ダメージ+30％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- まれに発見された2つの角を持つユニコーンはなく、バイコーンの角製作した剣。強大な魔力だけでなく、神聖力まで浮かべている。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 480
+- Power 180
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이각수의 뿔[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [69]~[77] (1.60Second)
+- Shooting range 100
+- 지식 +120
+- 최대 체력 +250
+- 결정타 발동 확률 +5％
+- 빛 속성 공격력을 33％ 강화 시킨다.
+- 모든 이상 계 저항 +50％
+- 악마형 캐릭터에게 추가로 180％의 대미지를 준다.
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -60
+- 대미지 +30％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 아주 가끔 발견되는 두 개의 뿔을 가진 유니콘, 아니 바이콘의 뿔로 제작한 검. 강대한 마력 뿐만 아니라 신성력까지 머금고 있다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 480
+- Power 180
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-54" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2090.png"/></div>
+					<div class="jp">
+						<pre>
+超光子発現剣一閃[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[75]〜[85]（1.60Second）
+- Shooting range100
+- vs悪魔型キャラクター - ダメージ+[＃0:50〜55]％
+- 知識+1/レベル3
+- 力+170
+- 攻撃速度+20％
+- ノックアウト攻撃+30％
+- 闇属性ダメージ吸収50％
+- 光ダメージ1〜1225 
+- 2秒の間命中、回避低下
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-60
+- ダメージ+30％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 光子の力を凝集してゴムナルを生成する剣。平常時には剣のハンドルがあるが、光の魔力をかき集めて、ハンドルに注入すると、瞬く間にゴムナルが生成される。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 501
+- Power 150
+- Knowledge 210
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+초광자발현검 일섬[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [75]~[85] (1.60Second)
+- Shooting range 100
+- vs 악마형 캐릭터 - 대미지 +[#0:50~55]％
+- 지식 +1/레벨 3
+- 힘 +170
+- 공격 속도 +20％
+- 녹아웃 공격 +30％
+- 어둠 속성 대미지 흡수 50％
+- 빛 대미지 1~1225
+- 2초동안 명중,회피 저하 
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -60
+- 대미지 +30％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 광자의 힘을 응집해 검날을 생성하는 검. 평상 시에는 검 손잡이만 있다가 빛의 마력을 끌어모아 손잡이에 주입하면 순식간에 검날이 생성된다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 501
+- Power 150
+- Knowledge 210
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-55" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2091.png"/></div>
+					<div class="jp">
+						<pre>
+孤独な一本道[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[99]〜[112]（1.80Second）
+- Shooting range90
+- クリティカル+[＃0:3〜5]％
+- ダメージ+80％
+- 最大CP+50％
+- 10秒間、毎秒664〜964の毒ダメージ
+- コールド攻撃+7％（25秒）
+- 魔法アイテムドロップ確率+25％
+- 攻撃者の命中率補正値無視
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-70
+- ダメージ+50％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 双剣の道は孤独な一本道である。見かけは派手だが、それほどの実利があるわけでもなく、本格的な論者たちは、使徒の長さだと無視されるからである。それでも双剣の道を歩く者たちは決してあきらめず、孤独な一本道の人生を楽しむ。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 509
+- Power 180
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+고독한 외길[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [99]~[112] (1.80Second)
+- Shooting range 90
+- 크리티컬 +[#0:3~5]％
+- 대미지 +80％
+- 최대 CP +50％
+- 10초간 초당 664~964의 중독 대미지
+- 콜드 공격+ 7％(25초)
+- 마법 아이템 드랍 확률 +25％
+- 공격자의 명중률 보정치 무시
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -70
+- 대미지 +50％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 쌍검의 길은 고독한 외길이다. 겉모습은 화려하지만 그만큼의 실속이 있는 것도 아니고, 정통론자들에게는 사도의 길이라고 무시당하기 때문이다. 그럼에도 쌍검의 길을 걷는 자들은 결코 포기하지 않고 고독한 외길 인생을 즐긴다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 509
+- Power 180
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-56" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2093.png"/></div>
+					<div class="jp">
+						<pre>
+ダブルハート[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[105]〜[137]（1.80Second）
+- Shooting range100
+- 力+1/レベル4
+- 最大ダメージ+25
+- 命中率100％
+- 即死攻撃+7％
+- コールド攻撃+15％（12秒）
+- 武器破壊攻撃+8％（6秒）
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-70
+- ダメージ+50％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 川の変異魔獣の両方の心を後退装飾した双剣。魔獣の粘り強い生命力が残っているが、心臓は、その所有者に負けない体力と忍耐を付与する。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 696
+- Power 280
+- Knowledge 330
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+더블 하트[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [105]~[137] (1.80Second)
+- Shooting range 100
+- 힘 +1/레벨 4
+- 최대 대미지 +25
+- 명중률 100％
+- 즉사 공격 +7％
+- 콜드 공격+ 15％(12초)
+- 무기파괴 공격 +8％(6초)
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -70
+- 대미지 +50％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 강대한 돌연변이 마수의 두 심장을 떼다 장식한 쌍검. 마수의 끈질긴 생명력이 남아 있는 이 심장들은 주인에게 지치지 않는 체력과 끈기를 부여한다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 696
+- Power 280
+- Knowledge 330
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-57" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2094.png"/></div>
+					<div class="jp">
+						<pre>
+対魔剣エリーゼ、テレジェストーレ[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[93]〜[205]（2.00Second）
+- Shooting range100
+- クリティカル+[＃0:3〜6]％
+- ダメージ+250％
+- 知識+230
+- 光属性攻撃力を20％強化させる。
+- ダメージ返す100％
+- 最大体力+120％
+- スキルレベル+4
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-110
+- ダメージ+70％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 天才作曲家の悲恋が込められた二本の魔剣。作曲家が愛した女の切ない心が込められており、着用者は休む暇もなく涙を流すという。そしてその涙の量だけ強くなって尖る魔剣だ。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 818
+- Power 340
+- Knowledge 462
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+쌍마검 엘리제, 테레제[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [93]~[205] (2.00Second)
+- Shooting range 100
+- 크리티컬 +[#0:3~6]％
+- 대미지 +250％
+- 지식 +230
+- 빛 속성 공격력을 20％ 강화 시킨다.
+- 대미지 돌려주기 100％
+- 최대 체력 +120％
+- 스킬 레벨 +4
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -110
+- 대미지 +70％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 천재 작곡가의 비련이 담긴 두 자루의 마검. 작곡가가 사랑한 여인에 대한 애절한 마음이 깃들어 있어 착용자는 쉴 새 없이 눈물을 흘린다고 한다. 그리고 그 눈물의 양만큼 강해지고 날카로워지는 마검이다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 818
+- Power 340
+- Knowledge 462
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-58" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2095.png"/></div>
+					<div class="jp">
+						<pre>
+剣帝[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[95]〜[167]（1.80Second）
+- Shooting range100
+- クリティカル+[＃0:4〜8]％
+- ダメージ+230％
+- 回避率+10％
+- 攻撃速度+20％
+- 敵に与えたダメージの10％を体力で吸収する。
+- 打撃を着ると10％の確率でダメージの15％を応急処置する。
+- 集中力+30％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-110
+- ダメージ+70％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 自他が公認する剣の王。一本で製錬されるのは、世界の法則からずれたため、完成される直前に二本に分裂してしまった。それにも盛り込んでいる能力は素晴らしいし、必然的に剣の王という名前を得た。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 775
+- Power 480
+- Knowledge 412
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+검제[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [95]~[167] (1.80Second)
+- Shooting range 100
+- 크리티컬 +[#0:4~8]％
+- 대미지 +230％
+- 회피율 +10％
+- 공격 속도 +20％
+- 적에게 입힌 대미지의 10％를 체력으로 흡수한다.
+- 타격을 입으면 10％의 확률로 타격의 15％를 응급처치 한다.
+- 집중력 +30％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -110
+- 대미지 +70％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 자타가 공인하는 검의 제왕. 한 자루로 제련되는 건 세계의 법칙에서 어긋나기 때문에 완성되기 직전 두 자루로 분열해 버렸다. 그럼에도 담고 있는 능력이 어마어마해 필연적으로 검의 제왕이라는 이름을 얻었다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 775
+- Power 480
+- Knowledge 412
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-59" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2096.png"/></div>
+					<div class="jp">
+						<pre>
+ソニックXブレード[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[107]〜[130]（1.80Second）
+- Shooting range100
+- すべてのスキルレベル+[＃0:5〜5]
+- ダメージ+205％
+- ターゲットの回避率補正値無視
+- クリティカル発動確率+25％
+- 力+180
+- 人間型キャラクターに追加で85％のダメージを与える。
+- 鎧破壊攻撃+10％（5秒）
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-130
+- ダメージ+50％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 最初に二刀流を扱った伝説の検査が残した遺物。双剣酒の概念を確立し、実戦で上手に使えるように訓練法まで作ったこの伝説の検査は、残念ながら、激戦中に彼の双剣で刺され、命を失った。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 680
+- Power 450
+- Knowledge 450
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+소닉 X 블레이드[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [107]~[130] (1.80Second)
+- Shooting range 100
+- 모든 스킬 레벨 +[#0:5~5]
+- 대미지 +205％
+- 타겟의 회피율 보정치 무시
+- 치명타 발동 확률 +25％
+- 힘 +180
+- 인간형 캐릭터에게 추가로 85％의 대미지를 준다.
+- 갑옷파괴 공격 +10％(5초)
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -130
+- 대미지 +50％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 최초로 쌍검을 다뤘던 전설의 검사가 남긴 유물. 쌍검술의 개념을 확립하고 실전에서 능숙하게 사용할 수 있도록 훈련법까지 만들어 낸 이 전설의 검사는 안타깝게도 격전 도중 자신의 쌍검에 찔려 목숨을 잃었다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 680
+- Power 450
+- Knowledge 450
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-60" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2092.png"/></div>
+					<div class="jp">
+						<pre>
+テレパシーシンドローム
+
+&#x3C;Basic Information&#x3E;
+- O.P[83]〜[99]（1.80Second）
+- Shooting range100
+- クリティカル+[＃0:5〜10]％
+- 運+1/レベル6
+- クリティカル発動確率+33％
+- 攻撃速度+50％
+- 鎧破壊攻撃+9％（8秒）
+- ターゲットの光抵抗を10％弱化させる。
+- 集中力+40％
+
+&#x3C;Instruction&#x3E;
+- 右手の剣が振り回されると、それに合わせて左手の剣が自然に動く不思議な剣。両方の剣の間にはテレパシーが流れており、所有者が確実に意図していなくても、水が流れるように自然に剣術が駆使されている。
+
+&#x3C;Required Ability&#x3E;
+- Level 568
+- Power 200
+- Knowledge 237
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+텔레파시 신드롬
+
+&#x3C;Basic Information&#x3E;
+- O.P [83]~[99] (1.80Second)
+- Shooting range 100
+- 크리티컬 +[#0:5~10]％
+- 운 +1/레벨 6
+- 치명타 발동 확률 +33％
+- 공격 속도 +50％
+- 갑옷파괴 공격 +9％(8초)
+- 타겟의 빛 저항을 10％ 약화 시킨다.
+- 집중력 +40％
+
+&#x3C;Instruction&#x3E;
+- 오른손의 검이 휘둘러지면 그에 맞춰 왼손의 검이 자연스럽게 움직이는 신기한 검. 두 검 사이에는 텔레파시가 흐르고 있어 주인이 딱히 의도하지 않아도 물 흐르듯 자연스럽게 검술이 구사된다.
+
+&#x3C;Required Ability&#x3E;
+- Level 568
+- Power 200
+- Knowledge 237
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-61" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2092.png"/></div>
+					<div class="jp">
+						<pre>
+テレパシーシンドローム[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[105]〜[127]（1.80Second）
+- Shooting range100
+- クリティカル+[＃0:5〜10]％
+- 運+1/レベル5
+- クリティカル発動確率+40％
+- 攻撃速度+50％
+- 鎧破壊攻撃+9％（8秒）
+- ターゲットの光抵抗を20％弱化させる。
+- 集中力+40％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-70
+- ダメージ+50％
+- 最終的なダメージ+10％
+- 最終的なダメージ+10％
+
+&#x3C;Instruction&#x3E;
+- 右手の剣が振り回されると、それに合わせて左手の剣が自然に動く不思議な剣。両方の剣の間にはテレパシーが流れており、所有者が確実に意図していなくても、水が流れるように自然に剣術が駆使されている。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 568
+- Power 200
+- Knowledge 237
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+텔레파시 신드롬[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [105]~[127] (1.80Second)
+- Shooting range 100
+- 크리티컬 +[#0:5~10]％
+- 운 +1/레벨 5
+- 치명타 발동 확률 +40％
+- 공격 속도 +50％
+- 갑옷파괴 공격 +9％(8초)
+- 타겟의 빛 저항을 20％ 약화 시킨다.
+- 집중력 +40％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -70
+- 대미지 +50％
+- 최종대미지 +10％
+- 최종대미지 +10％
+
+&#x3C;Instruction&#x3E;
+- 오른손의 검이 휘둘러지면 그에 맞춰 왼손의 검이 자연스럽게 움직이는 신기한 검. 두 검 사이에는 텔레파시가 흐르고 있어 주인이 딱히 의도하지 않아도 물 흐르듯 자연스럽게 검술이 구사된다.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 568
+- Power 200
+- Knowledge 237
+
+&#x3C;Put on/Job Available&#x3E;
+- NecroMancer
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-62" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2066.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーI
+
+&#x3C;Basic Information&#x3E;
+- O.P[38]〜[56]（1.80Second）
+- Shooting range100
+- ダメージ+50％
+- 魔法攻撃力を10％強化させる。
+- 攻撃速度+10％
+- クリティカル発動確率+2％
+- スキルレベル+2
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 1レベルのハード級マエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 100
+- Power 30
+- Knowledge 30
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 I
+
+&#x3C;Basic Information&#x3E;
+- O.P [38]~[56] (1.80Second)
+- Shooting range 100
+- 대미지 +50％
+- 마법 공격력을 10％ 강화 시킨다.
+- 공격 속도 +10％
+- 치명타 발동 확률 +2％
+- 스킬 레벨 +2
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 1 레벨 에하드급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 100
+- Power 30
+- Knowledge 30
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-63" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2067.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーII
+
+&#x3C;Basic Information&#x3E;
+- O.P[50]〜[71]（1.80Second）
+- Shooting range100
+- ダメージ+70％
+- 魔法攻撃力を10％強化させる。
+- 攻撃速度+15％
+- クリティカル発動確率+2％
+- スキルレベル+3
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - レベル2スィナイムグプマエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 200
+- Power 70
+- Knowledge 70
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 II
+
+&#x3C;Basic Information&#x3E;
+- O.P [50]~[71] (1.80Second)
+- Shooting range 100
+- 대미지 +70％
+- 마법 공격력을 10％ 강화 시킨다.
+- 공격 속도 +15％
+- 치명타 발동 확률 +2％
+- 스킬 레벨 +3
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 2 레벨 쉬나임급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 200
+- Power 70
+- Knowledge 70
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-64" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2068.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーIII
+
+&#x3C;Basic Information&#x3E;
+- O.P[57]〜[76]（1.80Second）
+- Shooting range100
+- ダメージ+80％
+- 魔法攻撃力を15％強化させる。
+- 攻撃速度+15％
+- クリティカル発動確率+3％
+- スキルレベル+4
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 3レベルのシャロースィグプマエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 300
+- Power 120
+- Knowledge 120
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 III
+
+&#x3C;Basic Information&#x3E;
+- O.P [57]~[76] (1.80Second)
+- Shooting range 100
+- 대미지 +80％
+- 마법 공격력을 15％ 강화 시킨다.
+- 공격 속도 +15％
+- 치명타 발동 확률 +3％
+- 스킬 레벨 +4
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 3 레벨 샬로쉬급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 300
+- Power 120
+- Knowledge 120
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-65" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2071.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーIV
+
+&#x3C;Basic Information&#x3E;
+- O.P[68]〜[77]（1.80Second）
+- Shooting range100
+- ダメージ+100％
+- 魔法攻撃力を20％強化させる。
+- 攻撃速度+20％
+- クリティカル発動確率+5％
+- スキルレベル+5
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 4つのレベルアルバ級マエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 400
+- Power 150
+- Knowledge 150
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 IV
+
+&#x3C;Basic Information&#x3E;
+- O.P [68]~[77] (1.80Second)
+- Shooting range 100
+- 대미지 +100％
+- 마법 공격력을 20％ 강화 시킨다.
+- 공격 속도 +20％
+- 치명타 발동 확률 +5％
+- 스킬 레벨 +5
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 4 레벨 아르바급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 400
+- Power 150
+- Knowledge 150
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-66" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2072.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーV
+
+&#x3C;Basic Information&#x3E;
+- O.P[72]〜[81]（1.80Second）
+- Shooting range100
+- ダメージ+120％
+- 魔法攻撃力を20％強化させる。
+- 攻撃速度+20％
+- クリティカル発動確率+5％
+- スキルレベル+6
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 5レベル下のメッシュ級マエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 400
+- Power 150
+- Knowledge 150
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 V
+
+&#x3C;Basic Information&#x3E;
+- O.P [72]~[81] (1.80Second)
+- Shooting range 100
+- 대미지 +120％
+- 마법 공격력을 20％ 강화 시킨다.
+- 공격 속도 +20％
+- 치명타 발동 확률 +5％
+- 스킬 레벨 +6
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 5 레벨 하메쉬급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 400
+- Power 150
+- Knowledge 150
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-67" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2078.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーVI
+
+&#x3C;Basic Information&#x3E;
+- O.P[103]〜[114]（1.80Second）
+- Shooting range100
+- ダメージ+140％
+- 魔法攻撃力を25％強化させる。
+- 攻撃速度+25％
+- クリティカル発動確率+8％
+- スキルレベル+7
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - レベル6社シャグプマエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 500
+- Power 175
+- Knowledge 175
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 VI
+
+&#x3C;Basic Information&#x3E;
+- O.P [103]~[114] (1.80Second)
+- Shooting range 100
+- 대미지 +140％
+- 마법 공격력을 25％ 강화 시킨다.
+- 공격 속도 +25％
+- 치명타 발동 확률 +8％
+- 스킬 레벨 +7
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 6 레벨 쉐이샤급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 500
+- Power 175
+- Knowledge 175
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-68" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2086.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーVII
+
+&#x3C;Basic Information&#x3E;
+- O.P[106]〜[120]（1.80Second）
+- Shooting range100
+- ダメージ+160％
+- 魔法攻撃力を25％強化させる。
+- 攻撃速度+25％
+- クリティカル発動確率+8％
+- スキルレベル+7
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 7レベルシヴアグプマエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 500
+- Power 175
+- Knowledge 175
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 VII
+
+&#x3C;Basic Information&#x3E;
+- O.P [106]~[120] (1.80Second)
+- Shooting range 100
+- 대미지 +160％
+- 마법 공격력을 25％ 강화 시킨다.
+- 공격 속도 +25％
+- 치명타 발동 확률 +8％
+- 스킬 레벨 +7
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 7 레벨 쉬브아급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 500
+- Power 175
+- Knowledge 175
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-69" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2095.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーVIII
+
+&#x3C;Basic Information&#x3E;
+- O.P[110]〜[124]（1.80Second）
+- Shooting range100
+- ダメージ+180％
+- 魔法攻撃力を30％強化させる。
+- 攻撃速度+30％
+- クリティカル発動確率+8％
+- スキルレベル+8
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 8レベルシュモナ級マエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 600
+- Power 200
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 VIII
+
+&#x3C;Basic Information&#x3E;
+- O.P [110]~[124] (1.80Second)
+- Shooting range 100
+- 대미지 +180％
+- 마법 공격력을 30％ 강화 시킨다.
+- 공격 속도 +30％
+- 치명타 발동 확률 +8％
+- 스킬 레벨 +8
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 8 레벨 쉬모나급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 600
+- Power 200
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-70" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2095.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーVIII[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[110]〜[124]（1.80Second）
+- Shooting range100
+- ダメージ+180％
+- 魔法攻撃力を30％強化させる。
+- 攻撃速度+30％
+- クリティカル発動確率+8％
+- スキルレベル+8
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-110
+- ダメージ+50％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 8レベルシュモナ級マエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 600
+- Power 200
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 VIII[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [110]~[124] (1.80Second)
+- Shooting range 100
+- 대미지 +180％
+- 마법 공격력을 30％ 강화 시킨다.
+- 공격 속도 +30％
+- 치명타 발동 확률 +8％
+- 스킬 레벨 +8
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -110
+- 대미지 +50％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 8 레벨 쉬모나급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 600
+- Power 200
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-71" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2096.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーIX
+
+&#x3C;Basic Information&#x3E;
+- O.P[115]〜[129]（1.80Second）
+- Shooting range100
+- ダメージ+200％
+- 魔法攻撃力を30％強化させる。
+- 攻撃速度+30％
+- クリティカル発動確率+8％
+- スキルレベル+8
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 9レベルテイシャグプマエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 600
+- Power 200
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 IX
+
+&#x3C;Basic Information&#x3E;
+- O.P [115]~[129] (1.80Second)
+- Shooting range 100
+- 대미지 +200％
+- 마법 공격력을 30％ 강화 시킨다.
+- 공격 속도 +30％
+- 치명타 발동 확률 +8％
+- 스킬 레벨 +8
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 9 레벨 테이샤급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 600
+- Power 200
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-72" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2096.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリーIX[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[115]〜[129]（1.80Second）
+- Shooting range100
+- ダメージ+200％
+- 魔法攻撃力を30％強化させる。
+- 攻撃速度+30％
+- クリティカル発動確率+8％
+- スキルレベル+8
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-110
+- ダメージ+50％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 9レベルテイシャグプマエストロの技術で稲リョネンエターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 600
+- Power 200
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 IX[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [115]~[129] (1.80Second)
+- Shooting range 100
+- 대미지 +200％
+- 마법 공격력을 30％ 강화 시킨다.
+- 공격 속도 +30％
+- 치명타 발동 확률 +8％
+- 스킬 레벨 +8
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -110
+- 대미지 +50％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 9 레벨 테이샤급 마에스트로의 기술로 벼려낸 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 600
+- Power 200
+- Knowledge 200
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-73" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2097.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリー'オウェイクニン'
+
+&#x3C;Basic Information&#x3E;
+- O.P[125]〜[146]（1.80Second）
+- Shooting range100
+- ダメージ+250％
+- 魔法攻撃力を45％強化させる。
+- 攻撃速度+35％
+- クリティカル発動確率+15％
+- スキルレベル+9
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 10レベルエセル級マエストロの技術で稲リョネン最終型エターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 700
+- Power 300
+- Knowledge 300
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 '어웨이크닝'
+
+&#x3C;Basic Information&#x3E;
+- O.P [125]~[146] (1.80Second)
+- Shooting range 100
+- 대미지 +250％
+- 마법 공격력을 45％ 강화 시킨다.
+- 공격 속도 +35％
+- 치명타 발동 확률 +15％
+- 스킬 레벨 +9
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 10 레벨 에세르급 마에스트로의 기술로 벼려낸 최종형 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 700
+- Power 300
+- Knowledge 300
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-74" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2097.png"/></div>
+					<div class="jp">
+						<pre>
+エターナルフューリー'オウェイクニン'[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P[125]〜[146]（1.80Second）
+- Shooting range100
+- ダメージ+250％
+- 魔法攻撃力を45％強化させる。
+- 攻撃速度+35％
+- クリティカル発動確率+15％
+- スキルレベル+9
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-130
+- ダメージ+50％
+- 最終的なダメージ+10％
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 古代タンティルリス最高のウェポンマエストロたちが一台集まって神秘のアンビル組織を結成し、神秘の金敷で生産し出した究極の進化形の武器を称して 'エターナルウェポンジュ"と呼んだ。ウェポンマエストロダンテスがデザインした双剣で「失われた性質を取り戻す苦行」をイメージしました。 - 10レベルエセル級マエストロの技術で稲リョネン最終型エターナルフューリー。
+
+&#x3C;Required Ability&#x3E;
+- Level 700
+- Power 300
+- Knowledge 300
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+이터널 퓨리 '어웨이크닝'[Nx]
+
+&#x3C;Basic Information&#x3E;
+- O.P [125]~[146] (1.80Second)
+- Shooting range 100
+- 대미지 +250％
+- 마법 공격력을 45％ 강화 시킨다.
+- 공격 속도 +35％
+- 치명타 발동 확률 +15％
+- 스킬 레벨 +9
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -130
+- 대미지 +50％
+- 최종대미지 +10％
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 고대 탄틸리스 최고의 웨폰 마에스트로들이 한대 모여 신비의 모루 조직을 결성, 신비의 모루에서 생산해낸 궁극의 진화형 무기들을 일컬어 '이터널 웨폰즈'라고 불렀다.웨폰 마에스트로 당테스가 디자인한 쌍검으로 '잃어버린 본질을 되찾는 고행'을 형상화 했다.- 10 레벨 에세르급 마에스트로의 기술로 벼려낸 최종형 이터널 퓨리.
+
+&#x3C;Required Ability&#x3E;
+- Level 700
+- Power 300
+- Knowledge 300
+
+&#x3C;Put on/Job Available&#x3E;
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-75" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2099.png"/></div>
+					<div class="jp">
+						<pre>
+赤血の耳
+
+&#x3C;Basic Information&#x3E;
+- Mini-pet Food Type Energy type
+- 防御力+[＃0:11〜14]
+- クリティカル+[＃1:1〜3]％
+- 防御力+75％
+- 力+50
+- 知識+50
+- 攻撃速度+17％
+
+&#x3C;Instruction&#x3E;
+- 血に染まった赤い鬼は今日も戦場を駆け巡る。鬼の量手につかれたシャープな黒の敵の首を切って、恐怖に震える敵に落ちる残酷な魔法も、仲間の士気さえ落とす。しかし、鬼は止まらない。自分を怒らせた人々をことごとく取り除いてしまわない限り、鬼は戦場の地縛霊になっても切って、またベルから。
+
+&#x3C;Required Ability&#x3E;
+- Level 117
+
+&#x3C;Put on/Job Available&#x3E;
+- Opticalist
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+적혈귀
+
+&#x3C;Basic Information&#x3E;
+- Mini-pet Food Type Energy type
+- 방어력 +[#0:11~14]
+- 크리티컬 +[#1:1~3]％
+- 방어력 +75％
+- 힘 +50
+- 지식 +50
+- 공격 속도 +17％
+
+&#x3C;Instruction&#x3E;
+- 피에 물든 붉은 귀신은 오늘도 전장을 누빈다. 귀신의 양 손에 들린 날카로운 검은 적의 목을 베고, 두려움에 떠는 적에게 떨어지는 잔혹한 마법은 심지어 동료들의 사기마저 떨어뜨린다. 그러나 귀신은 멈추지 않는다. 자신을 분노케 한 이들을 모조리 없애버리지 않는 이상, 귀신은 전장의 지박령이 되어서라도 베고, 또 벨테니까.
+
+&#x3C;Required Ability&#x3E;
+- Level 117
+
+&#x3C;Put on/Job Available&#x3E;
+- Opticalist
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-76" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2099.png"/></div>
+					<div class="jp">
+						<pre>
+赤血の耳[Nx]
+
+&#x3C;Basic Information&#x3E;
+- Mini-pet Food Type Energy type
+- 防御力+[＃0:11〜14]
+- クリティカル+[＃1:1〜3]％
+- 防御力+75％
+- 力+100
+- 知識+100
+- 攻撃速度+25％
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-60
+- 防御力+60％
+- 防御力+24
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 血に染まった赤い鬼は今日も戦場を駆け巡る。鬼の量手につかれたシャープな黒の敵の首を切って、恐怖に震える敵に落ちる残酷な魔法も、仲間の士気さえ落とす。しかし、鬼は止まらない。自分を怒らせた人々をことごとく取り除いてしまわない限り、鬼は戦場の地縛霊になっても切って、またベルから。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 240
+
+&#x3C;Put on/Job Available&#x3E;
+- Opticalist
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+적혈귀[Nx]
+
+&#x3C;Basic Information&#x3E;
+- Mini-pet Food Type Energy type
+- 방어력 +[#0:11~14]
+- 크리티컬 +[#1:1~3]％
+- 방어력 +75％
+- 힘 +100
+- 지식 +100
+- 공격 속도 +25％
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -60
+- 방어력 +60％
+- 방어력 +24
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 피에 물든 붉은 귀신은 오늘도 전장을 누빈다. 귀신의 양 손에 들린 날카로운 검은 적의 목을 베고, 두려움에 떠는 적에게 떨어지는 잔혹한 마법은 심지어 동료들의 사기마저 떨어뜨린다. 그러나 귀신은 멈추지 않는다. 자신을 분노케 한 이들을 모조리 없애버리지 않는 이상, 귀신은 전장의 지박령이 되어서라도 베고, 또 벨테니까.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 240
+
+&#x3C;Put on/Job Available&#x3E;
+- Opticalist
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-77" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2100.png"/></div>
+					<div class="jp">
+						<pre>
+ブラックレーベルユニコーン
+
+&#x3C;Basic Information&#x3E;
+- Mini-pet Food Type Energy type
+- 防御力+[＃0:12〜20]
+- クリティカル+[＃1:3〜10]％
+- クリティカル発動確率+10％
+- 防御力+130％
+- 健康+1/レベル2
+- スキルレベル+2
+
+&#x3C;Instruction&#x3E;
+- 一般的にユニコーンは純白だと思いますが、ブラックユニコーンも存在する。このブラックユニコーンは大事なものを失ったとき、その悲しみと怒りを我慢できずに自ら闇に侵食された黒神おしゃべり。これらの真菌純白のユニコーン日当時の慈愛さと暖かさを期待してはいけない。いつその鋭い黒い角アナタの心を打ち抜くこともあるから。
+
+&#x3C;Required Ability&#x3E;
+- Level 392
+
+&#x3C;Put on/Job Available&#x3E;
+- Opticalist
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+블랙 라벨 유니콘
+
+&#x3C;Basic Information&#x3E;
+- Mini-pet Food Type Energy type
+- 방어력 +[#0:12~20]
+- 크리티컬 +[#1:3~10]％
+- 치명타 발동 확률 +10％
+- 방어력 +130％
+- 건강 +1/레벨 2
+- 스킬 레벨 +2
+
+&#x3C;Instruction&#x3E;
+- 흔히 유니콘은 순백색이라고 생각하지만, 블랙 유니콘도 존재한다. 이 블랙 유니콘은 소중한 것을 잃었을 때 그 슬픔과 분노를 참지 못하고 스스로 어둠에 잠식된 흑신수다. 이들에게선 순백의 유니콘일 당시의 자애로움과 포근함을 기대해선 안된다. 언제고 그 날카로운 검은 뿔로 그대의 심장을 꿰뚫을 수도 있으니까.
+
+&#x3C;Required Ability&#x3E;
+- Level 392
+
+&#x3C;Put on/Job Available&#x3E;
+- Opticalist
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				<hr/>
+				<div id="index-78" class="item">
+					<div class="icon"><img src="./Image/BeastMan/2100.png"/></div>
+					<div class="jp">
+						<pre>
+ブラックレーベルユニコーン[Nx]
+
+&#x3C;Basic Information&#x3E;
+- Mini-pet Food Type Energy type
+- 防御力+[＃0:12〜20]
+- クリティカル+[＃1:3〜10]％
+- クリティカル発動確率+15％
+- 防御力+130％
+- 健康+1/レベル2
+- スキルレベル+3
+
+&#x3C;Enhanced Information&#x3E;
+- アイテム着用レベル-60
+- 防御力+95％
+- 防御力+37
+- ダブルクリティカルダメージ10％増加
+
+&#x3C;Instruction&#x3E;
+- 一般的にユニコーンは純白だと思いますが、ブラックユニコーンも存在する。このブラックユニコーンは大事なものを失ったとき、その悲しみと怒りを我慢できずに自ら闇に侵食された黒神おしゃべり。これらの真菌純白のユニコーン日当時の慈愛さと暖かさを期待してはいけない。いつその鋭い黒い角アナタの心を打ち抜くこともあるから。※封印された力を開放するためにポータブル開放ツールする必要があります。
+
+&#x3C;Required Ability&#x3E;
+- Level 392
+
+&#x3C;Put on/Job Available&#x3E;
+- Opticalist
+- BeastMan
+						</pre>
+					</div>
+					<button>ソースを開く</button>
+					<div class="kr" style="display: none;">
+						<hr/>
+						<pre>
+블랙 라벨 유니콘[Nx]
+
+&#x3C;Basic Information&#x3E;
+- Mini-pet Food Type Energy type
+- 방어력 +[#0:12~20]
+- 크리티컬 +[#1:3~10]％
+- 치명타 발동 확률 +15％
+- 방어력 +130％
+- 건강 +1/레벨 2
+- 스킬 레벨 +3
+
+&#x3C;Enhanced Information&#x3E;
+- 아이템 착용 레벨 -60
+- 방어력 +95％
+- 방어력 +37
+- 더블 크리티컬 대미지 10％ 증가
+
+&#x3C;Instruction&#x3E;
+- 흔히 유니콘은 순백색이라고 생각하지만, 블랙 유니콘도 존재한다. 이 블랙 유니콘은 소중한 것을 잃었을 때 그 슬픔과 분노를 참지 못하고 스스로 어둠에 잠식된 흑신수다. 이들에게선 순백의 유니콘일 당시의 자애로움과 포근함을 기대해선 안된다. 언제고 그 날카로운 검은 뿔로 그대의 심장을 꿰뚫을 수도 있으니까.※ 봉인된 힘을 개방하기 위해서 휴대용 개방 도구함 이 필요합니다.
+
+&#x3C;Required Ability&#x3E;
+- Level 392
+
+&#x3C;Put on/Job Available&#x3E;
+- Opticalist
+- BeastMan
+						</pre>
+					</div>
+				</div>
+				</div>
+			</div>
+			<br />
+			<p class="pagetop">
+				<a href="http://yotsubadiary3.blog.fc2.com/" title="Homeへ">Home</a>
+			</p>			
+			<br />
+		</div>	
+		<div id="footer">
+			<br />
+			<br />
+		</div>	
+	</div>
+</body>
+<script>
+<!--
+(function () { 
+    var obj = $('.item');
+    obj.each(function(){
+        $(this).find("button").bind("click", function(){
+            var parent = this.parentNode;
+            if($(parent).find(".kr").css("display") == "none"){
+                $(parent).find(".kr").css("display", "");
+　　　　　　　　$(this).text("ソースを閉じる");
+            } else{
+                $(parent).find(".kr").css("display", "none");
+　　　　　　　　$(this).text("ソースを開く");
+            }          
+        });
+    });
+})()
+-->
+</script>
+</html>
