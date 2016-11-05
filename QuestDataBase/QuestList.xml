@@ -30052,7 +30052,7 @@ _codeEND
 <text>風の神獣 &lt;font color=&quot;#D080F8&quot;&gt;ベントゥス&lt;/font&gt;を退治し、風の元素の結晶体である&lt;font color=&quot;#E8C898&quot;&gt;風の加護&lt;/font&gt;を手に入れた。ラカリフサの&lt;font color=&quot;#00B800&quot;&gt;オグレン&lt;/font&gt;に渡そう。</text>
 </Section2>
 <Section3>
-<field>- タトバ山
+<field>- バヘル大河 / 東バヘル川上流
 </field>
 <item>- 水の波動 1個&lt;br /&gt;- 大地の響き 1個</item>
 <monster>- ウルネ&lt;br /&gt;- テライア</monster>
@@ -63666,6 +63666,718 @@ _codeENd
 <text>冒険家から毎日殴られるだけの練習用かかしたちが動いた。&lt;font color=&quot;#00B800&quot;&gt;かかしの長&lt;/font&gt;はEMたちの実態を明かすため、イベントダンジョンでEMモンスターを退治し、彼らの話を収集してほしいと言っている。
 
 &lt;font color=&quot;#E8C898&quot;&gt;EMのコメント集【2】&lt;/font&gt;の完成率を30パーセント以上にしてみよう。</text>
+</Section1>
+<Section2>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section2>
+<Section3>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section3>
+<Section4>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-803">
+<Title>不安定な自我</Title>
+<QuestCategory>1</QuestCategory>
+<ClientNPCMap>古都ブルンネンシュティグ
+</ClientNPCMap>
+<ClientNPC>エイドン</ClientNPC>
+<AcceptLV>50 ~ 0</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field>- オート地下監獄　Ｂ３
+</field>
+<item>- 光が消えた火の精粋 10個</item>
+<monster>- ブレイジャー</monster>
+<npc></npc>
+<value></value>
+<text> 東プラトン街道 / イースタンブリッジ付近にあるオート地下監獄B3の &lt;font color=&quot;#D080F8&quot;&gt;ブレイジャー&lt;/font&gt;を退治し、&lt;font color=&quot;#E8C898&quot;&gt;光が消えた火の精粋&lt;/font&gt; 10個を獲得しよう。</text>
+</Section1>
+<Section2>
+<field>- 古都ブルンネンシュティグ
+</field>
+<item>- 光が消えた火の精粋 10個</item>
+<monster></monster>
+<npc>- エイドン</npc>
+<value></value>
+<text>  &lt;font color=&quot;#E8C898&quot;&gt;光が消えた火の精粋&lt;/font&gt;を全て獲得した。古都ブルンネンシュティグの &lt;font color=&quot;#00B800&quot;&gt;エイドン&lt;/font&gt;のところに戻ろう。</text>
+</Section2>
+<Section3>
+<field>- アルパス地下監獄　Ｂ１
+</field>
+<item></item>
+<monster>- ディムジェスター</monster>
+<npc></npc>
+<value>- 退治したディムジェスター%d/5 匹</value>
+<text> 東プラトン街道 / イースタンブリッジ付近にあるアルパス地下監獄B1の &lt;font color=&quot;#D080F8&quot;&gt;ディムジェスター&lt;/font&gt; 5匹を倒そう。</text>
+</Section3>
+<Section4>
+<field>- 古都ブルンネンシュティグ
+</field>
+<item></item>
+<monster></monster>
+<npc>- エイドン</npc>
+<value></value>
+<text>  &lt;font color=&quot;#D080F8&quot;&gt;ディムジェスター&lt;/font&gt;を退治した。古都ブルンネンシュティグの&lt;font color=&quot;#00B800&quot;&gt;エイドン&lt;/font&gt;のところに戻ろう。</text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-804">
+<Title>ブラックファイヤー外郭討伐</Title>
+<QuestCategory>5</QuestCategory>
+<ClientNPCMap>冒険家協会ブルンネンシュティグ本部
+</ClientNPCMap>
+<ClientNPC>クロロ</ClientNPC>
+<AcceptLV>900 ~ 999</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field>- ブラックファイヤー外郭
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>ブラックファイヤー外郭でモンスターたちが暴れているという。ブラックファイヤー外郭のモンスターたちを討伐しよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section1>
+<Section2>
+<field>- 冒険家協会ブルンネンシュティグ本部
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>モンスターの討伐を終えた。冒険家協会ブルンネンシュティグ本部の &lt;font color=&quot;#00B800&quot;&gt;クロロ&lt;/font&gt;を訪ねよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section2>
+<Section3>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section3>
+<Section4>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-805">
+<Title>ブラックファイヤー隠されたダンジョン討伐</Title>
+<QuestCategory>5</QuestCategory>
+<ClientNPCMap>冒険家協会ブルンネンシュティグ本部
+</ClientNPCMap>
+<ClientNPC>クロロ</ClientNPC>
+<AcceptLV>900 ~ 999</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field>- ブラックファイヤー隠されたダンジョン
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>ブラックファイヤー隠されたダンジョンでモンスターたちが暴れているという。ブラックファイヤー隠されたダンジョンのモンスターたちを討伐しよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section1>
+<Section2>
+<field>- 冒険家協会ブルンネンシュティグ本部
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>モンスターの討伐を終えた。冒険家協会ブルンネンシュティグ本部の &lt;font color=&quot;#00B800&quot;&gt;クロロ&lt;/font&gt;を訪ねよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section2>
+<Section3>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section3>
+<Section4>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-806">
+<Title>ブラックファイヤー中心地討伐</Title>
+<QuestCategory>5</QuestCategory>
+<ClientNPCMap>冒険家協会ブルンネンシュティグ本部
+</ClientNPCMap>
+<ClientNPC>クロロ</ClientNPC>
+<AcceptLV>900 ~ 999</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field>- ブラックファイヤー中心地
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>ブラックファイヤー中心地でモンスターたちが暴れているという。ブラックファイヤー中心地のモンスターたちを討伐しよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section1>
+<Section2>
+<field>- 冒険家協会ブルンネンシュティグ本部
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>モンスターの討伐を終えた。冒険家協会ブルンネンシュティグ本部の &lt;font color=&quot;#00B800&quot;&gt;クロロ&lt;/font&gt;を訪ねよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section2>
+<Section3>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section3>
+<Section4>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-807">
+<Title>深淵の地底湖外郭討伐</Title>
+<QuestCategory>5</QuestCategory>
+<ClientNPCMap>冒険家協会ブルンネンシュティグ本部
+</ClientNPCMap>
+<ClientNPC>クロロ</ClientNPC>
+<AcceptLV>900 ~ 999</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field>- 深淵の地底湖外郭
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>深淵の地底湖外郭でモンスターたちが暴れているという。深淵の地底湖外郭のモンスターたちを討伐しよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section1>
+<Section2>
+<field>- 冒険家協会ブルンネンシュティグ本部
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>モンスターの討伐を終えた。冒険家協会ブルンネンシュティグ本部の &lt;font color=&quot;#00B800&quot;&gt;クロロ&lt;/font&gt;を訪ねよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section2>
+<Section3>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section3>
+<Section4>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-808">
+<Title>古代悪魔研究所討伐</Title>
+<QuestCategory>5</QuestCategory>
+<ClientNPCMap>冒険家協会ブルンネンシュティグ本部
+</ClientNPCMap>
+<ClientNPC>クロロ</ClientNPC>
+<AcceptLV>900 ~ 999</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field>- 古代悪魔研究所
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>古代悪魔研究所でモンスターたちが暴れているという。古代悪魔研究所のモンスターたちを討伐しよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section1>
+<Section2>
+<field>- 冒険家協会ブルンネンシュティグ本部
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>モンスターの討伐を終えた。冒険家協会ブルンネンシュティグ本部の &lt;font color=&quot;#00B800&quot;&gt;クロロ&lt;/font&gt;を訪ねよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section2>
+<Section3>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section3>
+<Section4>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-809">
+<Title>ブラックファイヤー洞窟討伐</Title>
+<QuestCategory>5</QuestCategory>
+<ClientNPCMap>冒険家協会ブルンネンシュティグ本部
+</ClientNPCMap>
+<ClientNPC>クロロ</ClientNPC>
+<AcceptLV>900 ~ 999</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field>- ブラックファイヤー洞窟
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>ブラックファイヤー洞窟でモンスターたちが暴れているという。ブラックファイヤー洞窟のモンスターたちを討伐しよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section1>
+<Section2>
+<field>- 冒険家協会ブルンネンシュティグ本部
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>モンスターの討伐を終えた。冒険家協会ブルンネンシュティグ本部の &lt;font color=&quot;#00B800&quot;&gt;クロロ&lt;/font&gt;を訪ねよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section2>
+<Section3>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section3>
+<Section4>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-810">
+<Title>荒野の要塞討伐</Title>
+<QuestCategory>5</QuestCategory>
+<ClientNPCMap>冒険家協会ブルンネンシュティグ本部
+</ClientNPCMap>
+<ClientNPC>クロロ</ClientNPC>
+<AcceptLV>900 ~ 999</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field>- 荒野の要塞
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>荒野の要塞でモンスターたちが暴れているという。荒野の要塞のモンスターたちを討伐しよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section1>
+<Section2>
+<field>- 冒険家協会ブルンネンシュティグ本部
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>モンスターの討伐を終えた。冒険家協会ブルンネンシュティグ本部の &lt;font color=&quot;#00B800&quot;&gt;クロロ&lt;/font&gt;を訪ねよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section2>
+<Section3>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section3>
+<Section4>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-811">
+<Title>荒野の要塞入口討伐</Title>
+<QuestCategory>5</QuestCategory>
+<ClientNPCMap>冒険家協会ブルンネンシュティグ本部
+</ClientNPCMap>
+<ClientNPC>クロロ</ClientNPC>
+<AcceptLV>900 ~ 999</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field>- 荒野の要塞入口
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>荒野の要塞入口でモンスターたちが暴れているという。荒野の要塞入口のモンスターたちを討伐しよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section1>
+<Section2>
+<field>- 冒険家協会ブルンネンシュティグ本部
+</field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text>モンスターの討伐を終えた。冒険家協会ブルンネンシュティグ本部の &lt;font color=&quot;#00B800&quot;&gt;クロロ&lt;/font&gt;を訪ねよう。
+
+&lt;font color=&quot;#F80000&quot;&gt;※ 該当クエストは、一度キャンセルすると当日再受託できません。&lt;/font&gt;</text>
+</Section2>
+<Section3>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section3>
+<Section4>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-812">
+<Title>ブラックファイヤー制御クエスト</Title>
+<QuestCategory>5</QuestCategory>
+<ClientNPCMap>冒険家協会ブルンネンシュティグ本部
+</ClientNPCMap>
+<ClientNPC></ClientNPC>
+<AcceptLV>0 ~ 0</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section1>
+<Section2>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section2>
+<Section3>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section3>
+<Section4>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section4>
+<Section5>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section5>
+<Section6>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
+</Section6>
+</QuestSection>
+</Quest>
+<Quest id="b-813">
+<Title>指輪スロットチェック用クエスト</Title>
+<QuestCategory>0</QuestCategory>
+<ClientNPCMap>冒険家協会ブルンネンシュティグ本部
+</ClientNPCMap>
+<ClientNPC>クロロ</ClientNPC>
+<AcceptLV>900 ~ 999</AcceptLV>
+<AcceptPeriod></AcceptPeriod>
+<NPC></NPC>
+<QuestSection>
+<Section1>
+<field></field>
+<item></item>
+<monster></monster>
+<npc></npc>
+<value></value>
+<text></text>
 </Section1>
 <Section2>
 <field></field>
