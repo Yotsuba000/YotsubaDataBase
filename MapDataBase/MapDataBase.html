@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+
+<!-- jQuery -->
+<script src="../jQuery/jquery-1.8.2.min.js"></script>
+<!-- css -->
+<link href="./css/layout.css" rel="stylesheet" />
+<!-- script -->
+<script type='text/javascript' src="./js/CreateMapData.js"></script>
+
+<title>
+四つ葉日記 -MapDataBase-
+</title>
+</head>
+<body>
+    <div id="mainBody" class="mainContainer">
+        <div class="ContainerTitle">
+            <h1>マップ情報</h1>
+        </div>
+        <div class="mainContents">
+        <div class="ContentsHeader"><a href="./MapDataBaseIndex.html" title="TopPageへ戻る">Home</a></div>
+            <table id="statusTable">
+                <tr>
+                    <td>
+                        <div class="mainTitle">
+                            <h1>■<span id="mapName"></span><span id="fileName"></span></h1>
+                        </div>
+                    </td>
+                    <td rowspan="2">
+                        <div class="fieldStatus">
+                            <span>Mapステータス</span>
+                            <div id="status" >
+                                <span id="ImapCreator" class="CmapCreator" title=""><span id="ImapCreatorValue"></span></span>
+                                <span id="IPvPMap" class="CPvPMap" title=""></span>
+                                <span id="IPremiumMap" class="CPremiumMap" title=""></span>
+                                <span id="ILocationStrage" class="CLocationStrage" title=""></span>
+                            </div>
+                        </div>
+                    </td>
+                    <td rowspan="2">
+                        <div class="fieldStatus">
+                            <span>フィールド属性低下情報</span>
+                            <table class="Dt01">
+                                <tr>
+                                    <th>火</th>
+                                    <th>水</th>
+                                    <th>風</th>
+                                    <th>土</th>
+                                    <th>光</th>
+                                    <th>闇</th>
+                                </tr>
+                                <tr>
+                                    <td id="pReg1">0</td>
+                                    <td id="pReg2">0</td>
+                                    <td id="pReg3">0</td>
+                                    <td id="pReg4">0</td>
+                                    <td id="pReg5">0</td>
+                                    <td id="pReg6">0</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="interface">
+                            <button id="bZoomUp" class="zoomUp" title="拡大"></button>
+                            <button id="bZoomOut" class="zoomOut" title="縮小"></button>
+                            <button id="bReset" class="reset" title="リセット"></button>
+                            <button id="bChangeImage" class="changeImage" title="画像変更"></button>
+                            <span><label><input id="cImageChecked" type="checkbox" value="" /><span class="cText">画像を重ねて表示</span></label></span>
+                            <span><label><input id="cMultiSelect" type="checkbox" value="" /><span class="cText">NPC多重選択</span></label></span>
+                            <span><label><input id="cDetails" type="checkbox" value="" /><span class="cText">詳細情報</span></label></span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <div id="viewArea" class="ViewArea">
+                <div id="MapImage"></div>
+                <div id="Character"></div>
+                <div id="Area"></div>
+            </div>
+            <div id="TableArea">
+                <div id="CTable" class="CharacterTable"></div>
+                <div id="ATable" class="AreaTable"></div>
+                <div id="DTable" class="DetailsTable"></div>
+            </div>
+            <div class="ContentsFooter"><a href="./MapDataBaseIndex.html" title="TopPageへ戻る">Home</a></div>
+        </div>
+    </div>
+</body>
+</html>

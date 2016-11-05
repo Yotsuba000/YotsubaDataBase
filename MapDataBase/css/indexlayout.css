@@ -1,0 +1,257 @@
+﻿@charset "utf-8";
+
+
+table#t-01 {
+	width: 690px;
+	table-layout: fixed;	
+    margin-left: auto;
+	margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+    table#t-01 th {
+        color: rgba(255, 255, 255, 0.3);
+	    background-color: #501010;
+	    /*background-color: #9c4728;*/
+    }
+    table#t-01 td {      
+	    background-color: #fae0e7;
+		position: relative;
+    }
+
+#hWorldMap, #hMapList, #hSearch, #hHelp {
+    cursor: pointer;
+}
+	#hWorldMap:hover, #hMapList:hover, #hSearch:hover, #hHelp:hover {
+		opacity: 0.9;
+	}
+	#hWorldMap.Selected, #hMapList.Selected, #hSearch.Selected, #hHelp.Selected {
+        color: rgba(255, 255, 255, 1.0);
+		background-color: #ff0000;
+	}
+
+
+#WorldMap {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+#WorldMapImage {
+	opacity: 0.8;
+}
+
+#WorldMap #tileAll .tileWrapper{
+    border: solid 1px #005500;
+	position: absolute;
+}
+	#WorldMap #tileAll .tileWrapper .tile{
+		background-color: #ff0000;
+		opacity: 0.5;
+	}
+		#WorldMap #tileAll .tileWrapper .tile:hover{
+			background-color: #ff0000;
+			opacity: 0.7;
+		}
+
+	#WorldMap #tileAll .tileWrapper .tile.Town{
+		background-color: #0000ff;
+	}
+
+#WorldMap #expansion {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#WorldMap #expansion table td{
+    vertical-align: top;
+}
+
+	#WorldMap #expansion .mapList {
+		margin-left: 1.0em;
+		line-height: 1.1em;
+	}
+        #WorldMap .mapList a:link {
+            color: #4000b2;
+            text-decoration: none;
+        }
+		#WorldMap .mapList a:visited {
+            color: #a52a2a;
+		}
+            #WorldMap .mapList a:link:hover, #WorldMap .mapList a:visited:hover {
+                text-decoration: underline;
+            }
+
+
+.tooltip {
+	text-align: left;
+    position: absolute;
+    opacity: 1.0;
+    cursor:default;
+	z-index: 1000;
+}
+	.tooltip .body{
+		min-height: 1.5em;
+        font-size: 11px;
+	    color: #000000;
+		padding: 10px;
+	    border: 2px outset #0000ff;
+	    border-radius: 4px; 
+	    -moz-border-radius: 4px;
+	    -webkit-border-radius: 4px;
+	    -o-border-radius: 4px;
+		white-space: nowrap;
+        background: #ebf1f6;
+        background: -moz-linear-gradient(top, #ebf1f6 0%, #abd3ee 58%, #89c3eb 93%, #d5ebfb 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ebf1f6), color-stop(58%,#abd3ee), color-stop(93%,#89c3eb), color-stop(100%,#d5ebfb));
+        background: -webkit-linear-gradient(top, #ebf1f6 0%,#abd3ee 58%,#89c3eb 93%,#d5ebfb 100%);
+        background: -o-linear-gradient(top, #ebf1f6 0%,#abd3ee 58%,#89c3eb 93%,#d5ebfb 100%);
+        background: -ms-linear-gradient(top, #ebf1f6 0%,#abd3ee 58%,#89c3eb 93%,#d5ebfb 100%);
+	    position: relative;
+	}
+	.tooltip .body h1{
+		font-size: 12px;
+        font-weight: bold;
+		margin-top: 2px;
+		margin-bottom: 2px;
+	}
+	.tooltip .body h2{
+		font-size: 11px;
+        font-weight: bold;
+        margin-left: 1em;
+        margin-top: 5px;
+        margin-bottom: 2px;
+	}
+	.tooltip .body div{
+        margin-left: 1.0em;
+	}
+        .tooltip .body a:link, .tooltip .body a:visited{
+            color: #4000b2;
+            text-decoration: none;
+        }
+            .tooltip .body a:link:hover, .tooltip .body a:visited:hover {
+                text-decoration: underline;
+            }
+
+    .tooltip .tail {
+        border-top: solid 5px transparent;
+        border-bottom: solid 5px transparent;
+        border-left: 0;
+        border-right: solid 10px #ebf1f6;
+        /*border-right: solid 10px #f3961c;*/
+        width: 0;  
+        height: 0;
+        left: -8px;
+        position: absolute;
+        z-index: 1001;
+    }
+
+
+#MapList {
+	position: relative;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: left;
+}
+	#MapList h1 {
+		font-size: 14px;
+		margin-left: 10px;
+        font-weight: bold;
+	}
+	#MapList .mapList {
+		margin-left: 1.8em;
+		line-height: 1.1em;
+	}
+        #MapList .mapList a:link {
+            color: #4000b2;
+            text-decoration: none;
+        }
+		#MapList .mapList a:visited {
+            color: #a52a2a;
+		}
+            #MapList .mapList a:link:hover, #MapList .mapList a:visited:hover {
+                text-decoration: underline;
+            }
+
+#Search {
+	min-height: 550px;
+	position: relative;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: left;
+}
+	#Search h1 {
+		font-size: 14px;
+		margin-left: 10px;
+        font-weight: bold;
+	}
+	#Search h2 {
+		font-size: 12px;
+    	margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+	}
+	#Search .mapList {
+		margin-left: 1.8em;
+		line-height: 1.1em;
+	}
+        #Search .mapList a:link {
+            color: #4000b2;
+            text-decoration: none;
+        }
+		#Search .mapList a:visited {
+            color: #a52a2a;
+		}
+            #Search .mapList a:link:hover, #Search .mapList a:visited:hover {
+                text-decoration: underline;
+            }
+
+#Help {
+	min-height: 550px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	position: relative;
+}
+	#Help h1 {
+		font-size: 14px;
+		margin-left: 10px;
+	    text-align: left;
+        font-weight: bold;
+	}
+	#Help h2 {
+		font-size: 12px;
+    	margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+	}
+
+    #Help .helpImage {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+        #Help .helpImage img {
+	        text-align: center;
+        }
+
+	#Help .description {
+        font-size: 10px;
+		margin-left: 1.8em;
+		line-height: 1.1em;
+        text-align: left;
+	}
+        #Help .description dt {   
+            font-size: 11px;
+            line-height: 1.1em;
+            margin-top: 5px;
+            margin-bottom: 1px;
+            color: #000000;
+            font-weight: bold;
+        }
+
+        #Help .description .AreaObjectAll {
+            background-color:#000000;
+        }

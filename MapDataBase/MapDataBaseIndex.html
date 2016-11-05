@@ -1,0 +1,201 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+
+<!-- jQuery -->
+<script src="../jQuery/jquery-1.8.2.min.js"></script>
+
+<link href="./css/indexlayout.css" rel="stylesheet" />
+<link href="../MainCSS/FreePage.css" rel="stylesheet" />
+
+<script type='text/javascript' src="./js/CreateMapDataIndex.js"></script>
+<title>四つ葉日記 -MapDataBase-</title>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="header">
+  			<div id="title">
+  				<h1>マップデータベース</h1>
+  			</div>
+  			<div id="introduction">
+  				<p></p>
+  			</div>
+		</div>
+		<div id="main">
+			<br />
+			<p class="pagetop">
+                <a href="http://www.rays-counter.com/"><img src="http://www.rays-counter.com/d189_f6_046/50a60a1134705/" alt="アクセスカウンター" border="0"></a>
+			</p>
+			<p class="pagetop">
+				<a href="http://yotsubadiary3.blog.fc2.com/" title="Homeへ">Home</a>
+			</p>
+			<div class="frame">
+				<div class="fhead">はじめに</div>
+				<div class="fbody">■注意<br />
+					<div style="margin-left: 13px; font-size: 80%; color: red;">
+						Copyright c 2012 L&K Logic Korea Co., Ltd. All Rights Reserved. <br /><a href="http://www.redsonline.jp/" target="_blank"><img src="http://image.space.rakuten.co.jp/lg01/93/0000809993/27/imgb503a7a6zik1zj.gif" alt="redfan.gif" align="right" border="0" height="50" width="150" /></a>
+						License to GameOn Co., Ltd. <br />
+						当サイトで利用している画像及びデータは、株式会社ゲームオンに帰属します。 <br />
+						許可無くご利用又は転用になられる事は出来ませんので、予めご了承下さい。 <br />
+					</div>
+				</div>
+				<div class="fbody">■用語説明<br />
+					<div style="margin-left: 13px;">
+                        ヘルプをご覧ください。
+					</div>
+				</div>
+				<div class="fbody">■更新履歴<br />
+					<div style="margin-left: 13px; width: 635px; height: 100px; overflow-y:scroll;">
+						2016/05/29 - DataBaseアップデート  (Ver 0.0654)<br />
+						2016/01/03 - DataBaseアップデート  (Ver 0.0647)<br />
+						2015/12/19 - DataBaseアップデート  (Ver 0.0645)<br />
+						2015/09/23 - DataBaseアップデート  (Ver 0.0644)<br />
+						2015/06/17 - DataBaseアップデート  (Ver 0.0636)<br />
+						2015/04/21 - DataBaseアップデート  (Ver 0.0635)<br />
+						2015/03/24 - DataBaseアップデート  (Ver 0.0634)<br />
+						2015/01/23 - DataBaseアップデート  (Ver 0.0631)<br />
+						2014/09/25 - DataBaseアップデート  (Ver 0.0622)<br />
+						2014/07/14 - DataBaseアップデート  (Ver 0.0617)<br />
+						2014/06/19 - DataBaseアップデート  (Ver 0.0615)<br />
+						2014/03/19 - DataBaseアップデート  (Ver 0.0606)<br />
+						2014/02/21 - DataBaseアップデート  (Ver 0.0603)<br />
+						2013/11/28 - DataBaseアップデート  (Ver 0.0599)<br />
+						2013/07/28 - DataBaseアップデート  (Ver 0.0591)<br />
+						2013/03/13 - DataBaseアップデート  (Ver 0.0586)<br />
+						2013/01/24 - DataBaseアップデート  (Ver 0.0583)<br />
+						2012/11/21 - DataBaseアップデート  (Ver 0.0579)<br />
+						2012/11/17 - 初回作成  (Ver 0.0577)<br />
+					</div>
+				</div>
+			</div>
+			<br />
+			<div class="frame">
+				<div class="fhead">マップ検索</div>
+				<div class="fbody">■ここに検索したいマップ名の全部または一部を入れ、検索ボタンを押してください。</div>
+					<div class="fbody">
+						<div style="margin-left: 10px;">
+							<input id="input-search" type="text" size="40" />
+							<input id="bSearch" type="button" value="検索" />
+						</div>
+				</div>	
+			</div>
+			<br />
+			<div class="frame">
+				<div class="fhead">マップ情報</div>
+				<table id="t-01">
+					<tbody>
+                        <tr>
+                            <th id="hWorldMap">ワールドマップ</th>
+                            <th id="hMapList">マップ一覧</th>
+                            <th id="hSearch">検索結果</th>
+                            <th id="hHelp">ヘルプ</th>
+                        </tr>
+						<tr>
+							<td colspan="4">
+								<div id="WorldMap">
+									<img id="WorldMapImage" src="./images/WorldMap.png" alt="ワールドマップ" />
+									<div id="tileAll"></div>
+                                    <div id="expansion">
+                                        <div class="inner-frame">
+                                            <div class="inner-fhead">その他主要マップ情報</div>
+                                            <table>
+                                                <tr>
+                                                    <td>
+				                                        <div class="inner-fbody">
+                                                            <h1>■ギルド戦関連</h1>
+                                                            <div id="exp01"></div>
+				                                        </div>
+                                                    </td>
+                                                    <td>
+				                                        <div class="inner-fbody">
+                                                            <h1>■古代都市タティリス遺跡</h1>
+                                                            <div id="exp02"></div>
+				                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </div>
+								</div>
+								<div id="MapList">
+									<h1>■マップ一覧</h1>
+								</div>
+								<div id="Search">
+									<h1>■マップ検索</h1>
+									<h2>検索結果はありません</h2>
+								</div>
+								<div id="Help">
+									<h1>■利用方法</h1>
+									<div class="helpImage">
+                                        <img src="./images/help-1.png" alt="Help"/>
+									</div>
+                                    <h1>■説明</h1>
+                                    <div class="description">
+                                        <dl>
+                                            <dt>(1)マップ名</dt>
+                                                <dd>マップ名です。</dd>
+                                            <dt>(2)マップファイル名</dt>
+                                                <dd>マップファイル名です。</dd>
+                                            <dt>(3)マップステータス</dt>
+                                                <dd>各マップの各種設定属性の情報です。画像にカーソルを合わせると詳細が表示されます。</dd>
+                                                <dd>[必要マップ製作者Lv] … ミニマップを表示するために必要なマップ製作者称号のLvを示す。</dd>
+                                                <dd>[PvPフィールド] … 現在のマップが対人戦マップであることを示す。</dd>
+                                                <dd>[プレミアムゾーン] … 現在のマップがプレミアムゾーン(課金エリア)であることを示す。</dd>
+                                                <dd>[場所記憶不可マップ] … 現在のマップが場所記憶不可エリアであることを示す。</dd>
+                                            <dt>(4)マップ別属性低下情報</dt>
+                                                <dd>各マップに設定されているプレイヤーに対する属性低下情報です。</dd>
+                                            <dt>(5)拡大ボタン</dt>
+                                                <dd>押すごとにマップを20%拡大します。 最大倍率は10倍です。</dd>
+                                            <dt>(6)縮小ボタン</dt>
+                                                <dd>押すごとにマップを20%縮小します。 最小倍率は0.1倍です。</dd>
+                                            <dt>(7)リセットボタン</dt>
+                                                <dd>表示エリアのリセットを行います。倍率、表示中のTooltip、選択Objectはリセットされます。</dd>
+                                            <dt>(8)画像変更ボタン</dt>
+                                                <dd>通常画像とSystem画像(2値画像)を表示変更します。</dd>
+                                            <dt>(9)画像二重表示</dt>
+                                                <dd>チェックを入れると2種類の画像を重ねて表示します。2重表示を行っている間は画像変更は動作しません。</dd>
+                                            <dt>(10)NPC多重選択</dt>
+                                                <dd>チェックを入れるとNPC関連情報下が多重選択可能になります。</dd>
+                                            <dt>(11)Viewエリア</dt>
+                                                <dd>各マップの座標情報が表示されます。</dd>
+                                            <dt>(12)詳細ツールチップ</dt>
+                                                <dd>オブジェクト関連情報下に記されたObject情報、又はViewエリア上でAreaObjectをクリックすると詳細ツールチップが表示されます。</dd>
+                                                <dd>※Viewエリア上のワープポータルはクリックで別ページへ移動します。</dd>
+                                            <dt>(13)NPC、モンスター詳細情報ツールチップ</dt>
+                                                <dd>カーソルを合わせるとNPC、モンスターの詳細座標、沸き時間等の情報を表示します。</dd>
+                                            <dt>(14)NPC関連情報一覧</dt>
+                                                <dd>マップ内のNPC、モンスター情報のマップ表示名一覧です。</dd>
+                                                <dd>各テーブルをクリックすると対応するViewエリア上の<span style="color:#ff0000">●</span>がハイライト状態になります。</dd>
+                                            <dt>(15)オブジェクト関連情報一覧</dt>
+                                                <dd>マップ内のAreaObject情報の一覧です。</dd>
+                                                <dd>各テーブルをクリックするとViewエリア上に詳細ツールチップが表示されます。</dd>
+                                            <dt>(16)モンスター関連情報一覧</dt>
+                                                <dd>マップ内のモンスター内部設定情報一覧です。</dd>
+                                                <dd>この項目は現在クライアント情報にデータがなく調査中です。</dd>
+                                            <dt>(17)マップ別モンスター追加属性抵抗</dt>
+                                                <dd>マップ別に設定されているモンスターに付与される追加属性情報です。</dd>
+                                                <dd>モンスターの内部種別の属性抵抗+マップ別追加属性が最終的なモンスターの属性抵抗値になります。</dd>
+                                        </dl>
+                                    </div>
+								</div>
+							</td>
+						</tr>		
+					</tbody>
+				</table>
+			</div>
+			<br />
+			<p class="pagetop">
+				<a href="http://yotsubadiary3.blog.fc2.com/" title="Homeへ">Home</a>
+			</p>			
+			<br />
+		</div>	
+		<div id="footer">
+			<br />
+			<br />
+		</div>	
+	</div>
+</body>
+</html>
