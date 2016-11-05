@@ -1,0 +1,285 @@
+﻿@charset "utf-8";
+
+body {
+    background-color: #000000;
+    font-family:"Osaka",'ＭＳ Ｐゴシック', sans-serif;
+}
+
+a:link, a:visited {
+  	color: #cc6600;
+  	text-decoration: none;
+}
+
+th, td {
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;	
+}
+
+.tiptable {
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+	
+}
+
+.tiptable td {
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.tooltip {
+    overflow: visible;
+    font-size:13px;
+    line-height:1.2;
+    font-family:"Osaka","ＭＳ Ｐゴシック",sans-serif; 
+}
+
+.tooltip table, .tooltip table tr, .tooltip table td{
+    color: #FFFFFF;
+    border-collapse: collapse;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+
+.tooltip .top_left {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_topleft.gif");
+    background-position: 0 0;
+    background-size: auto auto;
+    background-repeat: no-repeat;
+    height: 7px;
+    width: 7px;
+}
+.tooltip .top_right {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_topright.gif");
+    background-position: 0 0;
+    background-size: auto auto;
+    background-repeat: no-repeat;
+    height: 7px;
+    width: 7px;
+}
+.tooltip .bottom_left {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_bottomleft.gif");
+    background-position: 0 0;
+    background-size: auto auto;
+    background-repeat: no-repeat;
+    height: 7px;
+    width: 7px;
+}
+.tooltip .bottom_right {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_bottomright.gif");
+    background-position: 0 0;
+    background-size: auto auto;
+    background-repeat: no-repeat;
+    height: 7px;
+    width: 7px;
+}
+.tooltip .top {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_top.gif");
+    background-position: 0 0;
+    background-size: auto auto;
+    background-repeat: repeat-x;
+    height: 7px;
+}
+.tooltip .bottom {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_bottom.gif");
+    background-position: 0 0;
+    background-size: auto auto;
+    background-repeat: repeat-x;
+    height: 7px;
+}
+.tooltip .left {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_left.gif");
+    background-position: 0 0;
+    background-size: auto auto;
+    background-repeat: repeat-y;
+    width: 7px;
+}
+.tooltip .right {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_right.gif");
+    background-position: 0 0;
+    background-size: auto auto;
+    background-repeat: repeat-y;
+    width: 7px;
+}
+.tooltip .content {
+    background-color: #000000;
+}
+
+
+.addinfo {
+    font-size:13px;
+    line-height:1.2;
+    font-family:"Osaka","ＭＳ Ｐゴシック",sans-serif;   	
+	position: relative;
+    margin-bottom: 0;
+    margin-left: 14px;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+.addinfo table{
+	width: 440px;
+    border-top:1px solid #663300;
+    border-left:1px solid #663300;
+    border-collapse:collapse;
+    border-spacing:0;
+    background-color:#ffffff;
+    empty-cells:show;
+}
+.addinfo th{
+	width: 150px;
+    border-right:1px solid #663300;
+    border-bottom:1px solid #663300;
+    border-spacing:0;
+    color:#220000;
+    background-color:#996644;
+    background-position:left top;
+    text-align: right;
+}
+.addinfo td{
+	width: 288px;
+	color:#000000;
+    border-right:1px solid #663300;
+    border-bottom:1px solid #663300;
+    background-color:#EEDDDD;    
+    border-spacing:0;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.pindex {
+	width: 800px;
+    overflow: visible;
+    text-align: center; 
+    font-size:12px;
+    line-height:1.2;
+    font-family:"Osaka","ＭＳ Ｐゴシック",sans-serif;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+}
+
+.pindex table {
+	margin-left: auto;
+	margin-right: auto;
+}
+ 
+.pindex td {
+	color:#FFFFFF;
+    border-collapse:collapse;
+    border-spacing:0;	
+	text-align: center;
+	vertical-align: middle;
+}
+
+.img_item {
+    position: relative;
+    z-index: 0;
+    top: 0px;
+    left: 0px;
+    border: none;
+}
+
+.img_itype {
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+    border: none;
+}
+
+.img_igrade {
+    position: absolute;
+    z-index: 2;
+    bottom: 0px;
+    left: 21px;
+    border: none;
+}
+
+div#s_result {
+	color: #FFFFFF;
+    font-size:12px;
+    line-height:1.2;
+    margin: 0 30px;	
+}
+
+.main {
+	width: 800px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.frame {
+	width: 800px;
+	font-size: 80%;
+	text-align: center;
+	border-style:outset;
+	border-width: 5px;
+	border-color:#907050;
+    margin-left: auto;
+	margin-right: auto;			
+}
+
+div#fhead {
+	color: #DDDDDD;
+	background-color: #7e5e3e;
+}
+
+div#fbody {
+	color: #FFFFFF;
+	text-align: left;
+    padding: 10px 10px 10px 10px;
+}
+
+p.pagetop {
+	text-align: right;
+ 	margin: 1em 3em;
+	font-size: 75%;
+}
+
+
+br { letter-spacing : normal; }
+

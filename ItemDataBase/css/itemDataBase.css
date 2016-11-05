@@ -1,0 +1,395 @@
+﻿/* ******************************************* *
+ *                  default              
+ * ******************************************* */
+body {
+    margin: 0px;
+    padding: 0px;
+    color: #ffffff;
+    background-color: #000000;
+    font-family: 'MS PGothic', sans-serif;
+    width: 100%;
+    height: 100%;
+    overflow-y: hidden;
+}
+
+br { 
+    letter-spacing : normal;
+}
+
+a {
+  	color: #cb6500;
+  	text-decoration: none;
+}
+
+table, tr, th, td {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* ******************************************* *
+ *            jPages holder style              
+ * ******************************************* */
+.holder {
+    margin:15px 0;
+}
+.holder a {
+    font-size: 75%;
+    margin: 0 5px;
+    color: #ffffff;
+    opacity: 0.7;
+    cursor: default;
+}
+.holder a:hover {
+    opacity: 1.0;
+}
+.holder a:active {
+    color: #ffffff;
+    text-shadow: 0 0 0.13em rgba(255, 255, 255, 1.0);
+}
+.holder a.jp-previous {
+    margin-right:15px;
+}
+.holder a.jp-next {
+    margin-left:15px;
+}
+.holder a.jp-current,a.jp-current:hover {
+    color: #ff4242;
+    font-weight: bold;
+    opacity: 1.0;
+}
+.holder a.jp-current,a.jp-current:active {
+    text-shadow: none;
+}
+.holder a.jp-disabled,a.jp-disabled:hover {
+    color: #bbbbbb;
+}
+.holder a.jp-current,a.jp-current:hover,.holder a.jp-disabled,a.jp-disabled:hover {
+    cursor: default;
+}
+.holder span {
+    margin: 0 5px;
+}
+
+
+/* ******************************************* *
+ *          itemDataBase base style             
+ * ******************************************* */
+.frame {
+	border-style: outset;
+	border-width: 5px;
+	border-color: #980202;
+	font-size: 80%;
+}
+.frame .frame-head {
+	color: #dddddd;
+	background-color: #901030;
+    text-align: center;
+    line-height: 1.4;
+}
+.frame .frame-body {
+    padding: 10px 10px 10px 10px;
+	text-align: left;
+}
+
+.show {
+    display: block;
+}
+.hide {
+    display: none;
+}
+.background-image {
+    background-image: url("../../MainInterface/back_1.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width : 100%;
+    height: 100%;
+    opacity: 0.45;
+    z-index: -1;
+}
+
+.Yotsuba.itemDataBase {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width : 100%;
+    height: 100%;
+    overflow-y: auto;
+}
+.Yotsuba.itemDataBase .mainContainer {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 1.0;
+}
+.Yotsuba.itemDataBase .mainContainer header[role=banner] {
+
+}
+.Yotsuba.itemDataBase .mainContainer header[role=banner] .content-title {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-family: 'Levenim MT';
+}
+.Yotsuba.itemDataBase .mainContainer header[role=banner] .search-form {
+    padding: 10px 10px 0px 12px;
+}
+.Yotsuba.itemDataBase .mainContainer header[role=banner] .search-form input {
+    width: 230px;
+}
+.Yotsuba.itemDataBase .mainContainer header[role=banner] .search-form button {
+    margin-left: 15px;
+}
+
+.Yotsuba.itemDataBase .mainContainer section[role=main] {
+}
+.Yotsuba.itemDataBase .mainContainer section[role=main] .status {
+    margin-top: 10px;
+    font-size: 80%;
+    text-align: center;
+}
+.Yotsuba.itemDataBase .mainContainer section[role=main] .search-result {
+    font-size: 80%;
+    text-align: center;
+}
+
+.Yotsuba.itemDataBase .mainContainer section[role=main] .header-index {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.Yotsuba.itemDataBase .mainContainer section[role=main] .header-index .holder,
+.Yotsuba.itemDataBase .mainContainer section[role=main] .footer-index .holder {
+    text-align: center;
+}
+
+.Yotsuba.itemDataBase .mainContainer section[role=main] .frame .frame-body {
+    padding: 0px;
+}
+.Yotsuba.itemDataBase .mainContainer section[role=main] .tooltip-frame {
+    width: 320px;
+}
+
+.Yotsuba.itemDataBase .mainContainer footer[role=banner] .page-top {
+    margin-top: 1em;
+    margin-bottom: 1em;
+ 	margin-right: 1em;
+	text-align: right;
+	font-size: 75%;
+}
+.Yotsuba.itemDataBase .mainContainer footer[role=banner] .page-top span {
+    color: rgb(250, 220, 50);
+    opacity: 0.8;
+    cursor: default;
+}
+.Yotsuba.itemDataBase .mainContainer footer[role=banner] .page-top span:hover {
+    opacity: 1.0;
+}
+.Yotsuba.itemDataBase .mainContainer footer[role=banner] .page-top span:active {
+    text-shadow: 0 0 0.13em rgba(250, 220, 50, 1.0);
+}
+
+.Yotsuba.itemDataBase .mainContainer footer[role=banner] .copyright {
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 70%;
+}
+
+
+/* ******************************************* *
+ *             item Details style             
+ * ******************************************* */
+.main-table {
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    font-family: 'MS PGothic', sans-serif;
+}
+.main-table td {
+	text-align: left;
+	vertical-align: bottom;
+}
+.main-table .item-tooltip {
+    font-size: 13px;
+    line-height: 1.2;
+    overflow: visible;
+}
+.main-table .item-tooltip table,
+.main-table .item-tooltip table tr,
+.main-table .item-tooltip table td {
+    color: #ffffff;
+    margin: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+}
+.main-table .item-tooltip .tooltip-frame .frame-topleft {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_topleft.gif");
+    background-position: 0px 0px;
+    background-size: auto auto;
+    background-repeat: no-repeat;
+    height: 7px;
+    width: 7px;
+}
+.main-table .item-tooltip .tooltip-frame .frame-topright {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_topright.gif");
+    background-position: 0px 0px;
+    background-size: auto auto;
+    background-repeat: no-repeat;
+    height: 7px;
+    width: 7px;
+}
+.main-table .item-tooltip .tooltip-frame .frame-bottomleft {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_bottomleft.gif");
+    background-position: 0px 0px;
+    background-size: auto auto;
+    background-repeat: no-repeat;
+    height: 7px;
+    width: 7px;
+}
+.main-table .item-tooltip .tooltip-frame .frame-bottomright {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_bottomright.gif");
+    background-position: 0px 0px;
+    background-size: auto auto;
+    background-repeat: no-repeat;
+    height: 7px;
+    width: 7px;
+}
+.main-table .item-tooltip .tooltip-frame .frame-topcenter {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_top.gif");
+    background-position: 0px 0px;
+    background-size: auto auto;
+    background-repeat: repeat-x;
+    height: 7px;
+}
+.main-table .item-tooltip .tooltip-frame .frame-bottomcenter {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_bottom.gif");
+    background-position: 0px 0px;
+    background-size: auto auto;
+    background-repeat: repeat-x;
+    height: 7px;
+}
+.main-table .item-tooltip .tooltip-frame .frame-centerleft {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_left.gif");
+    background-position: 0px 0px;
+    background-size: auto auto;
+    background-repeat: repeat-y;
+    width: 7px;
+}
+.main-table .item-tooltip .tooltip-frame .frame-centerright {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-color: transparent;
+    background-image: url("../Interface/tooltip_right.gif");
+    background-position: 0px 0px;
+    background-size: auto auto;
+    background-repeat: repeat-y;
+    width: 7px;
+}
+.main-table .item-tooltip .tooltip-frame .frame-content {
+    background-color: #000000;
+}
+
+.frame-content .item-details .item-image {
+    margin: 2px 0 8px 2px;
+    position: relative;
+    width: 34px;
+    height: 34px; 
+}
+.frame-content .item-details .item-image img{
+    position: absolute;
+}
+.frame-content .item-details .item-rank {
+    top: 0px;
+    left: 0px;
+}
+.frame-content .item-details .item-grade {
+    bottom: 1px;
+    right: 1px;  
+}
+.frame-content .item-details .info-tag {
+    margin-top: 8px;
+    color: #00f8f8;
+}
+
+/* ******************************************* *
+ *             info table style             
+ * ******************************************* */
+.main-table .item-information {
+    margin-left: 14px;
+    font-size: 12px;
+    line-height: 1.6;
+}
+.main-table .item-information table {
+    border-collapse: collapse;
+    border-spacing: 0;
+	width: 520px;
+}
+.main-table .item-information table th {
+    border-left: 1px solid #701010;
+    border-right: 1px solid #701010;
+    border-top: 1px solid #701010;
+    border-bottom: 1px solid #701010;
+    border-spacing: 0;
+    color: #ffffff;
+    background-color: #501010;
+    text-align: right;
+	vertical-align: middle;
+    font-size: 12px;
+    font-weight: 400;
+	width: 170px;
+}
+.main-table .item-information table th div {
+    margin-right: 10px;
+}
+.main-table .item-information table td {
+    border-left: 1px solid #404040;
+    border-right: 1px solid #404040;
+    border-top: 1px solid #404040;
+    border-bottom: 1px solid #404040;
+    border-spacing: 0;
+	color: #dddddd;
+    background-color: #000000; 
+	text-align: left;
+	vertical-align: middle;
+	width: 350px;
+}
+.main-table .item-information table td div {
+    margin-left: 15px;
+}
+.main-table .item-information table td .efficacy-box {
+    width: 100px;
+    border: none;
+    border-radius:2px;
+}
+
